@@ -42,7 +42,7 @@
     ]
   },
 	{
-            "key": "咪咕",
+            "key": "migu",
             "name": "咪咕",
             "type": 4,
             "api": "http://linux.goip.de/tvbox/t/migu.php",
