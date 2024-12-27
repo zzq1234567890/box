@@ -50,6 +50,18 @@
             "quickSearch": 0,
             "changeable": 0
         },	
+
+{
+            "key": "hunanyidong",
+            "name": "湖南移动",
+            "type": 4,
+            "api": "http://linux.goip.de/tvbox/t/hnyd.php",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+
+		
 {
             "key": "4g",
             "name": "4g",
