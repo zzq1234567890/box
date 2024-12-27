@@ -1,0 +1,151 @@
+{
+  "urls": [
+{
+            "name": "米家互联",
+            "url": "https://tv.mpanso.me/DEMO.json"
+     },
+    
+   {
+            "name": "饭太硬1",
+            "url": "http://www.饭太硬.com/tv"
+     },
+          {
+            "name": "饭太硬2",
+            "url":"http://fty.xxooo.cf/tv"
+            
+          },
+          {
+            "name": "饭太硬3",
+            "url": "http://fty.888484.xyz/tv"
+            
+          },
+          {
+            "name": "饭太硬4",
+            "url": "http://fty.333232.xyz/tv"
+    
+          },
+          
+
+
+{
+            "name": "唐三",
+            "url": "https://tang.hz.cz/api/user?token=d710cb29"
+},
+{
+            "name": "没事",
+            "url": "http://z.yuer.cool/tvbox/ethan/t.json"
+},
+         
+   {
+            "name": "没事备用",
+            "url": " http://z.yuer.cool/tvbox/t.json"
+},
+    
+    {
+            "name": "D佬",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/D佬.txt"
+          },
+          {
+            "name": "OK",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/OK.txt"
+          },
+          {
+            "name": "PG",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/PG.txt"
+          },
+          {
+            "name": "云星日记",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/云星日记.txt"
+          },
+          {
+            "name": "俊佬", 
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/俊佬.txt"
+          },
+          {"name": "南风", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/南风.txt"},
+          {"name": "吾爱", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/吾爱.txt"},
+          {"name": "天天开心", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/天天开心.txt"},
+          {"name": "小米", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/小米.txt"},
+          {"name": "小马", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/小马.txt"},
+          {"name": "巧技", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/巧技.txt"},
+          {"name": "摸鱼", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/摸鱼.txt"},
+          {"name": "放牛", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/放牛.txt"},
+          {"name": "月光", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/月光.txt"},
+          {"name": "游魂云盘2", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/游魂云盘2.txt"},
+          {"name": "游魂学习3", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/游魂学习3.txt"},
+          {"name": "游魂家庭1", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/游魂家庭1.txt"},
+          {"name": "盒子迷", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/盒子迷.txt"},
+          {"name": "老刘备", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/老刘备.txt"},
+          {"name": "肥猫", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/肥猫.txt"},
+          {"name": "荷城茶秀", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/荷城茶秀.txt"},
+          {"name": "饭太硬", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/饭太硬.txt"},
+          {"name": "香雅情", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/香雅情.txt"},
+    
+  {
+
+    "url": "https://raw.githubusercontent.com/zzq12345/pg/main/jsm.json",
+        "name": "pg大佬"
+    },
+
+{
+    "url": "https://9280.kstore.space/wex.json",
+    "name": "王二小放牛"
+    },
+   {
+    "url": "https://tang.hz.cz/api/user?token=d710cb29",
+    "name": "唐三"
+    },
+   {
+    "url":  "https://肥猫.com",
+     "name": "肥猫接口1"
+   },
+    {
+    "url":  "https://like.肥猫.com/PandaQ",
+     "name": "肥猫接口2"
+     },
+    {
+    "url":  "http://www.饭太硬.com/tv",
+    "name": "饭太硬接口"
+    },
+    {
+    "url":  "http://www.mpanso.com/小米/DEMO.json",
+    "name": "小米接口"
+     },
+     {
+    "url":  "http://bp.tvbox.cam",
+     "name": "白嫖接口"
+   },
+   {
+    "url":  "http://itvbox.cc/云星日记",
+    "name": "  云星接口"
+   },
+    
+    {
+      "url": "https://raw.githubusercontent.com/zzq12345/jiemuyuan/main/jsm.json",
+      "name": "适合境外"
+    },
+    {
+      "url": "./0821.json",
+      "name": "高天流云 No.1"
+    },
+    {
+      "url": "./0825.json",
+      "name": "高天流云 PG"
+    },
+    {
+      "url": "./0826.json",
+      "name": "高天流云 FTY"
+    },
+    {
+      "url": "./js.json",
+      "name": "高天流云 JS"
+    },
+    {
+      "url": "./XYQ.json",
+      "name": "高天流云 XYQ"
+    },
+    {
+      "url": "https://anbox118.serv00.net/livetv.php",
+      "name": "张翰直播"
+    }
+  ]
+}
