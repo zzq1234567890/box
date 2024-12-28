@@ -104,13 +104,21 @@
             "quickSearch": 0,
             "changeable": 0
         },
-
+{
+            "key": "heimuer2",
+            "name": "kktv",
+            "type": 4,
+            "api": "http://z.yuer.cool/tvbox/ethan/hmr.php",
+            "searchable": 4,
+            "quickSearch": 0,
+            "changeable": 0
+        },
 		
         {
             "key": "kktv",
             "name": "kktv",
             "type": 4,
-            "api": "http://z.yuer.cool/tvbox/ethan/kktv.php",
+            "api": "http://z.yuer.cool/tvbox/ethan/kktvv.php",
             "searchable": 4,
             "quickSearch": 0,
             "changeable": 0
