@@ -1,47 +1,40 @@
 {
   "urls": [
-    {
+         {
             "name": "米家互联",
             "url": "https://tv.mpanso.me/DEMO.json"
-     },
-    
-   {
+         },
+         {
             "name": "饭太硬1",
             "url": "http://www.饭太硬.com/tv"
-     },
+          },
           {
             "name": "饭太硬2",
             "url":"http://fty.xxooo.cf/tv"
-            
           },
           {
             "name": "饭太硬3",
             "url": "http://fty.888484.xyz/tv"
-            
           },
           {
             "name": "饭太硬4",
             "url": "http://fty.333232.xyz/tv"
-    
           },
-          
-
-
-{
+          {
             "name": "唐三",
             "url": "https://tang.hz.cz/api/user?token=d710cb29"
-},
-{
+          },
+          {
             "name": "没事",
             "url": "http://z.yuer.cool/tvbox/ethan/t.json"
-},
+           },
          
-   {
+          {
             "name": "没事备用",
             "url": " http://z.yuer.cool/tvbox/t.json"
-},
+          },
     
-    {
+          {
             "name": "D佬",
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/D佬.txt"
           },
@@ -49,10 +42,8 @@
             "name": "OK",
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/OK.txt"
           },
-          {
-            "name": "PG",
-            "url": "https://raw.githubusercontent.com/fish2018/ol/main/PG.txt"
-          },
+          
+          
           {
             "name": "云星日记",
             "url": "https://raw.githubusercontent.com/fish2018/ol/main/云星日记.txt"
