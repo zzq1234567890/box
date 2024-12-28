@@ -31,7 +31,15 @@
   ],
   "sites": [
 
-                
+              {
+            "key": "4g",
+            "name": "4g",
+            "type": 4,
+            "api": "http://linux.goip.de/tvbox/t/4g.php",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        },  
 
         {
             "key": "农夫与少妇",
