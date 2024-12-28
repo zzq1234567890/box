@@ -50,8 +50,16 @@
             "quickSearch": 0,
             "changeable": 0
         },	
-
-{
+        {
+            "key": "短剧go",
+            "name": "短剧go",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net:5052",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
             "key": "hunanyidong",
             "name": "湖南移动",
             "type": 4,
@@ -62,7 +70,7 @@
         },
 
 		
-{
+        {
             "key": "4g",
             "name": "4g",
             "type": 4,
@@ -73,7 +81,7 @@
         },
 
 		
-{
+        {
             "key": "kktv",
             "name": "kktv",
             "type": 4,
@@ -83,7 +91,7 @@
             "changeable": 0
         },
 
-{
+         {
             "key": "ofiii",
             "name": "ofiii",
             "type": 4,
@@ -93,7 +101,7 @@
             "changeable": 0
         },
 
-{
+       {
             "key": "4gtv",
             "name": "4gtv",
             "type": 4,
