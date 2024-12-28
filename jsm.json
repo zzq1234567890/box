@@ -59,6 +59,31 @@
             "quickSearch": 0,
             "changeable": 0
         },
+
+	{
+            "key": "油管播放列表1",
+            "name": "油管播放列表1",
+            "type": 4,
+            "api": "http://zhangqun66.com/ytlb.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "油管播放列表2",
+            "name": "油管播放列表2",
+            "type": 4,
+            "api": "http://zhangqun66.com/ytlb1.php",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
         {
             "key": "hunanyidong",
             "name": "湖南移动",
