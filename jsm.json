@@ -2144,7 +2144,7 @@
 				"url": "./guonei.txt",
 				"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
 				##"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                                 "logo": "https://epg.112114.xyz/logo/{name}.png",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
 			         
                               },
                       {
