@@ -40,7 +40,26 @@
             "quickSearch": 0,
             "changeable": 0
         },  
+{
+            "key": "kktv",
+            "name": "kktv",
+            "type": 4,
+            "api": "http://z.yuer.cool/tvbox/ethan/kktv.php",
+            "searchable": 4,
+            "quickSearch": 0,
+            "changeable": 0
+        },
 
+	          
+{
+            "key": "kktv",
+            "name": "kktv",
+            "type": 4,
+            "api": "http://z.yuer.cool/tvbox/ethan/hmr.php",
+            "searchable": 4,
+            "quickSearch": 0,
+            "changeable": 0
+        },
         {
             "key": "农夫与少妇",
             "name": "🔞 农夫与少妇",
