@@ -3426,9 +3426,9 @@ http://127.0.0.1:8081/huanyutaiwan.php
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台
 http://127.0.0.1:8081/huanyunews1.php
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台灣台
-http://127.0.0.1:8081/huanyunews.php?id=1
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台
 http://127.0.0.1:8081/huanyunews.php?id=2
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台
+http://127.0.0.1:8081/huanyunews.php?id=1
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台
 http://127.0.0.1:8081/huanyunews.php?id=3
 #EXTINF:-1 tvg-id="litv-longturn23" tvg-name="寰宇財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn23_mobile.png" group-title="youtube中文新闻",寰宇財經台
