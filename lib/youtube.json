@@ -309,7 +309,6 @@
 					{"n":"哔哩","v":"@madebybilibili  哔哩动漫"},
 					{"n":"腾讯","v":"@TencentVideoAnimation SUB"},
 					{"n":"优酷","v":"@youkuanimation 优酷动漫"},
-					{"n":"3D國漫工廠","v":"@3DGuoman 3D國漫工廠"},
 					{"n":"爱奇艺","v":"@iQIYIAnime 爱奇艺动漫"},
                                       
 
@@ -582,7 +581,9 @@
 					{"n":"芒果","v":"芒果TV 动漫"},
 					{"n":"搜狐","v":"搜狐 动漫"},
 					{"n":"华数","v":"华数 动漫"},
-					{"n":"港台","v":"港台 动漫"},
+					{"n":"大陆","v":"大陆 动漫"},
+					{"n":"3D國漫工廠","v":"@3DGuoman 3D國漫工廠"},
+					
 					{"n":"美国","v":"美国 Full Episode 完整动漫"},
 					{"n":"Netflix","v":"Netflix Full Episode 完整动漫"},
 					{"n":"Disney","v":"disney Full Episode 完整动漫"},
