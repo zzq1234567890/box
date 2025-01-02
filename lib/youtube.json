@@ -303,13 +303,8 @@
 					{"n":"小猪佩奇","v":"@PeppaPigChineseOfficial 小猪佩奇 中文官方 - Peppa Pig"},
 					{"n":"CoComelon","v":"@CoComelon"},
 					{"n":"合集","v":"Anime ENG SUB 合集"},
-					{"n":"国漫社","v":"@Animation  次元 苍穹动漫 PP看动漫 公馆"},
-					{"n":"国漫工厂","v":"@3DGuoman  SUB"},
-					{"n":"阅文动漫","v":"@yuewenanimation  SUB"},
-					{"n":"哔哩","v":"@madebybilibili  哔哩动漫"},
-					{"n":"腾讯","v":"@TencentVideoAnimation SUB"},
-					{"n":"优酷","v":"@youkuanimation 优酷动漫"},
-					{"n":"爱奇艺","v":"@iQIYIAnime 爱奇艺动漫"},
+					
+					{"n":"爱奇艺","v":"@iQIYIAnime 爱奇艺动漫"}
                                       
 
 					
@@ -452,7 +447,7 @@
 					{"n":"八大劇樂部","v":"@gtv-drama"},
 					{"n":"三立華劇","v":"@SETdrama"},
 					{"n":"三立台劇","v":"@setdramatw"},
-                                                                                        {"n":"華視戲劇","v":"@cts_drama"},
+                                        {"n":"華視戲劇","v":"@cts_drama"},
 					{"n":"龍華電視","v":"@ltv_tw"},
 					{"n":"中視經典戲劇","v":"@ctvdrama_classic"},
 					{"n":"国剧放映社","v":"国剧放映社"},
@@ -572,7 +567,12 @@
 				"name":"中文",
 				"value":[
 					{"n":"默認","v":""},
-					{"n":"華語熱播電視劇官方頻道","v":"華語熱播電視劇官方頻道"},
+					{"n":"国漫社","v":"@Animation  次元 苍穹动漫 PP看动漫 公馆"},
+					{"n":"国漫工厂","v":"@3DGuoman  SUB"},
+					{"n":"阅文动漫","v":"@yuewenanimation  SUB"},
+					{"n":"哔哩","v":"@madebybilibili  哔哩动漫"},
+					{"n":"腾讯","v":"@TencentVideoAnimation SUB"},
+					{"n":"优酷","v":"@youkuanimation 优酷动漫"},
 					{"n":"大陆","v":"大陆 动漫"},
 					{"n":"腾讯","v":"腾讯 动漫"},
 					{"n":"爱奇艺","v":"爱奇艺 动漫"},
