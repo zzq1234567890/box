@@ -1,7 +1,42 @@
 {
 	"spider":"./pg.jar",
 	"sites":[	
-    {
+   {
+			"key": "网盘配置",
+			"name": "网盘及彈幕配置",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+			"changeable": 0,
+			"ext":"./lib/tokenm.json",
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			}
+		},
+	{
+			"key":"Youtube",
+			"name":"Youtube使用前去网盘设置选第一个",
+			"type":3,
+			"api": "csp_Youtube",
+                        "ua": "19.29.1 (iPhone16,2; U; CPU iOS 17_5_1 like Mac OS X;)",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"timeout": 60,
+			"ext":{
+				"json":"./lib/youtube.json",
+				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+				"codecs":"",
+				"proxy":"noproxy"
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			}
+		},		
+		{
     "key": "黑木",
     "name": "黑木",
     "type": 1,
@@ -399,28 +434,7 @@
             "changeable": 1
         },	
 		
-		{
-			"key":"Youtube",
-			"name":"Youtube使用前去网盘设置选第一个",
-			"type":3,
-			"api": "csp_Youtube",
-                        "ua": "19.29.1 (iPhone16,2; U; CPU iOS 17_5_1 like Mac OS X;)",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"timeout": 60,
-			"ext":{
-				"json":"./lib/youtube.json",
-				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-				"codecs":"",
-				"proxy":"noproxy"
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.5
-			}
-		},	
+		
                  {
 			"key": "快看",
 			"name": "快看",
