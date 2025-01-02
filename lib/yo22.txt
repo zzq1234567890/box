@@ -1,5 +1,5 @@
 新聞,#genre#
-人生清洁员,https://livecdn9.ptsplus.tv/pts-FastTV-A/1.m3u8
+
 8 world,https://www.youtube.com/watch?v=RvSOIM620bA
 鳳凰衛視資訊台,https://m.youtube.com/watch?v=HFib76ySpbU&pp=ygUM6bOz5Yew6KGb6KaW
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
@@ -60,7 +60,17 @@ TVBS海外,https://m.youtube.com/watch?v=hP6_jfCFxyQ
 
 CCTV-4國際,https://m.youtube.com/watch?v=twhG7_jvA8g&pp=ygUFQ2N0djQ%3D
 東森新聞 CH51,https://www.youtube.com/watch?v=V1p33hqPrUk
-
+中文連續劇,#genre#
+人生清洁员,https://livecdn9.ptsplus.tv/pts-FastTV-A/1.m3u8
+緬懷瓊瑤女士,https://www.youtube.com/watch?v=vdGQsHqYvlo
+包青天 LIVE,https://www.youtube.com/watch?v=ZB3VOEZE3zo
+我的老師叫小賀‧,https://www.youtube.com/watch?v=6CQZxYpW9q4
+藍色水玲瓏,https://www.youtube.com/watch?v=rTcTVZBZtYs
+廉政英雄,https://www.youtube.com/watch?v=b35xJXmJ-8I
+新兵日記,https://www.youtube.com/watch?v=032kEdR9Lic
+微笑PASTA,https://www.youtube.com/watch?v=F1jOmtdW1wA
+王子變青蛙,https://www.youtube.com/watch?v=zd0g55J4v1g
+三國,https://www.youtube.com/watch?v=H5CZX_YltSw
 
 臨時直播,#genre#
 我的老師叫小賀,https://www.youtube.com/watch?v=6CQZxYpW9q4
