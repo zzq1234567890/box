@@ -942,7 +942,7 @@
 				"value":[
 					{"n":"地區🎶排序","v":"歷史記錄片 地球記錄片 宇宙記錄片 海洋記錄片 戰爭記錄片 大自然生存記錄片"},
 					{"n":"默认","v":"documentary"},
-					{"n":"CCTV纪录","v":"@CCTVDocumentary/playlists"},
+					{"n":"CCTV纪录","v":"@CCTVDocumentary"},
 					{"n":"BBC纪录片","v":"BBC 纪录片"},
 					{"n":"国家地理","v":"国家地理 纪录片"},
 					{"n":"Netflix纪录片","v":"netflix 纪录片"},
