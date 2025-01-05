@@ -31,7 +31,7 @@
 			"type_name":"電影"
 		},
                 {
-			"type_id":"LIST:政論,觀點,Yahoo風向,全球大視野,郭正亮頻道,岑永康",
+			"type_id":"LIST:政論,觀點,Yahoo風向,全球大視野,環球大戰線,郭正亮頻道,岑永康",
 			"type_name":"政論"
 		},
 				
@@ -402,9 +402,9 @@
 					{"n":"觀點","v":"@觀點"},
 					{"n":"Yahoo風向","v":"@YahooTWlisten"},
 					{"n":"全球大視野","v":"@全球大視野Global_Vision"},
+					{"n":"環球大戰線","v":"@Global-vision-talk"},
 					{"n":"郭正亮頻道","v":"@Guovision-TV"},
-					{"n":"岑永康","v":"@cyk33
-"}
+					{"n":"岑永康","v":"@cyk33"}
 				]
 			}
 		],
