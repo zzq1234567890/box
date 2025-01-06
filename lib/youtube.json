@@ -22,7 +22,7 @@
 			"type_name":"綜藝"
 		},
 		{
-			"type_id":"LIST:紀錄片,CCTV纪录,CCTV科教,历史纪录片,自然纪录片,宇宙纪录片",
+			"type_id":"LIST:紀錄片,CCTV纪录,CCTV科教,National Geographic,历史纪录片,自然纪录片,宇宙纪录片",
 			"type_name":"紀錄片"
 		},
 				
@@ -962,7 +962,7 @@
 				]
 			}
 		],
-		"LIST:紀錄片,CCTV纪录,CCTV科教,历史纪录片,自然纪录片,宇宙纪录片":[
+		"LIST:紀錄片,CCTV纪录,CCTV科教,National Geographic,历史纪录片,自然纪录片,宇宙纪录片":[
 			{
 				"key":"time",
 				"name":"時間",
@@ -1064,6 +1064,7 @@
 				"key":"tid",
 				"name":"English",
 				"value":[
+					{"n":"National Geographic","v":"@natgeo"},
 					{"n":"History","v":"Full history documentary"},
 					{"n":"WILD","v":"Full wild documentary"},
 					{"n":"Earch","v":"Full earth documentary"},
