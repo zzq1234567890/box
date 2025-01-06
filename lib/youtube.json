@@ -22,7 +22,7 @@
 			"type_name":"綜藝"
 		},
 		{
-			"type_id":"LIST:紀錄片,CCTV纪录,CCTV科教,National Geographic,历史纪录片,自然纪录片,宇宙纪录片",
+			"type_id":"LIST:紀錄片,CCTV纪录,CCTV科教,公視+,National Geographic,Kevin_YOLO,Nat Geo Animals,BBC Earth,Top Travel,National Geographic India,BBC Earth Science,历史纪录片,自然纪录片,宇宙纪录片",
 			"type_name":"紀錄片"
 		},
 				
@@ -962,7 +962,7 @@
 				]
 			}
 		],
-		"LIST:紀錄片,CCTV纪录,CCTV科教,National Geographic,历史纪录片,自然纪录片,宇宙纪录片":[
+		"LIST:紀錄片,CCTV纪录,CCTV科教,公視+,National Geographic,Kevin_YOLO,Nat Geo Animals,BBC Earth,Top Travel,National Geographic India,BBC Earth Science,历史纪录片,自然纪录片,宇宙纪录片":[
 			{
 				"key":"time",
 				"name":"時間",
@@ -1045,6 +1045,14 @@
 					{"n":"默认","v":"documentary"},
 					{"n":"CCTV纪录","v":"@CCTVDocumentary"},
 					{"n":"CCTV科教","v":"@cctvscienceandeducation"},
+					{"n":"Top Travel","v":"@toptravel_yt"},
+					{"n":"公視+","v":"@ptsplus"},
+					{"n":"National Geographic","v":"@natgeo"},
+                                        {"n":"Kevin_YOLO","v":"@kevin_yolo"},
+                                        {"n":"Nat Geo Animals","v":"@natgeoanimals"},
+                                        {"n":"BBC Earth","v":"@bbcearth"},
+                                        {"n":"National Geographic India","v":"@natgeoindia"},
+                                        {"n":"BBC Earth Science","v":"@bbcearthscience"},
 					{"n":"BBC纪录片","v":"BBC 纪录片"},
 					{"n":"国家地理","v":"国家地理 纪录片"},
 					{"n":"Netflix纪录片","v":"netflix 纪录片"},
