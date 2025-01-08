@@ -1861,6 +1861,17 @@
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 	                  
 			},    
+			{
+				"name": "墙外综合YouTubeLive",
+				 "ua": "okhttp/3.0",
+	                         "playerType": 2,
+                                 "url": "https://raw.githubusercontent.com/zzq1234567890/epgtest2/refs/heads/main/youtubelive.m3u",
+				 "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+			
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+	                  
+			},    
+
 
 					{
 				"name": "judy",
