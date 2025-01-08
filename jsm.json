@@ -1875,9 +1875,10 @@
 
 					{
 				"name": "judy",
-				 "ua": "okhttp/3.12",
+				 "ua": "judy/5.2.0",
 	                         "playerType": 2,  
-	                         "url":"https://www.mytvsuper.com.mp/m3u/Live.m3u",
+				"url":"://www.mytvsuper.com.mp/m3u/judy.m3u",
+	                        ## "url":"https://www.mytvsuper.com.mp/m3u/Live.m3u",
 			        ####"epg": "https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgastro.xml,https://raw.githubusercontent.com/zzq12345/tvepg/main/epgshanghai.xml,https://raw.githubusercontent.com/zzq12345/tvepg/main/112114.xml,https://raw.githubusercontent.com/zzq12345/tvepg/main/epgmytvsuper.xml,https://raw.githubusercontent.com/zzq12345/tvepg/main/epg4gtv2.xml,https://raw.githubusercontent.com/zzq12345/tvepg/main/epganywhere.xml,https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgpixman.xml",	
 	                          "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
 		
