@@ -43,7 +43,7 @@ TTV LIVE 台視直播,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 民視新聞網 Formosa TV News network,https://www.youtube.com/watch?v=ylYJSBUgaMA
 新唐人亞太電視台NTDAPTV,https://www.youtube.com/watch?v=WIhgU_mc05A
 57東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
-中天電視,https://www.youtube.com/watch?v=oIgbl7t0S_w
+
 國會頻道,https://www.youtube.com/watch?v=4HysYHJ6GkY
 三立LIVE新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -58,7 +58,7 @@ TVBS海外,https://m.youtube.com/watch?v=hP6_jfCFxyQ
 國會頻道,https://www.youtube.com/watch?v=yUx5lB4mhZk
 國會頻道,https://www.youtube.com/watch?v=tDg3bJFYLzI
 
-CCTV-4國際,https://m.youtube.com/watch?v=twhG7_jvA8g&pp=ygUFQ2N0djQ%3D
+
 東森新聞 CH51,https://www.youtube.com/watch?v=V1p33hqPrUk
 中文連續劇,#genre#
 人生清洁员,https://livecdn9.ptsplus.tv/pts-FastTV-A/1.m3u8
