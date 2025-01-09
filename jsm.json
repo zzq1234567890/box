@@ -2173,12 +2173,10 @@
 	                
 			{
 				"name": "国内",
-				"type": 0,
-				"playerType": 2,
 				"url": "./guonei.txt",
+				"playerType": 2,
 				"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-				##"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
 			         
                               },
                       {
