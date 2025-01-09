@@ -1,7 +1,7 @@
 {
 	"spider":"./pg.jar",
 	"sites":[	
-  {
+                {
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
 			"type": 3,
@@ -14,7 +14,7 @@
 				"ratio": 1.5
 			}
 		},
-	{
+	        {
 			"key":"Youtube",
 			"name":"Youtube",
 			"type":3,
@@ -37,10 +37,10 @@
 			}
 		},		
 		{
-    "key": "黑木",
-    "name": "黑木",
-    "type": 1,
-    "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
+                  "key": "黑木",
+                  "name": "黑木",
+                  "type": 1,
+                  "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
     "searchable": 1,
     "changeable": 1,
     "categories": [
