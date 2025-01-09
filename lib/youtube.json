@@ -1044,7 +1044,7 @@
 				"name":"中文",
 				"value":[
 					{"n":"地區🎶排序","v":"歷史記錄片 地球記錄片 宇宙記錄片 海洋記錄片 戰爭記錄片 大自然生存記錄片"},
-					{"n":"默认","v":"documentary"},
+					
 					{"n":"亞洲旅遊台","v":"@asiatravel-tv"},
 					{"n":"CCTV纪录","v":"@CCTVDocumentary"},
 					{"n":"CCTV科教","v":"@cctvscienceandeducation"},
@@ -1075,6 +1075,7 @@
 				"key":"tid",
 				"name":"English",
 				"value":[
+					{"n":"默认","v":"documentary"},
 					{"n":"National Geographic","v":"@natgeo"},
 					{"n":"History","v":"Full history documentary"},
 					{"n":"WILD","v":"Full wild documentary"},
