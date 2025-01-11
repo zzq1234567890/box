@@ -3,7 +3,7 @@
 	"sites":[	
                 {
 			"key": "网盘配置",
-			"name": "网盘及彈幕配置",
+			"name": "youtube和网盘設置",
 			"type": 3,
 			"api": "csp_Config",
 			"searchable": 0,
