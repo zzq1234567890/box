@@ -1,5 +1,5 @@
 {
-  "spider": "./fm.jar",
+  "spider": "./pg.jar",
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
   "lives": [
 	{
@@ -31,46 +31,8 @@
   ],
   "sites": [
 
-              {
-            "key": "4g",
-            "name": "4g",
-            "type": 4,
-            "api": "http://linux.goip.de/tvbox/t/4g.php",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0
-        },  
-{
-            "key": "kktv",
-            "name": "kktv",
-            "type": 4,
-            "api": "http://z.yuer.cool/tvbox/ethan/kktv.php",
-            "searchable": 4,
-            "quickSearch": 0,
-            "changeable": 0
-        },
+                
 
-	          
-{
-            "key": "kktv",
-            "name": "kktv",
-            "type": 4,
-            "api": "http://z.yuer.cool/tvbox/ethan/hmr.php",
-            "searchable": 4,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-     {
-      "key": "drpyS_黑料不打烊[密]",
-      "name": "黑料不打烊[密](DS)",
-      "type": 4,
-      "api": "http://drpys.aera.eu.org/api/黑料不打烊[密]",
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
-	  
         {
             "key": "农夫与少妇",
             "name": "🔞 农夫与少妇",
