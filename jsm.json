@@ -1966,7 +1966,8 @@
 				"name": "aptv",
 				 "ua": "okhttp/3.12",
 	                         "playerType": 2,  
-	"url":"https://bit.ly/iptv-aptv",
+	###"url":"https://bit.ly/iptv-aptv",
+				"url":"http://aktv.top/live.m3u",
 			"epg": "https://epg.v1.mk/json?ch={name}&date={date}",	
 	
 		
