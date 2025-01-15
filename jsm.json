@@ -1882,7 +1882,32 @@
 			         "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
 		
                                "logo": "https://epg.112114.xyz/logo/{name}.png"
-		}, 			
+		}, 	
+
+			
+                {
+				"name": "综合直播",
+				 "ua": "judy/5.2.0",
+	                         "playerType": 2,  
+				"url":"https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=736121748393215",
+			         "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+		
+                               "logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+
+                           {
+				"name": "体育直播",
+				 "ua": "judy/5.2.0",
+	                         "playerType": 2,  
+				"url":"https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=736121748393215",
+			         "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+		
+                               "logo": "https://epg.112114.xyz/logo/{name}.png"
+		}, 	
+
+
+
+			
 	{
 				"name": "体育直播",
 				 "ua": "judy/5.2.0",
