@@ -1873,7 +1873,19 @@
 	                  
 			},    
 
-{
+                          {
+				"name": "不知名直播",
+				 "ua": "okhttp/3.0",
+	                         "playerType": 2,
+                                 "url": "https://ballbar.combilolo.workers.dev/",
+				 "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+			
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+	                  
+			},
+			
+
+                         {
 				"name": "bersport体育直播",
 				 "ua": "judy/5.2.0",
 	                         "playerType": 2,  
