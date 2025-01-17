@@ -4227,7 +4227,7 @@ http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv052
 #EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_pc.png" group-title="litv",三立新聞iNEWS
 http://127.0.0.1:8081/ofiii.php?id=iNEWS
 #EXTINF:-1 tvg-id="litv-longturn23" tvg-name="寰宇財經台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_pc.png" group-title="litv",寰宇財經台
-http://127.0.0.1:8081/ofiii.php?id=litv-longturn23
+http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv158
 #EXTINF:-1 tvg-id="litv-longturn14" tvg-name="寰宇新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_pc.png" group-title="litv",寰宇新聞台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn14
 #EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_pc.png" group-title="litv",台視新聞台
