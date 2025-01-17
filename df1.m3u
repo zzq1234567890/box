@@ -4352,7 +4352,7 @@ http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv048
 #EXTINF:-1 tvg-id="4gtv-4gtv056" tvg-name="台視財經台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv056_pc.png" group-title="litv",台視財經台
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv056
 #EXTINF:-1 tvg-id="litv-longturn23" tvg-name="寰宇財經台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_pc.png" group-title="litv",寰宇財經台
-http://127.0.0.1:8081/litvapp.php?id=litv-longturn23
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv158
 
 
 #EXTINF:-1 tvg-id="4gtv-4gtv006" tvg-name="豬哥亮歌廳秀" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv006_pc.png" group-title="litv",豬哥亮歌廳秀
