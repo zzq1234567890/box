@@ -4171,20 +4171,7 @@ https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳門CCTV1
 https://live5.tdm.com.mo/tv/cgtn71/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="民視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民視.png" group-title="港澳台",民視
-http://127.0.0.1:8081/minshi.php?id=4gtv-4gtv002
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="港澳台",民視台灣台
-http://127.0.0.1:8081/minshi.php?id=4gtv-4gtv001
-#EXTINF:-1 tvg-id="litv-ftv07" tvg-name="" tvg-logo="" group-title="港澳台",民視旅遊台
-http://127.0.0.1:8081/minshi.php?id=litv-ftv07
-#EXTINF:-1 tvg-id="100338" tvg-name="民視第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="港澳台",民視第一台
-http://127.0.0.1:8081/minshi.php?id=4gtv-4gtv003
-#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png"  group-title="港澳台",民視新聞台
-http://127.0.0.1:8081/minshi.php?id=litv-ftv13
-#EXTINF:-1 tvg-id="4gtv-4gtv004" tvg-name="民視綜藝台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="港澳台",民視綜藝台
-http://127.0.0.1:8081/minshi.php?id=4gtv-4gtv004
-#EXTINF:-1 tvg-id="litv-ftv09" tvg-name="" tvg-logo="" group-title="港澳台",民視影劇台
-http://127.0.0.1:8081/minshi.php?id=litv-ftv09
+
 #EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv16_mobile.png" group-title="港澳台",好消息
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png" group-title="港澳台",好消息2台
