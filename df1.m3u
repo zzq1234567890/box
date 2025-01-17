@@ -4320,7 +4320,7 @@ http://127.0.0.1:8081/litvapp.php?id=litv-longturn21
 
 #EXTINF:-1 tvg-id="4gtv-4gtv011" tvg-name="影迷數位電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv011_pc.png" group-title="litv",影迷數位電影台
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv011
-#EXTINF:-1 tvg-id="CatchPlay電影台" tvg-name="CatchPlay電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv076_pc.png" group-title="litv",CatchPlay電影台
+#EXTINF:-1 tvg-id="litv-longturn17" tvg-name="亞洲旅遊台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_pc.png" group-title="litv",亞洲旅遊台
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv076
 
 #EXTINF:-1 tvg-id="litv-longturn03" tvg-name="龍華電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_pc.png" group-title="litv",龍華電影台
