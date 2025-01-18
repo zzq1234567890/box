@@ -1,6 +1,10 @@
 {
   "urls": [
-
+    {
+            
+            "name": "fish",
+            "url": "https://www.fish2018.us.kg/p/jsm.json"
+         },
          {
             "name": "jim",
             "url": "https://json.doube.eu.org/t4.php"
