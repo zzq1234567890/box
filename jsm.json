@@ -94,7 +94,29 @@
             "quickSearch": 0,
             "changeable": 0
         },
-
+{
+            "key": "TGDouban",
+            "name": "TG豆瓣",
+            "type": 3,
+            "api": "csp_TGDouban",
+            "timeout": 120,
+                "searchable": 0,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://tg.fish2018.us.kg",
+                "tgsearch_media_url": "http://tg.fish2018.us.kg",
+                "channellist": "tgsearchers,alyp_1,guaguale115,hao115,shareAliyun,Aliyun_4K_Movies,ucpanpan,ucquark,ydypzyfx",
+                "proxy": "noproxy",
+                "douban": "./lib/douban.json",
+                "danmu": false
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 0.7
+            }
+        },
 	{
             "key": "油管播放列表1",
             "name": "油管播放列表1",
