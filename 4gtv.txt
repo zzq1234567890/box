@@ -234,3 +234,9 @@ parse=1
 河北少儿科教,https://web.cmc.hebtv.com/cms/rmt0336/19/19js/st/xdszb/10516511.shtml
 河北旅游公共,https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516512.shtml
 河北三佳购物,https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516513.shtml
+河南电视台,#genre#
+parse=1
+河南卫视,https://static.hntv.tv/kds/#/
+新疆电视台,#genre#
+parse=1
+新疆卫视,https://www.xjtvs.com.cn/column/tv/434
