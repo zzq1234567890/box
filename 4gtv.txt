@@ -226,5 +226,11 @@ parse=1
 广东教育,https://www.gdtv.cn/tvChannelDetail/104
 河北电视台網頁嗅探,#genre#
 parse=1
-河北卫视,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
-河北经济,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
+河北卫视,https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10524916.shtml
+河北经济,https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516507.shtml
+河北农民,https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516508.shtml
+河北都市,https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516509.shtml
+河北影视剧,https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516510.shtml
+河北少儿科教,https://web.cmc.hebtv.com/cms/rmt0336/19/19js/st/xdszb/10516511.shtml
+河北旅游公共,https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516512.shtml
+河北三佳购物,https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516513.shtml
