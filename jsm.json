@@ -1909,7 +1909,7 @@
 				"name": "不知名直播",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
-                                 "url": "https://ballbar.combilolo.workers.dev/",
+                                 "url": "https://raw.githubusercontent.com/mavin521/syiptv/main/sports.m3u",
 				 "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
 			
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1992,7 +1992,7 @@
 				"name": "适合国外",
 				 "ua": "okhttp/3.12",
 	                         "playerType": 2,  
-	"url":"https://raw.githubusercontent.com/mavin521/syiptv/main/live.m3u",
+	                      "url":"https://raw.githubusercontent.com/mavin521/syiptv/main/live.m3u",
 			"epg": "https://epg.v1.mk/json?ch={name}&date={date}",	
 	
 		
