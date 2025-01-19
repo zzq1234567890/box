@@ -203,3 +203,24 @@ parse=1
 911  小兒子-FastTV飛速看,https://www.4gtv.tv/channel/fast-live411?set=1&ch=336
 912  親子一起看-FastTV飛速看,https://www.4gtv.tv/channel/fast-live412?set=1&ch=436
 913  怪獸之王-FastTV飛速看,https://www.4gtv.tv/channel/fast-live413?set=1&ch=438
+广东电视台網頁嗅探,#genre#
+parse=1
+广东卫视,https://www.gdtv.cn/tvChannelDetail/43
+广东珠江,https://www.gdtv.cn/tvChannelDetail/44
+广东新闻,https://www.gdtv.cn/tvChannelDetail/45
+广东民生,https://www.gdtv.cn/tvChannelDetail/48
+广东体育,https://www.gdtv.cn/tvChannelDetail/47
+大湾区卫视,https://www.gdtv.cn/tvChannelDetail/51
+大湾区卫视(海外版),https://www.gdtv.cn/tvChannelDetail/46
+广东影视,https://www.gdtv.cn/tvChannelDetail/53
+4k超高清,https://www.gdtv.cn/tvChannelDetail/16
+广东少儿,https://www.gdtv.cn/tvChannelDetail/54
+嘉禾卡通,https://www.gdtv.cn/tvChannelDetail/66
+岭南戏曲,https://www.gdtv.cn/tvChannelDetail/15
+广东移动,https://www.gdtv.cn/tvChannelDetail/74
+广东荔枝台,https://www.gdtv.cn/tvChannelDetail/100
+广东纪录片,https://www.gdtv.cn/tvChannelDetail/94
+广东健康台,https://www.gdtv.cn/tvChannelDetail/99
+广东文化,https://www.gdtv.cn/tvChannelDetail/75
+广东生活,https://www.gdtv.cn/tvChannelDetail/102
+广东教育,https://www.gdtv.cn/tvChannelDetail/104
