@@ -224,3 +224,7 @@ parse=1
 广东文化,https://www.gdtv.cn/tvChannelDetail/75
 广东生活,https://www.gdtv.cn/tvChannelDetail/102
 广东教育,https://www.gdtv.cn/tvChannelDetail/104
+河北电视台網頁嗅探,#genre#
+parse=1
+河北卫视,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
+河北经济,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
