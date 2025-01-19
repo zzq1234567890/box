@@ -74,8 +74,8 @@
     "重生短剧",
     "港台动漫",
     "日本动漫"
-    ],
-	"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="		
+    ]
+	##"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="		
   },
 	{
             "key": "migu",
