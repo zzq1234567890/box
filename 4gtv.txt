@@ -203,6 +203,18 @@ parse=1
 911  小兒子-FastTV飛速看,https://www.4gtv.tv/channel/fast-live411?set=1&ch=336
 912  親子一起看-FastTV飛速看,https://www.4gtv.tv/channel/fast-live412?set=1&ch=436
 913  怪獸之王-FastTV飛速看,https://www.4gtv.tv/channel/fast-live413?set=1&ch=438
+福建电视台,#genre#
+parse=1
+综合频道,https://live.fjtv.net/zhpd/
+东南卫视,https://live.fjtv.net/setv/
+公共频道,https://live.fjtv.net/ggpd/
+新闻频道,https://live.fjtv.net/xwpd/
+电视剧频道,https://live.fjtv.net/dsjpd/
+旅游频道,https://live.fjtv.net/dspd/
+经视频道,https://live.fjtv.net/jspd/
+文体频道,https://live.fjtv.net/typd/
+少儿频道,https://live.fjtv.net/sepd/
+海峡卫视,https://live.fjtv.net/hxtv/
 广东电视台網頁嗅探,#genre#
 parse=1
 广东卫视,https://www.gdtv.cn/tvChannelDetail/43
