@@ -1,0 +1,54 @@
+{
+    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+    "sites": [
+        {
+            "key": "优酷",
+            "name": "优酷",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/libs/drpy2.min.js",
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/js/优酷.js"
+        },
+        {
+            "key": "腾讯",
+            "name": "腾讯",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/libs/drpy2.min.js",
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/js/腾云驾雾.js"
+        },
+        {
+            "key": "爱奇艺",
+            "name": "爱奇艺",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/libs/drpy2.min.js",
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/js/奇珍异兽.js"
+        },
+        {
+            "key": "芒果tv",
+            "name": "芒果tv",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/libs/drpy2.min.js",
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/js/百忙无果.js"
+        },
+        {
+            "key": "360影视",
+            "name": "360影视",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/libs/drpy2.min.js",
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/js/360影视.js"
+        },
+        {
+            "key": "搜狗",
+            "name": "搜狗",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/libs/drpy2.min.js",
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/js/菜狗.js"
+        }
+    ],
+    "parses": [
+        {
+            "name": "虾米",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        }
+    ]
+}
