@@ -18,7 +18,25 @@
                 "cookie": ""
 		    }  
             },
-	        {
+	        
+		{
+            "key": "py_emby",
+            "name": "🍏EMBY公益服•py",
+            "type": 3,
+            "api": "./py/py_emby.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "server": "http://kr.emby.cyou:8096",
+                "username": "feverss",
+                "password": "",
+                "thread": 0
+            },
+            "changeable": 0
+        },
+		
+		{
 			"key":"Youtube",
 			"name":"Youtube",
 			"type":3,
