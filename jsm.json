@@ -1958,7 +1958,7 @@
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
                                  
-                                 "url": "https://yiwo.hz.cz/pantv/local/happytv.php",
+                                 "url": "./zlive.m3u",
 				 "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
 			
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
