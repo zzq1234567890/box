@@ -1,9 +1,4 @@
-
-
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgmytvsuper.xml,https://raw.githubusercontent.com/zzq1234567890/epgtest2/refs/heads/main/epgmytvsuper.xml,https://raw.githubusercontent.com/zzq1234567890/epgtest2/main/epg4gtv2.xml,https://raw.githubusercontent.com/zzq12345/myepg/refs/heads/main/epgmytvsuper.xml,https://raw.githubusercontent.com/zzq1234567890/epgtest2/refs/heads/main/epgastro.xml,https://raw.githubusercontent.com/zzq1234567890/epgtest2/main/epgshanghai.xml,https://raw.githubusercontent.com/zzq1234567890/epgtest2/main/112114.xml,https://raw.githubusercontent.com/zzq1234567890/epgtest2/main/epgmytvsuper.xml,https://raw.githubusercontent.com/zzq1234567890/epgtest2/main/epganywhere.xml,https://raw.githubusercontent.com/zzq1234567890/epgtest2/refs/heads/main/epgpixman.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-
-
-
 
 #EXTINF:-1 tvg-id="4gtv-live208" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live208_mobile.png" group-title="4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
