@@ -1,41 +1,6 @@
 {
 	"spider":"./pg.jar",
 	"sites":[	
-                {
-            "key": "哔哩",
-            "name": "🅱️B站电影",
-            "type": 3,
-            "api": "csp_Bilimd",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/spider.txt",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "ext": {
-                "cookie": ""
-		    }  
-            },
-	        
-		{
-            "key": "py_emby",
-            "name": "🍏EMBY公益服•py",
-            "type": 3,
-            "api": "./py/py_emby.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "server": "http://kr.emby.cyou:8096",
-                "username": "feverss",
-                "password": "",
-                "thread": 0
-            },
-            "changeable": 0
-        },
-		
 		{
 			"key":"Youtube",
 			"name":"Youtube",
@@ -58,7 +23,51 @@
 				"ratio": 1.5
 			}
 		},
-		
+	{
+		"key": "量子",
+      "name": "量子",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+   "playerType":1,
+   "searchable": 1,
+   "changeable": 1,
+	 #####"ext": "新聞直播#动画片#短劇#劇集#綜藝#紀錄片#電影#體育#动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#苍生局#风光#放松#4K#HDR#movie#经典歌曲#documentary#bbc documentary"
+       "categories": [
+    "国产动漫",
+    "国产剧",
+    "香港剧",
+    "韩国剧",
+    "日本剧",    
+    "剧情片",
+    "动作片",
+    "冒险片",
+    "喜剧片",
+    "奇幻片",
+    "恐怖片",
+    "悬疑剧",
+    "惊悚片", 
+    "灾难片",
+    "爱情片",
+    "犯罪片",
+    "科幻片",
+    "动画电影片",
+    "泰剧",
+    "台剧",
+    "欧美剧",
+    "新马剧",
+    "其他剧",
+    "歌舞剧",       
+    "战争剧",
+    "经典剧",
+    "网络电影",
+    "重生短剧",
+    
+    "港台动漫",
+    "日本动漫"
+      ]
+  
+  },	
 {
   "key": "py_dm84",
   "name": "动漫巴士(T3)",
@@ -211,29 +220,8 @@
             "quickSearch": 0,
             "changeable": 0
         },
-{
-            "key": "TGDouban",
-            "name": "TG豆瓣",
-            "type": 3,
-            "api": "csp_TGDouban",
-            "timeout": 120,
-                "searchable": 0,
-            "ext": {
-                "token": "./lib/tokenm.json",
-                "json": "./lib/tgsearch.json",
-                "keywords": "名称,片名,推荐",
-                "tgsearch_url": "http://tg.fish2018.us.kg",
-                "tgsearch_media_url": "http://tg.fish2018.us.kg",
-                "channellist": "tgsearchers,alyp_1,guaguale115,hao115,shareAliyun,Aliyun_4K_Movies,ucpanpan,ucquark,ydypzyfx",
-                "proxy": "noproxy",
-                "douban": "./lib/douban.json",
-                "danmu": false
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 0.7
-            }
-        },
+
+            
 	{
             "key": "油管播放列表1",
             "name": "油管播放列表1",
@@ -406,52 +394,8 @@
                 "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
             }
         },
-  {
-   
-   "key": "量子",
-      "name": "量子",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-   "playerType":1,
-   "searchable": 1,
-   "changeable": 1,
-	 #####"ext": "新聞直播#动画片#短劇#劇集#綜藝#紀錄片#電影#體育#动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#苍生局#风光#放松#4K#HDR#movie#经典歌曲#documentary#bbc documentary"
-       "categories": [
-    "国产动漫",
-    "国产剧",
-    "香港剧",
-    "韩国剧",
-    "日本剧",    
-    "剧情片",
-    "动作片",
-    "冒险片",
-    "喜剧片",
-    "奇幻片",
-    "恐怖片",
-    "悬疑剧",
-    "惊悚片", 
-    "灾难片",
-    "爱情片",
-    "犯罪片",
-    "科幻片",
-    "动画电影片",
-    "泰剧",
-    "台剧",
-    "欧美剧",
-    "新马剧",
-    "其他剧",
-    "歌舞剧",       
-    "战争剧",
-    "经典剧",
-    "网络电影",
-    "重生短剧",
-    
-    "港台动漫",
-    "日本动漫"
-      ]
   
-  },  
+  
   
 	
 
