@@ -1983,8 +1983,8 @@
 	                  
 			},
 			{
-			        "url": "https://tv.iill.top/m3u/Gather",
-				"name": "Yang1989體育",
+			        "url": "https://www.freetv.top/migu.m3u",
+				"name": "咪咕移动",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
 				 "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
