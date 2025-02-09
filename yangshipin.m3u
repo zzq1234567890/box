@@ -1,7 +1,6 @@
-
-#EXTM3U
-#EXTINF:-1 group-title="央視頻道",CCTV4K超高清
-video://https://www.yangshipin.cn/#/tv/home?pid=600002264
+央视频網頁嗅探,#genre#
+parse=1
+CCTV4K超高清,https://www.yangshipin.cn/#/tv/home?pid=600002264
 #EXTINF:-1 group-title="央視頻道",CCTV1綜合
 video://https://www.yangshipin.cn/#/tv/home?pid=600001859
 #EXTINF:-1 group-title="央視頻道",CCTV2財經
