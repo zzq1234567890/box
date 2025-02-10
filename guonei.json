@@ -759,8 +759,14 @@
             "type": 3,
             "api": "hhttps://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/libs/drpy2.min.js",
             "ext": "https://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/js/菜狗.js"
+        },
+          "parses": [
+        {
+            "name": "虾米",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
         }
-  
+    ]
    
 
       ],
@@ -802,11 +808,5 @@
         "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
 ],
-            "parses": [
-        {
-            "name": "虾米",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        }
-    ]
+          
 }   
