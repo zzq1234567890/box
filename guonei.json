@@ -758,8 +758,8 @@
             "api": "hhttps://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/libs/drpy2.min.js",
             "ext": "https://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/js/菜狗.js"
         }
-              ]
-  },
+              ],
+
           
         "lives": [
     {
@@ -798,5 +798,5 @@
         "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
 ]
-          
+    }        
 
