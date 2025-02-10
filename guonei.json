@@ -770,4 +770,41 @@
     ]
 
       ]
+           "lives": [
+    {
+        "name": "直播频道(电子节目指南/ok平台)",
+        "type": 0,
+        "url": "http://127.0.0.1:9978/proxy?do=节目云&type=liveList",
+        "playerType": 1,
+        "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+        "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+        "name": "皝硋类频道",
+        "type": 0,
+        "url": "http://z.yuer.cool/tvbox/ethan/woniu.txt",
+        "playerType": 1,
+        "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+        "name": "IPV4",
+        "type": 0,
+        "url": "https://ghp.ci/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
+        "playerType": 1,
+        "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+        "name": "IPV6频道",
+        "type": 0,
+        "url": "https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+        "playerType": 1
+    },
+    {
+        "name": "IPV6直播",
+        "type": 0,
+        "url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u",
+        "playerType": 1,
+        "logo": "https://live.fanmingming.com/tv/{name}.png"
+    }
+]
 }   
