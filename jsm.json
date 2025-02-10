@@ -1902,7 +1902,16 @@
 	                  
 			},    
 
-
+                         {
+				"name": "自用",
+				 "ua": "okhttp/3.0",
+	                         "playerType": 2,
+                                 "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
+				 "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+			
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+	                  
+			},
 			
 			{
 				"name": "Yang1989",
