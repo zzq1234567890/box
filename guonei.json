@@ -758,13 +758,7 @@
             "api": "hhttps://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/libs/drpy2.min.js",
             "ext": "https://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/js/菜狗.js"
         },
-          "parses": [
-        {
-            "name": "虾米",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        }
-    ]
+        
    
 
       ],
