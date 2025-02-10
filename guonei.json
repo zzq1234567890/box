@@ -454,7 +454,7 @@
                 "from": "4k|auto"
             }
         },
-       [
+    
     {
         "key": "PanSso",
         "name": "PanSso",
@@ -760,7 +760,7 @@
             "api": "hhttps://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/libs/drpy2.min.js",
             "ext": "https://raw.githubusercontent.com/hjdhnx/dr_py/refs/heads/main/js/菜狗.js"
         }
-    ],
+  
    
 
       ],
