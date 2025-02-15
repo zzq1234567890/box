@@ -1956,16 +1956,8 @@
                                "logo": "https://epg.112114.xyz/logo/{name}.png"
  
             },
-                          {
-				"name": "不知名直播",
-				 "ua": "okhttp/3.0",
-	                         "playerType": 2,
-                                 "url": "https://raw.githubusercontent.com/jedi-sambora/playlist/refs/heads/main/Temp_list",
-				 "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+                          
 			
-                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
-	                  
-			},
 			
 
                          {
@@ -1978,85 +1970,6 @@
 		
                                "logo": "https://epg.112114.xyz/logo/{name}.png"
 		}, 	
-
-			
-                {
-				"name": "综合直播",
-				 "ua": "judy/5.2.0",
-	                         "playerType": 2,  
-				"url":"https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=736121748393215",
-			         "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-		
-                               "logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-
-                           {
-				"name": "体育直播",
-				 "ua": "judy/5.2.0",
-	                         "playerType": 2,  
-				"url":"https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=736121748393215",
-			         "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-		
-                               "logo": "https://epg.112114.xyz/logo/{name}.png"
-		}, 	
-
-                {
-				"name": "央视直播",
-				 "ua": "judy/5.2.0",
-	                         "playerType": 2,  
-				"url":"https://video.mytvsuper.xyz/playlist/yang-shi-wei-shi.m3u?token=736121748393215",
-			         "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-		
-                               "logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-
-
-                                     {
-				"name": "影视轮播",
-				 "ua": "judy/5.2.0",
-	                         "playerType": 2,  
-				"url":"https://video.mytvsuper.xyz/playlist/ying-shi-lun-bo.m3u?token=736121748393215",
-			         "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-		
-                               "logo": "https://epg.112114.xyz/logo/{name}.png"
-		}, 	
-
-             
-                {
-				"name": "mytvsuper安卓",
-				 "ua": "judy/5.2.0",
-	                         "playerType": 2,  
-				"url":"https://video.mytvsuper.xyz/playlist/mytvding-yue-an-zhuo-zhuan-yong.m3u?token=736121748393215",
-			         "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-		
-                               "logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-			
-			
-	{
-				"name": "体育直播",
-				 "ua": "judy/5.2.0",
-	                         "playerType": 2,  
-				"url":"https://www.mytvsuper.com.mp/m3u/judy.m3u",
-	                        ## "url":"https://www.mytvsuper.com.mp/m3u/Live.m3u",
-			         "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-		
-                               "logo": "https://epg.112114.xyz/logo/{name}.png"
- 
-            },  
-
-           {
-				"name": "judy",
-				 "ua": "judy/5.2.0",
-	                         "playerType": 2,  
-				###"url":"https://www.mytvsuper.com.mp/m3u/judy.m3u",
-	                         "url":"https://video.mytvsuper.xyz/m3u/Live.m3u",
-			         "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-		
-                               "logo": "https://epg.112114.xyz/logo/{name}.png"
- 
-            },  
-
 			{
 				"name": "yang1989适合国内",
 				 "ua": "okhttp/3.12",
