@@ -1902,7 +1902,16 @@
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 	                  
 			},    
-
+                            {
+				"name": "df1",
+				 "ua": "okhttp/3.0",
+	                         "playerType": 2,
+                                 "url": "./df1.m3u",
+				 "epg": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml",
+			
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+	                  
+			},
                          {
 				"name": "自用",
 				 "ua": "okhttp/3.0",
