@@ -1,3 +1,6 @@
+推荐影视，下载地址https://raw.githubusercontent.com/FongMi/Release/a840fa87cddba941e5fae5dca2fe28fac12e5b5b/apk/release/leanback-python-armeabi_v7a.apk
+
+
 本EPG节目预告采用xml格式，适合m3u文件的节目预告。 目前包含了 
 
 内地电视台:
