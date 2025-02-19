@@ -1,5 +1,4 @@
 新聞,#genre#
-三立台湾,http://103.147.236.18:7774/play/a00g/index.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 8 world,https://www.youtube.com/watch?v=RvSOIM620bA
 鳳凰衛視資訊台,https://m.youtube.com/watch?v=HFib76ySpbU&pp=ygUM6bOz5Yew6KGb6KaW
