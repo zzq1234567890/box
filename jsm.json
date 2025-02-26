@@ -1908,7 +1908,8 @@
 	                         "playerType": 2,
                                  "url": "./df1.m3u",
 				 "epg": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml",
-			
+		
+###"epg":"https://e.erw.cc/all.xml,https://epg.pw/api/epg.xml?timezone=QXNpYS9Ib25nX0tvbmc%3D&date={date}&channel_id={name}&lang=zh-hans",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 	                  
 			},
