@@ -3947,10 +3947,12 @@ https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",耀才财经台2
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",VIU96
-https://inhouse-stream.viu.tv/out/v1/03302fdd6fd2496a9ec9caa024515310/index.m3u8
+https://inhouse-stream.viu.tv/out/v1/af0b692ac9744e3faf5f7d6918550a54/index.m3u8
+
+
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",VIU99
-https://inhouse-stream.viu.tv/out/v1/af0b692ac9744e3faf5f7d6918550a54/index.m3u8
+https://inhouse-stream.viu.tv/out/v1/03302fdd6fd2496a9ec9caa024515310/index.m3u8
 
 
 
