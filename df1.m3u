@@ -3949,7 +3949,32 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",VIU96
 https://inhouse-stream.viu.tv/out/v1/af0b692ac9744e3faf5f7d6918550a54/index.m3u8
 
-
+#EXTINF:-1 tvg-id="NOW爆谷台" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷台.png" group-title="nowtv测试",Now 爆谷台
+https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="nowtv测试",HBO TV
+https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
+#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch138_160_115" group-title="nowtv测试",Now爆谷星影台
+https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
+#EXTINF:-1 tvg-id="Now 新聞台" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="nowtv测试",Now 新聞台
+https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 英超1台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超1台.png" group-title="nowtv测试",Now Sports 英超1台
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 英超2台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超2台.png" group-title="nowtv测试",Now Sports 英超2台
+https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 英超3台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超3台.png" group-title="nowtv测试",Now Sports 英超3台
+https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 英超4台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超4台.png" group-title="nowtv测试",Now Sports 英超4台
+https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 3" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS3.png" group-title="nowtv测试",Now Sports 3
+https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 4" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS4.png" group-title="nowtv测试",Now Sports 4
+https://dko29we9nm1rd.cloudfront.net/hls/CH634/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 6" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS6.png" group-title="nowtv测试",Now Sports 6
+https://dko29we9nm1rd.cloudfront.net/hls/CH637/index.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-logo="https://epg.112114.xyz/logo/BEINSPORTS2.png" group-title="nowtv测试",beIN SPORTS 2
+https://eventcdn02-nowe.akamaized.net/hls/CH639/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 641" tvg-name="Now Sports 641" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch641_300_216" group-title="nowtv测试", Now Sports 641
+https://eventcdn02-nowe.akamaized.net/hls/CH641/index.m3u8
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",VIU99
 https://inhouse-stream.viu.tv/out/v1/03302fdd6fd2496a9ec9caa024515310/index.m3u8
