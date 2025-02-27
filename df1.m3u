@@ -3946,18 +3946,15 @@ http://127.0.0.1:8081/tvb2.php?id=2
 https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",耀才财经台2
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1   tvg-id="viu6"   tvg-name="viu6"    tvg-logo=""    group-title="港澳台",VIU96
+#EXTINF:-1   tvg-id="viu6"   tvg-name="viu6"    tvg-logo=""    group-title="nowtv测试",VIU96
 https://inhouse-stream.viu.tv/out/v1/af0b692ac9744e3faf5f7d6918550a54/index.m3u8
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",VIU99
+#EXTINF:-1   tvg-id="ViuTV"   tvg-name="ViuTV"      tvg-logo=""    group-title="nowtv测试",VIU99
 https://inhouse-stream.viu.tv/out/v1/03302fdd6fd2496a9ec9caa024515310/index.m3u8
 
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",耀才财经台2
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1   tvg-id="viu6"   tvg-name="viu6"    tvg-logo=""       group-title="nowtv测试",VIU96
-https://dko29we9nm1rd.cloudfront.net/hls/CH096/index.m3u8
-#EXTINF:-1   tvg-id="ViuTV"   tvg-name="ViuTV"    tvg-logo=""    group-title="nowtv测试",VIU99
-https://dko29we9nm1rd.cloudfront.net/hls/CH099/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="now直播"   tvg-name="now直播"  tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="nowtv测试",now直播
