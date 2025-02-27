@@ -3956,6 +3956,10 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
 https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
 #EXTINF:-1 tvg-id="Now 新聞台" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="nowtv测试",Now 新聞台
 https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
+#EXTINF:-1 tvg-id="Now 新聞台" tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="nowtv测试",Now 財經台
+https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
+#EXTINF:-1 tvg-id="Now 新聞台" tvg-logo="https://www.nowtv.now.com/media/logo/334-wbg-c.png" group-title="nowtv测试",Now 報價台
+https://dko29we9nm1rd.cloudfront.net/hls/CH334/index.m3u8
 #EXTINF:-1 tvg-id="Now Sports 英超1台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超1台.png" group-title="nowtv测试",Now Sports 英超1台
 https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 #EXTINF:-1 tvg-id="Now Sports 英超2台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超2台.png" group-title="nowtv测试",Now Sports 英超2台
