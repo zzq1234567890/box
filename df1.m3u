@@ -4004,7 +4004,10 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH637/index.m3u8
 https://eventcdn02-nowe.akamaized.net/hls/CH639/index.m3u8
 #EXTINF:-1 tvg-id="Now Sports 641" tvg-name="Now Sports 641" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch641_300_216" group-title="nowtv测试", Now Sports 641
 https://eventcdn02-nowe.akamaized.net/hls/CH641/index.m3u8
-
+#EXTINF:-1 tvg-id="Now Sports 651" tvg-name="Now Sports 651" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch651_300_216" group-title="nowtv测试", Now Sports 651
+https://dko29we9nm1rd.cloudfront.net/hls/CH651/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 652" tvg-name="Now Sports 652" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch652_300_216" group-title="nowtv测试", Now Sports 652
+https://dko29we9nm1rd.cloudfront.net/hls/CH652/index.m3u8
 
 
 
