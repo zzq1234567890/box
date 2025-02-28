@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgziyong.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",达摩院讲座
+http://127.0.0.1:8081/douyin.php?id=280316635577
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",deepseek讲座
 http://127.0.0.1:8081/douyin.php?id=923122033058
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",浙江中月婺剧团
