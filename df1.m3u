@@ -1,10 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgziyong.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",中国基金报
-http://127.0.0.1:8081/douyin.php?id=310495540082
-#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",达摩院讲座
-http://127.0.0.1:8081/douyin.php?id=280316635577
-#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",deepseek讲座
-http://127.0.0.1:8081/douyin.php?id=923122033058
+
+
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",浙江中月婺剧团
 http://127.0.0.1:8081/douyin.php?id=261219709302
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",中月联献婺剧团
@@ -21,7 +17,14 @@ http://127.0.0.1:8081/douyin.php?id=594418047350
 http://127.0.0.1:8081/douyin.php?id=80017709309
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",火山引擎
 http://127.0.0.1:8081/douyin.php?id=307304939969
-
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",萌小猫
+http://127.0.0.1:8081/douyin.php?id=3759146893230
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",中国基金报
+http://127.0.0.1:8081/douyin.php?id=310495540082
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",达摩院讲座
+http://127.0.0.1:8081/douyin.php?id=280316635577
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",deepseek讲座
+http://127.0.0.1:8081/douyin.php?id=923122033058
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",抖音演出
 http://127.0.0.1:8081/douyin.php?id=802975310822
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",抖音演出
