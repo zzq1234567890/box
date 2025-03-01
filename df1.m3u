@@ -1,5 +1,42 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgziyong.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+ 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4353e4b22b7469eb4740a530296af84:de8c428017e29a2f461d13be4bd68671
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播", Geo Television HD
+https://pnowlive-a.akamaized.net/live/geohd/dash/geohd.mpd
+
+ 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=343a23cd3dfcf4550194f0528771366c:ad47ec098d7249e45da238adccba45cf
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播", Nitro HD
+https://pnowlive-a.akamaized.net/live/nitrohd/dash/nitrohd.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8300540be72f09691108e480a919fbf:09cf6e0deac4734ebd30533c347e9165
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播", HD
+https://pnowlive-a.akamaized.net/live/nowhd/dash/nowhd.mpd
+
+  #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3fd9036ec102684a2289b4e49eda746:2500f807780e95a2fa40ab9e5a72f05b
+  #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",  nTV HD
+https://pnowlive-a.akamaized.net/live/ntvhd/dash/ntvhd.mpd
+   
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=35e90b3c97189a93a1121b7702608130:6314305ece1f20cdcd7b3af34542e5db
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",RTL Crime HD
+https://pnowlive- a.akamaized.net/live/rtlcrimehd/dash/rtlcrimehd.mpd
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",浙江中月婺剧团
 http://127.0.0.1:8081/douyin.php?id=261219709302
