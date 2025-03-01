@@ -1913,6 +1913,16 @@
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 	                  
 			},
+            {
+            "name": "海外{仅适合香港}",
+            "url": "https://www.stream-link.org/playlist.m3u?token=f846c514-51c0-4df5-854f-4c6629236150&hmac=18dd9686ed0ac88d537dad8a7df41ca8",
+            "playerType": 2,
+            "ua": "AptvPlayer/1.3.3",
+		"epg": "https://content.stream-link.org/epg/f846c514-51c0-4df5-854f-4c6629236150/guide.xml",
+    
+                      "logo": "https://epg.112114.xyz/logo/{name}.png"
+ },  
+			
                          {
 				"name": "自用",
 				 "ua": "okhttp/3.0",
@@ -2078,15 +2088,7 @@
                        },
 			
         
-        {
-            "name": "海外{仅适合香港}",
-            "url": "https://www.stream-link.org/playlist.m3u?token=f846c514-51c0-4df5-854f-4c6629236150&hmac=18dd9686ed0ac88d537dad8a7df41ca8",
-            "playerType": 2,
-            "ua": "AptvPlayer/1.3.3",
-		"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-    
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
- },  
+        
 {
             "name": "tumanggertv",
             "url": "https://raw.githubusercontent.com/tumanggertv/tumanggertv/refs/heads/main/tivimate",
