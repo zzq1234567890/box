@@ -300,7 +300,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
 
-#EXTGRP:KIDS
+
 #EXTINF:0 tvg-id="davinciasia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640" group-title="INDIHOME",Da Vinci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -507,6 +507,9 @@ http://127.0.0.1:8081/douyin.php?id=310495540082
 http://127.0.0.1:8081/douyin.php?id=280316635577
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",deepseek讲座
 http://127.0.0.1:8081/douyin.php?id=923122033058
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",deepseek讲座
+http://127.0.0.1:8081/douyin.php?id=623361874782
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",抖音演出
 http://127.0.0.1:8081/douyin.php?id=802975310822
 
