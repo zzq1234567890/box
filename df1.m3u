@@ -360,6 +360,92 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/mykids/manifest.mpd
 
 
+
+
+
+ #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",GO3 Sport 1 🇱🇹
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
+
+ #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",GO3 Sport 2 🇱🇹
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
+
+  #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",GO3 Sport 3 🇱🇹
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+
+
+ #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",Super RTL HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fac43e5f70b758098d2c6c24e9cfec4:4e0cda4a6366c5a4ee9dba08022be4d4
+https://pnowlive-a.akamaized.net/live/superrtlhd/dash/superrtlhd.mpd
+
+
+ #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",Toggo Plus HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a463b86ef4e6a2531e1bc2df142a9db8:b7ee774343b708fa371c1c590139d357
+https://pnowlive-a.akamaized.net/live/toggoplushd/dash/toggoplushd.mpd
+
+  #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",VOX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcfb484409cd5e9038302c2867d7c1a8:a4873fe758a838b5d31cbeb0e4357ab9
+https://pnowlive-a.akamaized.net/live/voxhd/dash/voxhd.mpd
+
+  #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",VOX Up HD 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eeedc51b7ebdc1aa187f867b40fcf8d:748d2c1a459cf8c8392e96f6a66287f1
+https://pnowlive-a.akamaized.net/live/voxuphd/dash/voxuphd.mpd
+
+  #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",RTL Living HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3479b31a0b825f19290d05dc1b2940b0:360ad4bdad1115458141457416bec8e4
+https://pnowlive-a.akamaized.net/live/rtllivinghd/dash/rtllivinghd.mpd
+
+  #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",RTL Passion HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2152f7e7c5e020b7f786a1945a9e7b52:d9b90f68f8371012555c03c26d6489ba
+https://pnowlive-a.akamaized.net/live/rtlpassionhd/dash/rtlpassionhd.mpd
+
+ #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",RTL Up HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62ca09d12f35268cebf0a81e9c2c320f:9e1157686e440db7499cd3deab24dfb2
+https://pnowlive-a.akamaized.net/live/rtluphd/dash/rtluphd.mpd
+
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",Zwei HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=:86763f0030ecd2fd82a8b04d20f7f4b3
+https://pnowlive-a.akamaized.net/live/rtl2hd/dash/rtl2hd.mpd
+
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
