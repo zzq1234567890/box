@@ -511,11 +511,16 @@ http://127.0.0.1:8081/douyin.php?id=923122033058
 http://127.0.0.1:8081/douyin.php?id=127615516586
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",deepseek讲座
 http://127.0.0.1:8081/douyin.php?id=623361874782
-#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",抖音演出
-http://127.0.0.1:8081/douyin.php?id=802975310822
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",deepseek讲座
 http://127.0.0.1:8081/douyin.php?id=333884269783
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",每日财经新闻
+http://127.0.0.1:8081/douyin.php?id=594418047350
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",抖音演出
+http://127.0.0.1:8081/douyin.php?id=802975310822
+
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",抖音演出
 http://127.0.0.1:8081/douyin.php?id=664365142456
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",抖音演出
