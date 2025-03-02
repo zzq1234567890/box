@@ -4497,7 +4497,7 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH651/index.m3u8
 #EXTINF:-1 tvg-id="Now Sports 652" tvg-name="Now Sports 652" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch652_300_216" group-title="nowtv测试", Now Sports 652
 https://dko29we9nm1rd.cloudfront.net/hls/CH652/index.m3u8
 
-#EXTINF:-1 tvg-id="Now Sports 679" tvg-name="Now Sports 679" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch679_300_216" group-title="nowtv测试", Now Sport Premier 
+#EXTINF:-1 tvg-id="Premier Sports" tvg-name="Premier Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch679_300_216" group-title="nowtv测试", Now Sport Premier
 
 https://dko29we9nm1rd.cloudfront.net/hls/CH679/index.m3u8
 
