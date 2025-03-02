@@ -507,7 +507,8 @@ http://127.0.0.1:8081/douyin.php?id=310495540082
 http://127.0.0.1:8081/douyin.php?id=280316635577
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",deepseek讲座
 http://127.0.0.1:8081/douyin.php?id=923122033058
-
+  #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",deepseek讲座
+http://127.0.0.1:8081/douyin.php?id=127615516586
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",deepseek讲座
 http://127.0.0.1:8081/douyin.php?id=623361874782
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",抖音演出
