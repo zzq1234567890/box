@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+MY FREEVIEW
+
 #EXTINF:-1 tvg-id="101"tvg-name="TV1 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="My Freeview",TV1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -83,7 +84,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 
 
-
+ASTRO
 
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -930,7 +931,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
 
 
 
-
+RADIO
 
 #EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://kedahfm.rtm.gov.my/storage/app/uploads/public/608/0c3/88a/6080c388a01c5398406359.png" group-logo="https://lh3.googleusercontent.com/cmvTMFVpyOLBfMAkvMEUWRpu9h-buYNeFwuAgBlapVODZ15ZmgPU4H31JcT45gj6mYc",KedahFM
 https://22243.live.streamtheworld.com/KEDAH_FMAAC_SC
