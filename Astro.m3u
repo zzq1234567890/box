@@ -1,4 +1,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 group-title="Movies" tvg-id="411.astro",HBO
+#EXTVLCOPT:http-user-agent=com.fongmi.android.tv%2F3.2.3%20(Linux%3BAndroid%2012)%20AndroidXMedia3%2F1.5.1
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 #EXTINF:-1 tvg-id="101"tvg-name="TV1 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="My Freeview",TV1
 #EXTVLCOPT:http-user-agent=com.fongmi.android.tv/3.2.3 (Linux;Android 12)  AndroidXMedia3/1.5.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
