@@ -2395,7 +2395,6 @@
             "url": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelive.m3u",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-
         },
         {
             "name": "df1",
@@ -2405,7 +2404,6 @@
             "epg": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml",
             # # # "epg": "https://e.erw.cc/all.xml,https://epg.pw/api/epg.xml?timezone=QXNpYS9Ib25nX0tvbmc%3D&date={date}&channel_id={name}&lang=zh-hans",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-
         },
         {
             "name": "海外{仅适合香港}",
@@ -2432,7 +2430,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "zlive",
+            "name": "马来西亚Astro",
             "ua": "okhttp/3.0",
             "playerType": 2,
             "url": "./Astro.m3u",
