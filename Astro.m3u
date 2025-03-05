@@ -12,7 +12,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-
+#EXTINF:-1 group-title="Movies" tvg-id="411.astro",HBO
+#EXTVLCOPT:http-user-agent=com.fongmi.android.tv%2F3.2.3%20(Linux%3BAndroid%2012)%20AndroidXMedia3%2F1.5.1
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 #EXTINF:-1 tvg-id="TV2" group-title="My Freeview" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/default_primary.mpd
 
