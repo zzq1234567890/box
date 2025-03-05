@@ -1,6 +1,9 @@
 {
   "urls": [
-    
+    {
+            "name": "xing",
+            "url": "./xing.json"
+         },
           
          {
             "name": "jim",
