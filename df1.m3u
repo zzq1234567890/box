@@ -3966,6 +3966,15 @@ http://127.0.0.1:8081/tvb1.php?id=NEWS
 
 #EXTINF:-1      group-title="港澳台" tvg-id="無綫新聞台"    tvg-name="無綫新聞"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
 http://127.0.0.1:8081/tvb2.php?id=2
+#EXTINF:-1 tvg-id="now直播"   tvg-name="now直播"  tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="港澳台",now直播
+
+https://dko29we9nm1rd.cloudfront.net/hls/CH331/index.m3u8
+#EXTINF:-1 tvg-id="now新聞"  tvg-name="now新聞"  tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="港澳台",now新聞
+
+https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
+#EXTINF:-1 tvg-id="now財經" tvg-name="now財經"   tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="港澳台",now財經
+
+https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",陽光衛視
 https://stream.chinasuntv.com/680k/mid_video_index.m3u8
