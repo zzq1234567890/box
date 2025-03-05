@@ -5,7 +5,7 @@
 	{
 "name":"闲人大湿专用1",
 
-"url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/600.txt",
+"url":"./adult.txt",
 "type": 0,
 "playerType": 2,
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
