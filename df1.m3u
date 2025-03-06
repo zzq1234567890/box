@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml,https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epg4gtv2.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=0abdd163b0a44ce3a81cb06b38396d9e:a8a2e2554a0e18d2245b520eba50cdd0
+#KODIPROP:inputstream.adaptive.license_key=d9a6ded115a247acb03a824f96b0650d:3de1ee47bc4967495bdf6c992b729f03
 #EXTINF:-1    tvg-id=""   tvg-name=""    group-title="抖音直播",Office VOD 1
 
 https://directos.mediaset.es/oripremium01/live/premium01/mpd-cenc/mpd-cenc.isml/.mpd
 
 
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0abdd163b0a44ce3a81cb06b38396d9e:a8a2e2554a0e18d2245b520eba50cdd0
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d9a6ded115a247acb03a824f96b0650d:3de1ee47bc4967495bdf6c992b729f03
 #EXTINF:-1    tvg-id=""   tvg-name=""    group-title="抖音直播",Office VOD 1
 https://directos.mediaset.es/oripremium01/live/premium01/mpd-cenc/mpd-cenc.isml/.mpd
 
