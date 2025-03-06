@@ -9,7 +9,7 @@ https://directos.mediaset.es/oripremium01/live/premium01/mpd-cenc/mpd-cenc.isml/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9a6ded115a247acb03a824f96b0650d:3de1ee47bc4967495bdf6c992b729f03
-#EXTINF:-1    tvg-id=""   tvg-name=""    group-title="抖音直播",Office VOD 1
+#EXTINF:-1    tvg-id=""   tvg-name=""    group-title="抖音直播",Office VOD 2
 
 https://directos.mediaset.es/oripremium01/live/premium01/mpd-cenc/mpd-cenc.isml/.mpd
 
@@ -18,7 +18,7 @@ https://directos.mediaset.es/oripremium01/live/premium01/mpd-cenc/mpd-cenc.isml/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d9a6ded115a247acb03a824f96b0650d:3de1ee47bc4967495bdf6c992b729f03
-#EXTINF:-1    tvg-id=""   tvg-name=""    group-title="抖音直播",Office VOD 1
+#EXTINF:-1    tvg-id=""   tvg-name=""    group-title="抖音直播",Office VOD 3
 https://directos.mediaset.es/oripremium01/live/premium01/mpd-cenc/mpd-cenc.isml/.mpd
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",浙江中月婺剧团
