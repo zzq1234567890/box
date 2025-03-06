@@ -5,7 +5,7 @@
 
 https://directos.mediaset.es/oripremium01/live/premium01/mpd-cenc/mpd-cenc.isml/.mpd
 
-#EXTVLCOPT:http-user-agent=com.fongmi.android.tv%2F3.2.3%20(Linux%3BAndroid%2012)%20AndroidXMedia3%2F1.5.1
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0abdd163b0a44ce3a81cb06b38396d9e:a8a2e2554a0e18d2245b520eba50cdd0
 #EXTINF:-1    tvg-id=""   tvg-name=""    group-title="抖音直播",Office VOD 1
