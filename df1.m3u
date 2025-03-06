@@ -1,8 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml,https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epg4gtv2.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8fe517898456c00f8:89ae0a60108dd201129dc47602731ad3
-#EXTINF:-1    tvg-id=""   tvg-name=""    group-title="抖音直播",Office VOD 1
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-kb/kb-dash-widevine.isml/manifest.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -15,10 +11,6 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-kb/kb-dash-widevine.isml/manife
 
 
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|00f9f3c0783536b8fe517898456c00f8:89ae0a60108dd201129dc47602731ad3
-#EXTINF:-1    tvg-id=""   tvg-name=""    group-title="抖音直播",Office VOD 1
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-kb/kb-dash-widevine.isml/manifest.mpd
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",浙江中月婺剧团
 http://127.0.0.1:8081/douyin.php?id=261219709302
