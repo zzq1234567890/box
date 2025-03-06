@@ -1,4 +1,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml,https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epg4gtv2.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=0abdd163b0a44ce3a81cb06b38396d9e:a8a2e2554a0e18d2245b520eba50cdd0
+#EXTINF:-1    tvg-id=""   tvg-name=""    group-title="抖音直播",Office VOD 1
+
+https://directos.mediaset.es/oripremium01/live/premium01/mpd-cenc/mpd-cenc.isml/.mpd
+
+
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",浙江中月婺剧团
 http://127.0.0.1:8081/douyin.php?id=261219709302
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",中月联献婺剧团
