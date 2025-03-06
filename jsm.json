@@ -2494,7 +2494,7 @@
             "ua": "judy/5.2.0",
             "playerType": 2,
             "url": "https://json.doube.eu.org/BeeSport.txt",
-            # # "url": "https://www.mytvsuper.com.mp/m3u/Live.m3u",
+            ## "url": "https://www.mytvsuper.com.mp/m3u/Live.m3u",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -2534,7 +2534,7 @@
             "name": "aptv",
             "ua": "okhttp/3.12",
             "playerType": 2,
-            # # # "url": "https://bit.ly/iptv-aptv",
+            ### "url": "https://bit.ly/iptv-aptv",
             "url": "http://aktv.top/live.m3u",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -2573,7 +2573,7 @@
             "ua": "okhttp/3.12",
             "playerType": 2,
             "url": "http://127.0.0.1:8081/mytvsuper.php",
-            # # "url": "https://tv.iill.top/m3u/MyTV",
+            ## "url": "https://tv.iill.top/m3u/MyTV",
             "epg": "https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgmytvsuper.xml",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -2594,7 +2594,7 @@
         },
         {
             "name": "mimipipi22",
-            # # # "ua": "okhttp/5.2.0",
+            ### "ua": "okhttp/5.2.0",
             "playerType": 2,
             "url": "https://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist24",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
