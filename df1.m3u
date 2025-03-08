@@ -29,6 +29,9 @@ http://127.0.0.1:8081/douyin.php?id=80017709309
 http://127.0.0.1:8081/douyin.php?id=307304939969
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",萌小猫
 http://127.0.0.1:8081/douyin.php?id=3759146893230
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",刘peter
+http://127.0.0.1:8081/douyin.php?id=17175073975
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",中国基金报
 http://127.0.0.1:8081/douyin.php?id=310495540082
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",达摩院讲座
