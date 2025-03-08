@@ -1,6 +1,7 @@
 {
     "spider": "./pg.jar",
-    "sites": [{
+    "sites": [
+        {
             "key": "Youtube",
             "name": "Youtube",
             "type": 3,
@@ -2432,7 +2433,7 @@
             "name": "TeleZapTV",
             "ua": "okhttp/3.0",
             "playerType": 2,
-            "url": "https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/TeleZapTV.m3u",
+            "url": "https://raw.githubusercontent.com/zzq1234567860/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/TeleZapTV.m3u",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -2440,7 +2441,7 @@
             "name": "CignalTVPHDigital",
             "ua": "okhttp/3.0",
             "playerType": 2,
-            "url": "https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/CignalTVPHDigital.m3u",
+            "url": "https://raw.githubusercontent.com/zzq1234567890/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/CignalTVPHDigital.m3u",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
