@@ -1,5 +1,11 @@
 {
   "urls": [
+    
+    
+    {
+            "name": "真心",
+            "url": "://raw.githubusercontent.com/zzq1234567890/zhenxin/refs/heads/main/FongMi.json"
+         },
     {
             "name": "xing",
             "url": "./xing.json"
