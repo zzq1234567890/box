@@ -2433,7 +2433,7 @@
          },
        
         {
-            "name": "国内台",
+            "name": "国内台1",
             "url": "http://38.207.178.130:50001/Sub?type=txt",
 
             "playerType": 2,
@@ -2443,7 +2443,7 @@
          },
         
          {
-            "name": "国内台",
+            "name": "国内台2",
             "url": "http://103.106.191.233:50001/Sub?type=txt",
             "playerType": 2,
             "ua": "AptvPlayer/1.3.3",
@@ -2452,7 +2452,7 @@
           },
         
         {
-            "name": "国内台",
+            "name": "国内台3",
             "url": "http://103.244.89.148:50001/Sub?type=txt",
             "playerType": 2,
             "ua": "AptvPlayer/1.3.3",
@@ -2461,7 +2461,7 @@
         },
         
         {
-            "name": "国内台",
+            "name": "国内台4",
             "url": "://103.244.89.148:50001/Sub?type=txt",
             "playerType": 2,
             "ua": "AptvPlayer/1.3.3",
@@ -2488,7 +2488,7 @@
             "name": "TeleZapTV",
             "ua": "okhttp/3.0",
             "playerType": 2,
-            "url": "https://raw.githubusercontent.com/zzq1234567860/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/TeleZapTV.m3u",
+            "url": "https://raw.githubusercontent.com/zzq1234567890/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/TeleZapTV.m3u",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -2504,7 +2504,7 @@
             "name": "OnyxPlayTV",
             "ua": "okhttp/3.0",
             "playerType": 2,
-            "url": "https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/OnyxPlayTV.m3u",
+            "url": "https://raw.githubusercontent.com/zzq1234567890/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/OnyxPlayTV.m3u",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
