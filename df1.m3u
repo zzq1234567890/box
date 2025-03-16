@@ -5461,6 +5461,28 @@ http://127.0.0.1:8081/neimenggurongmei.php?id=nmwtyl
 http://127.0.0.1:8081/neimenggurongmei.php?id=nmnm
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",内蒙古蒙古语文化
 http://127.0.0.1:8081/neimenggurongmei.php?id=nmwh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",新疆卫视HD
+http://127.0.0.1:8081/xinjiang.php?id=xjws
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",维吾尔语新闻综合频道
+http://127.0.0.1:8081/xinjiang.php?id=wyzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",哈萨克语新闻综合频道
+http://127.0.0.1:8081/xinjiang.php?id=hazh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",汉语综艺频道
+http://127.0.0.1:8081/xinjiang.php?id=hyzy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",维吾尔语影视频道
+http://127.0.0.1:8081/xinjiang.php?id=wyys
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",汉语经济生活频道
+http://127.0.0.1:8081/xinjiang.php?id=hyjj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",哈萨克语综艺频道
+http://127.0.0.1:8081/xinjiang.php?id=hazy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",维吾尔语经济生活频道
+http://127.0.0.1:8081/xinjiang.php?id=wyjj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",汉语体育健康频道
+http://127.0.0.1:8081/xinjiang.php?id=hyty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",汉语信息服务频道
+http://127.0.0.1:8081/xinjiang.php?id=hyxx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",少儿频道
+http://127.0.0.1:8081/xinjiang.php?id=xjse
 
 #EXTINF:-1      group-title="4K"    tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live208_mobile.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
