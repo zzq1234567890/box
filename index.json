@@ -1,7 +1,11 @@
 {
   "urls": [
     
-    
+   
+    {
+            "name": "新版本测试",
+            "url": "https://json.doube.eu.org/t4.php"
+         },
     {
             "name": "真心",
             "url": "://raw.githubusercontent.com/zzq1234567890/zhenxin/refs/heads/main/FongMi.json"
