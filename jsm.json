@@ -2642,6 +2642,17 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+
+        
+  
+    {
+      "name": "LITV直播(python)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
+      "ext": {}
+    
+  },
+
         {
             "name": "临时测试ip6",
             "url": "https://raw.githubusercontent.com/Potato-66/SimpleTV/main/m3u/ipv6/IPTV.m3u",
