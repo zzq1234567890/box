@@ -2590,7 +2590,14 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-
+        {
+            "name": "唐三",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "://ok321.top/tv",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
         
         {
             "name": "zlive",
