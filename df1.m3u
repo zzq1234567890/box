@@ -4346,6 +4346,28 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 https://inhouse-stream.viu.tv/out/v1/af0b692ac9744e3faf5f7d6918550a54/index.m3u8
 #EXTINF:-1   tvg-id="ViuTV"   tvg-name="ViuTV"      tvg-logo=""    group-title="nowtv测试",VIU99
 https://inhouse-stream.viu.tv/out/v1/03302fdd6fd2496a9ec9caa024515310/index.m3u8
+#EXTINF:-1 tvg-id="now直播" tvg-name="now直播" tvg-logo="https://www.nowtv.now.com/media/logo/331-wbg-c.png" group-title="nowtv测试",now直播
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4b29b6ae8ff3b7d8ea4b08e0ff7b377:e0d53eb7718b909b0774666cd6d80b55
+http://127.0.0.1:8081/nowtvweb.php?id=331
+#EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="nowtv测试",now新聞
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dfd5e04695f33e78f19b3a80326bcda:f44e2bfdbe450b7a8c4f226b35f16bc1
+http://127.0.0.1:8081/nowtvweb.php?id=332
+
+#EXTINF:-1 tvg-id="now財經" tvg-name="now財經" tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="nowtv测试",now財經
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f254bfd4b77f3f278ebf310e48efe9c2:ba0fcabaf4c3f5c5c9db7cc8bfd9f156
+http://127.0.0.1:8081/nowtvweb.php?id=333
+
+#EXTINF:-1 tvg-id="Now Sports Premier" tvg-name="Now Sports Premier" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-c.png" group-title="nowtv测试",Now Sports Premier
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9fa5f32b1983868aa13e79fb2a70839:5800cd2561ec1bbf964ea3575430a1e1
+http://127.0.0.1:8081/nowtvweb.php?id=630
 
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",耀才财经台2
