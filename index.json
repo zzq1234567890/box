@@ -1,16 +1,34 @@
 {
   "urls": [
     
-   
-    {
+    
+        {
+            "name": "饭总",
+            "url": " http://www.饭太硬.com/tv"
+         },
+
+
+        {
+            "name": "王小二",
+            "url": " https://9280.kstore.space/wex.json"
+         },
+
+
+
+         {
+            "name": "爸爸",
+            "url": " http://ok321.top/"
+         },
+
+         {
             "name": "新版本测试",
             "url": "https://json.doube.eu.org/t4.php"
          },
-    {
+         {
             "name": "真心",
             "url": "://raw.githubusercontent.com/zzq1234567890/zhenxin/refs/heads/main/FongMi.json"
          },
-    {
+         {
             "name": "xing",
             "url": "./xing.json"
          },
