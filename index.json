@@ -1,7 +1,10 @@
 {
   "urls": [
     
-    
+        {
+            "name": "江苏饭太硬",
+            "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp"
+        },
         {
             "name": "饭总",
             "url": " http://www.饭太硬.com/tv"
