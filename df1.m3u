@@ -4959,7 +4959,7 @@ http://127.0.0.1:8081/litvapp.php?id=litv-ftv17
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="歡樂看",台灣戲劇
 http://127.0.0.1:8081/huanlekan.php?id=twxj
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="歡樂看",星河
+#EXTINF:-1   tvg-logo="https://media-1-mvhub.imgix.net/channel/35_1dr0A4YTgCbGHaBiMnlh5qPEtxs7kvoQ.png"  group-title="歡樂看",TVB星河
 http://127.0.0.1:8081/huanlekan.php?id=xgxh
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="歡樂看",中視
 http://127.0.0.1:8081/huanlekan.php?id=zs
