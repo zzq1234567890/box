@@ -5706,30 +5706,27 @@ http://127.0.0.1:8081/haikou.php?id=2
 http://127.0.0.1:8081/haikou.php?id=3
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",海口生活娱乐
 http://127.0.0.1:8081/haikou.php?id=4
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",湖南快乐购
-http://127.0.0.1:8081/hunan.php?id=267
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",湖南经视
-http://127.0.0.1:8081/hunan.php?id=280
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",湖南都市
-http://127.0.0.1:8081/hunan.php?id=346
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",湖南公共
-http://127.0.0.1:8081/hunan.php?id=261
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",湖南娱乐
-http://127.0.0.1:8081/hunan.php?id=344
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",湖南电视剧
-http://127.0.0.1:8081/hunan.php?id=484
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",湖南电影
-http://127.0.0.1:8081/hunan.php?id=221
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",湖南国际
-http://127.0.0.1:8081/hunan.php?id=229
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",金鹰纪实
-http://127.0.0.1:8081/hunan.php?id=316
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",先锋乒羽
-http://127.0.0.1:8081/hunan.php?id=329
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南快乐购
+http://127.0.0.1:8081/hunan.php?id=klg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南经视
+http://127.0.0.1:8081/hunan.php?id=hnjs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南都市
+http://127.0.0.1:8081/hunan.php?id=hnds
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南爱晚
+http://127.0.0.1:8081/hunan.php?id=hnaw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南娱乐
+http://127.0.0.1:8081/hunan.php?id=hnyl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电视剧
+http://127.0.0.1:8081/hunan.php?id=hndsj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电影
+http://127.0.0.1:8081/hunan.php?id=hndy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南国际
+http://127.0.0.1:8081/hunan.php?id=hngj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",金鹰纪实
+http://127.0.0.1:8081/hunan.php?id=jyjs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",先锋乒羽
+http://127.0.0.1:8081/hunan.php?id=xfpy
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",快乐垂钓
-http://127.0.0.1:8081/hunan.php?id=218
-http://127.0.0.1:8081/hunan5g.php?id=8
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",长沙政法
 http://127.0.0.1:8081/hunan5g.php?id=17
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",长沙女性
