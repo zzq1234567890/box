@@ -4990,7 +4990,7 @@ http://127.0.0.1:8081/huanlekan.php?id=yzzh
 #EXTINF:-1   tvg-id="7216"   tvg-name="美食星球"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png"    group-title="歡樂看",美食星球
 http://127.0.0.1:8081/huanlekan.php?id=msxq
 #EXTINF:-1   tvg-id="7155"   tvg-name="SMART知識"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Smart知識台.png"    group-title="歡樂看",smart知識台
-http://127.0.0.1:8081/huanlekan.php?id=zs
+http://127.0.0.1:8081/huanlekan.php?id=smart 
 #EXTINF:-1   tvg-id="7127"   tvg-name="龍華戲劇"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龍華戲劇.png"    group-title="歡樂看",龍華戲劇
 http://127.0.0.1:8081/huanlekan.php?id=lhxj
 #EXTINF:-1   tvg-id="7126"   tvg-name="龍華偶像"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龍華偶像.png"    group-title="歡樂看",龍華偶像
