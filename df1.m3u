@@ -4957,6 +4957,16 @@ http://127.0.0.1:8081/litvapp.php?id=litv-longturn01
 http://127.0.0.1:8081/litvapp.php?id=litv-ftv17
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="歡樂看",台灣戲劇
+http://127.0.0.1:8081/huanlekan.php?id=twxj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="歡樂看",星河
+http://127.0.0.1:8081/huanlekan.php?id=xgxh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="歡樂看",中視
+http://127.0.0.1:8081/huanlekan.php?id=zs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="歡樂看",中視菁采台
+http://127.0.0.1:8081/huanlekan.php?id=zsjc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="歡樂看",華視
+http://127.0.0.1:8081/huanlekan.php?id=hs
 
 
 #EXTINF:-1   tvg-id="海峡卫视"   tvg-name="海峡卫视"    tvg-logo=""    group-title="歡樂看",海峡卫视
