@@ -5672,8 +5672,8 @@ http://127.0.0.1:8081/chengduhd.php?&id=45
 http://127.0.0.1:8081/chengduhd.php?id=192&id=5
 #EXTINF:-1   tvg-id="2069"   tvg-name="CDTV6"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png"    group-title="地方",成都少儿
 http://127.0.0.1:8081/chengduhd.php?&id=6
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",重庆新闻
+http://127.0.0.1:8081/chongqingnews.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",重庆卫视
 http://127.0.0.1:8081/chongqing.php?id=2
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",重庆新闻
