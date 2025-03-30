@@ -5447,7 +5447,24 @@ http://127.0.0.1:8081/zhejiang.php?id=zjgj
 #EXTINF:-1   tvg-id="浙江数码时代""   tvg-name="浙江数码时代"    tvg-logo=""    group-title="地方",浙江之江记录
 http://127.0.0.1:8081/zhejiang.php?id=zjzjjl
 
-
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江苏卫视
+http://127.0.0.1:8081/jiangsu.php?id=jsws
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江苏城市
+http://127.0.0.1:8081/jiangsu.php?id=jscs
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江苏综艺
+http://127.0.0.1:8081/jiangsu.php?id=jszy
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江苏影视
+http://127.0.0.1:8081/jiangsu.php?id=jsys
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江苏新闻
+http://127.0.0.1:8081/jiangsu.php?id=jsxw
+ #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江苏体育
+http://127.0.0.1:8081/jiangsu.php?id=jsxx
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",优漫卡通
+http://127.0.0.1:8081/jiangsu.php?id=ymkt
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江苏国际
+http://127.0.0.1:8081/jiangsu.php?id=jsgj
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江苏教育
+http://127.0.0.1:8081/jiangsu.php?id=jsjy
 
 
 
@@ -5492,24 +5509,7 @@ https://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 http://127.0.0.1:8081/fjqz.php?id=news
 #EXTINF:-1   tvg-id="100680"   tvg-name=""    tvg-logo=""    group-title="地方",泉州闽南语
 http://127.0.0.1:8081/fjqz.php?id=mny
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江苏卫视
-http://127.0.0.1:8081/jiangsu.php?id=jsws
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江苏城市
-http://127.0.0.1:8081/jiangsu.php?id=jscs
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江苏综艺
-http://127.0.0.1:8081/jiangsu.php?id=jszy
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江苏影视
-http://127.0.0.1:8081/jiangsu.php?id=jsys
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江苏新闻
-http://127.0.0.1:8081/jiangsu.php?id=jsxw
- #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江苏体育
-http://127.0.0.1:8081/jiangsu.php?id=jsxx
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",优漫卡通
-http://127.0.0.1:8081/jiangsu.php?id=ymkt
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江苏国际
-http://127.0.0.1:8081/jiangsu.php?id=jsgj
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江苏教育
-http://127.0.0.1:8081/jiangsu.php?id=jsjy
+
 
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",广州综合
