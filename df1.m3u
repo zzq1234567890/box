@@ -4961,6 +4961,9 @@ http://127.0.0.1:8081/litvapp.php?id=litv-ftv17
 http://127.0.0.1:8081/huanlekan.php?id=twxj
 #EXTINF:-1   tvg-logo="https://media-1-mvhub.imgix.net/channel/35_1dr0A4YTgCbGHaBiMnlh5qPEtxs7kvoQ.png"  group-title="歡樂看",TVB星河
 http://127.0.0.1:8081/huanlekan.php?id=xgxh
+#EXTINF:-1 group-title="歡樂看" tvg-id="無綫新聞台" tvg-name="無綫新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
+http://127.0.0.1:8081/huanlekan.php?id=tvbnews
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="歡樂看",中視
 http://127.0.0.1:8081/huanlekan.php?id=zs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="歡樂看",中視菁采台
