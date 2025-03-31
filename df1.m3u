@@ -3584,11 +3584,11 @@ http://127.0.0.1:8081/fenghuangyoutube.php
 #EXTINF:-1   tvg-id="cctv4亚洲"   tvg-name="cctv4亚洲"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"    group-title="youtube中文新闻",cctv-4亚洲
 http://127.0.0.1:8081/cctv4.php
 
-
-#EXTINF:-1   tvg-id="cctv6"   tvg-name="cctv6"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"    group-title="youtube中文新闻",CCTV-6
-http://127.0.0.1:8081/douyin.php?id=129460641471
 #EXTINF:-1   tvg-id="cctv6"   tvg-name="cctv6"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"    group-title="youtube中文新闻",CCTV-6
 http://127.0.0.1:8081/douyin.php?id=208823316033
+#EXTINF:-1   tvg-id="cctv6"   tvg-name="cctv6"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"    group-title="youtube中文新闻",CCTV-6
+http://127.0.0.1:8081/douyin.php?id=129460641471
+
 
 
 
