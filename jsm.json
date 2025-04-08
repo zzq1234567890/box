@@ -152,16 +152,7 @@
             "filterable": 0,
             "changeable": 0
         },
-        {
-            "key": "py_HeiMuEr",
-            "name": "黑木耳",
-            "type": 4,
-            "api": "https://spider.doube.eu.org/spider?site=HeiMuEr",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
+        
         {
             "key": "黑木",
             "name": "黑木",
