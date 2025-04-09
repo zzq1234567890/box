@@ -4338,119 +4338,49 @@ http://127.0.0.1:8081/cnbcarabic.php
 
 
 
-
-
-
-#EXTINF:-1      group-title="港澳台" tvg-id="無綫新聞台"   tvg-name="無綫新聞"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
-http://127.0.0.1:8081/tvb1.php?id=NEWS
-
-
-#EXTINF:-1      group-title="港澳台" tvg-id="無綫新聞台"    tvg-name="無綫新聞"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
-http://127.0.0.1:8081/tvb2.php?id=2
-
-
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",陽光衛視
-https://stream.chinasuntv.com/680k/mid_video_index.m3u8
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",耀才财经台2
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1   tvg-id="viu6"   tvg-name="viu6"    tvg-logo=""    group-title="nowtv测试",VIU96
-https://inhouse-stream.viu.tv/out/v1/af0b692ac9744e3faf5f7d6918550a54/index.m3u8
-#EXTINF:-1   tvg-id="ViuTV"   tvg-name="ViuTV"      tvg-logo=""    group-title="nowtv测试",VIU99
-https://inhouse-stream.viu.tv/out/v1/03302fdd6fd2496a9ec9caa024515310/index.m3u8
-#EXTINF:-1 tvg-id="now直播" tvg-name="now直播" tvg-logo="https://www.nowtv.now.com/media/logo/331-wbg-c.png" group-title="nowtv测试",now直播
+#EXTINF:-1 tvg-id="now直播" tvg-name="now直播" tvg-logo="https://www.nowtv.now.com/media/logo/331-wbg-c.png" group-title="港澳台",now直播
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4b29b6ae8ff3b7d8ea4b08e0ff7b377:e0d53eb7718b909b0774666cd6d80b55
 http://127.0.0.1:8081/nowtvweb.php?id=331
-#EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="nowtv测试",now新聞
+#EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="港澳台",now新聞
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dfd5e04695f33e78f19b3a80326bcda:f44e2bfdbe450b7a8c4f226b35f16bc1
 http://127.0.0.1:8081/nowtvweb.php?id=332
 
-#EXTINF:-1 tvg-id="now財經" tvg-name="now財經" tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="nowtv测试",now財經
+#EXTINF:-1 tvg-id="now財經" tvg-name="now財經" tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="港澳台",now財經
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f254bfd4b77f3f278ebf310e48efe9c2:ba0fcabaf4c3f5c5c9db7cc8bfd9f156
 http://127.0.0.1:8081/nowtvweb.php?id=333
 
-#EXTINF:-1 tvg-id="Now Sports Premier" tvg-name="Now Sports Premier" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-c.png" group-title="nowtv测试",Now Sports Premier
+#EXTINF:-1 tvg-id="Now Sports Premier" tvg-name="Now Sports Premier" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-c.png" group-title="港澳台",Now Sports Premier
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9fa5f32b1983868aa13e79fb2a70839:5800cd2561ec1bbf964ea3575430a1e1
 http://127.0.0.1:8081/nowtvweb.php?id=630
 
 
+#EXTINF:-1  group-title="港澳台" tvg-id="無綫新聞台"   tvg-name="無綫新聞"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
+http://127.0.0.1:8081/tvb1.php?id=NEWS
+#EXTINF:-1  group-title="港澳台" tvg-id="無綫新聞台"    tvg-name="無綫新聞"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
+http://127.0.0.1:8081/tvb2.php?id=2
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",陽光衛視
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",耀才财经台2
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-
-
-
-
-#EXTINF:-1 tvg-id="爆谷台"  tvg-name="爆谷台"  tvg-logo="https://epg.112114.xyz/logo/NOW爆谷台.png" group-title="nowtv测试",爆谷台
-https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
-#EXTINF:-1 tvg-id="Now爆谷星影台"  tvg-name="Now爆谷星影台"  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch138_160_115" group-title="nowtv测试",Now爆谷星影台
-https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO香港"  tvg-name="HBO香港"  tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="nowtv测试",HBO香港
-https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
-#EXTINF:-1 tvg-id="now報價"  tvg-name="now報價" tvg-logo="https://www.nowtv.now.com/media/logo/336-wbg-c.png" group-title="nowtv测试",now報價
-https://dko29we9nm1rd.cloudfront.net/hls/CH336/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 英超TV1"  tvg-name="Now Sports 英超TV1" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超1台.png" group-title="nowtv测试",Now Sports 英超TV1
-https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 英超 TV2"  tvg-name="Now Sports 英超 TV2" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超2台.png" group-title="nowtv测试",Now Sports 英超2台
-https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 英超 TV3"  tvg-name="Now Sports 英超 TV3" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超3台.png" group-title="nowtv测试",Now Sports 英超3台
-https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 英超 TV4"  tvg-name="Now Sports 英超 TV4" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超4台.png" group-title="nowtv测试",Now Sports 英超4台
-https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 3"  tvg-name="Now Sports 3" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS3.png" group-title="nowtv测试",Now Sports 3
-https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 4"  tvg-name="Now Sports 4" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS4.png" group-title="nowtv测试",Now Sports 4
-https://dko29we9nm1rd.cloudfront.net/hls/CH634/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 6" tvg-name="Now Sports 6"  tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS6.png" group-title="nowtv测试",Now Sports 6
-https://dko29we9nm1rd.cloudfront.net/hls/CH637/index.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="beIN SPORTS 2"  tvg-logo="https://epg.112114.xyz/logo/BEINSPORTS2.png" group-title="nowtv测试",beIN SPORTS 2
-https://eventcdn02-nowe.akamaized.net/hls/CH639/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 641" tvg-name="Now Sports 641" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch641_300_216" group-title="nowtv测试", Now Sports 641
-https://eventcdn02-nowe.akamaized.net/hls/CH641/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 651" tvg-name="Now Sports 651" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch651_300_216" group-title="nowtv测试", Now Sports 651
-https://dko29we9nm1rd.cloudfront.net/hls/CH651/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 652" tvg-name="Now Sports 652" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch652_300_216" group-title="nowtv测试", Now Sports 652
-https://dko29we9nm1rd.cloudfront.net/hls/CH652/index.m3u8
-
-#EXTINF:-1 tvg-id="Premier Sports" tvg-name="Premier Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch679_300_216" group-title="nowtv测试", Now Sport Premier
-
-https://dko29we9nm1rd.cloudfront.net/hls/CH679/index.m3u8
-
-#EXTINF:-1 tvg-id="Now Sports plus" tvg-name="Now Sports plus" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch680_300_216" group-title="nowtv测试", Now Sports PLUS
-
-https://dko29we9nm1rd.cloudfront.net/hls/CH680/index.m3u8
-
-
-
-
-
-
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",耀才财经台2
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 #EXTINF:-1   tvg-id="中央電視台綜合頻道-(港澳版)"   tvg-name="中央電視台綜合頻道-(港澳版)"    tvg-logo="https://www.hkdtmb.com/png_logo/32.png"    group-title="港澳台",中央電視台綜合頻道-(港澳版)
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-
-
 #EXTINF:-1   tvg-id="cgtn"   tvg-name="cgtn"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"     group-title="港澳台",cgtn
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
 #EXTINF:-1   tvg-id="cgtn英文记录片"   tvg-name="cgtn英文记录片"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"     group-title="港澳台",cgtn英文记录片
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 
-
-
-
-
-
-
-
 #EXTINF:-1   tvg-id="蓮花衛視"   tvg-name="蓮花衛視"    tvg-logo="https://zh.wikipedia.org/wiki/%E6%BE%B3%E9%96%80%E8%93%AE%E8%8A%B1%E8%A1%9B%E8%A6%96#/media/File:Lotus_Macau.png"    group-title="港澳台",蓮花衛視
 http://127.0.0.1:8081/lotustv1.php?id=lotustv
-
 #EXTINF:-1   tvg-id="澳視澳門"   tvg-name=""    tvg-logo=""    group-title="港澳台",澳視澳門
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1   tvg-id="澳門葡萄牙"   tvg-name=""    tvg-logo=""    group-title="港澳台",澳門葡萄牙
@@ -4465,8 +4395,6 @@ https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",澳門CCTV1
 https://live5.tdm.com.mo/tv/cgtn71/playlist.m3u8
-
-
 #EXTINF:-1   tvg-id="好消息"   tvg-name="好消息"    tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv16_mobile.png"    group-title="港澳台",好消息
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1   tvg-id="好消息2台"   tvg-name="好消息2台"    tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png"    group-title="港澳台",好消息2台
