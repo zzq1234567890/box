@@ -3630,8 +3630,7 @@ http://127.0.0.1:8081/zhongtiannews.php
 http://127.0.0.1:8081/zhongtiannews2.php
 #EXTINF:-1   tvg-id="中天亞洲台"   tvg-name="中天亞洲台"    tvg-logo=""    group-title="youtube中文新闻",中天亞洲台
 http://127.0.0.1:8081/zhongtianasia.php
-#EXTINF:-1   tvg-id="TVBS 新聞台"   tvg-name="TVBS新闻台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png"    group-title="youtube中文新闻",TVBS 新聞台
-http://127.0.0.1:8081/linetv.php?id=tvbsnews
+
 #EXTINF:-1   tvg-id="4gtv-4gtv073"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png"    tvg-name="TVBS"    group-title="youtube中文新闻",TVBS+
 http://127.0.0.1:8081/tvbs561.php
 #EXTINF:-1   tvg-id="台視新聞台"   tvg-name="台視新聞台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png"    group-title="youtube中文新闻",台視新聞台
@@ -3665,8 +3664,7 @@ http://127.0.0.1:8081/yuanchuan.php?id=1
 http://127.0.0.1:8081/huashinews.php
 #EXTINF:-1   tvg-id="litv-ftv13"   tvg-name="民視新聞台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png"    group-title="youtube中文新闻",民視新聞台1
 http://127.0.0.1:8081/minshinews.php
-#EXTINF:-1   tvg-id="litv-ftv13"   tvg-name="民視新聞台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png"    group-title="youtube中文新闻",民視新聞台
-http://127.0.0.1:8081/linetv.php?id=minshinews
+
 #EXTINF:-1   tvg-id="三立新聞台"   tvg-name="三立新聞台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png"    group-title="youtube中文新闻",三立新聞台
 http://127.0.0.1:8081/sanlinewsweb.php
 #EXTINF:-1   tvg-id="三立財經新聞台"   tvg-name="三立財經新聞台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png"    group-title="youtube中文新闻",三立財經新聞台
