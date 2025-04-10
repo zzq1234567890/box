@@ -4373,7 +4373,8 @@ https://p.168.us.kg/rthk/32/master.m3u8
 #EXTVLCOPT:http-user-agent=com.fongmi.android.tv/3.2.3 (Linux;Android 12)  AndroidXMedia3/1.5.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
 #KODIPROP:inputstream.adaptive.license_key=bba574b22adb328fad3e0496157d4568:749d60e3e0c7bc24aeaa21c29c2ec854
 https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
 
@@ -4381,7 +4382,8 @@ https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/mas
 #EXTVLCOPT:http-user-agent=com.fongmi.android.tv/3.2.3 (Linux;Android 12)  AndroidXMedia3/1.5.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
 #KODIPROP:inputstream.adaptive.license_key=451d2f5521f03118ab0b08fff91b7bce:c1997f65812cdf0c0651991c6c5a8c5b
 https://rthktv32-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch32)/master.mpd
 
