@@ -1,9 +1,22 @@
 {
     "spider": "./pg.jar",
     "sites": [
+         {
+            "key": "网盘配置",
+            "name": "youtube和网盘配置",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "./lib/tokenm.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
         {
             "key": "Youtube",
-            "name": "Youtube",
+            "name": "Youtube到网盘设置中心进行youtube客户端设置",
             "type": 3,
             "api": "csp_Youtube",
             "ua": "19.29.1 (iPhone16,2; U; CPU iOS 17_5_1 like Mac OS X;)",
@@ -327,19 +340,7 @@
             "quickSearch": 0,
             "changeable": 0
         },
-        {
-            "key": "网盘配置",
-            "name": "youtube和网盘配置",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            }
-        },
+       
         {
             "key": "玩偶┃小米",
             "name": "💿小米┃网盘（墙外）",
