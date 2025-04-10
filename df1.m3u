@@ -4359,6 +4359,10 @@ http://127.0.0.1:8081/nowtvweb.php?id=333
 #KODIPROP:inputstream.adaptive.license_key=d9fa5f32b1983868aa13e79fb2a70839:5800cd2561ec1bbf964ea3575430a1e1
 http://127.0.0.1:8081/nowtvweb.php?id=630
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",香港电台31
+https://p.168.us.kg/rthk/31/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",香港电台32
+https://p.168.us.kg/rthk/32/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",香港电台31
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bba574b22adb328fad3e0496157d4568:749d60e3e0c7bc24aeaa21c29c2ec854
 https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
