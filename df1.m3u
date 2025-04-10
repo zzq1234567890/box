@@ -4420,6 +4420,16 @@ https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",澳門CCTV1
 https://live5.tdm.com.mo/tv/cgtn71/playlist.m3u8
+
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",三立台湾 Sanli Taiwan
+http://kele666.serv00.net/Smart.php?id=sanlitaiwan
+ #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台", 三立台湾 Sanli Taiwan
+https://pixman.mytvsuper.com.mp/Smart.php?id=sanlitaiwan
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",  三立戏剧台
+https://pixman.mytvsuper.com.mp/Smart.php?id=sanlixiju_twn
+  #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",  三立戏剧台
+http://kele666.serv00.net/Smart.php?id=sanlixiju_twn
 #EXTINF:-1   tvg-id="好消息"   tvg-name="好消息"    tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv16_mobile.png"    group-title="港澳台",好消息
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1   tvg-id="好消息2台"   tvg-name="好消息2台"    tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png"    group-title="港澳台",好消息2台
