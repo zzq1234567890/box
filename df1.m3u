@@ -4358,6 +4358,12 @@ http://127.0.0.1:8081/nowtvweb.php?id=333
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9fa5f32b1983868aa13e79fb2a70839:5800cd2561ec1bbf964ea3575430a1e1
 http://127.0.0.1:8081/nowtvweb.php?id=630
+
+#EXTINF:-1  group-title="港澳台" tvg-id="無綫新聞台"   tvg-name="無綫新聞"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
+http://127.0.0.1:8081/tvb1.php?id=NEWS
+#EXTINF:-1  group-title="港澳台" tvg-id="無綫新聞台"    tvg-name="無綫新聞"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
+http://127.0.0.1:8081/tvb2.php?id=2
+
 #EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="" group-title="港澳台",香港電台31
 https://p.168.us.kg/rthk/31/master.m3u8
 #EXTINF:-1 tvg-id="香港電台32" tvg-name="香港電台32" tvg-logo="" group-title="港澳台",香港電台32
@@ -4380,10 +4386,6 @@ https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/mas
 https://rthktv32-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch32)/master.mpd
 
 
-#EXTINF:-1  group-title="港澳台" tvg-id="無綫新聞台"   tvg-name="無綫新聞"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
-http://127.0.0.1:8081/tvb1.php?id=NEWS
-#EXTINF:-1  group-title="港澳台" tvg-id="無綫新聞台"    tvg-name="無綫新聞"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
-http://127.0.0.1:8081/tvb2.php?id=2
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",陽光衛視
 https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",耀才财经台2
