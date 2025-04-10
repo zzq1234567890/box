@@ -4364,6 +4364,7 @@ https://p.168.us.kg/rthk/31/master.m3u8
 https://p.168.us.kg/rthk/32/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",香港电台31
+#EXTVLCOPT:http-user-agent=com.fongmi.android.tv/3.2.3 (Linux;Android 12)  AndroidXMedia3/1.5.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4371,6 +4372,7 @@ https://p.168.us.kg/rthk/32/master.m3u8
 https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",香港电台32
+#EXTVLCOPT:http-user-agent=com.fongmi.android.tv/3.2.3 (Linux;Android 12)  AndroidXMedia3/1.5.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
