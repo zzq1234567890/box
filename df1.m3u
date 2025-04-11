@@ -1,59 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,DAZN SPORTS 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=981a104049c34cd38586327bb6392f78:2c7b115243fd15bea5609c5ee2f0432e
-http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_UHD
-#EXTINF:-1 tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,DAZN SPORTS 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=  ffa9798599fa469089ebba467a1ef96e:5d66c522db1dc92ada235cab830323c4
-http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_UHD
-#EXTINF:-1 tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,DAZN SPORTS 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= fc7ff72ed34344e1b916ae8f47045d9a:8d8dc196be43ee4df0b5bbaf73587833
-http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_UHD
-#EXTINF:-1 tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,DAZN SPORTS 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= 6a4cfbee4b434743b91a865ea11a4398:b3f27282091320ed5cc3df30c5e0b064
-http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_UHD
-#EXTINF:-1 tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,DAZN SPORTS 5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= 128f17b233294a9fb5114b746f18ab52:bd43cf4944987cff58e2cf17ba19fa41
-http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_UHD
 
-
-#EXTINF:-1 tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,DAZN SPORTS 6
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7ff966460fc4cb98441a85a6cc53471:1eafde3e7d3bd7fe98fac545991a837a
-http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$526/index.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_UHD
-
-
-
-#EXTINF:-1 tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,DAZN SPORTS 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffa9798599fa469089ebba467a1ef96e:5d66c522db1dc92ada235cab830323c4
-http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_UHD
-
-
-#EXTINF:-1 tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,DAZN SPORTS 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc7ff72ed34344e1b916ae8f47045d9a:8d8dc196be43ee4df0b5bbaf73587833
-http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_UHD
-
-
-#EXTINF:-1 tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,DAZN SPORTS 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a4cfbee4b434743b91a865ea11a4398:b3f27282091320ed5cc3df30c5e0b064
-http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_UHD
 
 
 
@@ -62,7 +10,7 @@ http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest?start=LIVE&end=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
 http://127.0.0.1:8081/mymysuper.php?id=J
-#EXTINF:-1 tvg-id="JUHD" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,翡翠台
+#EXTINF:-1 tvg-id="JUHD" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,翡翠台4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
