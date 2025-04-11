@@ -4332,10 +4332,6 @@ http://127.0.0.1:8081/france24arabic.php
 http://127.0.0.1:8081/cnbcarabic.php
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="now直播" tvg-name="now直播" tvg-logo="https://www.nowtv.now.com/media/logo/331-wbg-c.png" group-title="港澳台",now直播
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4346,13 +4342,11 @@ http://127.0.0.1:8081/nowtvweb.php?id=331
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dfd5e04695f33e78f19b3a80326bcda:f44e2bfdbe450b7a8c4f226b35f16bc1
 http://127.0.0.1:8081/nowtvweb.php?id=332
-
 #EXTINF:-1 tvg-id="now財經" tvg-name="now財經" tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="港澳台",now財經
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07c5fcee87c33ccbb7e318b63442d797:cad1b533b7de8330910b9a61b5e2ac2c
 http://127.0.0.1:8081/nowtvweb.php?id=333
-
 #EXTINF:-1 tvg-id="Now Sports Premier" tvg-name="Now Sports Premier" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-c.png" group-title="港澳台",Now Sports Premier
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
