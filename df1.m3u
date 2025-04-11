@@ -4350,7 +4350,7 @@ http://127.0.0.1:8081/nowtvweb.php?id=332
 #EXTINF:-1 tvg-id="now財經" tvg-name="now財經" tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="港澳台",now財經
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f254bfd4b77f3f278ebf310e48efe9c2:ba0fcabaf4c3f5c5c9db7cc8bfd9f156
+#KODIPROP:inputstream.adaptive.license_key=f9c208ded2f6364493c5b0e9e319d990:110c8f5c28bfa26ea80044d93ac13922
 http://127.0.0.1:8081/nowtvweb.php?id=333
 
 #EXTINF:-1 tvg-id="Now Sports Premier" tvg-name="Now Sports Premier" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-c.png" group-title="港澳台",Now Sports Premier
