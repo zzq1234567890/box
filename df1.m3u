@@ -19,6 +19,9 @@ http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest?start=LIVE&end=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a4cfbee4b434743b91a865ea11a4398:b3f27282091320ed5cc3df30c5e0b064
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_UHD
+
+
+
 #EXTINF:-1 tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
