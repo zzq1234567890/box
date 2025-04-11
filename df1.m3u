@@ -4353,6 +4353,12 @@ http://127.0.0.1:8081/nowtvweb.php?id=332
 #KODIPROP:inputstream.adaptive.license_key=07c5fcee87c33ccbb7e318b63442d797:cad1b533b7de8330910b9a61b5e2ac2c
 http://127.0.0.1:8081/nowtvweb.php?id=333
 
+#EXTINF:-1 tvg-id="Now Sports Premier" tvg-name="Now Sports Premier" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-c.png" group-title="港澳台",Now Sports 621
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67c949dcd9953677a43fafd63bbe1556:0106c54a23d2476e3391c2c22336a9f8
+http://127.0.0.1:8081/nowtvweb.php?id=621
+
 #EXTINF:-1 tvg-id="Now Sports Premier" tvg-name="Now Sports Premier" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-c.png" group-title="港澳台",Now Sports Premier
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
