@@ -4417,6 +4417,8 @@ https://live5.tdm.com.mo/tv/cgtn71/playlist.m3u8
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",三立台湾 Sanli Taiwan
 http://kele666.serv00.net/Smart.php?id=sanlitaiwan
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",三立台湾
+https://sgp1.angelthump.com/hls/MjAyNS0wNC0xMVQyMDowNDowNi40MDVaam5sc25sNDUyNDUyNA==_jnlsnl4524524/index.m3u8
  #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台", 三立台湾 Sanli Taiwan
 https://pixman.mytvsuper.com.mp/Smart.php?id=sanlitaiwan
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",  三立戏剧台
