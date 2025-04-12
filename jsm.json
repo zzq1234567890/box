@@ -2404,7 +2404,7 @@
             "url": "./df1.m3u",
             ##"epg": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml",
 
-           "epg": " https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgdiyp.json/?ch={name}&date={date",
+           "epg": " https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgdiyp.json/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
