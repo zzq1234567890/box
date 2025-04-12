@@ -1,5 +1,5 @@
 电视台,#genre#
-
+三立台湾台,https://sgp1.angelthump.com/hls/MjAyNS0wNC0xMVQyMDowNDowNi40MDVaam5sc25sNDUyNDUyNA==_jnlsnl4524524/index.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
