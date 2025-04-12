@@ -4346,32 +4346,23 @@ http://127.0.0.1:8081/nowtvweb.php?id=332
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07c5fcee87c33ccbb7e318b63442d797:cad1b533b7de8330910b9a61b5e2ac2c
 http://127.0.0.1:8081/nowtvweb.php?id=333
-#EXTINF:-1 tvg-id="now報價" tvg-name="now報價" tvg-logo="https://www.nowtv.now.com/media/logo/336-wbg-c.png" group-title="港澳台",now報價
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07c5fcee87c33ccbb7e318b63442d797:cad1b533b7de8330910b9a61b5e2ac2c
-http://127.0.0.1:8081/nowtvweb.php?id=336
 #EXTINF:-1 tvg-id="Now Sports Premier" tvg-name="Now Sports Premier" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-c.png" group-title="港澳台",Now Sports Premier
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ccd8124570e93b52b5f112dfae129a22:9855b664b03fd3c7fd5f9c1c37ca53a8
 http://127.0.0.1:8081/nowtvweb.php?id=630
-
 #EXTINF:-1  group-title="港澳台" tvg-id="無綫新聞台"   tvg-name="無綫新聞"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
 http://127.0.0.1:8081/tvb1.php?id=NEWS
 #EXTINF:-1  group-title="港澳台" tvg-id="無綫新聞台"    tvg-name="無綫新聞"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
 http://127.0.0.1:8081/tvb2.php?id=2
-
 #EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="" group-title="港澳台",香港電台31
 https://p.168.us.kg/rthk/31/master.m3u8
 #EXTINF:-1 tvg-id="香港電台32" tvg-name="香港電台32" tvg-logo="" group-title="港澳台",香港電台32
 https://p.168.us.kg/rthk/32/master.m3u8
-
 #EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="" group-title="港澳台",香港電台31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=hhttps://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH31_Pull_DASH_WV_PR
 #KODIPROP:inputstream.adaptive.license_key=https://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH31_Pull_DASH_WV_PR
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
