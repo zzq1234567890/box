@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+#EXTINF:-1   group-title="體育" tvg-id=""600008 " tvg-name="" tvg-logo="",NBA(不定时)
+http://127.0.0.1:8081/linetv.php?id=gJ0eXN
+#EXTINF:-1   group-title="體育" tvg-id=""600008 " tvg-name="" tvg-logo="",中華職棒(不定时)
+http://127.0.0.1:8081/linetv.php?id=0PDKRp
+
 #EXTINF:-1 tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
