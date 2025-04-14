@@ -2701,10 +2701,10 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "mytvsuper",
-            "ua": "okhttp/3.12",
+            "name": "yang1985",
+            "ua": "okhttp/3.15",
             "playerType": 2,
-            "url": "http://127.0.0.1:8081/mytvsuper.php",
+            "url": "https://tv.iill.top/m3u/Gather",
             ## "url": "https://tv.iill.top/m3u/MyTV",
             "epg": "https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgmytvsuper.xml",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
