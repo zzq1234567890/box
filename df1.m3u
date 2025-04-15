@@ -4713,7 +4713,7 @@ http:/127.0.0.1:8081/ofiii1.php?id=ofiii64
 http:/127.0.0.1:8081/ofiii1.php?id=4gtv-4gtv104
 #EXTINF:-1   tvg-id="龍華經典"   tvg-name="龍華經典"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_pc.png"    group-title="litv",龍華經典
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn21
-#EXTINF:-1   tvg-id="litv-longturn03"   tvg-name="龍華電影台"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_pc.png"    group-title="litv",龍華電影台
+#EXTINF:-1   tvg-id="龍華電影"   tvg-name="龍華電影"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_pc.png"    group-title="litv",龍華電影
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn03
 
 
@@ -4805,7 +4805,7 @@ http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv011
 #EXTINF:-1   tvg-id="litv-longturn17"   tvg-name="亞洲旅遊台"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_pc.png"    group-title="litv",亞洲旅遊台
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv076
 
-#EXTINF:-1   tvg-id="litv-longturn03"   tvg-name="龍華電影台"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_pc.png"    group-title="litv",龍華電影台
+#EXTINF:-1   tvg-id="龍華電影"   tvg-name="龍華電影"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_pc.png"    group-title="litv",龍華電影
 http://127.0.0.1:8081/litvapp.php?id=litv-longturn03
 #EXTINF:-1   tvg-id="4gtv-4gtv061"   tvg-name="靖天電影台"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv061_pc.png"    group-title="litv",靖天電影台
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv061
