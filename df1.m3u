@@ -3806,7 +3806,7 @@ http://127.0.0.1:8081/cnbc181.php
 http://127.0.0.1:8081/NDTVProfitIndia.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",ntd news
 https://ntd02.akamaized.net/NTDA/index.m3u8
-#EXTINF:-1   tvg-id="100680"   tvg-name=""    tvg-logo=""    group-title="youtube world news",奥林匹克官网直播
+#EXTINF:-1   tvg-id="奥林匹克官网直播"   tvg-name="奥林匹克官网直播"    tvg-logo=""    group-title="youtube world news",奥林匹克官网直播
 http://127.0.0.1:8081/olympic.php
 #EXTINF:-1      tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="100159"   tvg-name="Euronews"    group-title="youtube world news",欧洲新闻台Euronews English Live
 http://127.0.0.1:8081/europenews.php
