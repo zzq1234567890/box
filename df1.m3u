@@ -371,7 +371,8 @@ http://127.0.0.1:8081/douyin.php?id=734284944650
 http://127.0.0.1:8081/douyin.php?id=39969987318
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",黄梅戏直播
 http://127.0.0.1:8081/douyin.php?id=320129249775
-
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",河南豫剧团
+http://127.0.0.1:8081/douyin.php?id=100520596558
 
  #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",河南豫剧团
 http://127.0.0.1:8081/douyin.php?id=848301723511
