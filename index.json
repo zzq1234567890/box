@@ -29,7 +29,7 @@
          },
          {
             "name": "真心",
-            "url": "://raw.githubusercontent.com/zzq1234567890/zhenxin/refs/heads/main/FongMi.json"
+            "url": ":https://raw.githubusercontent.com/zzq1234567890/zhenxin/refs/heads/main/FongMi.json"
          },
          {
             "name": "xing",
@@ -321,7 +321,7 @@
     "name": "王二小放牛"
     },
    {
-    "url": "https://tang.hz.cz/api/user?token=d710cb29",
+    "url": "https://tang.hz.cz/api/user?token=1b52a455",
     "name": "唐三"
     },
    {
