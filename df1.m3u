@@ -3704,7 +3704,8 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1   tvg-id="大愛電視台"   tvg-name="大愛電視台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png"    group-title="youtube中文新闻",大爱-2全球
 
 https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-
+#EXTINF:-1   tvg-id="大愛電視台"   tvg-name="大愛電視台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png"    group-title="youtube中文新闻",大爱-2全球
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1   tvg-id="大愛二台"   tvg-name="大愛二台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png"    group-title="youtube中文新闻",大爱-2全球
 http://127.0.0.1:8081/daai.php?id=1
 #EXTINF:-1   tvg-id="大愛電視台"   tvg-name="大愛電視台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png"    group-title="youtube中文新闻",大爱-1全球
