@@ -3384,7 +3384,8 @@ http://127.0.0.1:8081/ofiii.php?id=litv-longturn18
 #EXTINF:-1   tvg-id="litv-longturn22"   tvg-name="台灣戲劇台"     tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_pc.png"    group-title="litv",台灣戲劇台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn22
 
-#EXTINF:-1   tvg-id="龍華偶像"   tvg-name="龍華偶像"     tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_pc.png"     group-title="litv",龍華偶像
+#EXTINF:-1 tvg-id="龍華偶像台OTT" tvg-name="龍華偶像台OTT"  tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_pc.png"  group-title="litv",龍華偶像台OTT
+
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn12
 #EXTINF:-1   tvg-id="龍華日韓台"   tvg-name="龍華日韓台"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_pc.png"    group-title="litv",龍華日韓台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn11
@@ -3462,8 +3463,8 @@ http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv068
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv102
 #EXTINF:-1   tvg-id="litv-ftv09"   tvg-name="民視影劇台"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv09_pc.png"    group-title="litv",民視影劇台
 http://127.0.0.1:8081/litvapp.php?id=litv-ftv09
-#EXTINF:-1   tvg-id="litv-longturn12"   tvg-name="龍華偶像"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_pc.png"    group-title="litv",龍華偶像
-http://127.0.0.1:8081/litvapp.php?id=litv-longturn12
+#EXTINF:-1 tvg-id="龍華偶像台OTT" tvg-name="龍華偶像台OTT"  tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_pc.png"  group-title="litv",龍華偶像台OTT
+
 #EXTINF:-1   tvg-id="龍華日韓台"   tvg-name="龍華日韓台"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_pc.png"    group-title="litv",龍華日韓台
 http://127.0.0.1:8081/litvapp.php?id=litv-longturn11
 
