@@ -92,6 +92,40 @@
             "filterable": 0,
             "changeable": 0
         },
+         {
+            "key": "木雨网络",
+            "name": "关注公众号黑客大佬赞助作者",
+            "type": 1,
+            "jar": "./spider.jar",
+            "api": "http://ysz.wsmywlkj.top/api.php/provide/vod/",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "战争片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "国产剧",
+                "港台剧",
+                "日韩剧",
+                "欧美剧",
+                "短剧",
+                "国产动漫",
+                "日韩动漫",
+                "港台动漫",
+                "动画片",
+                "大陆综艺"
+               
+               
+               
+               ]
+               
+        },
         {
             "key": "py_jieyingshi",
             "name": "界影视(T3)",
