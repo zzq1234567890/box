@@ -96,7 +96,7 @@
             "key": "木雨网络",
             "name": "关注公众号黑客大佬赞助作者",
             "type": 1,
-            "jar": "./spider.jar",
+            "jar": "./pg.jar",
             "api": "http://ysz.wsmywlkj.top/api.php/provide/vod/",
             "playerType": 2,
             "searchable": 1,
@@ -120,9 +120,6 @@
                 "港台动漫",
                 "动画片",
                 "大陆综艺"
-               
-               
-               
                ]
                
         },
