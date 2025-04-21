@@ -4069,42 +4069,21 @@ http://127.0.0.1:8081/sbszhibo.php?id=S31
 #EXTINF:-1   tvg-id=" "   tvg-name=""    tvg-logo=""    group-title="韩国",家庭郊游
 http://127.0.0.1:8081/sbszhibo.php?id=S32
 
+
 #EXTINF:-1 tvg-id="EBS1" tvg-name=""EBS1" tvg-logo="" group-title="韩国",EBS1
-http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 tvg-id="EBS1" tvg-name=""EBS1" tvg-logo="" group-title="韩国",EBS1
-http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBS1" tvg-name=""EBS1" tvg-logo="" group-title="韩国",EBS1
-http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBS1" tvg-name=""EBS1" tvg-logo="" group-title="韩国",EBS1
-http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 tvg-id="EBS1" tvg-name=""EBS1" tvg-logo="" group-title="韩国",EBS1
-http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
-#EXTINF:-1 tvg-id="EBS1" tvg-name=""EBS1" tvg-logo="" group-title="韩国",EBS1
-http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS2" tvg-name="EBS2" tvg-logo="" group-title="韩国",EBS2
-http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBS2" tvg-name="EBS2" tvg-logo="" group-title="韩国",EBS2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 tvg-id="EBS2" tvg-name="EBS2" tvg-logo="" group-title="韩国",EBS2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+https://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="EBS CHILD" tvg-name="EBS CHILD" tvg-logo="" group-title="韩国",EBS CHILD
-http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBS CHILD" tvg-name="EBS CHILD" tvg-logo="" group-title="韩国",EBS CHILD
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w1145871295.m3u8
-#EXTINF:-1 tvg-id="EBS CHILD" tvg-name="EBS CHILD" tvg-logo="" group-title="韩国",EBS CHILD
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS PLUS1" tvg-name="EBS PLUS1" tvg-logo="" group-title="韩国",EBS PLUS1
-http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS PLUS2" tvg-name="EBS PLUS2" tvg-logo="" group-title="韩国",EBS PLUS2
-http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-id="EBS PLUS2" tvg-name="EBS PLUS2" tvg-logo="" group-title="韩国",EBS PLUS2
-http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/chunklist.m3u8
 #EXTINF:-1 tvg-id="EBS EDUCATION" tvg-name="EBS EDUCATION" tvg-logo="" group-title="韩国",EBS EDUCATION
-http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/chunklist.m3u8
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="EBS EDUCATION" tvg-name="EBS EDUCATION" tvg-logo="" group-title="韩国",EBS EDUCATION
-http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 
 
 
