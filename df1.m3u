@@ -3418,23 +3418,6 @@ http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv074
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv009
 #EXTINF:-1 tvg-id="litv-longturn15" tvg-name="寰宇新聞台灣台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_pc.png" group-title="litv",寰宇新聞台灣台
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv156
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo=""  group-title="litv",台視新聞
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv051
-
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo=""  group-title="litv",中視新聞
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv074
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo=""  group-title="litv",中天新聞台
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv009
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo=""  group-title="litv",寰宇新聞台灣台
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv156
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo=""  group-title="litv",寰宇新聞台
-http://127.0.0.1:8081/ofiii.php?id=litv-longturn14
-
-
-
-
-
-
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-logo=""  group-title="litv",第一财经
 http:/127.0.0.1:8081/ofiii1.php?id=ofiii64
 #EXTINF:-1  tvg-id="" tvg-name=""  tvg-logo=""  group-title="litv",第一商业
