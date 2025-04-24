@@ -3404,6 +3404,9 @@ http://127.0.0.1:8081/ofiii.php?id=litv-longturn11
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv052
 #EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_pc.png" group-title="litv",倪珍播新聞
 http://127.0.0.1:8081/ofiii.php?id=nnews-zh
+#EXTINF:-1 tvg-id="倪珍報氣象" tvg-name="倪珍報氣象" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_pc.png" group-title="litv",倪珍報氣象
+http://127.0.0.1:8081/ofiii.php?id=nnews-wf
+
 #EXTINF:-1 tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_pc.png" group-title="litv",三立iNEWS
 http://127.0.0.1:8081/ofiii.php?id=iNEWS
 #EXTINF:-1 tvg-id="litv-longturn23" tvg-name="寰宇財經台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_pc.png" group-title="litv",寰宇財經台
@@ -3418,9 +3421,9 @@ http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv074
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv009
 #EXTINF:-1 tvg-id="litv-longturn15" tvg-name="寰宇新聞台灣台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_pc.png" group-title="litv",寰宇新聞台灣台
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv156
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo=""  group-title="litv",第一财经
+#EXTINF:-1  tvg-id="第1財經" tvg-name="第1財經" tvg-logo=""  group-title="litv",第1財經
 http:/127.0.0.1:8081/ofiii1.php?id=ofiii64
-#EXTINF:-1  tvg-id="" tvg-name=""  tvg-logo=""  group-title="litv",第一商业
+#EXTINF:-1  tvg-id="第1商業台" tvg-name="第1商業台"  tvg-logo=""  group-title="litv",第1商業台
 http:/127.0.0.1:8081/ofiii1.php?id=4gtv-4gtv104
 #EXTINF:-1 tvg-id="龍華經典" tvg-name="龍華經典" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_pc.png" group-title="litv",龍華經典
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn21
