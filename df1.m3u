@@ -3392,7 +3392,7 @@ http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv076
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn19
 #EXTINF:-1 tvg-id="龍華戲劇" tvg-name="龍華戲劇"  tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_pc.png" group-title="litv",龍華戲劇
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn18
-#EXTINF:-1 tvg-id="litv-longturn22" tvg-name="台灣戲劇台"  tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_pc.png" group-title="litv",台灣戲劇台
+#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台"  tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_pc.png" group-title="litv",台灣戲劇台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn22
 
 #EXTINF:-1 tvg-id="龍華偶像台OTT" tvg-name="龍華偶像台OTT"  tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_pc.png"  group-title="litv",龍華偶像台OTT
