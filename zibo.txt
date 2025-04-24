@@ -1,6 +1,5 @@
 央视频,#genre#
 parse=1
-央視,#genre#
 
 cctv4k,https://www.yangshipin.cn/tv/home?pid=600002264
 cctv8k,https://www.yangshipin.cn/tv/home?pid=600156816
@@ -60,7 +59,7 @@ cgtn西班牙语,https://www.yangshipin.cn/tv/home?pid=600084744
 
 
 
-衛視,#genre#
+
 
 江苏卫视,https://yangshipin.cn/tv/home?pid=600002521
 浙江卫视,https://yangshipin.cn/tv/home?pid=600002520
