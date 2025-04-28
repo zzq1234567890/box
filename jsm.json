@@ -2538,7 +2538,35 @@
            ### "epg": "https://content.stream-link.org/epg/f846c514-51c0-4df5-854f-4c6629236150/guide.xml",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+{
 
+    "name": "4qTV ",
+
+    "url": "docker.livednow.dpdns.org/?type=m3u",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "ua": "judy/5.2.1"
+
+  },
+
+  {
+
+    "name": "香港视频 - 安卓",
+
+    "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "ua": "judy/5.2.1"
+
+  },
+
+  {
+
+    "name": "「体育」订阅",
+
+    "url": "https://smart.pendy.dpdns.org/m3u/judy.m3u",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "ua": "judy/5.2.1"
+
+  },
        {
             "name": "Plex_us",
             "url": "./Plex_us.m3u",
