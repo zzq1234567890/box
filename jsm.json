@@ -2542,7 +2542,7 @@
 
     "name": "4qTV ",
 
-    "url": "docker.livednow.dpdns.org/?type=m3u",
+    "url": "https://docker.livednow.dpdns.org/?type=m3u",
 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
     "ua": "judy/5.2.1"
 
