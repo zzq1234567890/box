@@ -2479,15 +2479,8 @@
            ## "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-            "name": "凤仙",
-            "type": 0,
-            "url": "http://lisha521.dynv6.net.fh4u.org/free.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+        
+         
         {
             "name": "df1",
             "ua": "okhttp/3.0",
@@ -2538,15 +2531,7 @@
            ### "epg": "https://content.stream-link.org/epg/f846c514-51c0-4df5-854f-4c6629236150/guide.xml",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-{
 
-    "name": "4qTV ",
-
-    "url": "https://docker.livednow.dpdns.org/?type=m3u",
-"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-    "ua": "judy/5.2.1"
-
-  },
 
   {
 
