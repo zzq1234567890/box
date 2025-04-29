@@ -3643,14 +3643,13 @@ http://127.0.0.1:8081/litvapp.php?id=litv-ftv17
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv066
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="" group-title="ofiii",中视
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv040
-#EXTINF:-1 tvg-id="華視 金獎台" tvg-name="華視 金獎台" tvg-logo="" group-title="ofiii",華視 金獎台
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv011
-#EXTINF:-1 tvg-id="公视金典台" tvg-name="公视金典台" tvg-logo="" group-title="ofiii",公视金典台
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv013
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="" group-title="ofiii",華視
+http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv041
+#EXTINF:-1 tvg-id="公视金典台" tvg-name="公视金典台" tvg-logo="" group-title="ofiii",公視金獎台
+http://127.0.0.1:8081/ofiii.php?id=ofiii13
 #EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="" group-title="ofiii",好消息2台
 http://127.0.0.1:8081/ofiii.php?id=litv-ftv17
-#EXTINF:-1 tvg-id="台视 新闻" tvg-name="台视 新闻" tvg-logo="" group-title="ofiii",台视 新闻
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv06
+
 #EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="" group-title="ofiii",好消息
 http://127.0.0.1:8081/ofiii.php?id=litv-ftv16
 #EXTINF:-1 tvg-id="ELTV生活英语台" tvg-name="ELTV生活英语台" tvg-logo="" group-title="ofiii",ELTV生活英语台
@@ -3658,22 +3657,22 @@ http://127.0.0.1:8081/ofiii.php?id=litv-longturn20
 #EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="" group-title="ofiii",龍華卡通台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn01
 #EXTINF:-1 tvg-id="哆啦A梦(中文)" tvg-name="哆啦A梦(中文)" tvg-logo="" group-title="ofiii",哆啦A梦(中文)
-http://127.0.0.1:8081/ofiii.php?id=ofiii122
-#EXTINF:-1 tvg-id="哆啦A梦 中文版" tvg-name="哆啦A梦 中文版" tvg-logo="" group-title="ofiii",哆啦A梦 中文版
-http://127.0.0.1:8081/ofiii.php?id=ofiii123
+http://127.0.0.1:8081/ofiii.php?id=ofiii22
+#EXTINF:-1 tvg-id="哆啦A梦中文版" tvg-name="哆啦A梦中文版" tvg-logo="" group-title="ofiii",哆啦A梦中文版
+http://127.0.0.1:8081/ofiii.php?id=ofiii23
 #EXTINF:-1 tvg-id="TVBS食尚玩家" tvg-name="TVBS食尚玩家" tvg-logo="" group-title="ofiii",TVBS食尚玩家
-http://127.0.0.1:8081/ofiii.php?id=ofiii13
+http://127.0.0.1:8081/ofiii.php?id=ofiii131
 #EXTINF:-1 tvg-id="東森娱乐台" tvg-name="東森娱乐台" tvg-logo="" group-title="ofiii",東森娱乐台
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv32
-#EXTINF:-1 tvg-id="東風旅遊台" tvg-name="東風旅遊台" tvg-logo="" group-title="ofiii",東風旅遊台
+http://127.0.0.1:8081/ofiii.php?id=ofiii32
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="" group-title="ofiii",亞洲旅遊台
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv076
-#EXTINF:-1 tvg-id="中天亚洲精选台" tvg-name="中天亚洲精选台" tvg-logo="" group-title="ofiii",中天亚洲精选台
+#EXTINF:-1 tvg-id="中天亚洲精采台" tvg-name="中天亚洲精采台" tvg-logo="" group-title="ofiii",中天亚洲精采台
 http://127.0.0.1:8081/ofiii.php?id=ofiii36
 #EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="" group-title="ofiii",Smart知識台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn19
 #EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="" group-title="ofiii",經典劇場
 http://127.0.0.1:8081/ofiii.php?id=ofiii38
-#EXTINF:-1 tvg-id="短距离马拉松" tvg-name="短距离马拉松" tvg-logo="" group-title="ofiii",短距离马拉松
+#EXTINF:-1 tvg-id="短劇馬拉松" tvg-name="短劇馬拉松" tvg-logo="" group-title="ofiii",短劇馬拉松
 http://127.0.0.1:8081/ofiii.php?id=ofiii39
 #EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="" group-title="ofiii",龍華戲劇台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn18
@@ -3685,20 +3684,20 @@ http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv102
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn12
 #EXTINF:-1 tvg-id="龍華日韩台" tvg-name="龍華日韩台" tvg-logo="" group-title="ofiii",龍華日韩台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn11
-#EXTINF:-1 tvg-id="Yes娱乐 产製台" tvg-name="Yes娱乐 产製台" tvg-logo="" group-title="ofiii",Yes娱乐 产製台
+#EXTINF:-1 tvg-id="Yes娱乐" tvg-name="Yes娱乐" tvg-logo="" group-title="ofiii",Yes娱乐
 http://127.0.0.1:8081/ofiii.php?id=ofiii47
-#EXTINF:-1 tvg-id="楓康樂采劇場" tvg-name="楓康樂采劇場" tvg-logo="" group-title="ofiii",楓康樂采劇場
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="" group-title="ofiii",Focus風采戲劇台
 http://127.0.0.1:8081/ofiii.php?id=ofiii48
 #EXTINF:-1 tvg-id="東森购物2台" tvg-name="東森购物2台" tvg-logo="" group-title="ofiii",東森购物2台
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv103
-#EXTINF:-1 tvg-id="狗新闻" tvg-name="狗新闻" tvg-logo="" group-title="ofiii",狗新闻
+#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="" group-title="ofiii",掏掏新聞
 http://127.0.0.1:8081/ofiii.php?id=ofiii50
 #EXTINF:-1 tvg-id="柯文哲政治風波" tvg-name="柯文哲政治風波" tvg-logo="" group-title="ofiii",柯文哲政治風波
 http://127.0.0.1:8081/ofiii.php?id=ofiii51
-#EXTINF:-1 tvg-id="華视新闻 台" tvg-name="華视新闻 台" tvg-logo="" group-title="ofiii",華视新闻 台
+#EXTINF:-1 tvg-id="華视新闻" tvg-name="華视新闻" tvg-logo="" group-title="ofiii",華视新闻
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv052
-#EXTINF:-1 tvg-id="倪珍新聞" tvg-name="倪珍新聞" tvg-logo="" group-title="ofiii",倪珍新聞
-http://127.0.0.1:8081/ofiii.php?id=ofiii52
+#EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞" tvg-logo="" group-title="ofiii",倪珍播新聞
+http://127.0.0.1:8081/ofiii.php?id=nnews-zh
 #EXTINF:-1 tvg-id="三立新闻iNEWS" tvg-name="三立新闻iNEWS" tvg-logo="" group-title="ofiii",三立新闻iNEWS
 http://127.0.0.1:8081/ofiii.php?id=iNEWS
 #EXTINF:-1 tvg-id="國際大小事" tvg-name="國際大小事" tvg-logo="" group-title="ofiii",國際大小事
@@ -3710,9 +3709,9 @@ http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv158
 #EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="" group-title="ofiii",台視新聞
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv051
 #EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="" group-title="ofiii",中視新聞
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv071
+http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv074
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="" group-title="ofiii",中天新聞台
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv003
+http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv009
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="" group-title="ofiii",寰宇新聞台
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv156
 #EXTINF:-1 tvg-id="寰宇新聞 台" tvg-name="寰宇新聞 台" tvg-logo="" group-title="ofiii",寰宇新聞 台
@@ -3726,7 +3725,7 @@ http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv084
 #EXTINF:-1 tvg-id="國會頻道2台" tvg-name="國會頻道2台" tvg-logo="" group-title="ofiii",國會頻道2台
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv085
 #EXTINF:-1 tvg-id="倪珍報氣象" tvg-name="倪珍報氣象" tvg-logo="" group-title="ofiii",倪珍報氣象
-http://127.0.0.1:8081/ofiii.php?id=news-wtv
+http://127.0.0.1:8081/ofiii.php?id=nnews-wf
 #EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="" group-title="ofiii",龍華經典台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn21
 #EXTINF:-1 tvg-id="Golden強片台" tvg-name="Golden強片台" tvg-logo="" group-title="ofiii",Golden強片台
@@ -3741,17 +3740,17 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii73
 http://127.0.0.1:8081/ofiii.php?id=ofiii74
 #EXTINF:-1 tvg-id="歐飛動作電影台" tvg-name="歐飛動作電影台" tvg-logo="" group-title="ofiii",歐飛動作電影台
 http://127.0.0.1:8081/ofiii.php?id=ofiii75
-#EXTINF:-1 tvg-id="倪珍睡前新聞" tvg-name="倪珍睡前新聞" tvg-logo="" group-title="ofiii",倪珍睡前新聞
-http://127.0.0.1:8081/ofiii.php?id=news-vn
-#EXTINF:-1 tvg-id="Foxus探索新聞台" tvg-name="Foxus探索新聞台" tvg-logo="" group-title="ofiii",Foxus探索新聞台
+#EXTINF:-1 tvg-id="倪珍越南語新聞" tvg-name="倪珍越南語新聞" tvg-logo="" group-title="ofiii",倪珍越南語新聞
+http://127.0.0.1:8081/ofiii.php?id=nnews-vn
+#EXTINF:-1 tvg-id="Focus探索新知台" tvg-name="Focus探索新知台" tvg-logo="" group-title="ofiii",Focus探索新知台
 http://127.0.0.1:8081/ofiii.php?id=ofiii82
-#EXTINF:-1 tvg-id="銘傳大學問" tvg-name="銘傳大學問" tvg-logo="" group-title="ofiii",銘傳大學問
+#EXTINF:-1 tvg-id="鄉民大學問" tvg-name="鄉民大學問" tvg-logo="" group-title="ofiii",鄉民大學問
 http://127.0.0.1:8081/ofiii.php?id=ofiii83
 #EXTINF:-1 tvg-id="野球名人房" tvg-name="野球名人房" tvg-logo="" group-title="ofiii",野球名人房
 http://127.0.0.1:8081/ofiii.php?id=ofiii84
 #EXTINF:-1 tvg-id="社會NOW什麼" tvg-name="社會NOW什麼" tvg-logo="" group-title="ofiii",社會NOW什麼
 http://127.0.0.1:8081/ofiii.php?id=ofiii85
-#EXTINF:-1 tvg-id="啦唬隊廖家專訪" tvg-name="啦唬隊廖家專訪" tvg-logo="" group-title="ofiii",啦唬隊廖家專訪
+#EXTINF:-1 tvg-id="啦啦隊獨家專訪" tvg-name="啦啦隊獨家專訪" tvg-logo="" group-title="ofiii",啦啦隊獨家專訪
 http://127.0.0.1:8081/ofiii.php?id=ofiii88
 #EXTINF:-1 tvg-id="泰可愛瘋風" tvg-name="泰可愛瘋風" tvg-logo="" group-title="ofiii",泰可愛瘋風
 http://127.0.0.1:8081/ofiii.php?id=ofiii89
@@ -3763,19 +3762,19 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii92
 http://127.0.0.1:8081/ofiii.php?id=ofiii94
 #EXTINF:-1 tvg-id="FreeMan @台灣" tvg-name="FreeMan @台灣" tvg-logo="" group-title="ofiii",FreeMan @台灣
 http://127.0.0.1:8081/ofiii.php?id=ofiii95
-#EXTINF:-1 tvg-id="霧容掀轰" tvg-name="霧容掀轰" tvg-logo="" group-title="ofiii",霧容掀轰
+#EXTINF:-1 tvg-id="饕客揪愛吃" tvg-name="饕客揪愛吃" tvg-logo="" group-title="ofiii",饕客揪愛吃
 http://127.0.0.1:8081/ofiii.php?id=ofiii96
-#EXTINF:-1 tvg-id="大氣動漫廣告" tvg-name="大氣動漫廣告" tvg-logo="" group-title="ofiii",大氣動漫廣告
+#EXTINF:-1 tvg-id="人氣動漫廣告" tvg-name="人氣動漫廣告" tvg-logo="" group-title="ofiii",人氣動漫廣告
 http://127.0.0.1:8081/ofiii.php?id=ofiii97
 #EXTINF:-1 tvg-id="銀髮聚樂部" tvg-name="銀髮聚樂部" tvg-logo="" group-title="ofiii",銀髮聚樂部
 http://127.0.0.1:8081/ofiii.php?id=ofiii99
-#EXTINF:-1 tvg-id="綜藝安排" tvg-name="綜藝安排" tvg-logo="" group-title="ofiii",綜藝安排
+#EXTINF:-1 tvg-id="錦繡安寧" tvg-name="錦繡安寧" tvg-logo="" group-title="ofiii",錦繡安寧
 http://127.0.0.1:8081/ofiii.php?id=ofiii100
 #EXTINF:-1 tvg-id="瑯琊榜" tvg-name="瑯琊榜" tvg-logo="" group-title="ofiii",瑯琊榜
 http://127.0.0.1:8081/ofiii.php?id=ofiii101
 #EXTINF:-1 tvg-id="扶搖" tvg-name="扶搖" tvg-logo="" group-title="ofiii",扶搖
 http://127.0.0.1:8081/ofiii.php?id=ofiii102
-#EXTINF:-1 tvg-id="三國 志傳" tvg-name="三國 志傳" tvg-logo="" group-title="ofiii",三國 志傳
+#EXTINF:-1 tvg-id="三國" tvg-name="三國" tvg-logo="" group-title="ofiii",三國
 http://127.0.0.1:8081/ofiii.php?id=ofiii103
 #EXTINF:-1 tvg-id="武媚娘傳奇" tvg-name="武媚娘傳奇" tvg-logo="" group-title="ofiii",武媚娘傳奇
 http://127.0.0.1:8081/ofiii.php?id=ofiii104
@@ -3791,33 +3790,34 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii108
 http://127.0.0.1:8081/ofiii.php?id=ofiii110
 #EXTINF:-1 tvg-id="倚天屠龍記 2019" tvg-name="倚天屠龍記 2019" tvg-logo="" group-title="ofiii",倚天屠龍記 2019
 http://127.0.0.1:8081/ofiii.php?id=ofiii111
-#EXTINF:-1 tvg-id="披荊斬棘的小女" tvg-name="披荊斬棘的小女" tvg-logo="" group-title="ofiii",披荊斬棘的小女
+#EXTINF:-1 tvg-id="披荊斬棘的大小姐" tvg-name="披荊斬棘的大小姐" tvg-logo="" group-title="ofiii",披荊斬棘的大小姐
 http://127.0.0.1:8081/ofiii.php?id=ofiii112
 #EXTINF:-1 tvg-id="步步驚心" tvg-name="步步驚心" tvg-logo="" group-title="ofiii",步步驚心
 http://127.0.0.1:8081/ofiii.php?id=ofiii113
-#EXTINF:-1 tvg-id="九義人" tvg-name="九義人" tvg-logo="" group-title="ofiii",九義人
+#EXTINF:-1 tvg-id="九重紫" tvg-name="九重紫" tvg-logo="" group-title="ofiii",九重紫
 http://127.0.0.1:8081/ofiii.php?id=ofiii114
-#EXTINF:-1 tvg-id="私塾浪漫" tvg-name="私塾浪漫" tvg-logo="" group-title="ofiii",私塾浪漫
+#EXTINF:-1 tvg-id="私藏浪漫" tvg-name="私藏浪漫" tvg-logo="" group-title="ofiii",私藏浪漫
 http://127.0.0.1:8081/ofiii.php?id=ofiii115
-#EXTINF:-1 tvg-id="以鳥為營" tvg-name="以鳥為營" tvg-logo="" group-title="ofiii",以鳥為營
-http://127.0.0.1:8081/ofiii.php?id=ofiii116
+
 #EXTINF:-1 tvg-id="去有風的地方" tvg-name="去有風的地方" tvg-logo="" group-title="ofiii",去有風的地方
+http://127.0.0.1:8081/ofiii.php?id=ofiii116
+#EXTINF:-1 tvg-id="以愛為營" tvg-name="以愛為營" tvg-logo="" group-title="ofiii",以愛為營
 http://127.0.0.1:8081/ofiii.php?id=ofiii117
 #EXTINF:-1 tvg-id="向風而行" tvg-name="向風而行" tvg-logo="" group-title="ofiii",向風而行
 http://127.0.0.1:8081/ofiii.php?id=ofiii118
 #EXTINF:-1 tvg-id="以家人之名" tvg-name="以家人之名" tvg-logo="" group-title="ofiii",以家人之名
 http://127.0.0.1:8081/ofiii.php?id=ofiii119
-#EXTINF:-1 tvg-id="好瘋家" tvg-name="好瘋家" tvg-logo="" group-title="ofiii",好瘋家
+#EXTINF:-1 tvg-id="好運家" tvg-name="好運家" tvg-logo="" group-title="ofiii",好運家
 http://127.0.0.1:8081/ofiii.php?id=ofiii121
 #EXTINF:-1 tvg-id="請叫我總監" tvg-name="請叫我總監" tvg-logo="" group-title="ofiii",請叫我總監
 http://127.0.0.1:8081/ofiii.php?id=ofiii122
-#EXTINF:-1 tvg-id="月娘" tvg-name="月娘" tvg-logo="" group-title="ofiii",月娘
+#EXTINF:-1 tvg-id="司藤" tvg-name="司藤" tvg-logo="" group-title="ofiii",司藤
 http://127.0.0.1:8081/ofiii.php?id=ofiii123
 #EXTINF:-1 tvg-id="月嫂先生" tvg-name="月嫂先生" tvg-logo="" group-title="ofiii",月嫂先生
 http://127.0.0.1:8081/ofiii.php?id=ofiii124
-#EXTINF:-1 tvg-id="豬哥亮辣秀" tvg-name="豬哥亮辣秀" tvg-logo="" group-title="ofiii",豬哥亮辣秀
+#EXTINF:-1 tvg-id="豬哥壹級棒" tvg-name="豬哥壹級棒" tvg-logo="" group-title="ofiii",豬哥壹級棒
 http://127.0.0.1:8081/ofiii.php?id=ofiii126
-#EXTINF:-1 tvg-id="尋師訪練" tvg-name="尋師訪練" tvg-logo="" group-title="ofiii",尋師訪練
+#EXTINF:-1 tvg-id="醫師好辣" tvg-name="醫師好辣" tvg-logo="" group-title="ofiii",醫師好辣
 http://127.0.0.1:8081/ofiii.php?id=ofiii128
 #EXTINF:-1 tvg-id="WTO姐妹會" tvg-name="WTO姐妹會" tvg-logo="" group-title="ofiii",WTO姐妹會
 http://127.0.0.1:8081/ofiii.php?id=ofiii129
@@ -3825,6 +3825,9 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii129
 http://127.0.0.1:8081/ofiii.php?id=ofiii130
 #EXTINF:-1 tvg-id="全民星攻略" tvg-name="全民星攻略" tvg-logo="" group-title="ofiii",全民星攻略
 http://127.0.0.1:8081/ofiii.php?id=ofiii131
+
+#EXTINF:-1 tvg-id="健康2.0" tvg-name="健康2.0" tvg-logo="" group-title="ofiii",健康2.0
+http://127.0.0.1:8081/ofiii.php?id=ofiii132
 #EXTINF:-1 tvg-id="台灣啟示錄" tvg-name="台灣啟示錄" tvg-logo="" group-title="ofiii",台灣啟示錄
 http://127.0.0.1:8081/ofiii.php?id=ofiii133
 #EXTINF:-1 tvg-id="法眼黑與白" tvg-name="法眼黑與白" tvg-logo="" group-title="ofiii",法眼黑與白
@@ -3839,15 +3842,15 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii137
 http://127.0.0.1:8081/ofiii.php?id=ofiii138
 #EXTINF:-1 tvg-id="威廉沈歡樂送" tvg-name="威廉沈歡樂送" tvg-logo="" group-title="ofiii",威廉沈歡樂送
 http://127.0.0.1:8081/ofiii.php?id=ofiii139
-#EXTINF:-1 tvg-id="木曜4超玩 日系列" tvg-name="木曜4超玩 日系列" tvg-logo="" group-title="ofiii",木曜4超玩 日系列
+#EXTINF:-1 tvg-id="木曜4超玩一日系列" tvg-name="木曜4超玩一日系列" tvg-logo="" group-title="ofiii",木曜4超玩一日系列
 http://127.0.0.1:8081/ofiii.php?id=ofiii140
-#EXTINF:-1 tvg-id="一字千金 一台" tvg-name="一字千金 一台" tvg-logo="" group-title="ofiii",一字千金 一台
+#EXTINF:-1 tvg-id="一字千金" tvg-name="一字千金" tvg-logo="" group-title="ofiii",一字千金
 http://127.0.0.1:8081/ofiii.php?id=ofiii142
-#EXTINF:-1 tvg-id="11點熱炒店" tvg-name="11點熱炒店" tvg-logo="" group-title="ofiii",11點熱炒店
+#EXTINF:-1 tvg-id="111點熱吵店" tvg-name="11點熱吵店" tvg-logo="" group-title="ofiii",11點熱吵店
 http://127.0.0.1:8081/ofiii.php?id=ofiii143
 #EXTINF:-1 tvg-id="回到20歲" tvg-name="回到20歲" tvg-logo="" group-title="ofiii",回到20歲
 http://127.0.0.1:8081/ofiii.php?id=ofiii145
-#EXTINF:-1 tvg-id="自營公主非死不可" tvg-name="自營公主非死不可" tvg-logo="" group-title="ofiii",自營公主非死不可
+#EXTINF:-1 tvg-id="白雪公主非死不可" tvg-name="白雪公主非死不可" tvg-logo="" group-title="ofiii",白雪公主非死不可
 http://127.0.0.1:8081/ofiii.php?id=ofiii146
 #EXTINF:-1 tvg-id="好搭檔" tvg-name="好搭檔" tvg-logo="" group-title="ofiii",好搭檔
 http://127.0.0.1:8081/ofiii.php?id=ofiii147
@@ -3855,7 +3858,7 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii147
 http://127.0.0.1:8081/ofiii.php?id=ofiii148
 #EXTINF:-1 tvg-id="凌晨兩點的灰姑娘" tvg-name="凌晨兩點的灰姑娘" tvg-logo="" group-title="ofiii",凌晨兩點的灰姑娘
 http://127.0.0.1:8081/ofiii.php?id=ofiii149
-#EXTINF:-1 tvg-id="包青天異事" tvg-name="包青天異事" tvg-logo="" group-title="ofiii",包青天異事
+#EXTINF:-1 tvg-id="台灣靈異事件" tvg-name="台灣靈異事件" tvg-logo="" group-title="ofiii",台灣靈異事件
 http://127.0.0.1:8081/ofiii.php?id=ofiii150
 #EXTINF:-1 tvg-id="包青天 1993版" tvg-name="包青天 1993版" tvg-logo="" group-title="ofiii",包青天 1993版
 http://127.0.0.1:8081/ofiii.php?id=ofiii151
@@ -3865,15 +3868,15 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii152
 http://127.0.0.1:8081/ofiii.php?id=ofiii153
 #EXTINF:-1 tvg-id="一把青" tvg-name="一把青" tvg-logo="" group-title="ofiii",一把青
 http://127.0.0.1:8081/ofiii.php?id=ofiii154
-#EXTINF:-1 tvg-id="華金" tvg-name="華金" tvg-logo="" group-title="ofiii",華金
+#EXTINF:-1 tvg-id="茶金" tvg-name="茶金" tvg-logo="" group-title="ofiii",茶金
 http://127.0.0.1:8081/ofiii.php?id=ofiii155
-#EXTINF:-1 tvg-id="苦命 婆媽記" tvg-name="苦命 婆媽記" tvg-logo="" group-title="ofiii",苦命 婆媽記
+#EXTINF:-1 tvg-id="苦力" tvg-name="苦力" tvg-logo="" group-title="ofiii",苦力
 http://127.0.0.1:8081/ofiii.php?id=ofiii156
 #EXTINF:-1 tvg-id="俗女養成記" tvg-name="俗女養成記" tvg-logo="" group-title="ofiii",俗女養成記
 http://127.0.0.1:8081/ofiii.php?id=ofiii157
-#EXTINF:-1 tvg-id="麻辣风暴" tvg-name="麻辣风暴" tvg-logo="" group-title="ofiii",麻辣风暴
+#EXTINF:-1 tvg-id="麻醉風暴" tvg-name="麻醉風暴" tvg-logo="" group-title="ofiii",麻醉風暴
 http://127.0.0.1:8081/ofiii.php?id=ofiii158
-#EXTINF:-1 tvg-id="雖然等級只有1但固有技能是最強的" tvg-name="雖然等級只有1但固有技能是最強的" tvg-logo="" group-title="ofiii",雖然等級只有1但固有技能是最強的
+#EXTINF:-1 tvg-id="雖然等級只有1級但固有技能是最強的" tvg-name="雖然等級只有1級但固有技能是最強的" tvg-logo="" group-title="ofiii",雖然等級只有1級但固有技能是最強的
 http://127.0.0.1:8081/ofiii.php?id=ofiii159
 #EXTINF:-1 tvg-id="擁有超常技能的異世界流浪美食家" tvg-name="擁有超常技能的異世界流浪美食家" tvg-logo="" group-title="ofiii",擁有超常技能的異世界流浪美食家
 http://127.0.0.1:8081/ofiii.php?id=ofiii160
@@ -3915,7 +3918,7 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii177
 http://127.0.0.1:8081/ofiii.php?id=ofiii178
 #EXTINF:-1 tvg-id="葬送的芙莉蓮" tvg-name="葬送的芙莉蓮" tvg-logo="" group-title="ofiii",葬送的芙莉蓮
 http://127.0.0.1:8081/ofiii.php?id=ofiii179
-#EXTINF:-1 tvg-id="史上最強弟子 一(中文版)" tvg-name="史上最強弟子 一(中文版)" tvg-logo="" group-title="ofiii",史上最強弟子 一(中文版)
+#EXTINF:-1 tvg-id="史上最強弟子兼 一(中文版)" tvg-name="史上最強弟子兼 一(中文版)" tvg-logo="" group-title="ofiii",史上最強弟子兼 一(中文版)
 http://127.0.0.1:8081/ofiii.php?id=ofiii180
 #EXTINF:-1 tvg-id="爆漫王(中文版)" tvg-name="爆漫王(中文版)" tvg-logo="" group-title="ofiii",爆漫王(中文版)
 http://127.0.0.1:8081/ofiii.php?id=ofiii181
@@ -3925,11 +3928,11 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii182
 http://127.0.0.1:8081/ofiii.php?id=ofiii183
 #EXTINF:-1 tvg-id="新忍者哈特利" tvg-name="新忍者哈特利" tvg-logo="" group-title="ofiii",新忍者哈特利
 http://127.0.0.1:8081/ofiii.php?id=ofiii184
-#EXTINF:-1 tvg-id="生命的禮物" tvg-name="生命的禮物" tvg-logo="" group-title="ofiii",生命的禮物
+#EXTINF:-1 tvg-id="生命的贏家" tvg-name="生命的贏家" tvg-logo="" group-title="ofiii",生命的贏家
 http://127.0.0.1:8081/ofiii.php?id=ofiii192
 #EXTINF:-1 tvg-id="海派甜心" tvg-name="海派甜心" tvg-logo="" group-title="ofiii",海派甜心
 http://127.0.0.1:8081/ofiii.php?id=ofiii195
-#EXTINF:-1 tvg-id="不敗神花" tvg-name="不敗神花" tvg-logo="" group-title="ofiii",不敗神花
+#EXTINF:-1 tvg-id="不良笑花" tvg-name="不良笑花" tvg-logo="" group-title="ofiii",不良笑花
 http://127.0.0.1:8081/ofiii.php?id=ofiii196
 #EXTINF:-1 tvg-id="戰神" tvg-name="戰神" tvg-logo="" group-title="ofiii",戰神
 http://127.0.0.1:8081/ofiii.php?id=ofiii197
@@ -3937,7 +3940,7 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii197
 http://127.0.0.1:8081/ofiii.php?id=ofiii198
 #EXTINF:-1 tvg-id="呼叫大明星" tvg-name="呼叫大明星" tvg-logo="" group-title="ofiii",呼叫大明星
 http://127.0.0.1:8081/ofiii.php?id=ofiii199
-#EXTINF:-1 tvg-id="大開明大爆卦" tvg-name="大開明大爆卦" tvg-logo="" group-title="ofiii",大開明大爆卦
+#EXTINF:-1 tvg-id="大新聞大爆卦" tvg-name="大新聞大爆卦" tvg-logo="" group-title="ofiii",大新聞大爆卦
 http://127.0.0.1:8081/ofiii.php?id=ofiii201
 #EXTINF:-1 tvg-id="新聞大白話" tvg-name="新聞大白話" tvg-logo="" group-title="ofiii",新聞大白話
 http://127.0.0.1:8081/ofiii.php?id=ofiii202
@@ -3947,7 +3950,7 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii203
 http://127.0.0.1:8081/ofiii.php?id=ofiii204
 #EXTINF:-1 tvg-id="文茜的世界財經周報" tvg-name="文茜的世界財經周報" tvg-logo="" group-title="ofiii",文茜的世界財經周報
 http://127.0.0.1:8081/ofiii.php?id=ofiii205
-#EXTINF:-1 tvg-id="環球大職線" tvg-name="環球大職線" tvg-logo="" group-title="ofiii",環球大職線
+#EXTINF:-1 tvg-id="環球大戰線" tvg-name="環球大戰線" tvg-logo="" group-title="ofiii",環球大戰線
 http://127.0.0.1:8081/ofiii.php?id=ofiii206
 #EXTINF:-1 tvg-id="少康戰情室" tvg-name="少康戰情室" tvg-logo="" group-title="ofiii",少康戰情室
 http://127.0.0.1:8081/ofiii.php?id=ofiii207
@@ -3957,11 +3960,11 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii208
 http://127.0.0.1:8081/ofiii.php?id=ofiii215
 #EXTINF:-1 tvg-id="SICAR愛車酷" tvg-name="SICAR愛車酷" tvg-logo="" group-title="ofiii",SICAR愛車酷
 http://127.0.0.1:8081/ofiii.php?id=ofiii216
-#EXTINF:-1 tvg-id="狂人日記" tvg-name="狂人日記" tvg-logo="" group-title="ofiii",狂人日記
+#EXTINF:-1 tvg-id="狂人日誌" tvg-name="狂人日誌" tvg-logo="" group-title="ofiii",狂人日誌
 http://127.0.0.1:8081/ofiii.php?id=ofiii217
 #EXTINF:-1 tvg-id="痞子說 Mr. Neck" tvg-name="痞子說 Mr. Neck" tvg-logo="" group-title="ofiii",痞子說 Mr. Neck
 http://127.0.0.1:8081/ofiii.php?id=ofiii218
-#EXTINF:-1 tvg-id="食尚玩家 - Hello饞饞代" tvg-name="食尚玩家 - Hello饞饞代" tvg-logo="" group-title="ofiii",食尚玩家 - Hello饞饞代
+#EXTINF:-1 tvg-id="食尚玩家 - Hello腹餓代" tvg-name="食尚玩家 - Hello腹餓代" tvg-logo="" group-title="ofiii",食尚玩家 - Hello腹餓代
 http://127.0.0.1:8081/ofiii.php?id=ofiii225
 #EXTINF:-1 tvg-id="食尚玩家 - 天菜就醬吃" tvg-name="食尚玩家 - 天菜就醬吃" tvg-logo="" group-title="ofiii",食尚玩家 - 天菜就醬吃
 http://127.0.0.1:8081/ofiii.php?id=ofiii226
@@ -3969,13 +3972,13 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii226
 http://127.0.0.1:8081/ofiii.php?id=ofiii227
 #EXTINF:-1 tvg-id="食尚玩家 - 熱血48小時" tvg-name="食尚玩家 - 熱血48小時" tvg-logo="" group-title="ofiii",食尚玩家 - 熱血48小時
 http://127.0.0.1:8081/ofiii.php?id=ofiii228
-#EXTINF:-1 tvg-id="食尚玩家 - 瘋肉鄉民" tvg-name="食尚玩家 - 瘋肉鄉民" tvg-logo="" group-title="ofiii",食尚玩家 - 瘋肉鄉民
+#EXTINF:-1 tvg-id="食尚玩家 - 魚肉鄉民" tvg-name="食尚玩家 - 魚肉鄉民" tvg-logo="" group-title="ofiii",食尚玩家 - 魚肉鄉民
 http://127.0.0.1:8081/ofiii.php?id=ofiii229
 #EXTINF:-1 tvg-id="食尚玩家 - 瘋狂總部" tvg-name="食尚玩家 - 瘋狂總部" tvg-logo="" group-title="ofiii",食尚玩家 - 瘋狂總部
 http://127.0.0.1:8081/ofiii.php?id=ofiii230
-#EXTINF:-1 tvg-id="非凡1400" tvg-name="非凡1400" tvg-logo="" group-title="ofiii",非凡1400
+#EXTINF:-1 tvg-id="非凡大探索" tvg-name="非凡大探索" tvg-logo="" group-title="ofiii",非凡大探索
 http://127.0.0.1:8081/ofiii.php?id=ofiii234
-#EXTINF:-1 tvg-id="台灣101個故事" tvg-name="台灣101個故事" tvg-logo="" group-title="ofiii",台灣101個故事
+#EXTINF:-1 tvg-id="台灣1001個故事" tvg-name="台灣1001個故事" tvg-logo="" group-title="ofiii",台灣1001個故事
 http://127.0.0.1:8081/ofiii.php?id=ofiii235
 #EXTINF:-1 tvg-id="詹姆士出走料理" tvg-name="詹姆士出走料理" tvg-logo="" group-title="ofiii",詹姆士出走料理
 http://127.0.0.1:8081/ofiii.php?id=ofiii236
@@ -3985,7 +3988,7 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii237
 http://127.0.0.1:8081/ofiii.php?id=ofiii238
 #EXTINF:-1 tvg-id="台灣第一等" tvg-name="台灣第一等" tvg-logo="" group-title="ofiii",台灣第一等
 http://127.0.0.1:8081/ofiii.php?id=ofiii239
-#EXTINF:-1 tvg-id="漁遊未竟" tvg-name="漁遊未竟" tvg-logo="" group-title="ofiii",漁遊未竟
+#EXTINF:-1 tvg-id="溢遊未盡" tvg-name="溢遊未盡" tvg-logo="" group-title="ofiii",溢遊未盡
 http://127.0.0.1:8081/ofiii.php?id=ofiii240
 #EXTINF:-1 tvg-id="台灣真善美" tvg-name="台灣真善美" tvg-logo="" group-title="ofiii",台灣真善美
 http://127.0.0.1:8081/ofiii.php?id=ofiii241
@@ -3993,20 +3996,21 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii241
 http://127.0.0.1:8081/ofiii.php?id=ofiii242
 #EXTINF:-1 tvg-id="早餐中國" tvg-name="早餐中國" tvg-logo="" group-title="ofiii",早餐中國
 http://127.0.0.1:8081/ofiii.php?id=ofiii243
-#EXTINF:-1 tvg-id="漁趣邀打卡" tvg-name="漁趣邀打卡" tvg-logo="" group-title="ofiii",漁趣邀打卡
+#EXTINF:-1 tvg-id="溢起趣打卡" tvg-name="溢起趣打卡" tvg-logo="" group-title="ofiii",溢起趣打卡
 http://127.0.0.1:8081/ofiii.php?id=ofiii244
-#EXTINF:-1 tvg-id="台灣鹽田曬味道" tvg-name="台灣鹽田曬味道" tvg-logo="" group-title="ofiii",台灣鹽田曬味道
+#EXTINF:-1 tvg-id="台灣壹百種味道" tvg-name="台灣壹百種味道" tvg-logo="" group-title="ofiii",台灣壹百種味道
 http://127.0.0.1:8081/ofiii.php?id=ofiii245
-#EXTINF:-1 tvg-id="舒壓雷射療" tvg-name="舒壓雷射療" tvg-logo="" group-title="ofiii",舒壓雷射療
+#EXTINF:-1 tvg-id="紓壓雷雨聲" tvg-name="紓壓雷雨聲" tvg-logo="" group-title="ofiii",紓壓雷雨聲
 http://127.0.0.1:8081/ofiii.php?id=ofiii250
 #EXTINF:-1 tvg-id="療癒下雨聲" tvg-name="療癒下雨聲" tvg-logo="" group-title="ofiii",療癒下雨聲
 http://127.0.0.1:8081/ofiii.php?id=ofiii251
-#EXTINF:-1 tvg-id="放鬆的鬥牛午後" tvg-name="放鬆的鬥牛午後" tvg-logo="" group-title="ofiii",放鬆的鬥牛午後
+#EXTINF:-1 tvg-id="放鬆的爵士午後" tvg-name="放鬆的爵士午後" tvg-logo="" group-title="ofiii",放鬆的爵士午後
 http://127.0.0.1:8081/ofiii.php?id=ofiii252
-#EXTINF:-1 tvg-id="野外燒柴火樂" tvg-name="野外燒柴火樂" tvg-logo="" group-title="ofiii",野外燒柴火樂
+#EXTINF:-1 tvg-id="野外燒柴火聲" tvg-name="野外燒柴火聲" tvg-logo="" group-title="ofiii",野外燒柴火聲
 http://127.0.0.1:8081/ofiii.php?id=ofiii253
 #EXTINF:-1 tvg-id="夏日陽光海浪聲" tvg-name="夏日陽光海浪聲" tvg-logo="" group-title="ofiii",夏日陽光海浪聲
 http://127.0.0.1:8081/ofiii.php?id=ofiii254
+
 
 
 #EXTINF:-1   tvg-logo="https://media-1-mvhub.imgix.net/channel/35_1dr0A4YTgCbGHaBiMnlh5qPEtxs7kvoQ.png"  group-title="歡樂看測試",TVB星河
