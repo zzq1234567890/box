@@ -3641,11 +3641,11 @@ http://127.0.0.1:8081/litvapp.php?id=litv-ftv17
 
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" group-title="ofiii",台視
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv066
-#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="" group-title="ofiii",中视
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="" group-title="ofiii",中視
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv040
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="" group-title="ofiii",華視
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv041
-#EXTINF:-1 tvg-id="公视金典台" tvg-name="公视金典台" tvg-logo="" group-title="ofiii",公視金獎台
+#EXTINF:-1 tvg-id="公視金獎台" tvg-name="公視金獎台" tvg-logo="" group-title="ofiii",公視金獎台
 http://127.0.0.1:8081/ofiii.php?id=ofiii13
 #EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="" group-title="ofiii",好消息2台
 http://127.0.0.1:8081/ofiii.php?id=litv-ftv17
@@ -3666,7 +3666,7 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii131
 http://127.0.0.1:8081/ofiii.php?id=ofiii32
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="" group-title="ofiii",亞洲旅遊台
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv076
-#EXTINF:-1 tvg-id="中天亚洲精采台" tvg-name="中天亚洲精采台" tvg-logo="" group-title="ofiii",中天亚洲精采台
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="" group-title="ofiii",中天亞洲精采台
 http://127.0.0.1:8081/ofiii.php?id=ofiii36
 #EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="" group-title="ofiii",Smart知識台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn19
@@ -3714,7 +3714,7 @@ http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv074
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv009
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="" group-title="ofiii",寰宇新聞台
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv156
-#EXTINF:-1 tvg-id="寰宇新聞 台" tvg-name="寰宇新聞 台" tvg-logo="" group-title="ofiii",寰宇新聞 台
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="" group-title="ofiii",寰宇新聞台
 http://127.0.0.1:8081/ofiii.php?id=4gtv-longturn14
 #EXTINF:-1 tvg-id="第1財經" tvg-name="第1財經" tvg-logo="" group-title="ofiii",第1財經
 http://127.0.0.1:8081/ofiii.php?id=ofiii64
