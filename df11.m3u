@@ -6,348 +6,348 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=0958b9c657622c465a6205eb2252b8ed&key=2d2fd7b1661b1e28de38268872b48480
-http://127.0.0.1:8081/mymysuper.php?id=J
+http://127.0.0.1:8081/mymysuper1.php?id=J
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,翡翠台4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=2c045f5adb26d391cc41cd01f00416fa&key=fc146771a9b096fc4cb57ffe769861be
-http://127.0.0.1:8081/mymysuper.php?id=JUHD
+http://127.0.0.1:8081/mymysuper1.php?id=JUHD
 #EXTINF:-1 tvg-id="B" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png"   group-title="mytvsuper" ,TVB-Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=56603b65fa1d7383b6ef0e73b9ae69fa&key=5d9d8e957d2e45d8189a56fe8665aaaa
-http://127.0.0.1:8081/mymysuper.php?id=B
+http://127.0.0.1:8081/mymysuper1.php?id=B
 
 #EXTINF:-1 tvg-id="C28" tvg-logo="https://assets.livednow.com/logo/myTV-28-AI.png"   group-title="mytvsuper" ,28 AI 智慧賽馬
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=1b778a3241e5fa3bb97d1cb9b57f9e09&key=3b1f318259fcf0dccd04742cd679fd25
-http://127.0.0.1:8081/mymysuper.php?id=C28
+http://127.0.0.1:8081/mymysuper1.php?id=C28
 
 #EXTINF:-1 tvg-id="P" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,明珠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=e04facdd91354deee318c674993b74c1&key=8f97a629de680af93a652c3102b65898
-http://127.0.0.1:8081/mymysuper.php?id=P
+http://127.0.0.1:8081/mymysuper1.php?id=P
 
 #EXTINF:-1 tvg-id="CWIN" tvg-logo=""   group-title="mytvsuper" ,SUPER FREE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=0737b75ee8906c00bb7bb8f666da72a0&key=15f515458cdb5107452f943a111cbe89
-http://127.0.0.1:8081/mymysuper.php?id=CWIN
+http://127.0.0.1:8081/mymysuper1.php?id=CWIN
 
 #EXTINF:-1 tvg-id="TVG" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png?raw=true"   group-title="mytvsuper" ,黃金翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=8fe3db1a24969694ae3447f26473eb9f&key=5cce95833568b9e322f17c61387b306f
-http://127.0.0.1:8081/mymysuper.php?id=TVG
+http://127.0.0.1:8081/mymysuper1.php?id=TVG
 
 #EXTINF:-1 tvg-id="C" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png"   group-title="mytvsuper" ,無綫新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=90a0bd01d9f6cbb39839cd9b68fc26bc&key=51546d1f2af0547f0e961995b60a32a1
-http://127.0.0.1:8081/mymysuper.php?id=C
+http://127.0.0.1:8081/mymysuper1.php?id=C
 
 #EXTINF:-1 tvg-id="CTVE" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png?raw=true"   group-title="mytvsuper" ,娛樂新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=6fa0e47750b5e2fb6adf9b9a0ac431a3&key=a256220e6c2beaa82f4ca5fba4ec1f95
-http://127.0.0.1:8081/mymysuper.php?id=CTVE
+http://127.0.0.1:8081/mymysuper1.php?id=CTVE
 
 #EXTINF:-1 tvg-id="PCC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png"   group-title="mytvsuper" ,鳳凰中文
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=7bca0771ba9205edb5d467ce2fdf0162&key=eb19c7e3cea34dc90645e33f983b15ab
-http://127.0.0.1:8081/mymysuper.php?id=PCC
+http://127.0.0.1:8081/mymysuper1.php?id=PCC
 
 #EXTINF:-1 tvg-id="PIN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png"   group-title="mytvsuper" ,鳳凰資訊
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=83f7d313adfc0a5b978b9efa0421ce25&key=ecdc8065a46287bfb58e9f765e4eec2b
-http://127.0.0.1:8081/mymysuper.php?id=PIN
+http://127.0.0.1:8081/mymysuper1.php?id=PIN
 
 #EXTINF:-1 tvg-id="PHK" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png"   group-title="mytvsuper" ,鳳凰香港
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=cde62e1056eb3615dab7a3efd83f5eb4&key=b8685fbecf772e64154630829cf330a3
-http://127.0.0.1:8081/mymysuper.php?id=PHK
+http://127.0.0.1:8081/mymysuper1.php?id=PHK
 
 #EXTINF:-1 tvg-id="CRE" tvg-logo="https://assets.livednow.com/logo/創世電視.png"   group-title="mytvsuper" ,創世電視
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=adef00c5ba927d01642b1e6f3cedc9fb&key=b45d912fec43b5bbd418ea7ea1fbcb60
-http://127.0.0.1:8081/mymysuper.php?id=CRE
+http://127.0.0.1:8081/mymysuper1.php?id=CRE
 
 #EXTINF:-1 tvg-id="CC1" tvg-logo="https://assets.livednow.com/logo/中央電視台綜合頻道-港澳版.png"   group-title="mytvsuper" ,中央電視台綜合頻道-(港澳版)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=e50b18fee7cab76b9f2822e2ade8773a&key=2e2e8602b6d835ccf10ee56a9a7d91a2
-http://127.0.0.1:8081/mymysuper.php?id=CC1
+http://127.0.0.1:8081/mymysuper1.php?id=CC1
 
 
 #EXTINF:-1 tvg-id="C18" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png"   group-title="mytvsuper" ,myTV SUPER 18台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=72de7d0a1850c8d40c5bdf9747a4ca7c&key=4967537ff0bc8209277160759de4adef
-http://127.0.0.1:8081/mymysuper.php?id=C18
+http://127.0.0.1:8081/mymysuper1.php?id=C18
 
 #EXTINF:-1 tvg-id="CTVC" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png"   group-title="mytvsuper" ,千禧經典台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=6c308490b3198b62a988917253653692&key=660578b8966fe8012ad51b9aae7a5d78
-http://127.0.0.1:8081/mymysuper.php?id=CTVC
+http://127.0.0.1:8081/mymysuper1.php?id=CTVC
 
 #EXTINF:-1 tvg-id="CDR3" tvg-logo="https://assets.livednow.com/logo/華語劇台.png"   group-title="mytvsuper" ,華語劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=baae227b5fc06e2545868d4a1c9ced14&key=8cd460458b0bdecca5c12791b6409278
-http://127.0.0.1:8081/mymysuper.php?id=CDR3
+http://127.0.0.1:8081/mymysuper1.php?id=CDR3
 
 #EXTINF:-1 tvg-id="CCLM" tvg-logo="https://assets.livednow.com/logo/粵語片台.png"   group-title="mytvsuper" ,粵語片台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=5b90da7fd2f018bf85a757241075626f&key=75c0897b4cf5ce154ddae86eddb79cd3
-http://127.0.0.1:8081/mymysuper.php?id=CCLM
+http://127.0.0.1:8081/mymysuper1.php?id=CCLM
 
 #EXTINF:-1 tvg-id="CTVS" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png"   group-title="mytvsuper" ,亞洲劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=df5c0e617dffc3e3c44cb733dccb33c0&key=7d00ec9cd4f54d5baf94c03edc8cfe25
-http://127.0.0.1:8081/mymysuper.php?id=CTVS
+http://127.0.0.1:8081/mymysuper1.php?id=CTVS
 
 #EXTINF:-1 tvg-id="TVO" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png"   group-title="mytvsuper" ,黃金華劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=acd93a5f665efd4feadb26f5ed48fd96&key=c6ce58ef9cce30638e0c2e9fc45a6dbd
-http://127.0.0.1:8081/mymysuper.php?id=TVO
+http://127.0.0.1:8081/mymysuper1.php?id=TVO
 
 #EXTINF:-1 tvg-id="CCOC" tvg-logo="https://assets.livednow.com/logo/戲曲台.png"   group-title="mytvsuper" ,戲曲台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=c91c296ef6c46b3f2af1da257553bd17&key=d6e92d5e594f6f8e494a6e1c9df75298
-http://127.0.0.1:8081/mymysuper.php?id=CCOC
+http://127.0.0.1:8081/mymysuper1.php?id=CCOC
 
 #EXTINF:-1 tvg-id="KID" tvg-logo="https://assets.livednow.com/logo/SUPER Kids Channel.png"   group-title="mytvsuper" ,SUPER-Kids-Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=42527ca90ad525ba2eac9979c93d3bca&key=b730006ad1da48b412ceb1f9e36a833d
-http://127.0.0.1:8081/mymysuper.php?id=KID
+http://127.0.0.1:8081/mymysuper1.php?id=KID
 
 #EXTINF:-1 tvg-id="ZOO" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png"   group-title="mytvsuper" ,ZooMoo
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=9c302eb50bef5a9589d97cb90982b05e&key=2603e646caafe22bc4e8a17b5a2dd55b
-http://127.0.0.1:8081/mymysuper.php?id=ZOO
+http://127.0.0.1:8081/mymysuper1.php?id=ZOO
 
 #EXTINF:-1 tvg-id="CNIKO" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png"   group-title="mytvsuper" ,Nickelodeon
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=0e69430290ed7b00af4db78419dcad8b&key=e4769b57a66e8e9737d6d86f317600c0
-http://127.0.0.1:8081/mymysuper.php?id=CNIKO
+http://127.0.0.1:8081/mymysuper1.php?id=CNIKO
 
 #EXTINF:-1 tvg-id="CNIJR" tvg-logo="https://assets.livednow.com/logo/ Nick Jr..png"   group-title="mytvsuper" ,Nick Jr
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=9f1385d2a12a67b572b9d968eb850337&key=3086bcd49a909606a8686858c05c7e33
-http://127.0.0.1:8081/mymysuper.php?id=CNIJR
+http://127.0.0.1:8081/mymysuper1.php?id=CNIJR
 
 #EXTINF:-1 tvg-id="CMAM" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png"   group-title="mytvsuper" ,美亞電影台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=c5d6f2afbd6b276312b0471a653828e1&key=ecbbb4a3ffa2200ae69058e20e71e91b
-http://127.0.0.1:8081/mymysuper.php?id=CMAM
+http://127.0.0.1:8081/mymysuper1.php?id=CMAM
 #EXTINF:-1 tvg-id="CTHR" tvg-logo="https://assets.livednow.com/logo/Thrill.png"   group-title="mytvsuper" ,Thrill
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=b22355363ab2b09a6def54be0c89b9f2&key=4b196c2bf24b37e82a81031246de6efe
-http://127.0.0.1:8081/mymysuper.php?id=CTHR
+http://127.0.0.1:8081/mymysuper1.php?id=CTHR
 #EXTINF:-1 tvg-id="CCCM" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png"   group-title="mytvsuper" ,天映經典頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=627b6ca150887912bec47ae4a9b85269&key=2bf49b2105d20544a6db89c0577b9802
-http://127.0.0.1:8081/mymysuper.php?id=CCCM
+http://127.0.0.1:8081/mymysuper1.php?id=CCCM
 #EXTINF:-1 tvg-id="CMC" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png"   group-title="mytvsuper" ,中國電影頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=cabb16d20e71b512f24e9ece0cb09396&key=2d43505980a22014ee1a476880982308
-http://127.0.0.1:8081/mymysuper.php?id=CMC
+http://127.0.0.1:8081/mymysuper1.php?id=CMC
 #EXTINF:-1 tvg-id="CRTX" tvg-logo="https://assets.livednow.com/logo/ROCK Action.png"   group-title="mytvsuper" ,ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=358eacad1f06e8e375493dabee96d865&key=461a02b2eb1232c6c100b95bd0bf40f8
-http://127.0.0.1:8081/mymysuper.php?id=CRTX
+http://127.0.0.1:8081/mymysuper1.php?id=CRTX
 #EXTINF:-1 tvg-id="CKIX" tvg-logo="https://assets.livednow.com/logo/KIX.png"   group-title="mytvsuper" ,KIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=3b4a44c5ef3217c55a357ad976d328b2&key=f3355e5a30722e631031b851642c27f1
-http://127.0.0.1:8081/mymysuper.php?id=CKIX
+http://127.0.0.1:8081/mymysuper1.php?id=CKIX
 #EXTINF:-1 tvg-id="LNH" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png"   group-title="mytvsuper" ,Love Nature HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=03fb0f439f942f50d06bf23a511bf4f8&key=bae7115da07195263e50ae5fc8bbe4f3
-http://127.0.0.1:8081/mymysuper.php?id=LNH
+http://127.0.0.1:8081/mymysuper1.php?id=LNH
 
 #EXTINF:-1 tvg-id="LN4" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png"   group-title="mytvsuper" ,Love Nature 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=037c644cb92137ac5c8d653e952e4c8f&key=b3b2fcbe576a63cf3bbb9425da3de4cf
-http://127.0.0.1:8081/mymysuper.php?id=LN4
+http://127.0.0.1:8081/mymysuper1.php?id=LN4
 
 #EXTINF:-1 tvg-id="SMS" tvg-logo="https://assets.livednow.com/logo/Global-Trekker-HK.png"   group-title="mytvsuper" ,Global Trekker
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=a8f381c2a3114cc6c55f50b6ff0c78f3&key=86922e5993788488e1eca857c00d4fab
-http://127.0.0.1:8081/mymysuper.php?id=SMS
+http://127.0.0.1:8081/mymysuper1.php?id=SMS
 
 #EXTINF:-1 tvg-id="CRTE" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment-HK.png"   group-title="mytvsuper" ,ROCK 綜藝娛樂
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=002d034731b6ac938ea7ba85bc3dc759&key=6694258c023d73492a10acb860bc6161
-http://127.0.0.1:8081/mymysuper.php?id=CRTE
+http://127.0.0.1:8081/mymysuper1.php?id=CRTE
 
 #EXTINF:-1 tvg-id="CAXN" tvg-logo="https://assets.livednow.com/logo/AXN.png"   group-title="mytvsuper" ,AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=20bea0e14af0d3dcb63d4126e8b50172&key=07382de357a2b0cceabe82e0b37cb8de
-http://127.0.0.1:8081/mymysuper.php?id=CAXN
+http://127.0.0.1:8081/mymysuper1.php?id=CAXN
 
 #EXTINF:-1 tvg-id="POPC" tvg-logo="https://assets.livednow.com/logo/PopC.png"   group-title="mytvsuper" ,POPC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=221591babff135a71961d09399d2c922&key=c80ca4c7b801a76a07179dfb7debb57d
-http://127.0.0.1:8081/mymysuper.php?id=POPC
+http://127.0.0.1:8081/mymysuper1.php?id=POPC
 
 #EXTINF:-1 tvg-id="CANI" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png"   group-title="mytvsuper" ,Animax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=b1a073dbd8272b0c99940db624ce8d74&key=9fec26ff4c6774a8bde881e5cb0fe82e
-http://127.0.0.1:8081/mymysuper.php?id=CANI
+http://127.0.0.1:8081/mymysuper1.php?id=CANI
 
 #EXTINF:-1 tvg-id="CJTV" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png"   group-title="mytvsuper" ,tvN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=adcab9e8e5644ff35f04e4035cc6ad3b&key=d8e879e108a96fde6537c1b679c369b5
-http://127.0.0.1:8081/mymysuper.php?id=CJTV
+http://127.0.0.1:8081/mymysuper1.php?id=CJTV
 
 #EXTINF:-1 tvg-id="CTS1" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png"   group-title="mytvsuper" ,無線衛星亞洲台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=ad7b06658e8a36a06def6b3550bde35c&key=b672f89570a630abb1d2abb5030e6303
-http://127.0.0.1:8081/mymysuper.php?id=CTS1
+http://127.0.0.1:8081/mymysuper1.php?id=CTS1
 
 #EXTINF:-1 tvg-id="FBX" tvg-logo="https://assets.livednow.com/logo/FashionBox.png"   group-title="mytvsuper" ,FASHION ONE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=4df52671ef55d2a7ac03db75e9bba2f7&key=4a3c16e8098c5021f32c7d4f66122477
-http://127.0.0.1:8081/mymysuper.php?id=FBX
+http://127.0.0.1:8081/mymysuper1.php?id=FBX
 
 #EXTINF:-1 tvg-id="CMEZ" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png"   group-title="mytvsuper" ,Mezzo Live HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=e46f2747a9cf6822a608786bbc21d400&key=d8778fcf92c949e949a6700828f5f67e
-http://127.0.0.1:8081/mymysuper.php?id=CMEZ
+http://127.0.0.1:8081/mymysuper1.php?id=CMEZ
 
 #EXTINF:-1 tvg-id="DTV" tvg-logo="https://assets.livednow.com/logo/東方衛視國際頻道.png"   group-title="mytvsuper" ,東方衛視海外版
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=9d6a139158dd1fcd807d1cfc8667e965&key=f643ba9204ebba7a5ffd3970cfbc794c
-http://127.0.0.1:8081/mymysuper.php?id=DTV
+http://127.0.0.1:8081/mymysuper1.php?id=DTV
 
 #EXTINF:-1 tvg-id="CGD" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png"   group-title="mytvsuper" ,CGTN-(中國環球電視網)記錄頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=b570ae67cb063428b158eb2f91c6d77c&key=c573dabca79a17f81755c0d4b33384bc
-http://127.0.0.1:8081/mymysuper.php?id=CGD
+http://127.0.0.1:8081/mymysuper1.php?id=CGD
 
 #EXTINF:-1 tvg-id="CGE" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png"   group-title="mytvsuper" ,CGTN-(中國環球電視網)英語頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=4331903278b673916cc6940a8b8d9e7e&key=02a409115819de9acd9e907b053e3aa8
-http://127.0.0.1:8081/mymysuper.php?id=CGE
+http://127.0.0.1:8081/mymysuper1.php?id=CGE
 
 #EXTINF:-1 tvg-id="CCNA" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png"   group-title="mytvsuper" ,亞洲新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=ddc7bb2603628134334919a0d7327d1d&key=a5fcd8bb852371faedd13b684f5adede
-http://127.0.0.1:8081/mymysuper.php?id=CCNA
+http://127.0.0.1:8081/mymysuper1.php?id=CCNA
 
 #EXTINF:-1 tvg-id="CTSN" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png"   group-title="mytvsuper" ,TVBS新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=73aaeb9e84db423627018017059e0f9d&key=34148a56250459383f7ef7369073bf39
-http://127.0.0.1:8081/mymysuper.php?id=CTSN
+http://127.0.0.1:8081/mymysuper1.php?id=CTSN
 
 #EXTINF:-1 tvg-id="CJAZ" tvg-logo="https://assets.livednow.com/logo/半島電視台英語頻道.png"   group-title="mytvsuper" ,半島電視台英語頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=80c76105d3ae35dfe25f939d1fb83383&key=6d76e7ba039773bced47d78e6de4fcf0
-http://127.0.0.1:8081/mymysuper.php?id=CJAZ
+http://127.0.0.1:8081/mymysuper1.php?id=CJAZ
 
 #EXTINF:-1 tvg-id="CF24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png"   group-title="mytvsuper" ,France 24
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=2d4f6b8755a918d2126a2ee78791cf0b&key=c392acc1a1a070d2bcdf518d99d88406
-http://127.0.0.1:8081/mymysuper.php?id=CF24
+http://127.0.0.1:8081/mymysuper1.php?id=CF24
 
 #EXTINF:-1 tvg-id="CDW1" tvg-logo="https://assets.livednow.com/logo/DW-HK.png"   group-title="mytvsuper" ,DW新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=2bb557c09dfc01a27ab81778913f2a10&key=d00ca6eb9a83ffde846324109fb445ba
-http://127.0.0.1:8081/mymysuper.php?id=CDW1
+http://127.0.0.1:8081/mymysuper1.php?id=CDW1
 
 #EXTINF:-1 tvg-id="CNHK" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png"   group-title="mytvsuper" ,NHK World-Japan
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=9c2ecde1c31185ab61ed4689b87ae332&key=54895a656e053a73b39882e7a56d642b
-http://127.0.0.1:8081/mymysuper.php?id=CNHK
+http://127.0.0.1:8081/mymysuper1.php?id=CNHK
 
 #EXTINF:-1 tvg-id="CARI" tvg-logo="https://assets.livednow.com/logo/Arirang-HK.png"   group-title="mytvsuper" ,Arirang TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=f3ae14e72f585eaf14b18d8d9515d43f&key=ce0e375c3966263877078aadd815742e
-http://127.0.0.1:8081/mymysuper.php?id=CARI
+http://127.0.0.1:8081/mymysuper1.php?id=CARI
 
 #EXTINF:-1 tvg-id="EVT2" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-2.png.png"   group-title="mytvsuper" ,myTV SUPER直播足球2台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=024f2733fb9afad23490149c601ce47c&key=034db34d56263c79c7f41448f2a6cfc1
-http://127.0.0.1:8081/mymysuper.php?id=EVT2
+http://127.0.0.1:8081/mymysuper1.php?id=EVT2
 
 #EXTINF:-1 tvg-id="EVT3" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-3.png.png"   group-title="mytvsuper" ,myTV SUPER直播足球3台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=84f456002b780253dab5534e9713323c&key=65aeb769264f41037cec607813e91bae
-http://127.0.0.1:8081/mymysuper.php?id=EVT3
+http://127.0.0.1:8081/mymysuper1.php?id=EVT3
 
 #EXTINF:-1 tvg-id="EVT4" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-4.png.png"   group-title="mytvsuper" ,myTV SUPER直播足球4台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=848d6d82c14ffd12adf4a7b49afdc978&key=3221125831a2f980139c34b35def3b0d
-http://127.0.0.1:8081/mymysuper.php?id=EVT4
+http://127.0.0.1:8081/mymysuper1.php?id=EVT4
 
 #EXTINF:-1 tvg-id="EVT5" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-5.png.png"   group-title="mytvsuper" ,myTV SUPER直播足球5台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=54700d7a381b80ae395a312e03a9abeb&key=7c68d289628867bf691b42e90a50d349
-http://127.0.0.1:8081/mymysuper.php?id=EVT5
+http://127.0.0.1:8081/mymysuper1.php?id=EVT5
 
 #EXTINF:-1 tvg-id="EVT6" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-6.png.png"   group-title="mytvsuper" ,myTV SUPER直播足球6台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=e069fc056280e4caa7d0ffb99024c05a&key=d3693103f232f28b4781bbc7e499c43a
-http://127.0.0.1:8081/mymysuper.php?id=EVT6
+http://127.0.0.1:8081/mymysuper1.php?id=EVT6
 
 #EXTINF:-1 tvg-id="C3" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png"   group-title="mytvsuper" ,2024年WBSC五人制棒球世界盃直播1台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=f07372db27b162d69adf9aa612ae3364&key=da1631a2b2a836c5b7a3d044a18a4f16
-http://127.0.0.1:8081/mymysuper.php?id=C3
+http://127.0.0.1:8081/mymysuper1.php?id=C3
 
 #EXTINF:-1 tvg-id="C2" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png"   group-title="mytvsuper" ,2024年WBSC五人制棒球世界盃直播2台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=1ba88eacde780c7567255b8b33026ae5&key=f7df792aab8992b79d72a8d01987ecb5
-http://127.0.0.1:8081/mymysuper.php?id=C2
+http://127.0.0.1:8081/mymysuper1.php?id=C2
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",浙江中月婺剧团
 http://127.0.0.1:8081/douyin.php?id=261219709302
