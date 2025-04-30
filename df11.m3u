@@ -3,25 +3,17 @@
 
 
 #EXTINF:-1 tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,翡翠台
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=0958b9c657622c465a6205eb2252b8ed&key=2d2fd7b1661b1e28de38268872b48480
 http://127.0.0.1:8081/mymysuper1.php?id=J
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,翡翠台4K
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=2c045f5adb26d391cc41cd01f00416fa&key=fc146771a9b096fc4cb57ffe769861be
+
 http://127.0.0.1:8081/mymysuper1.php?id=JUHD
 #EXTINF:-1 tvg-id="B" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png"   group-title="mytvsuper" ,TVB-Plus
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=56603b65fa1d7383b6ef0e73b9ae69fa&key=5d9d8e957d2e45d8189a56fe8665aaaa
+
 http://127.0.0.1:8081/mymysuper1.php?id=B
 
 #EXTINF:-1 tvg-id="C28" tvg-logo="https://assets.livednow.com/logo/myTV-28-AI.png"   group-title="mytvsuper" ,28 AI 智慧賽馬
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/drm/results.php?keyid=1b778a3241e5fa3bb97d1cb9b57f9e09&key=3b1f318259fcf0dccd04742cd679fd25
+
 http://127.0.0.1:8081/mymysuper1.php?id=C28
 
 #EXTINF:-1 tvg-id="P" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true"   group-title="mytvsuper" ,明珠台
