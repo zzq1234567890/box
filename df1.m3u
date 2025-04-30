@@ -2279,7 +2279,8 @@ http://127.0.0.1:8081/huya.php?id=637218
 #EXTINF:-1   tvg-id="鳳凰資訊"   tvg-name="鳳凰資訊"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"     group-title="youtube中文新闻",鳳凰資訊
 http://127.0.0.1:8081/fenghuangyoutube.php
 
-
+#EXTINF:-1   tvg-id="鳳凰資訊"   tvg-name="鳳凰資訊"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"     group-title="youtube中文新闻",鳳凰資訊
+http://127.0.0.1:8081/fenghuangyoutube1.php
 
 
 
