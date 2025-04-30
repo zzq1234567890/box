@@ -2376,9 +2376,9 @@ http://127.0.0.1:8081/sanliinews.php
 http://127.0.0.1:8081/jingnews.php
 #EXTINF:-1   tvg-id="4gtv-live050"    tvg-name="新唐人亞太台"     tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live050_mobile.png"     group-title="youtube中文新闻",新唐人亞太台
 http://127.0.0.1:8081/youtube.php?v=WIhgU_mc05A
-#EXTINF:-1   tvg-id="公視"   tvg-name="公視"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png"    group-title="youtube中文新闻",公視
+#EXTINF:-1   tvg-id="公共電視台"   tvg-name="公共電視台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png"    group-title="youtube中文新闻",公共電視台
 http://127.0.0.1:8081/youtube.php?v=C6gYqSHLRw4
-#EXTINF:-1   tvg-id="公視"   tvg-name="公視"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png"    group-title="youtube中文新闻",公視
+#EXTINF:-1   tvg-id="公共電視台"   tvg-name="公共電視台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png"    group-title="youtube中文新闻",公共電視台
 http://127.0.0.1:8081/gongshi13.php
 #EXTINF:-1   tvg-id="公視台語台"   tvg-name="公視台語台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png"    group-title="youtube中文新闻",公視台語台
 http://127.0.0.1:8081/gongshi14.php
@@ -2407,7 +2407,7 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 http://127.0.0.1:8081/daai.php?id=1
 #EXTINF:-1   tvg-id="大愛電視台"   tvg-name="大愛電視台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png"    group-title="youtube中文新闻",大爱-1全球
 http://127.0.0.1:8081/daai.php?id=2
-#EXTINF:-1   tvg-id="大愛二台"   tvg-name="大愛二台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png"    group-title="youtube中文新闻",大爱-2台湾
+#EXTINF:-1   tvg-id="大愛二台"   tvg-name="大愛二台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png"    group-title="youtube中文新闻",大愛二台台湾
 http://127.0.0.1:8081/daai.php?id=3
 #EXTINF:-1   tvg-id="大愛電視台"   tvg-name="大愛電視台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png"    group-title="youtube中文新闻",大爱-1台湾
 http://127.0.0.1:8081/daai.php?id=4
