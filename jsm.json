@@ -2462,6 +2462,14 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+        {
+            "name": "Yang1989",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "https://tv.iill.top/m3u/Gather",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
           {
             "name": "国内频道",
             "url": "./guonei.txt",
@@ -2660,14 +2668,7 @@
             "epg": "https://content.stream-link.org/epg/f846c514-51c0-4df5-854f-4c6629236150/guide.xml",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-            "name": "Yang1989",
-            "ua": "okhttp/3.0",
-            "playerType": 2,
-            "url": "https://tv.iill.top/m3u/Gather",
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+        
         {
             "name": "马来西亚Astro",
             "ua": "okhttp/3.0",
