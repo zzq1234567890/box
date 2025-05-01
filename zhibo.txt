@@ -141,6 +141,21 @@ parse=1
 河北少儿科教,https://web.cmc.hebtv.com/cms/rmt0336/19/19js/st/xdszb/10516511.shtml
 河北旅游公共,https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516512.shtml
 河北三佳购物,https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516513.shtml
+江苏电视台,#genre#
+parse=1
+player=2
+ua=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/137.0.7148.0
+referer=https://api.chinaaudiovisual.cn
+江苏卫视,https://zjcn-live-play.jstv.com/live/jsws_live.m3u8
+江苏城市,https://zjcn-live-play.jstv.com/live/jscs_live.m3u8
+江苏综艺,https://zjcn-live-play.jstv.com/live/jszy_live.m3u8
+江苏影视,https://zjcn-live-play.jstv.com/live/jsys_live.m3u8
+江苏新闻,https://zjcn-live-play.jstv.com/live/jsxw_live.m3u8
+江苏教育,https://zjcn-live-play.jstv.com/live/jsjy_live.m3u8
+江苏体育休闲,https://zjcn-live-play.jstv.com/live/jsxx_live.m3u8
+江苏国际,https://zjcn-live-play.jstv.com/live/jsgj_live.m3u8
+优漫卡通,https://zjcn-live-play.jstv.com/live/ymkt_live.m3u8
+
 4gtv網頁嗅探,#genre#
 parse=1
 
