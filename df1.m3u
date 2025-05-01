@@ -3054,10 +3054,7 @@ http://127.0.0.1:8081/nowtvweb.php?id=630
 http://127.0.0.1:8081/tvb1.php?id=NEWS
 #EXTINF:-1  group-title="港澳台" tvg-id="無綫新聞台"    tvg-name="無綫新聞"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
 http://127.0.0.1:8081/tvb2.php?id=2
-#EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="" group-title="港澳台",香港電台31
-https://p.168.us.kg/rthk/31/master.m3u8
-#EXTINF:-1 tvg-id="香港電台32" tvg-name="香港電台32" tvg-logo="" group-title="港澳台",香港電台32
-https://p.168.us.kg/rthk/32/master.m3u8
+
 
 
 #EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="" group-title="港澳台",香港電台31
@@ -3077,17 +3074,6 @@ https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/mas
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=451d2f5521f03118ab0b08fff91b7bce:c1997f65812cdf0c0651991c6c5a8c5b
 https://rthktv32-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch32)/master.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ViuTV
-http://tv.cdn5.rr.nu/live/viu/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",明珠台
-http://tv.cdn5.rr.nu/live/mzt/stream.m3u8
-#EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="" group-title="港澳台",香港電台31
-http://tv.cdn5.rr.nu/live/rthk31/stream.m3u8
-#EXTINF:-1 tvg-id="香港電台32" tvg-name="香港電台32" tvg-logo="" group-title="港澳台",香港電台32
-
-http://tv.cdn5.rr.nu/live/rthk32/stream.m3u8
-#EXTINF:-1 tvg-id="香港電台33" tvg-name="香港電台33" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="港澳台",香港電台33
-http://tv.cdn5.rr.nu/live/cctv1/stream.m3u8
 
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",陽光衛視
