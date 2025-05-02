@@ -1,22 +1,10 @@
 {
     "spider": "./pg.jar",
     "sites": [
-         {
-            "key": "网盘配置",
-            "name": "youtube和网盘配置",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            }
-        },
+        
         {
             "key": "Youtube",
-            "name": "Youtube到网盘设置中心进行youtube客户端设置",
+            "name": "Youtube",
             "type": 3,
             "api": "csp_Youtube",
             "ua": "19.29.1 (iPhone16,2; U; CPU iOS 17_5_1 like Mac OS X;)",
@@ -279,7 +267,21 @@
                 "日本动漫"
             ]
             # # "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
+        }, 
+        {
+            "key": "网盘配置",
+            "name": "youtube和网盘配置",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "./lib/tokenm.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
         },
+        
         {
             "key": "migu",
             "name": "咪咕",
