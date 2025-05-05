@@ -4732,7 +4732,22 @@ http://127.0.0.1:8081/guangzhou.php?id=5
 http://127.0.0.1:8081/guangzhou.php?id=6
 
 
-
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",深圳卫视
+http://127.0.0.1:8081/shenzhen.php?id=szws
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",深圳都市频道
+http://127.0.0.1:8081/shenzhen.php?id=szds
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",深圳电视剧频道
+http://127.0.0.1:8081/shenzhen.php?id=szdsj
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",深圳财经频道
+http://127.0.0.1:8081/shenzhen.php?id=szcj
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",深圳少儿频道
+http://127.0.0.1:8081/shenzhen.php?id=szse
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",深圳移动电视
+http://127.0.0.1:8081/shenzhen.php?id=szyd
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",深圳宜和购物频道
+http://127.0.0.1:8081/shenzhen.php?id=szyh
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",深圳国际频道
+http://127.0.0.1:8081/shenzhen.php?id=szgj
 
 
 #EXTINF:-1   tvg-id="400367"   tvg-name=""    tvg-logo=""    group-title="地方",东莞综合
