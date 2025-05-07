@@ -4732,17 +4732,17 @@ http://127.0.0.1:8081/guangzhou.php?id=5
 http://127.0.0.1:8081/guangzhou.php?id=6
 
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",深圳卫视
+#EXTINF:-1   tvg-id="深圳卫视"   tvg-name="深圳卫视"    tvg-logo=""    group-title="地方",深圳卫视
 http://127.0.0.1:8081/shenzhen.php?id=szws
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",深圳都市频道
+#EXTINF:-1   tvg-id="深视都市频道"   tvg-name="深视都市频道"    tvg-logo=""    group-title="地方",深圳都市
 http://127.0.0.1:8081/shenzhen.php?id=szds
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",深圳电视剧频道
+#EXTINF:-1   tvg-id="深视电视剧频道"   tvg-name="深视电视剧频道"    tvg-logo=""    group-title="地方",深圳电视剧
 http://127.0.0.1:8081/shenzhen.php?id=szdsj
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",深圳财经频道
+#EXTINF:-1   tvg-id="深视财经生活频道"   tvg-name="深视财经生活频道"    tvg-logo=""    group-title="地方",深圳财经频道
 http://127.0.0.1:8081/shenzhen.php?id=szcj
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",深圳少儿频道
+#EXTINF:-1   tvg-id="深视少儿频道"   tvg-name="深视少儿频道"    tvg-logo=""    group-title="地方",深圳少儿频道
 http://127.0.0.1:8081/shenzhen.php?id=szse
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",深圳移动电视
+#EXTINF:-1   tvg-id="深视移动电视频道"   tvg-name="深视移动电视频道"    tvg-logo=""    group-title="地方",深圳移动电视
 http://127.0.0.1:8081/shenzhen.php?id=szyd
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",深圳宜和购物频道
 http://127.0.0.1:8081/shenzhen.php?id=szyh
