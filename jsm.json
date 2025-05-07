@@ -3100,6 +3100,16 @@
             ]
         },
         {
+            "name": "黑木耳",
+            "hosts": [
+            "heimuer"
+            ],
+            "regex": [
+            "24.024"
+           ]
+        },
+        
+        {
             "name": "磁力广告",
             "hosts": [
                 "magnet"
