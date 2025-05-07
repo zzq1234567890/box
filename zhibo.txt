@@ -96,8 +96,12 @@ cgtn西班牙语,https://www.yangshipin.cn/tv/home?pid=600084744
 内蒙古卫视,https://yangshipin.cn/tv/home?pid=600190401
 黑龙江卫视,https://yangshipin.cn/tv/home?pid=600002498
 中国教育1台,https://www.yangshipin.cn/tv/home?pid=600171827
-
-
+央视新闻官网,#genre#
+parse=1
+cctv13,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
+cctv1,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+cctv2,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
+cctv4,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
 福建电视台,#genre#
 parse=1
 综合频道,https://live.fjtv.net/zhpd/
