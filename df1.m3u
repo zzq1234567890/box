@@ -4535,7 +4535,8 @@ http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/playlist
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
 #EXTINF:-1   tvg-id=" "   tvg-name=""    tvg-logo=""    group-title="韩国",YTN SCIENCE
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-
+#EXTINF:-1   tvg-id="重温经典频道"   tvg-name="重温经典频道"    tvg-logo=""    group-title="地方",重温经典频道
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 #EXTINF:-1   tvg-id="河北卫视"   tvg-name="河北卫视"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png"    group-title="地方",河北卫视
 
