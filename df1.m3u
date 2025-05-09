@@ -4868,9 +4868,9 @@ http://127.0.0.1:8081/shandong.php?id=gwpd
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",四川卫视
 http://www.kaniptv.cn/aa/四川1.php?id=scws
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",四川经济
+#EXTINF:-1   tvg-id="SCTV2"   tvg-name=""    tvg-logo=""    group-title="地方",四川经济
 http://www.kaniptv.cn/aa/四川1.php?id=scjj
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",四川文化旅游
+#EXTINF:-1   tvg-id="SCTV3"   tvg-name=""    tvg-logo=""    group-title="地方",四川文化旅游
 http://www.kaniptv.cn/aa/四川1.php?id=scwhly
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",四川新闻
 http://www.kaniptv.cn/aa/四川1.php?id=scxw
