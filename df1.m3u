@@ -4866,7 +4866,24 @@ http://127.0.0.1:8081/shandong.php?id=sepd
 http://127.0.0.1:8081/shandong.php?id=gwpd
 
 
-
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",四川卫视
+http://www.kaniptv.cn/aa/四川1.php?id=scws
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",四川经济
+http://www.kaniptv.cn/aa/四川1.php?id=scjj
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",四川文化旅游
+http://www.kaniptv.cn/aa/四川1.php?id=scwhly
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",四川新闻
+http://www.kaniptv.cn/aa/四川1.php?id=scxw
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",四川影视文艺
+http://www.kaniptv.cn/aa/四川1.php?id=scyswy
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",四川星空购物
+http://www.kaniptv.cn/aa/四川1.php?id=scxkgw
+ #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",四川妇女儿童
+http://www.kaniptv.cn/aa/四川1.php?id=scfnet
+ #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",四川乡村
+http://www.kaniptv.cn/aa/四川1.php?id=scxc
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",康巴卫视
+http://www.kaniptv.cn/aa/四川1.php?id=kbws
 
 
 #EXTINF:-1   tvg-id="2064"   tvg-name="CDTV1"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png"    group-title="地方",成都新闻综合
