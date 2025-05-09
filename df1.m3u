@@ -4607,7 +4607,7 @@ http://127.0.0.1:8081/btimeapp.php?id=bjwy
 http://127.0.0.1:8081/btimeapp.php?id=bjsh
 #EXTINF:-1   tvg-id="BTV新闻"   tvg-name="BTV新闻"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png"    group-title="地方",北京新闻
 http://127.0.0.1:8081/btimeapp.php?id=bjxw
-#EXTINF:-1      tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" tvg-id="卡酷动画"   tvg-name="卡酷动画"    group-title="地方",卡酷动画
+#EXTINF:-1      tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" tvg-id="卡酷少儿"   tvg-name="卡酷少儿"    group-title="地方",卡酷少儿
 http://127.0.0.1:8081/btimeapp.php?id=bjkk
 
 
