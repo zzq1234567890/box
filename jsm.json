@@ -70,16 +70,8 @@
             ]
 
         },
-        {
-            "key": "py_dm84",
-            "name": "动漫巴士(T3)",
-            "type": 3,
-            "api": "https://json.doube.eu.org/python/py_dm84.py",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
+        
+        
         {
             "key": "py_jieyingshi",
             "name": "界影视(T3)",
