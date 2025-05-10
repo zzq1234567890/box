@@ -450,7 +450,7 @@
             "key": "py_cctv",
             "name": "央视主要栏目",
             "type": 3,
-            "api": "./cctv.py"
+            "api": "./py/cctv.py"
         },
 
 
