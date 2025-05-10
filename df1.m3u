@@ -4939,6 +4939,26 @@ http://127.0.0.1:8081/hainan.php?pd=wlpd&id=8
 http://127.0.0.1:8081/hainan.php?pd=sepd&id=9
 
 
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江西卫视
+http://127.0.0.1:8081/jiangxi.php?id=jxws
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江西都市
+http://127.0.0.1:8081/jiangxi.php?id=jxds
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江西经视
+http://127.0.0.1:8081/jiangxi.php?id=jxjs
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江西影视
+http://127.0.0.1:8081/jiangxi.php?id=jxys
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江西公共
+http://127.0.0.1:8081/jiangxi.php?id=jxgg
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江西少儿
+http://127.0.0.1:8081/jiangxi.php?id=jxse
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江西新闻
+http://127.0.0.1:8081/jiangxi.php?id=jxxw
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江西移动
+http://127.0.0.1:8081/jiangxi.php?id=jxyd
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江西风尚购物
+http://127.0.0.1:8081/jiangxi.php?id=fsgw
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",江西陶瓷
+http://127.0.0.1:8081/jiangxi.php?id=jxtc
 
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",海口新闻综合
