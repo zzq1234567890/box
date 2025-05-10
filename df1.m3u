@@ -4722,17 +4722,17 @@ http://127.0.0.1:8081/fjqz.php?id=mny
 
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",广州综合
-http://127.0.0.1:8081/guangzhou.php?id=1
+http://127.0.0.1:8081/guangzhou.php?id=zonghe
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",广州新闻
-http://127.0.0.1:8081/guangzhou.php?id=2
+http://127.0.0.1:8081/guangzhou.php?id=xinwen
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",广州法治
-http://127.0.0.1:8081/guangzhou.php?id=3
+http://127.0.0.1:8081/guangzhou.php?id=fazhi
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",广州竞赛
-http://127.0.0.1:8081/guangzhou.php?id=4
+http://127.0.0.1:8081/guangzhou.php?id=jingsai
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",广州影视
-http://127.0.0.1:8081/guangzhou.php?id=5
+http://127.0.0.1:8081/guangzhou.php?id=yingshi
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",广州南国都市4K
-http://127.0.0.1:8081/guangzhou.php?id=6
+http://127.0.0.1:8081/guangzhou.php?id=shenghuo
 
 
 #EXTINF:-1   tvg-id="深圳卫视"   tvg-name="深圳卫视"    tvg-logo=""    group-title="地方",深圳卫视
