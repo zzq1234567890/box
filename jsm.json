@@ -491,7 +491,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://v.aikanbot.com$$$proxy"
+            "ext": "https://v.aikanbot.com$$$noproxy"
         },
 
 
@@ -551,37 +551,11 @@
 
 
 
-        {
-            "key": "ppxdm",
-            "name": "💕ppx动漫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-            "ext": {
-                "主页url": "https://www.ppxdm.com/",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "图片": "data-original=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "链接": "href=\"&&\"",
-                "线路数组": "class=\"module-tab-item tab-item\"&&</div>",
-                "线路标题": "<span>&&</span>",
-                "分类url": "https://www.ppxdm.com/v-show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "动漫电影$1#日本动漫$2#国产动漫$3#欧美动漫$4#短剧$20"
-            }
-        },
+        
+        
 
-        {
-            "key": "csp_xBPQ_可可",
-            "name": "👻可可影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./lib/可可影视.json"
-
-        },
+        
+            
         {
             "key": "黑木耳旧版",
             "name": "黑木耳旧版",
@@ -680,114 +654,8 @@
             "api": "http://127.0.0.1:10079/p/0/proxy/https://demobe.serv00.net/heimuer.php",
             "searchable": 1,
             "quickSearch": 0,
-
             "filterable": 0
-
-
         },
-        {
-            "key": "可达影视",
-            "name": "可达影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./lib/XBPQ.jar",
-            "playerType": 2,
-
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "主页url": "https://kedays.org",
-                "首页": "120",
-                "起始页": "1",
-                "数组": "pic\">&&</li>",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "副标题": "text-overflow\">&&</p >",
-                "链接": "href=\"&&\"",
-                "简介": "pb-10*>&&</p >",
-                "线路数组": "data-target=\"#ewave-playlist&&</li>",
-                "线路标题": ">&&<em>[不包含:线路1]",
-                "倒序": "0",
-                "播放数组": "ewave-playlist-content&&</ul>",
-                "播放列表": "<a&&/a>",
-                "播放标题": ">&&<",
-                "播放链接": "href=\"&&\"",
-                "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
-                "跳转解析": "默认$https://kedays.org/play/?url=",
-                "嗅探词": ".mp4#.m3u8#.flv",
-                "搜索模式": "1",
-                "搜索url": "/so/{wd}----------{pg}---.html",
-                "搜索数组": "pic\">&&</li>",
-                "搜索副标题": "text-overflow\">&&</p >",
-                "搜索链接": "href=\"&&\"",
-                "分类url": "https://kedays.org/shaixuan/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影&剧集&综艺&动漫&少儿&短剧",
-                "分类值": "dianying&lianxuju&zongyi&dongman&shaoer&duanju"
-            }
-
-        },
-        {
-            "key": "555电影",
-            "name": "💕555电影",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-
-            "ext": {
-                "主页url": "https://5srn5.com/",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-                "播放链接": "href=\"&&\"",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "线路数组": "<div class=\"module-tab-item&&</div>",
-                "线路标题": "<span>&&</small>",
-                "分类url": "https://c5ine.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html",
-                "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
-            }
-
-        },
-        {
-            "key": "热播库",
-            "name": "热播库",
-            "type": 3,
-            "changeable": 1,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-            "playerType": "2",
-
-
-            "ext": {
-                "主页url": "https://rebozj.pro",
-                "数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "副标题": "class=\"pic-text text-right\"><b>&&</span>",
-                "搜索模式": "1",
-                "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
-                "搜索url": "https://rebozj.pro/ajax/suggest?mid=1&wd={wd}&limit=500",
-                "搜索二次截取": "\"list\":[&&]",
-                "搜索数组": "{&&}",
-                "搜索标题": "\"name\":\"&&\"",
-                "搜索图片": "\"pic\":\"&&\"",
-                "搜索链接": "https://rebozj.pro/detail/+\"id\":&&,+html",
-                "播放列表": "<a&&/a>",
-                "播放标题": ">&&<",
-                "影片类型": "类型：&&</p>",
-                "导演": "导演：&&</p>",
-                "主演": "主演：&&</p>",
-                "简介": "display: none;\">&&</span>",
-                "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-                "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a"
-            }
-        },
-
-
         {
             "key": "py_emby1",
             "name": "🍏EMBY公益服•py1",
