@@ -5054,6 +5054,39 @@ http://127.0.0.1:8081/wuhanapp.php?id=9
 http://127.0.0.1:8081/wuhanapp.php?id=2
 #EXTINF:-1      tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WETV.png" tvg-id="1795"   tvg-name="武汉教育电视台"    group-title="地方",武汉教育
 http://127.0.0.1:8081/wuhanapp.php?id=16
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",吉林卫视
+http://127.0.0.1:8081/jilin.php?id=jlws
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",吉林都市
+http://127.0.0.1:8081/jilin.php?id=jlds
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",吉林生活
+http://127.0.0.1:8081/jilin.php?id=jlsh
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",吉林影视
+http://127.0.0.1:8081/jilin.php?id=jlys
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",吉林乡村
+http://127.0.0.1:8081/jilin.php?id=jlxc
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",吉林公共·新闻
+http://127.0.0.1:8081/jilin.php?id=jlggxw
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",吉林综艺·文化
+http://127.0.0.1:8081/jilin.php?id=jlzywh
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",延边卫视
+http://127.0.0.1:8081/jilin.php?id=ybws
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",长春综合
+http://127.0.0.1:8081/jilin.php?id=cczh
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",吉林市新闻综合
+http://127.0.0.1:8081/jilin.php?id=jlszh
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",四平新闻综合
+http://127.0.0.1:8081/jilin.php?id=spzh
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",辽源新闻综合
+http://127.0.0.1:8081/jilin.php?id=lyzh
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",通化新闻综合
+http://127.0.0.1:8081/jilin.php?id=thzh
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",白山新闻综合
+http://127.0.0.1:8081/jilin.php?id=bszh
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",白城新闻综合
+http://127.0.0.1:8081/jilin.php?id=bczh
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",松原新闻综合
+http://127.0.0.1:8081/jilin.php?id=syzh
+
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",内蒙古卫视
 http://127.0.0.1:8081/neimenggurongmei.php?id=nmws
