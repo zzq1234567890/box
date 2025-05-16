@@ -63,7 +63,7 @@ http://127.0.0.1:8081/mymysuper.php?id=SSPT
 http://127.0.0.1:8081/mymysuper.php?id=C18
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b778a3241e5fa3bb97d1cb9b57f9e09:3b1f318259fcf0dccd04742cd679fd25
+#KODIPROP:inputstream.adaptive.license_key=72de7d0a1850c8d40c5bdf9747a4ca7c:4967537ff0bc8209277160759de4adef
 #EXTINF:-1 tvg-id="28AI智慧賽馬 (免費)" tvg-name="28AI智慧賽馬 (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1725457904756709_EVT1.png" group-title="mytvsuper",28AI智慧賽馬 (免費)
 http://127.0.0.1:8081/mymysuper.php?id=C28
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
