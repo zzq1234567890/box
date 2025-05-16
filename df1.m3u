@@ -181,14 +181,10 @@ http://127.0.0.1:8081/mymysuper.php?id=CRTX
 #KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="" group-title="mytvsuper",PopC
 http://127.0.0.1:8081/mymysuper.php?id=POPC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+
 #EXTINF:-1 tvg-id="Action Hollywood Movies (免費)" tvg-name="Action Hollywood Movies (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745931648041810_ACTM.png" group-title="mytvsuper",Action Hollywood Movies (免費)
 http://127.0.0.1:8081/mymysuper.php?id=ACTM
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+
 #EXTINF:-1 tvg-id="Rialto Classic Movies (RCM) (免費)" tvg-name="Rialto Classic Movies (RCM) (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745931759705569_RCM.png" group-title="mytvsuper",Rialto Classic Movies (RCM) (免費)
 http://127.0.0.1:8081/mymysuper.php?id=RCM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -196,9 +192,7 @@ http://127.0.0.1:8081/mymysuper.php?id=RCM
 #KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://assets.mytvsuper.com/channel/1651032626745665_C18.png" group-title="mytvsuper",KIX
 http://127.0.0.1:8081/mymysuper.php?id=CKIX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+
 #EXTINF:-1 tvg-id="TRACE Sport Stars (免費)" tvg-name="TRACE Sport Stars (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1651032626745665_C18.png" group-title="mytvsuper",TRACE Sport Stars (免費)
 http://127.0.0.1:8081/mymysuper.php?id=TRSP
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -216,24 +210,16 @@ http://127.0.0.1:8081/mymysuper.php?id=LN4
 #KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
 #EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://assets.mytvsuper.com/channel/1651032626745665_C18.png" group-title="mytvsuper",Global Trekker
 http://127.0.0.1:8081/mymysuper.php?id=SMS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+
 #EXTINF:-1 tvg-id="Pet Club TV (免費)" tvg-name="Pet Club TV (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932012475990_PETC.png" group-title="mytvsuper",Pet Club TV (免費)
 http://127.0.0.1:8081/mymysuper.php?id=PETC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+
 #EXTINF:-1 tvg-id="Globetrotter (免費)" tvg-name="Globetrotter (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932063837509_GLBT.png" group-title="mytvsuper",Globetrotter (免費)
 http://127.0.0.1:8081/mymysuper.php?id=GLBT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+
 #EXTINF:-1 tvg-id="DocsVille (免費)" tvg-name="DocsVille (免費)" tvg-logo="" group-title="mytvsuper",DocsVille (免費)
 http://127.0.0.1:8081/mymysuper.php?id=DOCV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+
 #EXTINF:-1 tvg-id="Pulse Documentaries (免費)" tvg-name="Pulse Documentaries (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932190537668_DOCV.png" group-title="mytvsuper",Pulse Documentaries (免費)
 http://127.0.0.1:8081/mymysuper.php?id=PULS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -376,34 +362,22 @@ http://127.0.0.1:8081/mymysuper.php?id=ZJTV
 #KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
 #EXTINF:-1 tvg-id="深圳衛視國際頻道 (免費)" tvg-name="深圳衛視國際頻道 (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1744699192744305_SZTV.png" group-title="mytvsuper",深圳衛視國際頻道 (免費)
 http://127.0.0.1:8081/mymysuper.php?id=SZTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+
 #EXTINF:-1 tvg-id="NOW 70s (免費)" tvg-name="NOW 70s (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932338100361_NOW7.png" group-title="mytvsuper",NOW 70s (免費)
 http://127.0.0.1:8081/mymysuper.php?id=NOW7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+
 #EXTINF:-1 tvg-id="NOW 80s (免費)" tvg-name="NOW 80s (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932390285250_NOW8.png" group-title="mytvsuper",NOW 80s (免費)
 http://127.0.0.1:8081/mymysuper.php?id=NOW8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+
 #EXTINF:-1 tvg-id="NOW ROCK (免費)" tvg-name="NOW ROCK (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932445714549_NOWR.png" group-title="mytvsuper",NOW ROCK (免費)
 http://127.0.0.1:8081/mymysuper.php?id=NOWR
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+
 #EXTINF:-1 tvg-id="NOW 90s00s (免費)" tvg-name="NOW 90s00s (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932498130891_NOW9.png" group-title="mytvsuper",NOW 90s00s (免費)
 http://127.0.0.1:8081/mymysuper.php?id=NOW9
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+
 #EXTINF:-1 tvg-id="Concerto (免費)" tvg-name="Concerto (免費)" tvg-logo="" group-title="mytvsuper",Concerto (免費)
 http://127.0.0.1:8081/mymysuper.php?id=CONC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+
 #EXTINF:-1 tvg-id="TRACE Urban (免費)" tvg-name="TRACE Urban (免費)" tvg-logo="" group-title="mytvsuper",TRACE Urban (免費)
 http://127.0.0.1:8081/mymysuper.php?id=TRUR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -441,9 +415,7 @@ http://127.0.0.1:8081/mymysuper.php?id=CNHK
 #KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
 #EXTINF:-1 tvg-id="Arirang TV" tvg-name="Arirang TV" tvg-logo="https://assets.mytvsuper.com/channel/1651032626745665_C18.png" group-title="mytvsuper",Arirang TV
 http://127.0.0.1:8081/mymysuper.php?id=CARI
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+
 #EXTINF:-1 tvg-id="NewsWorld (免費)" tvg-name="NewsWorld (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1651032626745665_C18.png" group-title="mytvsuper",NewsWorld (免費)
 http://127.0.0.1:8081/mymysuper.php?id=NSWD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -476,11 +448,6 @@ http://127.0.0.1:8081/mymysuper.php?id=EVT6
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-id="myTV SUPER直播足球7台" tvg-name="myTV SUPER直播足球7台" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",myTV SUPER直播足球7台
 http://127.0.0.1:8081/mymysuper.php?id=EVT7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="測試頻道" tvg-name="測試頻道" tvg-logo="https://assets.mytvsuper.com/channel/1651032626745665_C18.png" group-title="mytvsuper",測試頻道
-http://127.0.0.1:8081/mymysuper.php?id=TEST
 
 
 #EXTINF:-1 tvg-id="C3" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png"   group-title="mytvsuper" ,2024年WBSC五人制棒球世界盃直播1台
