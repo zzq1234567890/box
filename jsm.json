@@ -70,7 +70,16 @@
             ]
 
         },
-        
+        {
+      "key": "py_jianpian",
+      "name": "荐片(T3)",
+      "type": 3,
+      "api": "./py/py_jianpian.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+        }
         
         {
             "key": "py_jieyingshi",
