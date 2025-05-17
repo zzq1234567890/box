@@ -4116,7 +4116,7 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii254
 
 #EXTINF:-1   tvg-logo="https://media-1-mvhub.imgix.net/channel/35_1dr0A4YTgCbGHaBiMnlh5qPEtxs7kvoQ.png"  group-title="歡樂看測試",TVB星河
 http://127.0.0.1:8081/huanlekan1.php?id=67848d4ff034870c4171b7c6
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/67848d1ff034870c4171b7c5/73fc994e3aa7c39ea40c72a1a6049159" group-title="歡樂看測試",TVB無綫新聞
+#EXTINF:-1 tvg-id="無綫新聞台 (免費)" tvg-name="無綫新聞台 (免費)" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/67848d1ff034870c4171b7c5/73fc994e3aa7c39ea40c72a1a6049159" group-title="歡樂看測試",TVB無綫新聞
 http://127.0.0.1:8081/huanlekan1.php?id=67848d1ff034870c4171b7c5
 #EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/543f5baf3d32fc7b0e3322d9/6399f8329f901789c6815019e7a27a2c" group-title="歡樂看測試",龍華卡通台
 http://127.0.0.1:8081/huanlekan1.php?id=543f5baf3d32fc7b0e3322d9
