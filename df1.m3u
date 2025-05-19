@@ -4773,23 +4773,23 @@ http://127.0.0.1:8081/zhejiang.php?id=zjgj
 http://127.0.0.1:8081/zhejiang.php?id=zjzjjl
 
 #EXTINF:-1   tvg-id="江苏卫视"   tvg-name="江苏卫视"    tvg-logo=""    group-title="地方",江苏卫视
-http://127.0.0.1:8081/jiangsu.php?id=jsws
+http://127.0.0.1:8081/jiangsu1.php?id=jsws
 #EXTINF:-1   tvg-id="江苏城市频道"   tvg-name="江苏城市频道"    tvg-logo=""    group-title="地方",江苏城市
-http://127.0.0.1:8081/jiangsu.php?id=jscs
+http://127.0.0.1:8081/jiangsu1.php?id=jscs
 #EXTINF:-1   tvg-id="江苏综艺频道"   tvg-name="江苏综艺频道"    tvg-logo=""    group-title="地方",江苏综艺
-http://127.0.0.1:8081/jiangsu.php?id=jszy
+http://127.0.0.1:8081/jiangsu1.php?id=jszy
 #EXTINF:-1   tvg-id="江苏影视频道"   tvg-name="江苏影视频道"    tvg-logo=""    group-title="地方",江苏影视
-http://127.0.0.1:8081/jiangsu.php?id=jsys
+http://127.0.0.1:8081/jiangsu1.php?id=jsys
 #EXTINF:-1   tvg-id="江苏新闻频道"   tvg-name="江苏新闻频道"    tvg-logo=""    group-title="地方",江苏新闻
-http://127.0.0.1:8081/jiangsu.php?id=jsxw
+http://127.0.0.1:8081/jiangsu1.php?id=jsxw
  #EXTINF:-1   tvg-id="江苏体育休闲频道"   tvg-name="江苏体育休闲频道"    tvg-logo=""    group-title="地方",江苏体育
-http://127.0.0.1:8081/jiangsu.php?id=jsxx
+http://127.0.0.1:8081/jiangsu1.php?id=jsty
 #EXTINF:-1   tvg-id="江苏优漫卡通频道"   tvg-name="江苏优漫卡通频道"    tvg-logo=""    group-title="地方",优漫卡通
-http://127.0.0.1:8081/jiangsu.php?id=ymkt
+http://127.0.0.1:8081/jiangsu1.php?id=ymkt
 #EXTINF:-1   tvg-id="江苏国际频道"   tvg-name="江苏国际频道"    tvg-logo=""    group-title="地方",江苏国际
-http://127.0.0.1:8081/jiangsu.php?id=jsgj
+http://127.0.0.1:8081/jiangsu1.php?id=jsgj
 #EXTINF:-1   tvg-id="江苏教育频道"   tvg-name="江苏教育频道"    tvg-logo="江苏国际频道"    group-title="地方",江苏教育
-http://127.0.0.1:8081/jiangsu.php?id=jsjy
+http://127.0.0.1:8081/jiangsu1.php?id=jsjy
 
 
 
