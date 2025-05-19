@@ -4702,6 +4702,26 @@ http://127.0.0.1:8081/shanghai.php?id=shics
 #EXTINF:-1   tvg-id="五星体育"   tvg-name="五星体育"    tvg-logo=""    group-title="地方",五星体育
 http://127.0.0.1:8081/shanghai.php?id=wxty
 
+#EXTINF:-1   tvg-id="东方卫视"   tvg-name="东方卫视"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="地方",东方卫视
+http://127.0.0.1:8081/shanghai1.php?id=dfws
+#EXTINF:-1   tvg-id="新闻综合"   tvg-name="新闻综合"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png"     group-title="地方",上海新闻综合
+http://127.0.0.1:8081/shanghai1.php?id=xwzh
+#EXTINF:-1   tvg-id="哈哈炫动"   tvg-name="哈哈炫动"    tvg-logo="https://assets.livednow.com/logo/哈哈炫动.png"    group-title="地方",哈哈炫动
+http://127.0.0.1:8081/shanghai1.php?id=hhxd
+#EXTINF:-1   tvg-id="都市频道"   tvg-name="都市频道"    tvg-logo="https://assets.livednow.com/logo/上海都市.png"     group-title="地方",上海都市
+http://127.0.0.1:8081/shanghai1.php?id=ds
+#EXTINF:-1   tvg-id="第一财经"   tvg-name="第一财经"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="地方",第一财经
+http://127.0.0.1:8081/shanghai1.php?id=dycj
+#EXTINF:-1   tvg-id="纪实人文"   tvg-name="纪实人文"    tvg-logo="https://epg.v1.mk/logo/纪实人文.png"    group-title="地方",上海新纪实
+http://127.0.0.1:8081/shanghai1.php?id=xjs
+#EXTINF:-1   tvg-id="外语频道"   tvg-name="外语频道"    tvg-logo=""    group-title="地方",上海魔都
+http://127.0.0.1:8081/shanghai1.php?id=mdy
+#EXTINF:-1   tvg-id="五星体育"   tvg-name="五星体育"    tvg-logo=""    group-title="地方",五星体育
+http://127.0.0.1:8081/shanghai1.php?id=wxty
+
+
+
+
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",清华大学
 http://127.0.0.1:8081/qinghuatv.php
 
