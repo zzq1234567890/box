@@ -13,7 +13,10 @@
             "url": "https://tang.hz.cz/api/user?token=1b52a455",
             "name": "唐三"
          },
-       
+       {
+            "url": "://raw.githubusercontent.com/zzq1234567890/zhenxin/refs/heads/main/FongMi.json",
+         "name":"蜂蜜"
+       },
         {
             "name": "王小二",
             "url": " https://9280.kstore.space/wex.json"
