@@ -2333,7 +2333,16 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         
-         
+         {
+  "name": "BeeSport直播(python)",
+  "type": 3,
+   "api":"./py/live_beesport.py",
+ #### "api": "https://json.doube.eu.org/python/live_beesport.py",
+  "ext": {},
+  "header": {
+    "Referer": "https://p.m82xg4z0cdbz7.com/"
+  }
+         },
         {
             "name": "df1",
             "ua": "okhttp/3.0",
