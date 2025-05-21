@@ -2355,7 +2355,7 @@
 "regex": "/PLTV/",
 "replace": "/PLTV//TVOD/",
 "source": "?playseek={(b)yyyyMMddHHmmss}-{(e)yyyyMMddHHmmss}",
-
+},
            ### "epg": "https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgmytvsuper.xml",
         #### "epg": "https://127.0.0.1:8080/epgdiyp.php?ch={name}&date={date}",
             ##  "epg": "https://epg.pw/xmltv/epg.xml",
