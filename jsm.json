@@ -2348,7 +2348,7 @@
             "ua": "okhttp/3.0",
             "playerType": 2,
             "url": "./df1.m3u",
-            "epg": "https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgmytvsuper.xml/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai"
+            "epg": "https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgmytvsuper.xml/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai",
 "catchup": {
 "days": "7",
 "type": "append",
