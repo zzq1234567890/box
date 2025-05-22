@@ -4725,8 +4725,7 @@ http://127.0.0.1:8081/shanghai1.php?id=wxty
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",清华大学
 http://127.0.0.1:8081/qinghuatv.php
 
- #EXTINF:-1   tvg-id="北京卫视"   tvg-name="北京卫视"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"    group-title="地方",北京卫视4K
-https://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
+
 #EXTINF:-1   tvg-id="北京卫视"   tvg-name="北京卫视"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"    group-title="地方",北京卫视4k
 http://127.0.0.1:8081/btimeapp.php?id=bjwsuhd
 #EXTINF:-1   tvg-id="北京卫视"   tvg-name="北京卫视"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"    group-title="地方",北京卫视
