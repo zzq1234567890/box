@@ -2362,6 +2362,15 @@
            ####"epg": " https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgdiyp.json",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+
+        影视直播配置：
+{
+  "name": "快直播(python)",
+  "type": 3,
+  "api": "./py/live_kzb.py",
+  "ext": "68747470733a2f2f6a7a62356b716c6e2e6875616a69616564752e636f6d2f70726f642d6170692f697074762f676574497074764c697374"
+},
+
         {
             "name": "海外{仅适合海外作廢}",
            ## "url": "https://www.stream-link.org/playlist.m3u?token=f846c514-51c0-4df5-854f-4c6629236150&hmac=18dd9686ed0ac88d537dad8a7df41ca8",
