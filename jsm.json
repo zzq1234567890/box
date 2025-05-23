@@ -2402,10 +2402,22 @@
   
         {
       "name": "mqitv",
+    
       "api": "csp_MQiTV",
+      "jar": "./fm.jar",
       "ext": "https://59.125.210.231:4433"
     },
-
+{
+      "name": "九店",
+      "api": "csp_MQiTV",
+"jar": "./fm.jar",
+      "ext": [
+        {
+          "name": "唐三",
+          "url": "https://59.125.210.231:4433"
+        }
+      ]
+    },
         {
             "name": "4jtv",
             "url": "http://4gtv.mumi.rip:9877/",
