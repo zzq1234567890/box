@@ -2349,16 +2349,7 @@
             "playerType": 2,
             "url": "./df1.m3u",
             "epg": "https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgmytvsuper.xml/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai",
-"catchup": {
-"days": "7",
-"type": "append",
-"regex": "/PLTV/",
-"replace": "/PLTV//TVOD/",
-"source": "?playseek={(b)yyyyMMddHHmmss}-{(e)yyyyMMddHHmmss}"
-},
-           ### "epg": "https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgmytvsuper.xml",
-        #### "epg": "https://127.0.0.1:8080/epgdiyp.php?ch={name}&date={date}",
-            ##  "epg": "https://epg.pw/xmltv/epg.xml",
+
            ####"epg": " https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgdiyp.json",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -2402,7 +2393,6 @@
   
         {
       "name": "mqitv",
-    
       "api": "csp_MQiTV",
       "jar": "./fm.jar",
       "ext": "https://59.125.210.231:4433"
@@ -2410,7 +2400,7 @@
 {
       "name": "九店",
       "api": "csp_MQiTV",
-"jar": "./fm.jar",
+      "jar": "./fm.jar",
       "ext": [
         {
           "name": "唐三",
