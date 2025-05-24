@@ -113,7 +113,7 @@ parse=1
 浙江少儿频道,https://www.cztv.com/liveTV/108
 浙江国际,https://www.cztv.com/liveTV/110
 浙江之江记录,https://www.cztv.com/liveTV/112
-
+北京卫视4k,https://item.btime.com/5755n511tbk8flo40l4c71l0sdf
 福建电视台,#genre#
 parse=1
 综合频道,https://live.fjtv.net/zhpd/
