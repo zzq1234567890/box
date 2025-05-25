@@ -2307,6 +2307,15 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+
+        {
+            "name": "肇庆移动",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "://raw.githubusercontent.com/zzq1234567890/box/refs/heads/main/%E8%82%87%E5%BA%86%E7%A7%BB%E5%8A%A8.txt",
+             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
         {
             "name": "Yang1989",
             "ua": "okhttp/3.0",
