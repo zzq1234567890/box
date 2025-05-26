@@ -2312,7 +2312,7 @@
             "name": "肇庆移动",
             "ua": "okhttp/3.0",
             "playerType": 2,
-            "url": ":./zhaoqingyidong.txt",
+            "url": "https://raw.githubusercontent.com/zzq1234567890/box/refs/heads/main/zhaoqing.txt",
              "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
