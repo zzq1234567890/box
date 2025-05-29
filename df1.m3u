@@ -11,7 +11,7 @@ https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Action_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",mbc 2
-https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC2_HD/DASH/MBC2_HD.mpd
+https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC_2_HD/DASH/MBC_2_HD.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
