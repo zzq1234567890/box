@@ -2,14 +2,14 @@
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7be04cfb92f19ecd6074b976c1f3c54
+#KODIPROP:inputstream.adaptive.license_key=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",mbc action
 https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=:17774f82a3b9e33ea7a149596acbb20f
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",mbc 2
 https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC2_HD/DASH/MBC2_HD.mpd
 
