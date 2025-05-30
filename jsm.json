@@ -2309,10 +2309,10 @@
         },
 
         {
-            "name": "肇庆移动",
+            "name": "judy",
             "ua": "okhttp/3.0",
             "playerType": 2,
-            "url": "https://raw.githubusercontent.com/zzq1234567890/box/refs/heads/main/zhaoqing.txt",
+            "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
              "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
