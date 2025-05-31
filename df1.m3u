@@ -1,14 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-bsq 0308:
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8300540be72f09691108e480a919fbf:09cf6e0deac4734ebd30533c347e9165
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",NOW HD 德国🇩🇪
 https://pnowlive-a.akamaized.net/live/nowhd/dash/nowhd.mpd
-
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
