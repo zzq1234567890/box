@@ -1,5 +1,14 @@
 {
   "urls": [
+   {
+            "name": "网盘",
+     "url": "https://try.gogs.io/NB666/api/raw/main/config.bin"
+ },
+     {
+    "name": "pg大佬",
+     "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json"
+
+     },
     
         {
             "name": "江苏饭太硬",
