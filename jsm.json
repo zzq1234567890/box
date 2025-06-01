@@ -1981,8 +1981,9 @@
         {
             "name": "SMT直播(python)",
             "type": 3,
-             "api": "./py/live_smt.py",
-             "ext": {}
+            "api": "./py/live_smt.py",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "ext": {}
         },
         {
             "name": "judy",
