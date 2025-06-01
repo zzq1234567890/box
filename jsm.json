@@ -1,7 +1,6 @@
 {
     "spider": "./pg.jar",
-    "sites": [
-        
+    "sites": [     
         {
             "key": "Youtube",
             "name": "Youtube",
@@ -64,11 +63,9 @@
                 "经典剧",
                 "网络电影",
                 "重生短剧",
-
                 "港台动漫",
                 "日本动漫"
             ]
-
         },
         {
       "key": "py_jianpian",
@@ -79,8 +76,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0
-        },
-        
+        },      
         {
             "key": "py_jieyingshi",
             "name": "界影视(T3)",
@@ -124,7 +120,6 @@
                 "喜剧片",
                 "奇幻片",
                 "恐怖片",
-
                 "悬疑片",
                 "惊悚片",
                 "灾难片",
@@ -148,13 +143,11 @@
                 "韩国动漫",
                 "其它动漫"
             ],
-
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0
-        },
-     
+        },    
         {
             "key": "4K",
             "name": "4K在线",
@@ -255,8 +248,7 @@
                 "type": "rect",
                 "ratio": 1.5
             }
-        },
-        
+        },        
         {
             "key": "migu",
             "name": "咪咕",
@@ -275,8 +267,6 @@
             "quickSearch": 0,
             "changeable": 0
         },
-
-
         {
             "key": "油管播放列表1",
             "name": "油管播放列表1",
@@ -301,7 +291,6 @@
             },
             "changeable": 1
         },
-
         {
             "key": "hunanyidong",
             "name": "湖南移动",
@@ -311,8 +300,6 @@
             "quickSearch": 0,
             "changeable": 0
         },
-
-
         {
             "key": "4g",
             "name": "4g",
@@ -322,8 +309,6 @@
             "quickSearch": 0,
             "changeable": 0
         },
-
-
         {
             "key": "kktv",
             "name": "kktv",
@@ -333,7 +318,6 @@
             "quickSearch": 0,
             "changeable": 0
         },
-
         {
             "key": "ofiii",
             "name": "ofiii",
@@ -343,7 +327,6 @@
             "quickSearch": 0,
             "changeable": 0
         },
-
         {
             "key": "4gtv",
             "name": "4gtv",
@@ -353,7 +336,6 @@
             "quickSearch": 0,
             "changeable": 0
         },
-
         {
             "key": "super",
             "name": "super",
@@ -405,10 +387,6 @@
                 "filter": "./js/wogg.json"
             }
         },
-
-
-
-
         {
             "key": "界界影视",
             "name": "界界┃影视",
@@ -437,11 +415,6 @@
                 "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
             }
         },
-
-
-
-
-
         {
             "key": "B站",
             "name": "B站 | Bili[jar]",
@@ -461,10 +434,6 @@
             "type": 3,
             "api": "./py/cctv.py"
         },
-
-
-
-
         {
             "key": "hipy_js_大全[央]",
             "name": "大全[央](drpy_t3)",
@@ -476,11 +445,6 @@
             "order_num": 0,
             "ext": "./lib/大全[央].js"
         },
-
-
-
-
-
         {
             "key": "快看",
             "name": "快看",
@@ -492,7 +456,6 @@
             "filterable": 1
         },
         {
-
             "key": "豆瓣",
             "name": "豆瓣",
             "type": 3,
@@ -519,7 +482,6 @@
                 "分类": "短剧$5#国产剧$17#港台剧$18#日韩剧$20#电视剧$2#电影$1#动作片$6#喜剧片$7#爱情片$8#恐怖片$10#动漫$4#综艺$3"
             }
         },
-
         {
             "key": "黑木耳新版测试",
             "name": "黑木耳新版测试",
@@ -592,14 +554,12 @@
                 "欧美动漫",
                 "日本动漫",
                 "韩国动漫",
-
                 "港台动漫",
                 "新马泰动漫",
                 "其它动漫"
             ],
             "searchable": 1,
             "changeable": 1
-
         },
         {
             "key": "金鹰",
@@ -618,7 +578,6 @@
             "api": "http://127.0.0.1:10079/p/0/proxy/https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
         },
-
         {
             "key": "木耳⁼秒播",
             "name": "🍙木耳丨秒播",
@@ -657,7 +616,6 @@
                 },
             "changeable": 0
         },
-
         {
             "key": "py_emby2",
             "name": "🍏EMBY公益服•py2",
@@ -675,7 +633,6 @@
                 },
             "changeable": 0
         },
-
         {
             "key": "py_emby3",
             "name": "🍏EMBY公益服•py3",
@@ -693,7 +650,6 @@
                 },
             "changeable": 0
         },
-
         {
             "key": "py_emby4",
             "name": "🍏EMBY公益服•py4",
@@ -711,11 +667,6 @@
                 },
             "changeable": 0
         },
-
-
-
-
-
         {
             "key": "py_emby",
             "name": "🍏EMBY公益服•py",
@@ -731,12 +682,7 @@
                 "password": "",
                 "thread": 0
             }
-
         },
-
-
-
-
         {
             "key": "華為吧",
             "name": "華為吧",
@@ -780,33 +726,12 @@
             ]
 
         },
-       
         {
             "key": "思古",
             "name": "思古影视┃┃💠V2",
             "type": 3,
             "api": "csp_AppYsV2",
             "ext": "https://siguyy.cn/api.php/app/"
-        },
-
-
-
-
-       
-
-
-
-
-
-
-        {
-            "key": "星星",
-            "name": "星星 | 海外",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "noproxy"
         },
         {
             "key": "天龙影视",
@@ -819,22 +744,6 @@
             "ext": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%A4%A9%E9%BE%99%E5%BD%B1%E8%A7%86.json",
             "jar": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
            ### "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
-        },
-
-        {
-            "key": "天空资源",
-            "name": "🌔 天空.云播 ",
-            "type": 1,
-            "api": "https://api.tiankongapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "国产剧",
-                "剧情片",
-                "大陆综艺",
-                "动作片"
-            ]
-            ##"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
         },
         {
             "key": "新浪资源",
@@ -888,29 +797,6 @@
             "filterable": 1
         },
         {
-            "key": "Ikanbot",
-            "name": "爱看机器人",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://v.aikanbot.com$$$noproxy"
-           ### "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
-        },
-
-
-        {
-            "key": "星星",
-            "name": "星星 | 海外",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "noproxy"
-        },
-        {
             "key": "獨播",
             "name": "獨播 | 海外",
             "type": 3,
@@ -918,18 +804,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": "./lib/duboku.json$$$noproxy"
-        },
-
-        {
-            "key": "ikun",
-            "name": "ikun",
-            "type": 1,
-            "api": "https://ikunzyapi.com/api.php/provide/vod/?",
-            # # # # "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1
-        },
+        },  
         {
             "key": "飞速资源",
             "name": "飞速资源",
@@ -1021,21 +896,9 @@
             "searchable": 1,
             "changeable": 0
         },
-        {
+        
 
-            "key": "天天",
-            "name": "天天┃App",
-            "type": 3,
-            "api": "csp_TTian",
-            "ext": "http://op.ysdqjs.cn$$$null$$$1"
-        },
-        {
-            "key": "追剧",
-            "name": "追剧┃App",
-            "type": 3,
-            "api": "csp_TTian",
-            "ext": "http://app.kzjtv.com$$$null$$$1"
-        },
+            
         {
             "key": "賤賤",
             "name": "荐片",
