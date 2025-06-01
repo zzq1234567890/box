@@ -566,7 +566,7 @@
             "name": "金鹰",
             "type": 1,
             "api": "https://jyzyapi.com/provide/vod?ct=xml",
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+           ### "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
             "searchable": 1,
             "changeable": 1
 
