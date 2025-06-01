@@ -1978,7 +1978,12 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-
+        {
+            "name": "SMT直播(python)",
+            "type": 3,
+             "api": "./py/live_smt.py",
+             "ext": {}
+        },
         {
             "name": "judy",
             "ua": "okhttp/3.0",
