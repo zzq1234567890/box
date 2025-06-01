@@ -735,28 +735,13 @@
         },
 
 
-        {
-            "key": "热播",
-            "name": "热播之家┃影视",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-            "ext": {
-                "分类url": "https://rebozj.pro/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"
-            }
-
-        },
 
 
         {
             "key": "華為吧",
             "name": "華為吧",
             "type": 2,
-            "api": "  http://127.0.0.1:10079/p/0/proxy/https://hw8.live/api.php/provide/vod",
+            "api": "  https://hw8.live/api.php/provide/vod",
             "searchable": 1,
             "changeable": 1,
             # # # "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
@@ -795,68 +780,7 @@
             ]
 
         },
-        {
-            "key": "OK資源",
-            "name": "OK資源",
-            "type": 2,
-            "api": "https://api.okzy.org/api.php/provide/vod",
-
-            "searchable": 1,
-
-            "changeable": 1,
-            "categories": [
-                "日本动漫",
-                "国产动漫",
-                "欧美动漫",
-                "国产剧",
-                "韩剧",
-                "日剧",
-                "台剧",
-                "泰剧",
-                "港剧",
-                "欧美剧",
-                "动画电影",
-                "韩国综艺",
-                "国产综艺",
-                "日本综艺",
-                "欧美综艺",
-                "冒险片",
-                "剧情片",
-                "动作片",
-
-                "喜剧片",
-                "奇幻片",
-                "恐怖片",
-                "悬疑片",
-                "惊悚片",
-                "战争片",
-                "歌舞片",
-                "灾难片",
-                "爱情片",
-                "犯罪片",
-                "科幻片",
-                "纪录片",
-                "经典片"
-            ]
-            # # # "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
-        },
-
-        {
-            "key": "剧兔",
-            "name": "追剧兔子┃┃💠V2",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "https://www.zjtu.one/api.php/app/"
-        },
-
-
-        {
-            "key": "影馆",
-            "name": "影馆剧场┃┃💠V2",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "https://4kdyg.top/api.php/v1.vod"
-        },
+       
         {
             "key": "思古",
             "name": "思古影视┃┃💠V2",
@@ -866,100 +790,9 @@
         },
 
 
-        {
-            "key": "kuaikanzy",
-            "name": "快看",
-            "type": 2,
-            "api": "https://kuaikan-api.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1,
-
-            "categories": [
-                "日本动漫",
-                "国产动漫",
-                "欧美动漫",
-                "国产剧",
-                "韩剧",
-                "日剧",
-                "台剧",
-                "泰剧",
-                "港剧",
-                "欧美剧",
-                "动画电影",
-                "韩国综艺",
-                "国产综艺",
-                "日本综艺",
-                "欧美综艺",
-                "冒险片",
-                "剧情片",
-                "动作片",
-
-                "喜剧片",
-                "奇幻片",
-                "恐怖片",
-                "悬疑片",
-                "惊悚片",
-                "战争片",
-                "歌舞片",
-                "灾难片",
-                "爱情片",
-                "犯罪片",
-                "科幻片",
-                "纪录片",
-                "经典片"
-            ]
-            # # # "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
-        },
-        {
-            "key": "星星",
-            "name": "星星",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 1
-        },
-
-        {
-            "key": "欧乐影院",
-            "name": "欧乐影院|在线播（海外）",
-            "type": 3,
-            "api": "csp_Olevod",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json",
-            # # # "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-            "jar": "./lib/pg.jar"
-        },
 
 
-        {
-            "key": "蜡笔网盘",
-            "name": "蜡笔|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            # # # "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-
-            "ext": "./lib/tokenm.json$$$https://duopan.fun/$$$1$$$./lib/wogg.json"
-        },
-
-
-        {
-            "key": "黑木资源",
-            "name": "黑木资源",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90.json",
-            "jar": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
-        },
+       
 
 
 
@@ -984,8 +817,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%A4%A9%E9%BE%99%E5%BD%B1%E8%A7%86.json",
-            "jar": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
+            "jar": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
+           ### "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
         },
 
         {
@@ -1000,8 +833,8 @@
                 "剧情片",
                 "大陆综艺",
                 "动作片"
-            ],
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
+            ]
+            ##"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
         },
         {
             "key": "新浪资源",
@@ -1015,8 +848,8 @@
                 "动作片",
                 "动漫",
                 "综艺"
-            ],
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
+            ]
+            ##"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
         },
         {
             "key": "百度",
@@ -1040,8 +873,8 @@
                 "恐怖片",
                 "剧情片",
                 "战争片"
-            ],
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
+            ]
+           ## "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
         },
 
         {
@@ -1063,8 +896,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://v.aikanbot.com$$$proxy",
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
+            "ext": "https://v.aikanbot.com$$$noproxy"
+           ### "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
         },
 
 
@@ -1084,7 +917,7 @@
             "api": "csp_XPathMacFilter",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./lib/duboku.json$$$proxy"
+            "ext": "./lib/duboku.json$$$noproxy"
         },
 
         {
