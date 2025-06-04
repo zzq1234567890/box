@@ -28,6 +28,8 @@ https://pnowlive-a.akamaized.net/live/nowhd/dash/nowhd.mpd
 #KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",RTL 720p
 https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
+#EXTINF:-1  tvg-id="dubai one"tvg-name="dubai one"  group-title="mytvsuper",dubai one
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
