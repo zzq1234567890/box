@@ -212,8 +212,9 @@
                 "链接": "<a href=\"&&\"",
                 "简介": "label>*&&</div>",
                 "分类": "电影$229#电视剧$230#动漫$232#综艺$231",
-                "分类url": "https://www.hmaotv.com/vod/index.html?page={catePg}&type_id={cateId}",
-                "播放url": "https://www.hmaotv.com/vod/player.html?cate_id={catePg}&id={id}&line_id={cateId}&type_id={}"
+                ##"分类url": "https://www.hmaotv.com/vod/index.html?page={catePg}&type_id={cateId}",
+               "分类url": "https://www.hmaotv.com/vod/index.html?type_id={cateId}",
+                "播放url": "https://www.hmaotv.com/vod/player.html?cate_id={catePg}&id={id}&line_id={lineId}&type_id={cateId}"
                             
             }
         },
