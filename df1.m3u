@@ -3583,7 +3583,7 @@ http:/127.0.0.1:8081/ofiii1.php?id=4gtv-4gtv104
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn21
 #EXTINF:-1   tvg-id="龍華電影"   tvg-name="龍華電影"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_pc.png"    group-title="litv",龍華電影
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn03
-#EXTINF:-1  tvg-id="            "    tvg-name="        "    tvg-logo="                                                                  "    group-title="litv",龍華洋片
+#EXTINF:-1  tvg-id="龍華洋片OTT"    tvg-name="龍華洋片OTT"    tvg-logo="                                        "    group-title="litv",龍華洋片OTT
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn02
 #EXTINF:-1   tvg-id="4gtv-4gtv003"   tvg-name="民視第一台"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv003_pc.png"    group-title="litv",民視第一台
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv003
