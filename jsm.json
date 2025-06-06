@@ -195,7 +195,7 @@
                 "搜索链接": "href=\"&&\""
             }
         },
-       {
+     {
   "key": "黑猫影视",
   "name": "黑猫影视",
   "type": 3,
@@ -213,11 +213,15 @@
     "简介": "label>*&&</div>",
     "分类": "电影$229#电视剧$230#动漫$232#综艺$231",
     "分类url": "https://www.hmaotv.com/vod/index.html?type_id={cateId}",
+    
+    // 关键参数提取（使用方案1）
     "cateId": "data-cate-id=\"(\\d+)\"",
-    "Id": "data-id=\"(\\d+)\"",
-    "catelineId": "data-line=\"(\\d+)\"",
-    "catetyId": "data-type=\"(\\d+)\"",
-    "播放url": "https://www.hmaotv.com/vod/player.html?cate_id={cateId}&id={Id}&line_id={catelineId}&type_id={catetyId}"
+    "id": "data-id=\"(\\d+)\"",
+    "line_id": "data-line=\"(\\d+)\"",
+    "type_id": "data-type=\"(\\d+)\"",
+    
+    // 播放URL配置
+    "播放url": "https://www.hmaotv.com/vod/player.html?cate_id={cateId}&id={id}&line_id={line_id}&type_id={type_id}"
   }
 },
         {
