@@ -2002,6 +2002,16 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
 
         },
+         {
+
+                     "name": "歌手",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "http://live.goodiptv.club/api/geshou.php",
+             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+
         {
             "name": "YouTubeLive每6小时自动抓取",
             "ua": "okhttp/3.0",
