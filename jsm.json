@@ -212,6 +212,7 @@
     "链接": "<a href=\"&&\"",
     "简介": "label>*&&</div>",
     "分类": "电影$229#电视剧$230#动漫$232#综艺$231",
+      "分类url": "https://www.hmaotv.com/vod/index.html?cate_id_id={catePg}&type_id={cateId}",
     "cateId": "data-cate-id=\"(\\d+)\"",
     "Id": "data-id=\"(\\d+)\"",
     "catelineId": "data-line=\"(\\d+)\"",
