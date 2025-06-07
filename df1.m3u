@@ -3248,11 +3248,13 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPla
 #KODIPROP:inputstream.adaptive.license_key=https://apip01.rthk.hk/drm/token.php?cid=tv31&uid=MTcyLjMxLjMzLjg1X01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTM1LjAuMC4w
 https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
 
+
+
+#EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="" group-title="港澳台",香港電台31
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bba574b22adb328fad3e0496157d4568:749d60e3e0c7bc24aeaa21c29c2ec854
-#EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="" group-title="港澳台",香港電台31
 https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
 
 #EXTINF:-1 tvg-id="香港電台32" tvg-name="香港電台32" tvg-logo="" group-title="港澳台",香港電台32
