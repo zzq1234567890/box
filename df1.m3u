@@ -514,7 +514,8 @@ http://127.0.0.1:8081/mymysuper.php?id=C2
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",河南戲曲
 http://127.0.0.1:8081/douyin.php?id=38268960709
-
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",河北戲曲
+http://127.0.0.1:8081/douyin.php?id=904098894165
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",浙江中月婺剧团
 http://127.0.0.1:8081/douyin.php?id=261219709302
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",中月联献婺剧团
