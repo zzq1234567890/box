@@ -2008,7 +2008,7 @@
                      "name": "歌手",
             "ua": "okhttp/3.0",
             "playerType": 2,
-            "url": "http://live.goodiptv.club/api/geshou.php",
+            "url": "http://tv.cqshushu.ggff.net:2086/qwt.php",
              "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
