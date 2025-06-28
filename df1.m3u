@@ -4958,7 +4958,8 @@ http://127.0.0.1:8081/guangzhou.php?id=yingshi
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",广州南国都市4K
 http://127.0.0.1:8081/guangzhou.php?id=shenghuo
 
-
+#EXTINF:-1   tvg-id="深圳卫视"   tvg-name="深圳卫视"    tvg-logo=""    group-title="地方",深圳卫视4k
+http://127.0.0.1:8081/shenzhen.php?id=szws4k
 #EXTINF:-1   tvg-id="深圳卫视"   tvg-name="深圳卫视"    tvg-logo=""    group-title="地方",深圳卫视
 http://127.0.0.1:8081/shenzhen.php?id=szws
 #EXTINF:-1   tvg-id="深视都市频道"   tvg-name="深视都市频道"    tvg-logo=""    group-title="地方",深圳都市
