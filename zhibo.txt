@@ -1,6 +1,6 @@
 央视频,#genre#
 parse=1
-
+cctv11,http://m.miguvideo.com/m/liveDetail/667987558?channelId=10010001005
 cctv4k,https://www.yangshipin.cn/tv/home?pid=600002264
 cctv8k,https://www.yangshipin.cn/tv/home?pid=600156816
 cctv1,https://www.yangshipin.cn/tv/home?pid=600001859
