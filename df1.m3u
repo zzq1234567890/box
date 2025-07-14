@@ -284,6 +284,7 @@ http://127.0.0.1:8081/mymysuper.php?id=PULS
 #KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
 #EXTINF:-1 tvg-id="ROCK綜藝娛樂" tvg-name="ROCK綜藝娛樂" tvg-logo="https://assets.mytvsuper.com/channel/1651032626745665_C18.png" group-title="mytvsuper",ROCK綜藝娛樂
 http://127.0.0.1:8081/mymysuper.php?id=CRTE
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
