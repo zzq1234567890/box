@@ -3219,7 +3219,7 @@ http://127.0.0.1:8081/nowtvweb.php?id=331
 #EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="港澳台",now新聞
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8dfd5e04695f33e78f19b3a80326bcda:f44e2bfdbe450b7a8c4f226b35f16bc1
+#KODIPROP:inputstream.adaptive.license_key=4e706a9aa9263268a13ad10ae6bf41ef:f088f5cc01214e873c5f6dc01c134022     
 http://127.0.0.1:8081/nowtvweb.php?id=332
 #EXTINF:-1 tvg-id="now財經" tvg-name="now財經" tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="港澳台",now財經
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3229,7 +3229,7 @@ http://127.0.0.1:8081/nowtvweb.php?id=333
 #EXTINF:-1 tvg-id="Now Sports Premier" tvg-name="Now Sports Premier" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-c.png" group-title="港澳台",Now Sports Premier
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ccd8124570e93b52b5f112dfae129a22:9855b664b03fd3c7fd5f9c1c37ca53a8
+#KODIPROP:inputstream.adaptive.license_key=91499f59a17537d185fc3a36fc9012d8:72d7a3748c0855877ca7b15dbd3293ec    
 http://127.0.0.1:8081/nowtvweb.php?id=630
 #EXTINF:-1  group-title="港澳台" tvg-id="無綫新聞台 (免費)"   tvg-name="無綫新聞台 (免費)"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
 http://127.0.0.1:8081/tvb1.php?id=NEWS
