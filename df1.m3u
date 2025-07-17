@@ -2465,9 +2465,12 @@ http://127.0.0.1:8081/fenghuangyoutube1.php
 #EXTINF:-1   tvg-id="凤凰美洲台"   tvg-name="凤凰美洲台"    tvg-logo=""    group-title="youtube中文新闻",凤凰美洲台
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 
-
+#EXTINF:-1   tvg-id="CCTV-4美洲频道"   tvg-name="CCTV-4美洲频道"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"    group-title="youtube中文新闻",CCTV-4美洲频道
+http://127.0.0.1:8081/cctv4.php?id=1
 #EXTINF:-1   tvg-id="cctv4亚洲"   tvg-name="cctv4亚洲"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"    group-title="youtube中文新闻",cctv-4亚洲
-http://127.0.0.1:8081/cctv4.php
+http://127.0.0.1:8081/cctv4.php?id=2
+
+
 
 #EXTINF:-1   tvg-id="cctv6"   tvg-name="cctv6"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"    group-title="youtube中文新闻",CCTV-6
 http://127.0.0.1:8081/douyin.php?id=208823316033
