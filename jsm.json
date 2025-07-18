@@ -2048,6 +2048,27 @@
         }
     ],
     "lives": [
+
+        
+  {
+
+    "name": "香港视频 - 安卓",
+
+    "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "ua": "judy/5.2.1"
+
+  },
+
+        {
+      "name": "LITV直播(python)",
+      "type": 3,
+     ### "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
+           "api": "./py/litv.py",
+           "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "ext": {}
+       },
+  
       {
             "name": "国内台",
             "url": "https://10238.kstore.space/bst.m3u",
@@ -2140,15 +2161,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
   
-      {
-      "name": "LITV直播(python)",
-      "type": 3,
-     ### "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
-           "api": "./py/litv.py",
-           "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "ext": {}
-       },
-  
+      
       
     
        
