@@ -2067,15 +2067,8 @@
              "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-            "name": "香港mytv",
-            "type": 0,
-            "url": "https://json.doube.eu.org/Doubebly/MyTvSuper/",
+        
             
-            "epg": "http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-            
-        },
         {
             "name": "YouTubeLive每6小时自动抓取",
             "ua": "okhttp/3.0",
@@ -2091,22 +2084,9 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "ext": {}
         },
-        {
-            "name": "judy",
-            "ua": "okhttp/3.0",
-            "playerType": 2,
-            "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
-             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "Yang1989",
-            "ua": "okhttp/3.0",
-            "playerType": 2,
-            "url": "https://tv.iill.top/m3u/Gather",
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+        
+    
+    
           {
             "name": "aktv",
             "url": "https://aktv.space/live.m3u",
