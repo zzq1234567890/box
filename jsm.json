@@ -37,7 +37,24 @@
                 "ratio": 1.5
             }
         },
-
+{
+    "key":"玩偶",
+    "name":"👽玩偶哥哥┃4K弹幕",
+    "type":3,
+    "api":"csp_WoGGGuard",
+    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752744748542/f0717.jpg; ",
+    "timeout":30,
+    "timeout":30,
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":0, 
+    "ext": {
+        "Cloud-drive":"tvfan/Cloud-drive.txt",
+        "from":"4k|auto",
+        "siteUrl":"https://www.wogg.com/",
+        "danMu":"弹"
+    }
+},
         {
             "key": "小斑",
             "name": "小斑|网盘",
