@@ -37,6 +37,18 @@
                 "ratio": 1.5
             }
         },
+
+        {
+            "key": "小斑",
+            "name": "小斑|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$http://xsayang.fun:12512$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOBAN"
+        },
         {
             "key":"玩偶",
             "name":"👽玩偶哥哥┃4K弹幕",
