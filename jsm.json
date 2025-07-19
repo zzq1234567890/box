@@ -2244,8 +2244,8 @@
       "type": 0,
       "url": "https://fy.188766.xyz/?mishitong=false&lunbo=false&bconly=true&json=true",
       "ua": "bingcha/0.1"
-    }
-  ],
+    
+  
   "headers": [
     {
       "host": "hlsztemgsplive.miguvideo.com",
@@ -2260,7 +2260,8 @@
   "hosts": [
     "hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
     "push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com"
-  ],
+  ]
+},
   
 
   {
