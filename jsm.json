@@ -2239,7 +2239,28 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
 
-
+{
+      "name": "冰茶",
+      "type": 0,
+      "url": "https://fy.188766.xyz/?mishitong=false&lunbo=false&bconly=true&json=true",
+      "ua": "bingcha/0.1"
+    }
+  ],
+  "headers": [
+    {
+      "host": "hlsztemgsplive.miguvideo.com",
+      "header": {
+        "User-Agent": "okhttp/3.12.13"
+      }
+    }
+  ],
+  "proxy": [
+    "raw.githubusercontent.com"
+  ],
+  "hosts": [
+    "hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
+    "push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com"
+  ],
   
 
   {
