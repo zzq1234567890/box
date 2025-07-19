@@ -2225,7 +2225,8 @@
        {
            "name": "冰茶",
            "type": 0,
-           "url": "https://fy.188766.xyz/?mishitong=false&lunbo=false&bconly=true&json=true",
+           "url":  "https://fy.188766.xyz/?ip=192.168.1.2&mishitong=false&lunbo=false&bconly=true&json=true",
+           
            "ua": "bingcha/0.1",
            "headers": [
              {
