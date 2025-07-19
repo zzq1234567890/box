@@ -2079,7 +2079,29 @@
         }
     ],
     "lives": [
+{
+      "name": "冰茶测试版",
+      "type": 0,
+      "url": "https://fy.188766.xyz/?ip=192.168.1.2&bconly=true&miguip=39.136.122.146&json=true",
+      "ua": "bingcha/0.1",
 
+  
+  "headers": [
+    {
+      "host": "hlsztemgsplive.miguvideo.com",
+      "header": {
+        "User-Agent": "okhttp/3.12.13"
+      }
+    }
+  ],
+  "proxy": [
+    "raw.githubusercontent.com"
+  ],
+  "hosts": [
+    "hlsztemgsplive.miguvideo.com=39.136.122.146",
+    "push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com"
+  ]
+},
         
   {
 
