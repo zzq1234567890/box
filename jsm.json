@@ -2082,7 +2082,7 @@
 {
       "name": "冰茶测试版",
       "type": 0,
-      "url": "https://fy.188766.xyz/?ip=192.168.1.2&bconly=true&miguip=39.136.122.146&json=true",
+      "url": "https://fy.188766.xyz/?ip=192.168.1.2&bconly=true&miguip=39.135.226.32&json=true",
       "ua": "bingcha/0.1",
 
   
@@ -2098,7 +2098,7 @@
     "raw.githubusercontent.com"
   ],
   "hosts": [
-    "hlsztemgsplive.miguvideo.com=39.136.122.146",
+    "hlsztemgsplive.miguvideo.com=39.135.226.32",
     "push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com"
   ]
 },
