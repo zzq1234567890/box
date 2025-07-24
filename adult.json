@@ -51,7 +51,19 @@
           "地区": "大陆&香港&台湾&日本&韩国&泰国&美国&法国&英国&德国&印度&其他"
         }
         },
-              {
+        {
+      "key": "py_jianpian",
+      "name": "荐片(T3)",
+      "type": 3,
+       "api": "./py/新荐片.py",
+     ### "api": "./py/py_jianpian.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+        },      
+	  
+        {
             "key": "色播聚合",
             "name": "色播聚合",
             "type": 3,
