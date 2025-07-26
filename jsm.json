@@ -99,6 +99,52 @@
         "danMu":"弹"
     }
 },
+       
+        {
+      "key": "央视大全",
+      "name": "☀央视🔹大全",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/央视大全.js"
+    },
+    {
+      "key": "央视新闻",
+      "name": "☀央视🔹新闻",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/央视新闻.js"
+    },
+    {
+      "key": "央视综合",
+      "name": "☀央视🔹综合",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/央视综合.js"
+    },
+    {
+      "key": "央视少儿",
+      "name": "☀央视🔹少儿",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/央视少儿.js"
+    },
+        
         {
             "key": "小斑",
             "name": "小斑|网盘",
