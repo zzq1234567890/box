@@ -31,7 +31,7 @@
     },
 
     {
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+      "url": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
       "name": "🚀One线路"
     },
 
@@ -57,7 +57,54 @@
       "name": "🚀小虎斑线",
       "url": "https://hb.xyyh.online/tvbox"
     },
+     
 
+OK影视（安卓专用）接口：
+
+{
+      "name": "牛二(中文top) ",
+      "url": "http://tvbox.王二小放牛娃.top"
+    },
+
+   {
+      "name": "牛二(常规top) ",
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top"
+    },
+     
+
+     {
+      "name": "牛二(1数字xyz) ",
+      "url": "http://tv.999888987.xyz/"
+    },
+     
+
+   {
+      "name": "牛二(2数字xyz) ",
+      "url": "http://tv.999888123.xyz/ "
+    },
+      
+
+    {
+      "name": "牛二(凯速) ",
+      "url": " https://9280.kstore.space/wex.json"
+    },
+     
+
+{
+      "name": "魔力云播 猫爪（ios专用）接口1",
+      "url": "http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5"
+    },
+  {
+      "name": "魔力云播 猫爪（ios专用）接口2",   
+"url": "http://wexfnw:wexfnw@cat.999888987.xyz/index.js.md5"
+    },
+     
+
+{
+      "name": "魔力云播 猫爪（ios专用）接口3",
+"url": "http://wexfnw:wexfnw@cat.999888123.xyz/index.js.md5"
+    },
+     
     {
       "url": "http://www.mpanso.com/小米/DEMO.json",
       "name": "🚀小米线路"
