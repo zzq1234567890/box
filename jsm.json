@@ -112,6 +112,7 @@
         {
       "key": "央视大全",
       "name": "☀央视🔹大全",
+       "jar": "./tvkj.jar",      
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 1,
@@ -123,6 +124,7 @@
     {
       "key": "央视新闻",
       "name": "☀央视🔹新闻",
+      "jar": "./tvkj.jar",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 1,
@@ -134,6 +136,7 @@
     {
       "key": "央视综合",
       "name": "☀央视🔹综合",
+     "jar": "./tvkj.jar",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 1,
@@ -145,6 +148,7 @@
     {
       "key": "央视少儿",
       "name": "☀央视🔹少儿",
+     "jar": "./tvkj.jar",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 1,
