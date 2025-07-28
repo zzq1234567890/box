@@ -114,48 +114,48 @@
       "name": "☀央视🔹大全",
        "jar": "./tvkj.jar",      
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "https://7337.kstore.space/kjtv/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./js/yangshidaquan.js"
+      "ext": "https://7337.kstore.space/kjtv/js/央视大全.js"
     },
     {
       "key": "央视新闻",
       "name": "☀央视🔹新闻",
       "jar": "./tvkj.jar",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "https://7337.kstore.space/kjtv/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./js/央视新闻.js"
+      "ext": "https://7337.kstore.space/kjtv/js/央视新闻.js"
     },
     {
       "key": "央视综合",
       "name": "☀央视🔹综合",
      "jar": "./tvkj.jar",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "https://7337.kstore.space/kjtv/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./js/央视综合.js"
+      "ext": "https://7337.kstore.space/kjtv/js/央视综合.js"
     },
     {
       "key": "央视少儿",
       "name": "☀央视🔹少儿",
      "jar": "./tvkj.jar",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "https://7337.kstore.space/kjtv/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./js/央视少儿.js"
+      "ext": "https://7337.kstore.space/kjtv/js/央视少儿.js"
     },
         
         {
