@@ -2271,6 +2271,15 @@
         }
     ],
     "lives": [
+       
+        {
+            "name": "YouTubeLive每6小时自动抓取",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelive.txt",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
         {
             "name": "yang1989",
             "ua": "okhttp/3.15",
@@ -2316,14 +2325,7 @@
              "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }, 
-        {
-            "name": "YouTubeLive每6小时自动抓取",
-            "ua": "okhttp/3.0",
-            "playerType": 2,
-            "url": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelive.txt",
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+        
         {
             "name": "SMT直播(python)",
             "type": 3,
@@ -2498,15 +2500,7 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-            "url": "https://www.freetv.top/migu.m3u",
-            "name": "咪咕移动",
-            "ua": "okhttp/3.0",
-            "playerType": 2,
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-
-        },
+        
         {
             "name": "4gtv",
             "ua": "judy/5.2.0",
@@ -2536,23 +2530,8 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-            "name": "悦城",
-            "ua": "okhttp/3.12",
-            "playerType": 2,
-            "url": "https://bit.ly/yuechan-aptv",
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-      
-        {
-            "name": "范明明ip6",
-            "ua": "okhttp/3.12",
-            "playerType": 2,
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+        
+        
 
         {
             "name": "jedi-sambora",
@@ -2605,13 +2584,8 @@
     
         },
 
-        {
-            "name": "临时测试ip6",
-            "url": "https://raw.githubusercontent.com/Potato-66/SimpleTV/main/m3u/ipv6/IPTV.m3u",
-            "playerType": 2,
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+        
+            
         {
             "name": "mimipipi22",
             ### "ua": "okhttp/5.2.0",
