@@ -2684,21 +2684,9 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-            "name": "适合移动宽带",
-            "url": "./ziyong.m3u ",
-            "ua": "okhttp/3.12",
-            "playerType": 2,
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "体育",
-            "url": "https://raw.githubusercontent.com/AberTown/V_Zone.m3u/main/V_Sport.m3u",
-            "playerType": 2,
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+        
+            
+        
         {
             "name": "新加坡",
             "url": "http://127.0.0.1:8081/sgtv.php",
@@ -2706,62 +2694,15 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-            "name": "国内",
-            "url": "./guonei.txt",
-            "playerType": 2,
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "国内频道直播",
-            "url": "./guoneizhibo.txt",
-            "type": 0,
-            "playerType": 2,
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "自用",
-            "url": "./livetest.txt",
-            "playerType": 2,
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+        
+            
         {
             "name": "马来西亚astro(适合新加坡马来西亚)",
             "ua": "okhttp/3.0",
             "playerType": 2,
             "epg": "https://gohhh1234.github.io/iptv/EPG.xml",
             "url": "./Astro.m3u"
-        },
-        {
-            "name": "livetv",
-            "type": 0,
-            "url": "./Live.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "live.ipv6.m3u",
-            "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "live.fan",
-            "type": 0,
-            "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
+        }    
     ],
     "doh": [{
             "name": "Google",
