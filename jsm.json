@@ -160,6 +160,29 @@
 				"ratio": 1.1
 			}
 		},
+
+       {
+	       "key":"TG123",
+	       "name":"TG123",
+	       "type":3,
+	       "api":"csp_TGYunPanLocal",
+	       "timeout":120,
+	       "ext":{
+		       "token":"./lib/tokenm.json",
+		       "json":"./lib/tgsearch.json",
+		       "keywords":"名称,片名,推荐",
+		       "tgsearch_url":"https://tg.252035.xyz/",
+		       "tgsearch_media_url":"https://tg.252035.xyz/",
+		       "channellist":"pan123pan,zyzhpd123,xx123pan,yingshifenxiang123,zyfb123,ottpanpan",
+		       "proxy":"noproxy",
+		       "danmu":true
+	              },
+	       "style":{
+		       "type":"rect",
+		       "ratio":1.77
+	       }
+          },
+	    
         {
       "key": "央视大全",
       "name": "☀央视🔹大全",
