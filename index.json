@@ -1,18 +1,23 @@
 {
   "urls": [
+     {
+       "name": "奇迹云",
+       "url":"http://14.103.129.80:999/奇迹云2kHDR/奇迹云2kHDR.json"
+       
+    },
 
     {
       "url": "http://zhangqun1818.serv00.net/zq/api.json",
-   "name":"张群"
+      "name":"张群"
  },
  {
       "url": "http://tvbox.王二小放牛娃.top",
-   "name":"王二小～"
+      "name":"王二小～"
  },
 {
       "url": "http://fty.888484.xyz/tv",
-    "name":"玩偶哥哥备用"
-},
+      "name":"玩偶哥哥备用"
+     },
         {
       "url": "https://7337.kstore.space/kjtv/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json",
       "name": "🚀天微影线"
