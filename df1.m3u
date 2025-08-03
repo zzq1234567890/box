@@ -1030,7 +1030,7 @@ http://127.0.0.1:8081/diyicaijinglive.php?id=1
 #EXTINF:-1   tvg-id="第一財經直播"   tvg-name="第一財經直播"    tvg-logo=""    group-title="中文新闻",第一財經直播
 http://127.0.0.1:8081/diyicaijinglive.php?id=2
 
-#EXTINF:-1   tvg-id="100284"   tvg-name="中台灣生活網頻道"    tvg-logo=""    group-title="youtube中文新闻",中台灣生活網頻道
+#EXTINF:-1   tvg-id="100284"   tvg-name="中台灣生活網頻道"    tvg-logo=""    group-title="中文新闻",中台灣生活網頻道
 http://127.0.0.1:8081/linetv.php?id=2
 
 
