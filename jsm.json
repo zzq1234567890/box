@@ -2479,8 +2479,17 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+	    
 
-{
+       {
+            "name": "央视官网直播",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "./zhibo.txt",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
             "name": "直播",
             "ua": "okhttp/3.0",
             "playerType": 2,
