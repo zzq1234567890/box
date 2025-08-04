@@ -1757,12 +1757,12 @@ http://127.0.0.1:8081/nowtvweb.php?id=332
 #EXTINF:-1 tvg-id="now財經" tvg-name="now財經" tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="港澳台",now財經
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=182289fd726d39409aec56e3310f2764:c0e5b2bace6bd6907e9f7746adc64398       
+#KODIPROP:inputstream.adaptive.license_key=6c04ed5b73dd3912bac4e4d3be24f81e:0eef3fbfb033279530c16dcbb48ded80   
 http://127.0.0.1:8081/nowtvweb.php?id=333
 #EXTINF:-1 tvg-id="Now Sports Premier" tvg-name="Now Sports Premier" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-c.png" group-title="港澳台",Now Sports Premier
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91499f59a17537d185fc3a36fc9012d8:72d7a3748c0855877ca7b15dbd3293ec    
+#KODIPROP:inputstream.adaptive.license_key=be133add646d30efaaab579ff56ca5fd:503f51f662278e4547090624ba4428c6  
 http://127.0.0.1:8081/nowtvweb.php?id=630
 #EXTINF:-1  group-title="港澳台" tvg-id="無綫新聞台 (免費)"   tvg-name="無綫新聞台 (免費)"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
 http://127.0.0.1:8081/tvb1.php?id=NEWS
