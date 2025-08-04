@@ -2479,6 +2479,16 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+
+{
+            "name": "直播",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/uploads/%E5%87%A4%E5%87%B0+%E5%A4%AE%E5%8D%AB%E7%A8%B3%E5%AE%9A%E6%BA%90.txt",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+	    
         {
             "name": "yang1989",
             "ua": "okhttp/3.15",
