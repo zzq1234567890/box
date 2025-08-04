@@ -3277,6 +3277,8 @@ http://127.0.0.1:8081/yditvfifa.php?channel-id=FifastbLive&Contentid=30000000100
 http://127.0.0.1:8081/yditvfifa.php?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&/PLTV/&$8M FHD
 #EXTINF:-1   tvg-id="重温经典频道"    tvg-logo=""   tvg-name="重温经典频道"    group-title="地方",重温经典频道
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+
+
 #EXTINF:-1   tvg-id="河北卫视"   tvg-name="河北卫视"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png"    group-title="地方",河北卫视
 http://127.0.0.1:8081/hebei.php?id=1
 #EXTINF:-1   tvg-id="河北经济"   tvg-name="河北经济"    tvg-logo=""    group-title="地方",河北经济
