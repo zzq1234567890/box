@@ -983,8 +983,7 @@ http://127.0.0.1:8081/huya.php?id=11352878
 #EXTINF:-1      group-title="虎牙",大型忙内的宅姐姐的直播蓝光4M
 http://127.0.0.1:8081/huya.php?id=11602084
 
-#EXTINF:-1   tvg-id="鳳凰資訊"   tvg-name="鳳凰資訊"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"     group-title="中文新闻",鳳凰資訊
-http://127.0.0.1:8081/fenghuangyoutube.php
+
 
 #EXTINF:-1   tvg-id="鳳凰資訊"   tvg-name="鳳凰資訊"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"     group-title="中文新闻",鳳凰資訊
 http://127.0.0.1:8081/fenghuangyoutube1.php
