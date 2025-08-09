@@ -2471,7 +2471,15 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-
+        {
+            "name": "beesports",
+            "type": 3,
+            "api": "./py/live_smt.py",
+            ##"api": "./py/beesport.py",
+           ## "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
 	    {
             "name": "肥羊马来西亚",
             "ua": "okhttp/3.0",
