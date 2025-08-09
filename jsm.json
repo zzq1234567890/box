@@ -2508,14 +2508,9 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
 	    
-       {
+       
 
-            "name": "大陸節目測試",
-            "url": "./tx.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-             "ua": "judy/5.2.1"
-
-       },
+        
        {
             "name": "央视官网直播",
             "ua": "okhttp/3.0",
