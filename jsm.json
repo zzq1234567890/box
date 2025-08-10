@@ -2584,7 +2584,18 @@
              "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }, 
-        
+       {
+
+            "name": "歌手4k",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "https://ffmpeg.pendy.dpdns.org/mgtv/mgtv.m3u8",
+          ###  "url": "http://tv.cqshushu.ggff.net:2086/qwt.php",
+             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+
+		
         {
             "name": "SMT直播(python)",
             "type": 3,
