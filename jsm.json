@@ -2482,7 +2482,7 @@
         },
 	    {
             "name": "肥羊马来西亚",
-             "User-Agent":"okHttp/Mursor-1.0.0",
+             "ua":"okHttp/Mursor-1.0.0",
             "playerType": 2,
             "url": "https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u",
 		    "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
