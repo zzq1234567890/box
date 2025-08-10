@@ -2499,6 +2499,17 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
 		
+		{
+            "name": "大陸台",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+			"url": "https://qu.ax/dcDqO.txt",
+           ##"url": "https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u",
+		    "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+
+		
         {
             "name": "福建移动",
             "ua": "okhttp/3.0",
