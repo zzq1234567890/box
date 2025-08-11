@@ -49,7 +49,7 @@
          "name": "荐片",
          "type": 3,
         ### "api": "https://cnb.cool/fish2018/lib/-/git/raw/main/荐片.js",
-	     "api": "./賤片.js",
+	     "api": "./js/賤片.js",
 		 "searchable": 1,
          "filterable": 1,
          "changeable": 1,
