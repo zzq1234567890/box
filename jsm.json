@@ -44,6 +44,16 @@
                 "日本动漫"
             ]
         },
+		{
+         "key": "jianpian",
+         "name": "荐片",
+         "type": 3,
+         "api": "https://cnb.cool/fish2018/lib/-/git/raw/main/荐片.js",
+         "searchable": 1,
+         "filterable": 1,
+         "changeable": 1,
+         "ext": ""
+        },
         {
             "key": "bili",
             "name": "B站 | Bili[jar]",
