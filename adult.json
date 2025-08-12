@@ -61,7 +61,20 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0
-        },      
+        },  
+        
+
+	  {
+         "key": "jianpian",
+         "name": "荐片",
+         "type": 3,
+        ### "api": "https://cnb.cool/fish2018/lib/-/git/raw/main/荐片.js",
+	     "api": "./js/賤片.js",
+		 "searchable": 1,
+         "filterable": 1,
+         "changeable": 1,
+         "ext": ""
+        },
 	  {
       "key": "*色猫资源",
       "name": "*色猫资源",
