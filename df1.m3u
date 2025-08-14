@@ -1077,16 +1077,12 @@ http://127.0.0.1:8081/minshinews.php
 http://127.0.0.1:8081/sanlinewsweb.php
 #EXTINF:-1   tvg-id="三立財經新聞台"   tvg-name="三立財經新聞台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png"    group-title="中文新闻",三立財經新聞台
 http://127.0.0.1:8081/sanliinewsweb.php
-#EXTINF:-1   tvg-id="三立新聞台"   tvg-name="三立新聞台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png"    group-title="中文新闻",三立新聞台
-http://127.0.0.1:8081/sanlinews.php
-#EXTINF:-1   tvg-id="三立財經新聞台"   tvg-name="三立財經新聞台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png"    group-title="中文新闻",三立財經新聞台
-http://127.0.0.1:8081/sanliinews.php
+
 #EXTINF:-1   tvg-id="鏡電視新聞台"   tvg-name="鏡電視新聞台"     tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv075_mobile.png"    group-title="中文新闻",鏡電視新聞台
 http://127.0.0.1:8081/jingnews.php
 #EXTINF:-1   tvg-id="4gtv-live050"    tvg-name="新唐人亞太台"     tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live050_mobile.png"     group-title="中文新闻",新唐人亞太台
-http://127.0.0.1:8081/youtube.php?v=hR8_rrE0VyY
-#EXTINF:-1   tvg-id="公共電視台"   tvg-name="公共電視台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png"    group-title="中文新闻",公共電視台
-http://127.0.0.1:8081/youtube.php?v=C6gYqSHLRw4
+http://127.0.0.1:8081/xintangrenasia.php
+
 #EXTINF:-1   tvg-id="公共電視台"   tvg-name="公共電視台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png"    group-title="中文新闻",公共電視台
 http://127.0.0.1:8081/gongshi13.php
 #EXTINF:-1   tvg-id="公視台語台"   tvg-name="公視台語台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png"    group-title="中文新闻",公視台語台
