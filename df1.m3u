@@ -3248,28 +3248,7 @@ http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/playlist
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
 #EXTINF:-1   tvg-id=" "   tvg-name=""    tvg-logo=""    group-title="韩国",YTN SCIENCE
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1      group-title="咪咕",睛彩竞技
-http://127.0.0.1:8081/yditvfifa.php?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&/PLTV/&$8M FHD
-#EXTINF:-1      group-title="咪咕",睛彩竞技
-http://127.0.0.1:8081/yditvfifa.php?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=toShengfen&/PLTV/&$8M FHD
-#EXTINF:-1      group-title="咪咕",睛彩青少
-http://127.0.0.1:8081/yditvfifa.php?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=toShengfen&/PLTV/&$8M FHD
-#EXTINF:-1      group-title="咪咕",睛彩青少
-http://127.0.0.1:8081/yditvfifa.php?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=toShengfen&/PLTV/&$8M FHD
-#EXTINF:-1      group-title="咪咕",睛彩篮球
-http://127.0.0.1:8081/yditvfifa.php?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=toShengfen&/PLTV/&$8M FHD
-#EXTINF:-1      group-title="咪咕",睛彩篮球
-http://127.0.0.1:8081/yditvfifa.php?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=toShengfen&/PLTV/&$8M FHD
-#EXTINF:-1      group-title="咪咕",睛彩广场舞
-http://127.0.0.1:8081/yditvfifa.php?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&/PLTV/&$8M FHD
-#EXTINF:-1      group-title="咪咕",睛彩广场舞
-http://127.0.0.1:8081/yditvfifa.php?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=toShengfen&/PLTV/&$8M FHD
-#EXTINF:-1      group-title="咪咕",咪咕体育4K
-http://127.0.0.1:8081/yditvfifa.php?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&/PLTV/&$32M UHD
-#EXTINF:-1      group-title="咪咕",至臻视界
-http://127.0.0.1:8081/yditvfifa.php?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&/PLTV/&$32M UHD
-#EXTINF:-1      group-title="咪咕",咪咕视频
-http://127.0.0.1:8081/yditvfifa.php?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&/PLTV/&$8M FHD
+
 #EXTINF:-1   tvg-id="重温经典频道"    tvg-logo=""   tvg-name="重温经典频道"    group-title="地方",重温经典频道
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
