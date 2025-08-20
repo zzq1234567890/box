@@ -2504,7 +2504,7 @@
         },
 	    {
             "name": "肥羊马来西亚",
-			"url": "https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u",
+			"url": "https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u",
 		    "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
              "ua":"okHttp/Mursor-1.0.1",
             "playerType": 2,
