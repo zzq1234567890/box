@@ -1,6 +1,13 @@
 {
     "spider": "./pg.jar",
     "sites": [    
+ {
+      "key": "dbo",
+      "name": "独播库py",
+      "type": 3,
+      "api": "./py/dbo.py"
+    },
+		
 		  {
       "key": "黑木耳",
       "name": "黑木耳",
