@@ -2,10 +2,13 @@
     "spider": "./pg.jar",
     "sites": [    
  {
-      "key": "dbo",
+      "key": "独播库",
       "name": "独播库py",
       "type": 3,
-      "api": "./py/dbo.py"
+      "api": "./py/dbo.py",
+	 "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
 		
 		  {
