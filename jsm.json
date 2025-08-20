@@ -5,7 +5,7 @@
       "key": "dbo",
       "name": "独播库py",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/zzq1234567890/box/refs/heads/main/py/dbo.py",
+      "api": "./py/dbo.py",
 	 "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
