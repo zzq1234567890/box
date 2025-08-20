@@ -2,10 +2,10 @@
     "spider": "./pg.jar",
     "sites": [    
  {
-      "key": "dbo",
+      "key": "py_dbo",
       "name": "独播库py",
       "type": 3,
-      "api": "./py/dbo.py",
+      "api": "./py/py_dbo.py",
 	 "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
