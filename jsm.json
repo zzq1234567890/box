@@ -2504,7 +2504,7 @@
         },
 		{
             "name": "肥羊马来西亚備用",
-            "ua": "okHttp/Mod-1.0.1",
+            "ua": "okHttp/Mod-1.1.0",
             "playerType": 2,
 			"url": "https://sub.ottiptv.cc/iptv.m3u",
            ##"url": "https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u",
@@ -2515,7 +2515,7 @@
             "name": "肥羊马来西亚",
 			"url": "https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u",
 		    "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-             "ua":"okHttp/Mursor-1.0.1",
+             "ua":"okHttp/Mursor-1.1.0",
             "playerType": 2,
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
