@@ -51,6 +51,15 @@
           "地区": "大陆&香港&台湾&日本&韩国&泰国&美国&法国&英国&德国&印度&其他"
         }
         },
+
+	  {
+            "key": "avdb",
+            "name": "avdb",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/229_1.php",
+            "searchable": 1,
+            "changeable": 0
+        },
         {
       "key": "py_jianpian",
       "name": "荐片(T3)",
