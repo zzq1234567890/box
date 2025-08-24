@@ -119,7 +119,7 @@ http://127.0.0.1:8081/hbgd.php?id=zgjy1hd
 http://127.0.0.1:8081/hbgd.php?id=zgjy4
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="湖北广电", 金鹰卡通
 http://127.0.0.1:8081/hbgd.php?id=jjkt
-#EXTINF:-1,tvg-id="Astro全佳" tvg-name="Astro全佳" tvg-logo="https://epg.v1.mk/logo/Astro全佳.png" group-title="湖北广电",   佳佳卡通
+#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="湖北广电", 嘉佳卡通
 http://127.0.0.1:8081/hbgd.php?id=jiajkt
 #EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="湖北广电",   北京纪实科教
 http://127.0.0.1:8081/hbgd.php?id=dajs
