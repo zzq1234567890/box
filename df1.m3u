@@ -105,7 +105,7 @@ http://127.0.0.1:8081/hbgd.php?id=btws
 http://127.0.0.1:8081/hbgd.php?id=hbzhhd
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="湖北广电",  cctv1
 http://127.0.0.1:8081/hbgd.php?id=hbjsjd
-#EXTINF:-1,tvg-id="湖北公共" tvg-name="湖北公共" tvg-logo="https://epg.v1.mk/logo/湖北公共.png" group-title="湖北广电",   湖北公共
+#EXTINF:-1,tvg-id="湖北公共·新闻_51zmt" tvg-name="湖北公共·新闻_51zmt" tvg-logo="https://epg.v1.mk/logo/湖北公共.png" group-title="湖北广电",   湖北公共·新闻
 http://127.0.0.1:8081/hbgd.php?id=hbgghd
 #EXTINF:-1,tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://epg.v1.mk/logo/湖北教育.png" group-title="湖北广电",湖北教育
 http://127.0.0.1:8081/hbgd.php?id=hbjy
