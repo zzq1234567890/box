@@ -1,6 +1,11 @@
 {
   "urls": [
-     {
+    {
+      "name":"pg大佬",
+      "url":"https://www.252035.xyz/p/jsm.json"
+    },
+    {
+      
        "name": "奇迹云",
        "url":"http://14.103.129.80:999/奇迹云2kHDR/奇迹云2kHDR.json"
        
