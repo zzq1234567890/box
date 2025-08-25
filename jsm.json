@@ -2493,6 +2493,16 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+		{
+            "name": "综合台",
+            "ua": "okHttp/Mod-1.1.0",
+            "playerType": 2,
+			"url": "https://php.946985.xyz/stv.m3u",
+		    "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+             "ua":"okHttp/Mursor-1.1.0",
+            "playerType": 2,
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
         {
             "name": "mytv",
             "type": 3,
@@ -2519,7 +2529,7 @@
             "playerType": 2,
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-
+        
         {
             "name": "茶大陆台",
             "ua": "okHttp/Mod-1.1.0",
@@ -2530,6 +2540,9 @@
             "playerType": 2,
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+		
+
+
 		
 		{
             "name": "大陸台",
