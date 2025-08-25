@@ -200,13 +200,13 @@ https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC_Max_HD/DASH/MBC_Max_HD.mpd
 
 #EXTINF:-1 tvg-id="翡翠台(国际版)" tvg-name="翡翠台(国际版)" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper",翡翠台(国际版)
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
- #EXTINF:-1 tvg-id="TVB功夫台 " tvg-name="TVB功夫台" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper",TVB功夫台
+#EXTINF:-1 tvg-id="TVB功夫台 " tvg-name="TVB功夫台" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper",TVB功夫台
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
- #EXTINF:-1 tvg-id="娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper",娱乐新闻
+#EXTINF:-1 tvg-id="娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper",娱乐新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 tvg-id="无线新闻(国际版)" tvg-name="无线新闻(国际版)" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper",无线新闻(国际版)
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
- #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper", TVB星河
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper", TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 
 
