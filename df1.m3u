@@ -3605,7 +3605,7 @@ http://127.0.0.1:8081/fujian.php?id=665248523855695872
 http://127.0.0.1:8081/fujian.php?id=665248990102917120
 #EXTINF:-1   tvg-id="东南卫视"   tvg-name="东南卫视"    tvg-logo=""    group-title="地方",东南卫视
 http://127.0.0.1:8081/fujian.php?id=665248966136664064
-#EXTINF:-1   tvg-id="福建公共"   tvg-name="福建公共"    tvg-logo=""    group-title="地方",福建公共
+#EXTINF:-1   tvg-id="福建乡村振兴·公共"  tvg-name="福建乡村振兴·公共"    tvg-logo=""    group-title="地方",福建乡村振兴·公共
 http://127.0.0.1:8081/fujian.php?id=665248940467523584
 #EXTINF:-1   tvg-id="福建电视剧频道"   tvg-name="福建电视剧频道"    tvg-logo=""    group-title="地方",福建电视剧
 http://127.0.0.1:8081/fujian.php?id=665248891478052864
