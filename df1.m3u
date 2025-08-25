@@ -194,6 +194,22 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eec
 #KODIPROP:inputstream.adaptive.license_key=d995e35f26a3f5ad83f783272d33d956:5e065664006dfd499957b7a4324c8a4f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",mbc max
 https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC_Max_HD/DASH/MBC_Max_HD.mpd
+
+
+
+
+#EXTINF:-1 tvg-id="翡翠台(国际版)" tvg-name="翡翠台(国际版)" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper",翡翠台(国际版)
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+ #EXTINF:-1 tvg-id="TVB功夫台 " tvg-name="TVB功夫台" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper",TVB功夫台
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+ #EXTINF:-1 tvg-id="娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper",娱乐新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 tvg-id="无线新闻(国际版)" tvg-name="无线新闻(国际版)" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper",无线新闻(国际版)
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+ #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper", TVB星河
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
