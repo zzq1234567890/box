@@ -2020,6 +2020,8 @@ https://live5.tdm.com.mo/tv/cgtn71/playlist.m3u8
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1   tvg-id="好消息2台"   tvg-name="好消息2台"    tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png"    group-title="港澳台",好消息2台
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+
+
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="4gtv",民視第一台
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv003
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="4gtv",民視台灣台
@@ -2076,7 +2078,7 @@ http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live017
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv044
 #EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv057_mobile.png" group-title="4gtv",靖洋卡通Nice Bingo
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv057
-#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live107_mobile.png" group-title="4gtv",MOMO親子台
+#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live107.png" group-title="4gtv",MOMO親子台
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live107
 #EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="4gtv",東森購物一台
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live047
@@ -2106,8 +2108,6 @@ http://127.0.0.1:8081/4gtvapp.php?id=litv-longturn14
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv156
 #EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live060_mobile.png" group-title="4gtv",SBN全球財經台
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live060
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn23_mobile.png" group-title="4gtv",寰宇財經台
-http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv158
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="4gtv",TVBS
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv073
 #EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live046_mobile.png" group-title="4gtv",東森購物二台
@@ -2157,7 +2157,7 @@ http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live201
 #EXTINF:-1 tvg-id="GINX Esports TV" tvg-name="GINX Esports TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv053_mobile.png" group-title="4gtv",GINX Esports TV
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv053
 #EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live110_mobile.png" group-title="4gtv",Pet Club TV
-http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live110
+http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv110
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv07_mobile.png" group-title="4gtv",民視旅遊台
 http://127.0.0.1:8081/4gtvapp.php?id=litv-ftv07
 #EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="4gtv",滾動力rollor
@@ -2216,8 +2216,8 @@ http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv011
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv017
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="4gtv",CinemaWorld
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live069
-#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live157_mobile.png" group-title="4gtv",My Cinema Europe HD 我的歐洲電影
-http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live157
+#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="4gtv",My Cinema Europe HD 我的歐洲電影
+http://127.0.0.1:8081/4gtvapp.php?id=litv-ftv10
 #EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv16_mobile.png" group-title="4gtv",好消息
 http://127.0.0.1:8081/4gtvapp.php?id=litv-ftv16
 #EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png" group-title="4gtv",好消息2台
@@ -2226,12 +2226,12 @@ http://127.0.0.1:8081/4gtvapp.php?id=litv-ftv17
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live106
 #EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png" group-title="4gtv",人間衛視
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live008
+#EXTINF:-1 tvg-id="NHK WORLD-JAPAN" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live168_mobile.png" group-title="4gtv",NHK WORLD-JAPAN
+http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live168
 #EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv_mobile.png" group-title="4gtv",FRANCE24 英文台
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live146
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="4gtv",半島國際新聞台
-http://127.0.0.1:8081/4gtvapp.php?id=litv-ftv10
-#EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv03_mobile.png" group-title="4gtv",VOA美國之音
-http://127.0.0.1:8081/4gtvapp.php?id=litv-ftv03
+http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live157
 #EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv130_mobile.png" group-title="4gtv",CNBC Asia 財經台
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live130
 #EXTINF:-1 tvg-id="DW德國之聲" tvg-name="DW德國之聲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live071_mobile.png" group-title="4gtv",DW德國之聲
