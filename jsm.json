@@ -204,7 +204,13 @@
 		       "ratio":1.77
 	       }
           },
-	    
+	    {
+              "key": "直播",
+      "name": "mpd直播",
+      "type": 4,
+      "api": "http://z.yuer.cool/tvbox/ethan/live.php"
+            
+        },
         {
       "key": "央视大全",
       "name": "☀央视🔹大全",
