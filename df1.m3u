@@ -2897,27 +2897,27 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii254
 
 
 
+
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5a052644f9d70b2167700f95/f326d10cf5932be2515d0c4f49d43b26" group-title="歡樂看測試",鳳凰衛視中文台
 http://127.0.0.1:8081/huanlekan1.php?id=5a052644f9d70b2167700f95
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/543f439f3d32fc7b0e332294/f9d9a55574ddeae16f0675db11ab0fa2" group-title="歡樂看測試",鳳凰衛視資訊台
 http://127.0.0.1:8081/huanlekan1.php?id=543f439f3d32fc7b0e332294
-#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/67f4fb9caee3fc2d7dc8c649/005e0fc6e42a105baa30c18437410ade" group-title="歡樂看測試",鳳凰衛視香港台
+#EXTINF:-1 tvg-id="鳳凰衛視香港台 (免費)" tvg-name="鳳凰衛視香港台 (免費)" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/67f4fb9caee3fc2d7dc8c649/005e0fc6e42a105baa30c18437410ade" group-title="歡樂看測試",鳳凰衛視香港台
 http://127.0.0.1:8081/huanlekan1.php?id=67f4fb9caee3fc2d7dc8c649
 #EXTINF:-1 tvg-id="TVB無綫新聞" tvg-name="TVB無綫新聞" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/67848d1ff034870c4171b7c5/c5f144d5536f09c4f2b649ee5fd43c3d" group-title="歡樂看測試",TVB無綫新聞
 http://127.0.0.1:8081/huanlekan1.php?id=67848d1ff034870c4171b7c5
-#EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/67848d4ff034870c4171b7c6/2daddccbacacfed30046bacda33f3cad" group-title="歡樂看測試",TVB星河台
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/67848d4ff034870c4171b7c6/2daddccbacacfed30046bacda33f3cad" group-title="歡樂看測試",TVB星河台
 http://127.0.0.1:8081/huanlekan1.php?id=67848d4ff034870c4171b7c6
 
-#EXTINF:-1 tvg-id="海峽衛視" tvg-name="海峽衛視" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5901b5c5f53870240936be69/875e6b0361cbda48961a948c0ae870e2" group-title="歡樂看測試",海峽衛視
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5901b5c5f53870240936be69/875e6b0361cbda48961a948c0ae870e2" group-title="歡樂看測試",海峽衛視
 http://127.0.0.1:8081/huanlekan1.php?id=5901b5c5f53870240936be69
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/543f4a313d32fc7b0e3322c5/da0fc529333b7d71412dacbd13cffe3b" group-title="歡樂看測試",中天亞洲台
 http://127.0.0.1:8081/huanlekan1.php?id=543f4a313d32fc7b0e3322c5
-#EXTINF:-1 tvg-id="亞洲旅遊台(HD)" tvg-name="亞洲旅遊台(HD)" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/543f5a6f3d32fc7b0e3322d3/9f97dc66af512bbea9ebd1890db148a6" group-title="歡樂看測試",亞洲旅遊台(HD)
+#EXTINF:-1 tvg-id="亞洲旅遊台MOD" tvg-name="亞洲旅遊台MOD" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/543f5a6f3d32fc7b0e3322d3/9f97dc66af512bbea9ebd1890db148a6" group-title="歡樂看測試",亞洲旅遊台(HD)
 http://127.0.0.1:8081/huanlekan1.php?id=543f5a6f3d32fc7b0e3322d3
 
 
-#EXTINF:-1 tvg-id="滑滑看" tvg-name="滑滑看" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/6846570a9cad3e68100785bf/d9acf8318a8c535ff0f00a3d517a469b" group-title="歡樂看測試",滑滑看
-http://127.0.0.1:8081/huanlekan1.php?id=6846570a9cad3e68100785bf
+
 #EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/636c7aeb11f245302f89c0ed/a680e264c4ad5b7230d8751f7f166bab" group-title="歡樂看測試",中視新聞台
 http://127.0.0.1:8081/huanlekan1.php?id=636c7aeb11f245302f89c0ed
 #EXTINF:-1 tvg-id="華視新聞資訊" tvg-name="華視新聞資訊" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/634fc92ee6ec875d2697bccf/1e044d7da18b45fcf32f66d10064d6b1" group-title="歡樂看測試",華視新聞資訊
@@ -2959,7 +2959,7 @@ http://127.0.0.1:8081/huanlekan1.php?id=543f5c5b3d32fc7b0e3322e1
 http://127.0.0.1:8081/huanlekan1.php?id=665d2f39f41b5f25513e3b8d
 #EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5b39a6e76e6b3b956ef9500b/0c9721fca6552a274b682fa3873d70d9" group-title="歡樂看測試",靖天綜合台
 http://127.0.0.1:8081/huanlekan1.php?id=5b39a6e76e6b3b956ef9500b
-#EXTINF:-1 tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5b39a6fa6e6b3b956ef9500c/8aead3e53791fd7011352058c886eb4e" group-title="歡樂看測試",靖天歡樂台
+#EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5b39a6fa6e6b3b956ef9500c/8aead3e53791fd7011352058c886eb4e" group-title="歡樂看測試",靖天歡樂台
 http://127.0.0.1:8081/huanlekan1.php?id=5b39a6fa6e6b3b956ef9500c
 #EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5b39a7526e6b3b956ef95010/a2af6dedef9c41ea2b8153c4d4cff7be" group-title="歡樂看測試",靖天育樂台
 http://127.0.0.1:8081/huanlekan1.php?id=5b39a7526e6b3b956ef95010
@@ -2973,9 +2973,9 @@ http://127.0.0.1:8081/huanlekan1.php?id=5b5559edafd486d41653b196
 http://127.0.0.1:8081/huanlekan1.php?id=5b39a79e6e6b3b956ef95013
 #EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5b39a70a6e6b3b956ef9500d/c92f861f96812fc59d96cce3e3b0c2ee" group-title="歡樂看測試",靖天日本台
 http://127.0.0.1:8081/huanlekan1.php?id=5b39a70a6e6b3b956ef9500d
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/599d3c1f8592c31a4b8d177e/6128f9c50d44e3ff3bceded566f71014" group-title="歡樂看測試",龍華電影台
+#EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/599d3c1f8592c31a4b8d177e/6128f9c50d44e3ff3bceded566f71014" group-title="歡樂看測試",龍華電影台
 http://127.0.0.1:8081/huanlekan1.php?id=599d3c1f8592c31a4b8d177e
-#EXTINF:-1 tvg-id="龍華洋片台" tvg-name="龍華洋片台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5b3c6717416275ac3734ce68/3c692f5f9bb9c2720a7f15f7adb76b9a" group-title="歡樂看測試",龍華洋片台
+#EXTINF:-1 tvg-id="龍華洋片MOD" tvg-name="龍華洋片MOD" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5b3c6717416275ac3734ce68/3c692f5f9bb9c2720a7f15f7adb76b9a" group-title="歡樂看測試",龍華洋片台
 http://127.0.0.1:8081/huanlekan1.php?id=5b3c6717416275ac3734ce68
 #EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/549e6eff76d76482a526439d/e8096be6602f514419825875beffc562" group-title="歡樂看測試",龍華經典台
 http://127.0.0.1:8081/huanlekan1.php?id=549e6eff76d76482a526439d
@@ -3004,7 +3004,7 @@ http://127.0.0.1:8081/huanlekan1.php?id=686c84429cad3e681008612a
 http://127.0.0.1:8081/huanlekan1.php?id=543f5baf3d32fc7b0e3322d9
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5b39a7726e6b3b956ef95012/340658e57c2ac5127e40126cc5429248" group-title="歡樂看測試",靖天卡通台
 http://127.0.0.1:8081/huanlekan1.php?id=5b39a7726e6b3b956ef95012
-#EXTINF:-1 tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5b39aaac6e6b3b956ef95045/f382e6b4ec50e03bf33921fad188d133" group-title="歡樂看測試",靖洋卡通台
+#EXTINF:-1 tvg-id="靖洋卡通台Nice Bingo" tvg-name="靖洋卡通台Nice Bingo" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5b39aaac6e6b3b956ef95045/f382e6b4ec50e03bf33921fad188d133" group-title="歡樂看測試",靖洋卡通台
 http://127.0.0.1:8081/huanlekan1.php?id=5b39aaac6e6b3b956ef95045
 #EXTINF:-1 tvg-id="楊桃美食台" tvg-name="楊桃美食台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/671f11bcf034870c416f26af/56851c1e0b4888479f13554dce19f6ed" group-title="歡樂看測試",楊桃美食台
 http://127.0.0.1:8081/huanlekan1.php?id=671f11bcf034870c416f26af
@@ -3012,13 +3012,13 @@ http://127.0.0.1:8081/huanlekan1.php?id=671f11bcf034870c416f26af
 http://127.0.0.1:8081/huanlekan1.php?id=6703b90ff034870c416e62cf
 #EXTINF:-1 tvg-id="梅迪奇藝術頻道HD" tvg-name="梅迪奇藝術頻道HD" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5440b1653d32fc7b0e332586/04e3de3ea21c1722d070c0bd643ef5ce" group-title="歡樂看測試",梅迪奇藝術頻道HD
 http://127.0.0.1:8081/huanlekan1.php?id=5440b1653d32fc7b0e332586
-#EXTINF:-1 tvg-id="大愛一臺" tvg-name="大愛一臺" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5a0571e0f9d70b216770235e/db018d95d57c01ca0a0637f7a6c34c9f" group-title="歡樂看測試",大愛一臺
+#EXTINF:-1 tvg-id="大愛電視MOD" tvg-name="大愛電視MOD" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5a0571e0f9d70b216770235e/db018d95d57c01ca0a0637f7a6c34c9f" group-title="歡樂看測試",大愛一臺
 http://127.0.0.1:8081/huanlekan1.php?id=5a0571e0f9d70b216770235e
-#EXTINF:-1 tvg-id="大愛二臺" tvg-name="大愛二臺" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5a057245f9d70b216770235f/718acc6f17f5ed009f999e758647f24f" group-title="歡樂看測試",大愛二臺
+#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5a057245f9d70b216770235f/718acc6f17f5ed009f999e758647f24f" group-title="歡樂看測試",大愛二臺
 http://127.0.0.1:8081/huanlekan1.php?id=5a057245f9d70b216770235f
-#EXTINF:-1 tvg-id="好消息綜合台" tvg-name="好消息綜合台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5a461eb9bfdf3f8906674f3a/487c5425c4593307e49a9d3dd2153b9d" group-title="歡樂看測試",好消息綜合台
+#EXTINF:-1 tvg-id="好消息衛星電視台" tvg-name="好消息衛星電視台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5a461eb9bfdf3f8906674f3a/487c5425c4593307e49a9d3dd2153b9d" group-title="歡樂看測試",好消息綜合台
 http://127.0.0.1:8081/huanlekan1.php?id=5a461eb9bfdf3f8906674f3a
-#EXTINF:-1 tvg-id="好消息真理台" tvg-name="好消息真理台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5a461f69bfdf3f8906674f3b/629231c0b9d176aec37350f9d906bec1" group-title="歡樂看測試",好消息真理台
+#EXTINF:-1 tvg-id="好消息二台" tvg-name="好消息二台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5a461f69bfdf3f8906674f3b/629231c0b9d176aec37350f9d906bec1" group-title="歡樂看測試",好消息真理台
 http://127.0.0.1:8081/huanlekan1.php?id=5a461f69bfdf3f8906674f3b
 #EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/66974c11f41b5f25513f6f83/ad9514addbb8c828bd9af6f99555fc9b" group-title="歡樂看測試",人間衛視
 http://127.0.0.1:8081/huanlekan1.php?id=66974c11f41b5f25513f6f83
@@ -3026,7 +3026,7 @@ http://127.0.0.1:8081/huanlekan1.php?id=66974c11f41b5f25513f6f83
 http://127.0.0.1:8081/huanlekan1.php?id=5478163f2f98a92b9febd51c
 #EXTINF:-1 tvg-id="Channel News Asia" tvg-name="Channel News Asia" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5b5e9183af9fd7e4450aef9c/2092a3b28aee0673fc9dd9f5c6d6bc54" group-title="歡樂看測試",Channel News Asia
 http://127.0.0.1:8081/huanlekan1.php?id=5b5e9183af9fd7e4450aef9c
-#EXTINF:-1 tvg-id="CCTV中文國際頻道" tvg-name="CCTV中文國際頻道" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5746aad682928c144dc57f74/1ba5c1d5d642028164f914f66f4913a9" group-title="歡樂看測試",CCTV中文國際頻道
+#EXTINF:-1 tvg-id="中國中央電視台中文國際頻道 (免費)" tvg-name="中國中央電視台中文國際頻道 (免費)" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5746aad682928c144dc57f74/1ba5c1d5d642028164f914f66f4913a9" group-title="歡樂看測試",CCTV中文國際頻道
 http://127.0.0.1:8081/huanlekan1.php?id=5746aad682928c144dc57f74
 #EXTINF:-1 tvg-id="KOMPAS TV" tvg-name="KOMPAS TV" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/636dfbf011f245302f89c2e4/1d2465525a872eefa640a78af9687a6d" group-title="歡樂看測試",KOMPAS TV
 http://127.0.0.1:8081/huanlekan1.php?id=636dfbf011f245302f89c2e4
