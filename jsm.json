@@ -2548,7 +2548,7 @@
     
 
         {
-            "name": "MQitv",
+            "name": "MQitv1",
             "api": "csp_MQiTV",
 			"jar": "./fm.jar",
             "ext": [
@@ -2562,7 +2562,6 @@
                 }
                   ]
         
-    
 		},
         {
             "name": "茶大陆台",
