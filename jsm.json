@@ -10,18 +10,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-		{
-     "key": "changzhangziyuan",
-     "name": "厂长影视(XBPQ)",
-	 "jar": "./lib/XBPQ.jar",
-     "type": 3,
-     "api": "csp_XBPQ",
-     "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-     "ext": { "分类url": "https://www.czzymovie.com;;!;;v",
-              "播放数组":"paly_list_btn&&</div>"
-     }
-        },
-		  {
+     {
       "key": "黑木耳",
       "name": "黑木耳",
       "type": 1,
