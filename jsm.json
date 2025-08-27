@@ -13,6 +13,7 @@
 		{
      "key": "changzhangziyuan",
      "name": "厂长影视(XBPQ)",
+	 "jar": "./lib/XBPQ.jar",
      "type": 3,
      "api": "csp_XBPQ",
      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
