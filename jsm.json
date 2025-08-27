@@ -2544,7 +2544,26 @@
             "playerType": 2,
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-        
+        {
+    
+
+        {
+            "name": "MQitv",
+            "api": "csp_MQiTV",
+			"jar": "./fm.jar",
+            "ext": [
+                {
+                    "name": "60.248.127.232",
+                    "url": "https://60.248.127.232:4433"
+                },
+                {
+                    "name": "123.12.36.121",
+                    "url": "http://123.12.36.121:8899"
+                }
+            ]
+        }
+    ]
+		},
         {
             "name": "茶大陆台",
             "ua": "okHttp/Mod-1.1.0",
