@@ -801,7 +801,9 @@ http://127.0.0.1:8081/douyin1.php?id=301788940262
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv1
 http://127.0.0.1:8081/douyin.php?id=456815963645
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv2
-http://127.0.0.1:8081/douyin.php?id=26139399322
+http://127.0.0.1:8081/douyin.php?id=296728101980
+
+
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv3
 http://127.0.0.1:8081/douyin.php?id=662843050230
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv4
