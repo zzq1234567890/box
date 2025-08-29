@@ -2500,7 +2500,7 @@
         },
 		{
             "name": "综合台",
-            ##"ua": "okHttp/Mod-1.1.0",
+            ##"ua": "okHttp/Mod-1.2.0",
             "playerType": 2,
 			"url": "https://php.946985.xyz/stv.m3u",
 		    "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
@@ -2510,14 +2510,14 @@
         },
 		{
             "name": "hkmytv",
-            ##"ua": "okHttp/Mod-1.1.0",
+            ##"ua": "okHttp/Mod-1.2.0",
             "playerType": 2,
 			"url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/MytvSuper.m3u",
 
 		###https://daili.korice.eu.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/MytvSuper.m3u
             ###"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "epg":"https://epg1.168.us.kg/mytvsuper.com.xml",
-			"ua":"okHttp/Mursor-1.1.0",
+			"ua":"okHttp/Mursor-1.2.0",
             "playerType": 2,
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -2544,7 +2544,7 @@
 			
 		{
             "name": "肥羊马来西亚備用",
-            "ua": "okHttp/Mod-1.1.0",
+            "ua": "okHttp/Mod-1.2.0",
             "playerType": 2,
 			"url": "https://sub.ottiptv.cc/iptv.m3u",
            ##"url": "https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u",
@@ -2577,7 +2577,7 @@
 		},
         {
             "name": "茶大陆台",
-            "ua": "okHttp/Mod-1.1.0",
+            "ua": "okHttp/Mod-1.2.0",
             "playerType": 2,
 			"url": "https://fy.188766.xyz/?ip=192.168.1.2&haiwai=true",
 		    "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
