@@ -2508,7 +2508,20 @@
             "playerType": 2,
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-        {
+		{
+            "name": "hkmytv",
+            ##"ua": "okHttp/Mod-1.1.0",
+            "playerType": 2,
+			"url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/MytvSuper.m3u",
+
+		###https://daili.korice.eu.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/MytvSuper.m3u
+            ###"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "epg":"https://epg1.168.us.kg/mytvsuper.com.xml",
+			"ua":"okHttp/Mursor-1.1.0",
+            "playerType": 2,
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+			{
             "name": "mytv",
             "type": 3,
             ##"api": "./py/live_beesport.py",
