@@ -688,8 +688,23 @@ http://127.0.0.1:8081/mymysuper.php?id=C3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
-
 http://127.0.0.1:8081/mymysuper.php?id=C2
+
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",每日经济新闻24小时
+http://127.0.0.1:8081/douyin.php?id=594418047350
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv1
+http://127.0.0.1:8081/douyin.php?id=456815963645
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv2
+http://127.0.0.1:8081/douyin.php?id=296728101980
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv4
+http://127.0.0.1:8081/douyin.php?id=166806983360
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv6
+http://127.0.0.1:8081/douyin.php?id=208823316033
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv13
+http://127.0.0.1:8081/douyin.php?id=127453393722
+#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv13
+http://127.0.0.1:8081/douyin.php?id=870887192950
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",河南戲曲
 http://127.0.0.1:8081/douyin.php?id=38268960709
@@ -727,8 +742,7 @@ http://127.0.0.1:8081/douyin.php?id=848301723511
 
  #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",黄梅戏直播
 http://127.0.0.1:8081/douyin.php?id=899596584087
-#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",每日经济新闻24小时
-http://127.0.0.1:8081/douyin.php?id=594418047350
+
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",东方甄选
 http://127.0.0.1:8081/douyin.php?id=80017709309
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",火山引擎
@@ -798,26 +812,7 @@ http://127.0.0.1:8081/douyin.php?id=250514675201
 http://127.0.0.1:8081/douyin.php?id=881915323288
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",湖南经济
 http://127.0.0.1:8081/douyin1.php?id=301788940262
-#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv1
-http://127.0.0.1:8081/douyin.php?id=456815963645
-#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv2
-http://127.0.0.1:8081/douyin.php?id=296728101980
 
-
-#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv3
-http://127.0.0.1:8081/douyin.php?id=662843050230
-#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv4
-http://127.0.0.1:8081/douyin.php?id=166806983360
-#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv6
-http://127.0.0.1:8081/douyin.php?id=208823316033
-#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv13
-http://127.0.0.1:8081/douyin.php?id=282773369501
-#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv13
-http://127.0.0.1:8081/douyin.php?id=127453393722
-#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv13
-http://127.0.0.1:8081/douyin.php?id=870887192950
-#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv13
-http://127.0.0.1:8081/douyin.php?id=870887192950
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",粤语🎤晴天
 http://127.0.0.1:8081/douyin.php?id=962535210669
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",粤语晴天
