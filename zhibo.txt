@@ -1,4 +1,18 @@
 中國大陸ip6,#genre#
+上海新闻,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/1.m3u8
+上海都市,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/1.m3u8
+法治天地,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/1.m3u8
+至臻视界,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8
+咪咕视频,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226080/1.m3u8
+生活时尚,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/1.m3u8
+乐游频道,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226157/1.m3u8
+游戏风云,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226140/1.m3u8
+东方影视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225744/1.m3u8
+都市剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/1.m3u8
+欢笑剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/1.m3u8
+第一财经,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225737/1.m3u8
+东方财经,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/1.m3u8
+五星体育,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/1.m3u8
 CCTV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226163/1.m3u8
 CCTV2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226122/1.m3u8
 CCTV3,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226165/1.m3u8
@@ -18,210 +32,94 @@ CETV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225775/1.m3u8
 CETV4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
 北京卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225724/1.m3u8
 天津卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225742/1.m3u8
-
 河北卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226107/1.m3u8
-
 山西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226113/1.m3u8
-
 内蒙古卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226011/1.m3u8
-
 辽宁卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225747/1.m3u8
-
 吉林卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226149/1.m3u8
-
 黑龙江卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225722/1.m3u8
-
 东方卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226106/1.m3u8
-
 江苏卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225720/1.m3u8
-
 浙江卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225727/1.m3u8
-
 安徽卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225739/1.m3u8
-
 东南卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225745/1.m3u8
-
 厦门卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226008/1.m3u8
-
 江西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225740/1.m3u8
-
 山东卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225733/1.m3u8
-
 河南卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226132/1.m3u8
-
 湖北卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225729/1.m3u8
-
 湖南卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225726/1.m3u8
-
 广东卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225731/1.m3u8
-
 深圳卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225728/1.m3u8
-
 广西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226130/1.m3u8
-
 海南卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226154/1.m3u8
-
 重庆卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226171/1.m3u8
-
 四川卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226152/1.m3u8
-
 康巴卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225773/1.m3u8
-
 贵州卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226173/1.m3u8
-
 云南卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226151/1.m3u8
-
 西藏卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226012/1.m3u8
-
 陕西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226086/1.m3u8
-
 甘肃卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226090/1.m3u8
-
 青海卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226105/1.m3u8
-
 宁夏卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226092/1.m3u8
-
 新疆卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226088/1.m3u8
-
 兵团卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226111/1.m3u8
-
 CGTN英语,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226016/1.m3u8
-
-上海新闻,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/1.m3u8
-
-上海都市,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/1.m3u8
-
-法治天地,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/1.m3u8
-
-至臻视界,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8
-
-咪咕视频,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226080/1.m3u8
-
-生活时尚,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/1.m3u8
-
-乐游频道,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226157/1.m3u8
-
-游戏风云,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226140/1.m3u8
-东方影视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225744/1.m3u8
-
-都市剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/1.m3u8
-
-欢笑剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/1.m3u8
-
-第一财经,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225737/1.m3u8
-
-东方财经,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/1.m3u8
-
-五星体育,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/1.m3u8
-
 睛彩竞技,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226116/1.m3u8
-
 睛彩篮球,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226118/1.m3u8
-
 睛彩广场舞,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/1.m3u8
-
 BESTV赛事1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225663/1.m3u8
-
 BESTV赛事2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225664/1.m3u8
-
 BESTV赛事3,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225665/1.m3u8
-
 BESTV赛事4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225666/1.m3u8
-
 BESTV赛事5,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225667/1.m3u8
-
 BESTV赛事6,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225669/1.m3u8
-
 BESTV赛事7,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225670/1.m3u8
-
 BESTV赛事8,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225671/1.m3u8
-
 BESTV赛事9,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226102/1.m3u8
-
 BESTV赛事10,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
-
 咪视界1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225636/1.m3u8
-
 咪视界2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225637/1.m3u8
-
 咪视界3,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225638/1.m3u8
-
 咪视界4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225639/1.m3u8
-
 咪视界5,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225640/1.m3u8
-
 咪视界6,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225641/1.m3u8
-
 咪视界7,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225643/1.m3u8
-
 咪视界8,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225644/1.m3u8
-
 咪视界9,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225646/1.m3u8
-
 咪视界10,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225657/1.m3u8
-
 咪视界11,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225674/1.m3u8
-
 咪视界12,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225676/1.m3u8
-
 咪视界13,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225678/1.m3u8
-
 咪视界14,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225679/1.m3u8
-
 咪视界15,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225680/1.m3u8
-
 咪视界16,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225681/1.m3u8
-
 咪视界17,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225682/1.m3u8
-
 咪视界18,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225683/1.m3u8
-
 咪视界19,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225684/1.m3u8
-
 咪视界20,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225685/1.m3u8
-
 咪视界21,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225686/1.m3u8
-
 咪视界22,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225688/1.m3u8
-
 咪视界23,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225689/1.m3u8
-
 咪视界24,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225690/1.m3u8
-
 咪视界25,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225692/1.m3u8
-
 咪视界26,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225693/1.m3u8
-
 咪视界27,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225694/1.m3u8
-
 咪视界28,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225695/1.m3u8
-
 咪视界29,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/1.m3u8
-
 咪视界30,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/1.m3u8
-
 咪视界31,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226125/1.m3u8
-
 金色学堂,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225748/1.m3u8
-
 卡酷少儿,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226019/1.m3u8
-
 嘉佳卡通,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226021/1.m3u8
-
 动漫秀场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226138/1.m3u8
-
 哈哈炫动,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226161/1.m3u8
-
 金鹰卡通,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226094/1.m3u8
-
 东方购物1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226141/1.m3u8
-
 东方购物2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226142/1.m3u8
-
 东方购物3,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226144/1.m3u8
-
 好享购物,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225781/1.m3u8
-
 互聯網頻道,#genre#
 台視HD,http://220.134.196.147:9110/http/61.219.99.20:8081/hls/86/80/Ttv4max.m3u8
 中視HD,http://220.134.196.147:8510/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8
@@ -274,7 +172,6 @@ TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
 壹新聞,http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 Bloomberg News,http://220.134.196.147:8514/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
 NHK HD,http://220.134.196.147:8534/http/61.219.99.20:8081/hls/62/804/ch06.m3u8
-
 鏡電視新聞台,http://220.134.196.147:8561/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
 好萊塢電影HD,http://220.134.196.147:8543/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
 緯來電影HD,http://220.134.196.147:8574/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
@@ -301,149 +198,7 @@ CCTV4-中央衛視,http://220.134.196.147:8559/http/59.120.8.187:8078/hls/42/80/
 湖南衛視,http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
 鳯凰衛視資訊,http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
 鳯凰衛視中文,http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
-
-
-湖北广电頻道,#genre#
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="湖北广电",  cctv1hd
-http://127.0.0.1:8081/hbgd.php?id=cctv1hd
-#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="湖北广电",   cctv2hd
-http://127.0.0.1:8081/hbgd.php?id=cctv2hd
-#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="湖北广电",   cctv3hd
-http://127.0.0.1:8081/hbgd.php?id=cctv3hd
-#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="湖北广电",   cctv4
-http://127.0.0.1:8081/hbgd.php?id=cctv4
-#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="湖北广电",   cctv5hd
-http://127.0.0.1:8081/hbgd.php?id=cctv5hd
-#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="湖北广电",   cctv5jhd
-http://127.0.0.1:8081/hbgd.php?id=cctv5jhd
-#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="湖北广电",   cctv6hd
-http://127.0.0.1:8081/hbgd.php?id=cctv6hd
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="湖北广电",   cctv7hd
-http://127.0.0.1:8081/hbgd.php?id=cctv7hd
-#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="湖北广电",   cctv8hd
-http://127.0.0.1:8081/hbgd.php?id=cctv8hd
-#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="湖北广电",   cctv9hd
-http://127.0.0.1:8081/hbgd.php?id=cctv9hd
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="湖北广电",   cctv10hd
-http://127.0.0.1:8081/hbgd.php?id=cctv10hd
-#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="湖北广电",   cctv11
-http://127.0.0.1:8081/hbgd.php?id=cctv11
-#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="湖北广电",   cctv12hd
-http://127.0.0.1:8081/hbgd.php?id=cctv12hd
-#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="湖北广电",   cctv13
-http://127.0.0.1:8081/hbgd.php?id=cctv13
-#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="湖北广电",   cctv14hd
-http://127.0.0.1:8081/hbgd.php?id=cctv17hd
-#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="湖北广电",   cctv15
-http://127.0.0.1:8081/hbgd.php?id=cctv14
-#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="湖北广电",   cctv16hd
-http://127.0.0.1:8081/hbgd.php?id=cctv16hd
-#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="湖北广电",   cctv17hd
-http://127.0.0.1:8081/hbgd.php?id=cctv14hd
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="湖北广电",湖北卫视
-http://127.0.0.1:8081/hbgd.php?id=hbwshd
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="湖北广电",  湖南卫视
-http://127.0.0.1:8081/hbgd.php?id=hnwshd
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="湖北广电",   东方卫视
-http://127.0.0.1:8081/hbgd.php?id=dfwshd
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="湖北广电",  浙江卫视
-http://127.0.0.1:8081/hbgd.php?id=zjwshd
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="湖北广电", 北京卫视
-http://127.0.0.1:8081/hbgd.php?id=bjwshd
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="湖北广电",  江苏卫视
-http://127.0.0.1:8081/hbgd.php?id=jswshd
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="湖北广电", 安徽卫视
-http://127.0.0.1:8081/hbgd.php?id=ahwshd
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="湖北广电",   山东卫视
-http://127.0.0.1:8081/hbgd.php?id=sdwdhd
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="湖北广电",  河南卫视
-http://127.0.0.1:8081/hbgd.php?id=henwshd
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="湖北广电",  四川卫视
-http://127.0.0.1:8081/hbgd.php?id=scwshd
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="湖北广电",   河北卫视
-http://127.0.0.1:8081/hbgd.php?id=hebws
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="湖北广电", 吉林卫视
-http://127.0.0.1:8081/hbgd.php?id=jlwshd
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="湖北广电",  黑龙江卫视
-http://127.0.0.1:8081/hbgd.php?id=hljwshd
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="湖北广电",  辽宁卫视
-http://127.0.0.1:8081/hbgd.php?id=lnwshd
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="湖北广电",   广东卫视
-http://127.0.0.1:8081/hbgd.php?id=gdwshd
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="湖北广电",   深圳卫视
-http://127.0.0.1:8081/hbgd.php?id=szwshd
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="湖北广电",   重庆卫视
-http://127.0.0.1:8081/hbgd.php?id=cqwshd
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="湖北广电",  东南卫视
-http://127.0.0.1:8081/hbgd.php?id=dnwshd
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="湖北广电",  广西卫视
-http://127.0.0.1:8081/hbgd.php?id=gxwshd
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="湖北广电", 贵州卫视
-http://127.0.0.1:8081/hbgd.php?id=gzwshd
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="湖北广电", 江西卫视
-http://127.0.0.1:8081/hbgd.php?id=jxwshd
-#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="湖北广电",   天津卫视
-http://127.0.0.1:8081/hbgd.php?id=tjwshd
-#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="湖北广电",  云南卫视
-http://127.0.0.1:8081/hbgd.php?id=ynws
-#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="湖北广电",  山西卫视
-http://127.0.0.1:8081/hbgd.php?id=sxws
-#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="湖北广电", 陕西卫视
-http://127.0.0.1:8081/hbgd.php?id=shxws
-#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="湖北广电",  甘肃卫视
-http://127.0.0.1:8081/hbgd.php?id=gsws
-#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="湖北广电",  宁夏卫视
-http://127.0.0.1:8081/hbgd.php?id=nxws
-#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="湖北广电",  内蒙古卫视
-http://127.0.0.1:8081/hbgd.php?id=nmws
-#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="湖北广电",   青海卫视
-http://127.0.0.1:8081/hbgd.php?id=qhws
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="湖北广电",   海南卫视
-http://127.0.0.1:8081/hbgd.php?id=hainwshd
-#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="湖北广电",  新疆卫视
-http://127.0.0.1:8081/hbgd.php?id=xjws
-#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="湖北广电",   西藏卫视
-http://127.0.0.1:8081/hbgd.php?id=xzws
-#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="湖北广电",   兵团卫视
-http://127.0.0.1:8081/hbgd.php?id=btws
-#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.v1.mk/logo/湖北综合.png" group-title="湖北广电",   湖北综合
-http://127.0.0.1:8081/hbgd.php?id=hbzhhd
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="湖北广电",  cctv1
-http://127.0.0.1:8081/hbgd.php?id=hbjsjd
-#EXTINF:-1,tvg-id="湖北公共" tvg-name="湖北公共" tvg-logo="https://epg.v1.mk/logo/湖北公共.png" group-title="湖北广电",   湖北公共
-http://127.0.0.1:8081/hbgd.php?id=hbgghd
-#EXTINF:-1,tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://epg.v1.mk/logo/湖北教育.png" group-title="湖北广电",湖北教育
-http://127.0.0.1:8081/hbgd.php?id=hbjy
-#EXTINF:-1,tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://epg.v1.mk/logo/湖北生活.png" group-title="湖北广电",  湖北生活
-http://127.0.0.1:8081/hbgd.php?id=hbsh
-#EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.v1.mk/logo/湖北影视.png" group-title="湖北广电",   湖北影视
-http://127.0.0.1:8081/hbgd.php?id=hbys
-#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.v1.mk/logo/中国教育1台.png" group-title="湖北广电",  中国教育电视台-1
-http://127.0.0.1:8081/hbgd.php?id=zgjy1hd
-#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.v1.mk/logo/中国教育1台.png" group-title="湖北广电",   中国教育电视台-4
-http://127.0.0.1:8081/hbgd.php?id=zgjy4
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="湖北广电", 金鹰卡通
-http://127.0.0.1:8081/hbgd.php?id=jjkt
-#EXTINF:-1,tvg-id="Astro全佳" tvg-name="Astro全佳" tvg-logo="https://epg.v1.mk/logo/Astro全佳.png" group-title="湖北广电",   佳佳卡通
-http://127.0.0.1:8081/hbgd.php?id=jiajkt
-#EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="湖北广电",   北京纪实科教
-http://127.0.0.1:8081/hbgd.php?id=dajs
-#EXTINF:-1,tvg-id="jyjs" tvg-name="jyjs" tvg-logo="https://epg.v1.mk/logo/jyjs.png" group-title="湖北广电",   jyjs
-http://127.0.0.1:8081/hbgd.php?id=jyjs
-#EXTINF:-1,tvg-id="cgtn" tvg-name="cgtn" tvg-logo="https://epg.v1.mk/logo/cgtn.png" group-title="湖北广电",   cgtn
-http://127.0.0.1:8081/hbgd.php?id=cctvnews
-#EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.v1.mk/logo/家庭理财.png" group-title="湖北广电", 家庭理财
-http://127.0.0.1:8081/hbgd.php?id=jtlc
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/卡酷少儿.png" group-title="湖北广电",   卡酷少儿
-http://127.0.0.1:8081/hbgd.php?id=kkse
-#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="湖北广电",劲爆体育
-http://127.0.0.1:8081/hbgd.php?id=shjs
-#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.v1.mk/logo/中国天气.png" group-title="湖北广电",  中国天气
-http://127.0.0.1:8081/hbgd.php?id=zgqx
-#EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.v1.mk/logo/山东教育.png" group-title="湖北广电", 山东教育
-http://127.0.0.1:8081/hbgd.php?id=sdjyws
 大陸頻道,#genre#
-
 CCTV4Kᵁᴴᴰ,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-4K-HD
 CCTV-5ᵁᴴᴰ,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_YITANCQ/G_YITANCQ.m3u8
 CCTV-1高清,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
