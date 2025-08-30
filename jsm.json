@@ -2612,7 +2612,7 @@
             "name": "福建移动",
             "ua": "okhttp/3.0",
             "playerType": 2,
-            "url": "./fujianyidong.txt",
+            "url": "https://live.tv.darwinchow.com/sub/Y0urPr1v4t3K3y",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
