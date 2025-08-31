@@ -138,6 +138,15 @@ http://127.0.0.1:8081/hbgd.php?id=zgqx
 #EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.v1.mk/logo/山东教育.png" group-title="湖北广电", 山东教育
 http://127.0.0.1:8081/hbgd.php?id=sdjyws
 
+   
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ebcf53fd1794237aa02af52413e0c2a:bd2f5d20887507da6f26401b1d95aeee
+#EXTINF:-1 tvg-id="One Sports HD"  group-title="mytvsuper", STARZ 1
+https://stream.video.9c9media.com/59c2df870a1e8c5b14c4f5ed7e951e1cef9474581754944303887/fe/f/crave/starz1/manifest.mpd?u=li
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0
+#EXTINF:-1 tvg-id="One Sports HD"  group-title="mytvsuper", STARZ 2
+https://stream.video.9c9media.com/65a655714b62d8c989ad80dc30e3035b0bfb65b41754945004845/fe/f/crave/starz2/manifest.mpd?u=li
 
 #EXTINF:-1 tvg-id="One Sports HD"  group-title="mytvsuper",One Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
