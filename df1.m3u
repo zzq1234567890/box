@@ -139,6 +139,15 @@ http://127.0.0.1:8081/hbgd.php?id=zgqx
 http://127.0.0.1:8081/hbgd.php?id=sdjyws
 
 
+#EXTINF:-1 tvg-id="One Sports HD"  group-title="mytvsuper",One Sports HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+
+#EXTINF:-1 tvg-id="One Sports + HD" group-title="mytvsuper",One Sports + HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
 #EXTINF:-1 tvg-id="HBO香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/440px-HBO_logo.svg.png" group-title="mytvsuper", HBO 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
