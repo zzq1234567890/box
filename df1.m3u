@@ -515,7 +515,7 @@ http://127.0.0.1:8081/mymysuper.php?id=CMEZ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
-#EXTINF:-1 tvg-id="中央電視台綜合頻道 (港澳版) (免費)" tvg-name="中央電視台綜合頻道 (港澳版) (免費)" tvg-logo="" group-title="mytvsuper",中央電視台綜合頻道 (港澳版) (免費)
+#EXTINF:-1 tvg-id="香港電台33" tvg-name="香港電台33" tvg-logo="" group-title="mytvsuper",中央電視台綜合頻道 (港澳版) (免費)
 http://127.0.0.1:8081/mymysuper.php?id=CC1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
