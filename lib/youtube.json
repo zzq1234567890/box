@@ -2,45 +2,41 @@
 	"recommend":"LIST:最新|推薦,官方頻道",
 	"class":[
 		{
-			"type_id":"GETTRENDS",
-			"type_name":"Youtube Trends"
+			"type_id":"LIST:新闻 Live,体育直播,赛事直播",
+			"type_name":"新聞直播"
 		},
 		{
-			"type_id":"LIST:自媒體 We Media,老高與小茉 @laogao,脑洞乌托邦 @NDWTB,自说自话的总裁 @STBoss,纪实说 @C-Documentary,老肉雜談 @老肉雜談,李永樂老師 @TchLiyongle,滇西小哥 @dianxixiaoge,李子柒 Liziqi @cnliziqi,老饭骨 @LaoFanGu,小高姐的 Magic Ingredients @MagicIngredients,小穎美食 @XiaoYingFood,primitivetechnology9550 @primitivetechnology9550,Mr Beast@MrBeast,Airforceproud95 @Airforceproud95,TheGreatWar @TheGreatWar,Mark Rober @MarkRober,不良林,涌哥侃侃 @ygkkk,悟空的日常",
-			"type_name":"自媒體"
+			"type_id":"LIST:剧集,腾讯剧集,爱奇艺剧集,优酷剧集,芒果剧集,TVB,亞視精選,ATV 亞洲電視,八大劇樂部,民視戲劇,三立台劇,三立華劇,龍華戲劇,華視懷舊頻道,華視戲劇,中視經典戲劇",
+			"type_name":"劇集"
 		},
 		{
-			"type_id":"LIST:HDR,Girls HDR,Landscape HDR,Walk HDR",
-			"type_name":"HDR"
-		},
-		{
-			"type_id":"LIST:华语音乐,华语MV,点击率最高",
-			"type_name":"音樂"
-		},
-		{
-			"type_id":"LIST:综艺,芒果综艺,腾讯综艺,爱奇艺综艺,优酷综艺,卫视综艺",
-			"type_name":"綜藝"
-		},
-		{
-			"type_id":"LIST:紀錄片,历史纪录片,自然纪录片,宇宙纪录片",
+			"type_id":"LIST:紀錄片,亞洲旅遊台,CCTV纪录,CCTV科教,公視+,National Geographic,Kevin_YOLO,Nat Geo Animals,BBC Earth,Top Travel,National Geographic India,BBC Earth Science,历史纪录片,自然纪录片,宇宙纪录片",
 			"type_name":"紀錄片"
 		},
 		{
-			"type_id":"LIST:新闻 Live,体育直播,赛事直播",
-			"type_name":"新聞直播"
+			"type_id":"LIST:動漫,一号动漫社 Animation Club,蒼穹動漫社Animation Club,斗破动漫社 Animation,腾讯动漫,爱奇艺动漫,优酷动漫,芒果动漫,Ani-Mi動漫迷動畫頻道,3D国漫工厂,阅文动漫,卡通狂欢嘉会",
+			"type_name":"動漫"
 		},
 		{
 			"type_id":"短劇",
 			"type_name":"短劇"
 		},
 		{
-			"type_id":"LIST:剧集,腾讯剧集,爱奇艺剧集,优酷剧集,芒果剧集,TVB",
-			"type_name":"劇集"
+			"type_id":"LIST:综艺,台視時光機,芒果综艺,腾讯综艺,爱奇艺综艺,优酷综艺,卫视综艺,超級夜總會",
+			"type_name":"綜藝"
 		},
+		
+				
 		{
 			"type_id":"電影",
 			"type_name":"電影"
 		},
+                {
+			"type_id":"LIST:政論,觀點,豐富,Yahoo風向,全球大視野,環球大戰線,郭正亮頻道,論政天下,岑永康",
+			"type_name":"政論"
+		},
+				
+		
 		{
 			"type_id":"體育",
 			"type_name":"體育"
@@ -60,6 +56,22 @@
 		{
 			"type_id":"宇宙",
 			"type_name":"科普知識"
+		},
+		{
+			"type_id":"GETTRENDS",
+			"type_name":"Youtube Trends"
+		},
+		{
+			"type_id":"LIST:自媒體 We Media,老高與小茉 @laogao,脑洞乌托邦 @NDWTB,自说自话的总裁 @STBoss,纪实说 @C-Documentary,老肉雜談 @老肉雜談,李永樂老師 @TchLiyongle,滇西小哥 @dianxixiaoge,李子柒 Liziqi @cnliziqi,老饭骨 @LaoFanGu,小高姐的 Magic Ingredients @MagicIngredients,小穎美食 @XiaoYingFood,primitivetechnology9550 @primitivetechnology9550,Mr Beast@MrBeast,Airforceproud95 @Airforceproud95,TheGreatWar @TheGreatWar,Mark Rober @MarkRober,不良林,涌哥侃侃 @ygkkk,悟空的日常",
+			"type_name":"自媒體"
+		},
+		{
+			"type_id":"LIST:HDR,Girls HDR,Landscape HDR,Walk HDR",
+			"type_name":"HDR"
+		},
+		{
+			"type_id":"LIST:华语音乐,华语MV,点击率最高",
+			"type_name":"音樂"
 		},
 		{
 			"type_id":"科技",
@@ -298,16 +310,110 @@
 					{"n":"小猪佩奇","v":"@PeppaPigChineseOfficial 小猪佩奇 中文官方 - Peppa Pig"},
 					{"n":"CoComelon","v":"@CoComelon"},
 					{"n":"合集","v":"Anime ENG SUB 合集"},
-					{"n":"国漫社","v":"@Animation  次元 苍穹动漫 PP看动漫 公馆"},
-					{"n":"国漫工厂","v":"@3DGuoman  SUB"},
-					{"n":"阅文动漫","v":"@yuewenanimation  SUB"},
-					{"n":"哔哩","v":"@madebybilibili  哔哩动漫"},
-					{"n":"腾讯","v":"@TencentVideoAnimation SUB"},
-					{"n":"优酷","v":"@youkuanimation 优酷动漫"},
+					
 					{"n":"爱奇艺","v":"@iQIYIAnime 爱奇艺动漫"}
+                                      
+
+					
 				]
 			}
 		],
+
+                "政論":[
+			{
+				"key":"time",
+				"name":"時間",
+				"value":[	
+					{"n":"時間全選","v":""},
+					{"n":"2024","v":"2024"},
+					{"n":"2023","v":"2023"},
+					{"n":"2022","v":"2022"},
+					{"n":"2021","v":"2021"},
+					{"n":"2020","v":"2020"},
+					{"n":"2019","v":"2019"},
+					{"n":"2018","v":"2018"},
+					{"n":"2017","v":"2017"},
+					{"n":"2016","v":"2016"},
+					{"n":"2015","v":"2015"},
+					{"n":"2014","v":"2014"},
+					{"n":"2013","v":"2013"},
+					{"n":"2012","v":"2012"},
+					{"n":"2011","v":"2011"},
+					{"n":"2010","v":"2010"},
+					{"n":"2009","v":"2009"},
+					{"n":"2008","v":"2008"},
+					{"n":"2007","v":"2007"},
+					{"n":"2006","v":"2006"},
+					{"n":"2005","v":"2005"},
+					{"n":"2004","v":"2004"},
+					{"n":"2003","v":"2003"},
+					{"n":"2002","v":"2002"},
+					{"n":"2001","v":"2001"},
+					{"n":"2000","v":"2000"},
+					{"n":"1999","v":"1999"},
+					{"n":"1998","v":"1998"},
+					{"n":"1997","v":"1997"},
+					{"n":"1996","v":"1996"},
+					{"n":"1995","v":"1995"},
+					{"n":"1994","v":"1994"},
+					{"n":"1993","v":"1993"},
+					{"n":"1992","v":"1992"},
+					{"n":"1991","v":"1991"},
+					{"n":"1990","v":"1990"},
+					{"n":"1989","v":"1989"},
+					{"n":"1988","v":"1988"},
+					{"n":"1987","v":"1987"},
+					{"n":"1986","v":"1986"},
+					{"n":"1985","v":"1985"},
+					{"n":"1984","v":"1984"},
+					{"n":"1983","v":"1983"},
+					{"n":"1982","v":"1982"},
+					{"n":"1981","v":"1981"},
+					{"n":"1980","v":"1980"},
+					{"n":"1979","v":"1979"},
+					{"n":"1978","v":"1978"},
+					{"n":"1977","v":"1977"},
+					{"n":"1976","v":"1976"},
+					{"n":"1975","v":"1975"},
+					{"n":"1974","v":"1974"},
+					{"n":"1973","v":"1973"},
+					{"n":"1972","v":"1972"},
+					{"n":"1971","v":"1971"},
+					{"n":"1970","v":"1970"},
+					{"n":"1969","v":"1969"},
+					{"n":"1968","v":"1968"},
+					{"n":"1967","v":"1967"},
+					{"n":"1966","v":"1966"},
+					{"n":"1965","v":"1965"},
+					{"n":"1964","v":"1964"},
+					{"n":"1963","v":"1963"},
+					{"n":"1962","v":"1962"},
+					{"n":"1961","v":"1961"},
+					{"n":"1960","v":"1960"},
+					{"n":"1959","v":"1959"},
+					{"n":"1958","v":"1958"}
+				]
+			},
+			{
+				"key":"tid",
+				"name":"中文",
+				"value":[
+					{"n":"默认中文政論","v":"政論 "},
+					{"n":"默认","v":"animation"},
+					{"n":"觀點","v":"@觀點"},
+					{"n":"豐富","v":"@豐富"},
+					{"n":"論政天下","v":"@論政天下2024"},
+					{"n":"Yahoo風向","v":"@YahooTWlisten"},
+					{"n":"全球大視野","v":"@全球大視野Global_Vision"},
+					{"n":"環球大戰線","v":"@Global-vision-talk"},
+					{"n":"郭正亮頻道","v":"@Guovision-TV"},
+					{"n":"岑永康","v":"@cyk33"}
+				]
+			}
+		],
+
+
+		
 		"LIST:新闻 Live,体育直播,赛事直播":[
 			{
 				"key":"tid",
@@ -354,7 +460,10 @@
 				]
 			}
 		],
-		"LIST:剧集,腾讯剧集,爱奇艺剧集,优酷剧集,芒果剧集,TVB":[
+
+
+		
+		"LIST:剧集,腾讯剧集,爱奇艺剧集,优酷剧集,芒果剧集,TVB,亞視精選,ATV 亞洲電視,八大劇樂部,民視劇集,三立華劇,三立台劇,龍華戲劇,華視懷舊頻道,華視戲劇,龍華電視,中視經典戲劇":[
 			{
 				"key":"time",
 				"name":"時間",
@@ -437,6 +546,16 @@
 					{"n":"華語熱播電視劇官方頻道","v":"華語熱播電視劇官方頻道"},
 					{"n":"粵劇","v":"粵劇 劇集"},
 					{"n":"TVB","v":"@TVB"},
+                                        {"n":"亞視精選","v":"@drama_asia"},          
+                                        {"n":"ATV 亞洲電視","v":"@atvhongkong"},
+					{"n":"民視劇集","v":"@FTVDRAMA"},
+					{"n":"八大劇樂部","v":"@gtv-drama"},
+					{"n":"三立華劇","v":"@SETdrama"},
+					{"n":"華視懷舊頻道","v":"@cts_arch"},
+                                        {"n":"三立台劇","v":"@setdramatw"},                                          
+					{"n":"華視戲劇","v":"@cts_drama"},
+					{"n":"龍華電視","v":"@ltv_tw"},
+					{"n":"中視經典戲劇","v":"@ctvdrama_classic"},
 					{"n":"国剧放映社","v":"国剧放映社"},
 					{"n":"大陆","v":"大陆 剧集"},
 					{"n":"腾讯","v":"腾讯 剧集"},
@@ -474,6 +593,135 @@
 				]
 			}
 		],
+                "LIST:動漫,一号动漫社 Animation Club,蒼穹動漫社Animation Club,斗破动漫社 Animation,腾讯动漫,爱奇艺动漫,优酷动漫,芒果动漫,Ani-Mi動漫迷動畫頻道,3D国漫工厂,阅文动漫":[
+			{
+				"key":"time",
+				"name":"時間",
+				"value":[	
+					{"n":"時間全選","v":""},
+					{"n":"2024","v":"2024"},
+					{"n":"2023","v":"2023"},
+					{"n":"2022","v":"2022"},
+					{"n":"2021","v":"2021"},
+					{"n":"2020","v":"2020"},
+					{"n":"2019","v":"2019"},
+					{"n":"2018","v":"2018"},
+					{"n":"2017","v":"2017"},
+					{"n":"2016","v":"2016"},
+					{"n":"2015","v":"2015"},
+					{"n":"2014","v":"2014"},
+					{"n":"2013","v":"2013"},
+					{"n":"2012","v":"2012"},
+					{"n":"2011","v":"2011"},
+					{"n":"2010","v":"2010"},
+					{"n":"2009","v":"2009"},
+					{"n":"2008","v":"2008"},
+					{"n":"2007","v":"2007"},
+					{"n":"2006","v":"2006"},
+					{"n":"2005","v":"2005"},
+					{"n":"2004","v":"2004"},
+					{"n":"2003","v":"2003"},
+					{"n":"2002","v":"2002"},
+					{"n":"2001","v":"2001"},
+					{"n":"2000","v":"2000"},
+					{"n":"1999","v":"1999"},
+					{"n":"1998","v":"1998"},
+					{"n":"1997","v":"1997"},
+					{"n":"1996","v":"1996"},
+					{"n":"1995","v":"1995"},
+					{"n":"1994","v":"1994"},
+					{"n":"1993","v":"1993"},
+					{"n":"1992","v":"1992"},
+					{"n":"1991","v":"1991"},
+					{"n":"1990","v":"1990"},
+					{"n":"1989","v":"1989"},
+					{"n":"1988","v":"1988"},
+					{"n":"1987","v":"1987"},
+					{"n":"1986","v":"1986"},
+					{"n":"1985","v":"1985"},
+					{"n":"1984","v":"1984"},
+					{"n":"1983","v":"1983"},
+					{"n":"1982","v":"1982"},
+					{"n":"1981","v":"1981"},
+					{"n":"1980","v":"1980"},
+					{"n":"1979","v":"1979"},
+					{"n":"1978","v":"1978"},
+					{"n":"1977","v":"1977"},
+					{"n":"1976","v":"1976"},
+					{"n":"1975","v":"1975"},
+					{"n":"1974","v":"1974"},
+					{"n":"1973","v":"1973"},
+					{"n":"1972","v":"1972"},
+					{"n":"1971","v":"1971"},
+					{"n":"1970","v":"1970"},
+					{"n":"1969","v":"1969"},
+					{"n":"1968","v":"1968"},
+					{"n":"1967","v":"1967"},
+					{"n":"1966","v":"1966"},
+					{"n":"1965","v":"1965"},
+					{"n":"1964","v":"1964"},
+					{"n":"1963","v":"1963"},
+					{"n":"1962","v":"1962"},
+					{"n":"1961","v":"1961"},
+					{"n":"1960","v":"1960"},
+					{"n":"1959","v":"1959"},
+					{"n":"1958","v":"1958"}
+				]
+			},
+			{
+				"key":"tid",
+				"name":"中文",
+				"value":[
+					{"n":"默認","v":""},
+                                                                                        {"n":"一号动漫社 Animation Club","v":"@animationclub-gq5vr  一号动漫社 Animation Club"},
+					{"n":"蒼穹動漫社Animation Club","v":"@animationclub3747  蒼穹動漫社Animation Club"},
+					{"n":"斗破动漫社 Animation","v":" @doupo   斗破动漫社 Animation"},
+					{"n":"卡通狂欢嘉会","v":"@CartoonGala-r8  卡通狂欢嘉会"},
+					{"n":"国漫社","v":"@Animation  次元 苍穹动漫 PP看动漫 公馆"},
+					{"n":"Ani-Mi動漫迷動畫頻道","v":"@animiforanime Ani-Mi動漫迷動畫頻道"},
+					{"n":"3D国漫工厂","v":"@3DGuoman  3D国漫工厂"},
+					{"n":"阅文动漫","v":"@yuewenanimation  阅文动漫"},
+					{"n":"哔哩","v":"@madebybilibili  哔哩动漫"},
+					{"n":"腾讯","v":"@TencentVideoAnimation SUB"},
+					{"n":"优酷","v":"@youkuanimation 优酷动漫"},
+					{"n":"大陆","v":"大陆 动漫"},
+					{"n":"腾讯","v":"腾讯 动漫"},
+					{"n":"爱奇艺","v":"爱奇艺 动漫"},
+					{"n":"优酷","v":"优酷 动漫"},
+					{"n":"芒果","v":"芒果TV 动漫"},
+					{"n":"搜狐","v":"搜狐 动漫"},
+					{"n":"华数","v":"华数 动漫"},
+					{"n":"大陆","v":"大陆 动漫"},
+					{"n":"3D國漫工廠","v":"@3DGuoman"},
+					{"n":"美国","v":"美国 Full Episode 完整动漫"},
+					{"n":"Netflix","v":"Netflix Full Episode 完整动漫"},
+					{"n":"Disney","v":"disney Full Episode 完整动漫"},
+					{"n":"Apple","v":"apple Full Episode 完整动漫"},
+					{"n":"Amazon","v":"amazon Full Episode 完整动漫"},
+					{"n":"HBO","v":"hbo Full Episode 完整动漫"},
+					{"n":"韩国","v":"韩国 动漫"},
+					{"n":"日本","v":"日本 动漫"},
+					{"n":"英国","v":"英国 Full Episode 完整动漫"}
+				]
+			},
+			{
+				"key":"tid",
+				"name":"English",
+				"value":[
+					{"n":"Drama","v":"Full Episode drama"},
+					{"n":"US","v":"drama Full Episode US"},
+					{"n":"Netflix","v":"netflix Full Episode drama"},
+					{"n":"Disney","v":"disney Full Episode drama"},
+					{"n":"Apple","v":"apple Full Episode drama"},
+					{"n":"Amazon","v":"amazon Full Episode drama"},
+					{"n":"HBO","v":"hbo Full Episode drama"},
+					{"n":"Korea","v":"korea Full Episode drama"},
+					{"n":"Japan","v":"japan Full Episode drama"},
+					{"n":"UK","v":"uk Full Episode drama"}
+				]
+			}
+		],
+		
 		"電影":[
 			{
 				"key":"time",
@@ -589,7 +837,7 @@
 				]
 			}
 		],
-		"LIST:综艺,芒果综艺,腾讯综艺,爱奇艺综艺,优酷综艺,卫视综艺":[
+		"LIST:综艺,台視時光機,芒果综艺,腾讯综艺,爱奇艺综艺,优酷综艺,卫视综艺,超級夜總會":[
 			{
 				"key":"time",
 				"name":"時間",
@@ -669,6 +917,8 @@
 				"name":"中文",
 				"value":[
 					{"n":"默认","v":"Variety show"},
+					{"n":"台視時光機","v":"@ttvclassic"},
+					{"n":"超級夜總會","v":"@SuperNightClubCH2"},
 					{"n":"大陆","v":"大陆 综艺"},
 					{"n":"芒果","v":"芒果 综艺"},
 					{"n":"腾讯","v":"腾讯 综艺"},
@@ -722,7 +972,7 @@
 				]
 			}
 		],
-		"LIST:紀錄片,历史纪录片,自然纪录片,宇宙纪录片":[
+		"LIST:紀錄片,亞洲旅遊台,CCTV纪录,CCTV科教,公視+,National Geographic,Kevin_YOLO,Nat Geo Animals,BBC Earth,Top Travel,National Geographic India,BBC Earth Science,历史纪录片,自然纪录片,宇宙纪录片":[
 			{
 				"key":"time",
 				"name":"時間",
@@ -802,8 +1052,18 @@
 				"name":"中文",
 				"value":[
 					{"n":"地區🎶排序","v":"歷史記錄片 地球記錄片 宇宙記錄片 海洋記錄片 戰爭記錄片 大自然生存記錄片"},
-					{"n":"默认","v":"documentary"},
-					{"n":"CCTV纪录片","v":"CCTV 纪录片"},
+					
+					{"n":"亞洲旅遊台","v":"@asiatravel-tv"},
+					{"n":"CCTV纪录","v":"@CCTVDocumentary"},
+					{"n":"CCTV科教","v":"@cctvscienceandeducation"},
+					{"n":"Top Travel","v":"@toptravel_yt"},
+					{"n":"公視+","v":"@ptsplus"},
+					{"n":"National Geographic","v":"@natgeo"},
+                                        {"n":"Kevin_YOLO","v":"@@kevin_YOLO"},
+                                        {"n":"Nat Geo Animals","v":"@natgeoanimals"},
+                                        {"n":"BBC Earth","v":"@bbcearth"},
+                                        {"n":"National Geographic India","v":"@natgeoindia"},
+                                        {"n":"BBC Earth Science","v":"@bbcearthscience"},
 					{"n":"BBC纪录片","v":"BBC 纪录片"},
 					{"n":"国家地理","v":"国家地理 纪录片"},
 					{"n":"Netflix纪录片","v":"netflix 纪录片"},
@@ -823,6 +1083,8 @@
 				"key":"tid",
 				"name":"English",
 				"value":[
+					{"n":"默认","v":"documentary"},
+					{"n":"National Geographic","v":"@natgeo"},
 					{"n":"History","v":"Full history documentary"},
 					{"n":"WILD","v":"Full wild documentary"},
 					{"n":"Earch","v":"Full earth documentary"},
