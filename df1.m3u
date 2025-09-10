@@ -3401,6 +3401,10 @@ http://127.0.0.1:8081/shanghai1.php?id=xjs
 http://127.0.0.1:8081/shanghai1.php?id=mdy
 #EXTINF:-1   tvg-id="五星体育"   tvg-name="五星体育"    tvg-logo=""    group-title="地方",五星体育
 http://127.0.0.1:8081/shanghai1.php?id=wxty
+#EXTINF:-1   tvg-id="乐游"   tvg-name="乐游"    tvg-logo=""    group-title="地方",乐游
+http://127.0.0.1:8081/shanghai1.php?id=ly
+
+
 
 #EXTINF:-1   tvg-id="东方卫视"   tvg-name="东方卫视"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="地方",东方卫视
 http://127.0.0.1:8081/shanghai.php?id=dfws
