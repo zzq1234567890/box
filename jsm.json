@@ -2519,7 +2519,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
 		{
-            "name": "mytv",
+            "name": "beesport",
             "type": 3,
             ##"api": "./py/live_beesport.py",
             "url": "https://tv-1.iill.top/m3u/MyTV",
