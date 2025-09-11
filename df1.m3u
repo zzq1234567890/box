@@ -2099,20 +2099,10 @@ http://127.0.0.1:8081/nowtvweb.php?id=333
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be133add646d30efaaab579ff56ca5fd:503f51f662278e4547090624ba4428c6  
 http://127.0.0.1:8081/nowtvweb.php?id=630
-#EXTINF:-1  group-title="港澳台" tvg-id="無綫新聞台 (免費)"   tvg-name="無綫新聞台 (免費)"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
-http://127.0.0.1:8081/tvb1.php?id=NEWS
-#EXTINF:-1  group-title="港澳台" tvg-id="無綫新聞台 (免費)"    tvg-name="無綫新聞台 (免費)"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
-http://127.0.0.1:8081/tvb2.php?id=2
-#EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="" group-title="港澳台",香港電台31
-https://cdn5.163189.xyz/live/rthk31/stream.m3u8
-#EXTINF:-1 tvg-id="香港電台32" tvg-name="香港電台32" tvg-logo="" group-title="港澳台",香港電台32
-https://cdn5.163189.xyz/live/rthk32/stream.m3u8
-#EXTINF:-1   tvg-id="香港電台33"   tvg-name="香港電台33"    tvg-logo="https://www.hkdtmb.com/png_logo/32.png"    group-title="港澳台",香港電台33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-#EXTINF:-1   tvg-id="cgtn"   tvg-name="cgtn"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"     group-title="港澳台",cgtn
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-#EXTINF:-1   tvg-id="cgtn英文记录片"   tvg-name="cgtn英文记录片"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"     group-title="港澳台",cgtn英文记录片
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+
+
+
+
 
 
 
@@ -2144,6 +2134,12 @@ https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/mas
 #KODIPROP:inputstream.adaptive.license_key=451d2f5521f03118ab0b08fff91b7bce:c1997f65812cdf0c0651991c6c5a8c5b
 https://rthktv32-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch32)/master.mpd
 
+#EXTINF:-1   tvg-id="香港電台33"   tvg-name="香港電台33"    tvg-logo="https://www.hkdtmb.com/png_logo/32.png"    group-title="港澳台",香港電台33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+#EXTINF:-1   tvg-id="cgtn"   tvg-name="cgtn"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"     group-title="港澳台",cgtn
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+#EXTINF:-1   tvg-id="cgtn英文记录片"   tvg-name="cgtn英文记录片"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"     group-title="港澳台",cgtn英文记录片
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳台",陽光衛視
 https://stream.chinasuntv.com/680k/mid_video_index.m3u8
