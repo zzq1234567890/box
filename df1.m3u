@@ -144,8 +144,7 @@ http://127.0.0.1:8081/hbgd.php?id=sdjyws
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4ec5eeb369d5ca1014a2f9e4da82f8e:5fffb3eb1b2394e54b3ca46452b9950a
 #EXTINF: -1 tvg-id="712.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="mytvsuper",韩国TVING
-https://sogne.tving.com/8a8cb65f98543f2e01985cc3b8d16083/package/8a8cb65f98543f2e01985cdb08ad6c4d/d71f59d8-129a-4811-aa6c-7884a099a517/manifest.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTc2NjU1MjksInN1YiI6Iio4YThjYjY1Zjk4NTQzZjJlMDE5ODVjYzNiOGQxNjA4MyoiLCJzY2MiOiJDU1NEMDEwMCIsIm9zYyI6IkNTT0QwOTAwIiwidnhyIjo3MjAsImRybSI6dHJ1ZSwid21pIjoiIiwiZG10Ijoic3QiLCJtZGwiOiJtYWMtb3NfY2hyb21lXzEzOC4wLjAuMCIsImlzcCI6IktUIn0.r8CpJ1t56inl2rMfla9ebklXRFe0twfI679vf-_8gq8
-
+https://sogne.tving.com/8a8cb65f98543f2e01985cc3b8d16083/package/8a8cb65f98543f2e01985cdb08ad6c4d/d71f59d8-129a-4811-aa6c-7884a099a517/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
