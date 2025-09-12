@@ -820,6 +820,13 @@ http://127.0.0.1:8081/mymysuper.php?id=EVT6
 #EXTINF:-1 tvg-id="myTV SUPER直播足球7台" tvg-name="myTV SUPER直播足球7台" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",myTV SUPER直播足球7台
 http://127.0.0.1:8081/mymysuper.php?id=EVT7
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a81a757b16a3d431d4365d81f07f07:292f2fdc2002e8346cd2c18af4a3a4bc
+#EXTINF:-1 tvg-id="二零二五香港公開羽毛球錦標賽-世界羽聯世界巡迴賽超級500" tvg-name="二零二五香港公開羽毛球錦標賽-世界羽聯世界巡迴賽超級500" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",二零二五香港公開羽毛球錦標賽-世界羽聯世界巡迴賽超級500
+http://127.0.0.1:8081/mymysuper.php?id=EVT8
+
+
 
 #EXTINF:-1 tvg-id="C3" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png"   group-title="mytvsuper" ,2024年WBSC五人制棒球世界盃直播1台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
