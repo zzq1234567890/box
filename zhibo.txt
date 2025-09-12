@@ -1,6 +1,4 @@
 台灣無線數位,#genre#
-残血CCTV4K SDR源,https://freetv.top/m2k/cctv4k.m3u8
-满血CCTV4K HLG源,https://freetv.top/m4k/cctv4k.m3u8
 中视,http://123.51.136.80:8301/0.ts
 中视新闻,http://123.51.136.80:8302/0.ts
 原住民卫视,http://123.51.136.80:8303/0.ts
