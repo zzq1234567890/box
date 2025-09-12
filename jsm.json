@@ -2488,6 +2488,15 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
 		{
+            "name": "肥羊马来西亚備用",
+            "ua": "okHttp/Mod-1.4.0.0",
+            "playerType": 2,
+			"url": "https://mursor.ottiptv.cc/iptv.m3u?userid=7243667022&sign=12a343ca35265317938bcf0e566b331d9da7409d8e377d8cd72cdb5de4640690d21ad58aabec6a4c1bfc6fe1c8f1d4c129eb175827d6be7016c3b8753e94ba8e90bc0d7e33ba1f&auth_token=2061d8f1c02e6539dba08d5fdf14c7a1",
+           ##"url": "https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u",
+		    "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+		{
             "name": "央视官网直播",
             "ua": "okhttp/3.0",
             "playerType": 2,
@@ -2497,7 +2506,7 @@
         },
 		{
             "name": "综合台",
-            ##"ua": "okHttp/Mod-1.3.0.0",
+            ##"ua": "okHttp/Mod-1.4.0.0",
             "playerType": 2,
 			"url": "https://php.946985.xyz/stv.m3u",
 		    "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
@@ -2548,21 +2557,12 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
 
-			
-		{
-            "name": "肥羊马来西亚備用",
-            "ua": "okHttp/Mod-1.4.0.0",
-            "playerType": 2,
-			"url": "https://mursor.ottiptv.cc/iptv.m3u?userid=7243667022&sign=12a343ca35265317938bcf0e566b331d9da7409d8e377d8cd72cdb5de4640690d21ad58aabec6a4c1bfc6fe1c8f1d4c129eb175827d6be7016c3b8753e94ba8e90bc0d7e33ba1f&auth_token=2061d8f1c02e6539dba08d5fdf14c7a1",
-           ##"url": "https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u",
-		    "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+		
 	    {
             "name": "肥羊马来西亚",
 			"url": "https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u",
 		    "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-             "ua":"okHttp/Mursor-1.3.0.0",
+             "ua":"okHttp/Mursor-1.4.0.0",
             "playerType": 2,
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -2584,7 +2584,7 @@
 		},
         {
             "name": "茶大陆台",
-            "ua": "okHttp/Mod-1.3.0.0",
+            "ua": "okHttp/Mod-1.4.0.0",
             "playerType": 2,
 			"url": "https://fy.188766.xyz/?ip=192.168.1.2&haiwai=true",
 		    "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
