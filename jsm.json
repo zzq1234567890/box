@@ -2518,6 +2518,18 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+		
+		{
+            "name": "临时用",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "https://live.catvod.com/tv.m3u",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+
+
+			
 		{
             "name": "肥羊马来西亚備用",
             "ua": "okHttp/Mod-1.4.0.0",
