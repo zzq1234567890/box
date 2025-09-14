@@ -71,7 +71,18 @@
         },
      
        
-      
+      {
+            "key": "采集全集",
+            "name": "采集全集",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "ext": "0",
+            "changeable": 1
+        },
     {
       "key": "py_BadNews",
       "name": "🔞BadNews(T4)",
