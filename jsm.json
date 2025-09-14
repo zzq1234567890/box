@@ -1,6 +1,17 @@
 {
     "spider": "./pg.jar",
-    "sites": [    
+    "sites": [   
+		{
+            "key": "央视聚场1",
+            "name": "央视聚场1",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/央视聚场1.js"
+        },
 {
 	"key":"独播资源",
 	"name":"独播资源(🔥)",
