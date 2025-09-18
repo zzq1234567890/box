@@ -3707,17 +3707,17 @@ http://127.0.0.1:8081/fjqz.php?id=mny
 
 
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",广州综合
+#EXTINF:-1   tvg-id="广州综合"   tvg-name="广州综合"    tvg-logo=""    group-title="地方",广州综合
 http://127.0.0.1:8081/guangzhou.php?id=zonghe
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",广州新闻
+#EXTINF:-1   tvg-id="广州新闻"   tvg-name="广州新闻"    tvg-logo=""    group-title="地方",广州新闻
 http://127.0.0.1:8081/guangzhou.php?id=xinwen
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",广州法治
+#EXTINF:-1   tvg-id="广州法治"   tvg-name="广州法治"    tvg-logo=""    group-title="地方",广州法治
 http://127.0.0.1:8081/guangzhou.php?id=fazhi
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",广州竞赛
 http://127.0.0.1:8081/guangzhou.php?id=jingsai
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",广州影视
 http://127.0.0.1:8081/guangzhou.php?id=yingshi
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",广州南国都市4K
+#EXTINF:-1   tvg-id="广州南国都市4K"   tvg-name="广州南国都市4K"    tvg-logo=""    group-title="地方",广州南国都市4K
 http://127.0.0.1:8081/guangzhou.php?id=shenghuo
 #EXTINF:-1   tvg-id="深圳卫视"   tvg-name="深圳卫视"    tvg-logo=""  group-title="地方",深圳卫视4k
 
@@ -3726,13 +3726,13 @@ https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
 http://127.0.0.1:8081/shenzhen.php?id=szws4k
 #EXTINF:-1   tvg-id="深圳卫视"   tvg-name="深圳卫视"    tvg-logo=""    group-title="地方",深圳卫视
 http://127.0.0.1:8081/shenzhen.php?id=szws
-#EXTINF:-1   tvg-id="深视都市频道"   tvg-name="深视都市频道"    tvg-logo=""    group-title="地方",深圳都市
+#EXTINF:-1   tvg-id="深圳都市"   tvg-name="深圳都市"    tvg-logo=""    group-title="地方",深圳都市
 http://127.0.0.1:8081/shenzhen.php?id=szds
-#EXTINF:-1   tvg-id="深视电视剧频道"   tvg-name="深视电视剧频道"    tvg-logo=""    group-title="地方",深圳电视剧
+#EXTINF:-1   tvg-id="深圳电视剧"   tvg-name="深圳电视剧"    tvg-logo=""    group-title="地方",深圳电视剧
 http://127.0.0.1:8081/shenzhen.php?id=szdsj
-#EXTINF:-1   tvg-id="深视财经生活频道"   tvg-name="深视财经生活频道"    tvg-logo=""    group-title="地方",深圳财经频道
+#EXTINF:-1   tvg-id="深圳财经"   tvg-name="深圳财经"    tvg-logo=""    group-title="地方",深圳财经频道
 http://127.0.0.1:8081/shenzhen.php?id=szcj
-#EXTINF:-1   tvg-id="深视少儿频道"   tvg-name="深视少儿频道"    tvg-logo=""    group-title="地方",深圳少儿频道
+#EXTINF:-1   tvg-id="深圳少儿"   tvg-name="深圳少儿"    tvg-logo=""    group-title="地方",深圳少儿频道
 http://127.0.0.1:8081/shenzhen.php?id=szse
 #EXTINF:-1   tvg-id="深视移动电视频道"   tvg-name="深视移动电视频道"    tvg-logo=""    group-title="地方",深圳移动电视
 http://127.0.0.1:8081/shenzhen.php?id=szyd
@@ -3742,9 +3742,9 @@ http://127.0.0.1:8081/shenzhen.php?id=szyh
 http://127.0.0.1:8081/shenzhen.php?id=szgj
 
 
-#EXTINF:-1   tvg-id="400367"   tvg-name=""    tvg-logo=""    group-title="地方",东莞综合
+#EXTINF:-1   tvg-id="东莞新闻综合"   tvg-name="东莞新闻综合"    tvg-logo=""    group-title="地方",东莞综合
 http://127.0.0.1:8081/dongguan.php?id=4
-#EXTINF:-1   tvg-id="400368"   tvg-name=""    tvg-logo=""    group-title="地方",东莞公共
+#EXTINF:-1   tvg-id="东莞生活咨询"   tvg-name="东莞生活咨询"    tvg-logo=""    group-title="地方",东莞生活咨询
 http://127.0.0.1:8081/dongguan.php?id=5
 
 
