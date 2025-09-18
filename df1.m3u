@@ -3501,7 +3501,36 @@ http://127.0.0.1:8081/hebei.php?id=6
 
 #EXTINF:-1   tvg-id="河北公共"   tvg-name="河北公共"    tvg-logo=""    group-title="地方",河北公共
 http://127.0.0.1:8081/hebei.php?id=7
-
+#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",高邑融媒
+http://127.0.0.1:8081/hebeidifang.php?id=gy1
+#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",鹿泉综合
+http://127.0.0.1:8081/hebeidifang.php?id=lq1
+#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",鹿泉电视台
+http://127.0.0.1:8081/hebeidifang.php?id=lq2
+#EXTINF:-1   tvg-id="保定新闻综合"    tvg-logo="保定新闻综合"   tvg-name=""    group-title="地方",保定新闻综合
+http://127.0.0.1:8081/hebeidifang.php?id=bd1
+#EXTINF:-1   tvg-id="保定公共频道"    tvg-logo="保定公共频道"   tvg-name=""    group-title="地方",保定公共频道
+http://127.0.0.1:8081/hebeidifang.php?id=bd2
+#EXTINF:-1   tvg-id="保定生活健康"    tvg-logo="保定生活健康"   tvg-name=""    group-title="地方",保定生活健康
+http://127.0.0.1:8081/hebeidifang.php?id=bd3
+#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",定州新闻综合
+http://127.0.0.1:8081/hebeidifang.php?id=dz1
+#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",定州生活
+http://127.0.0.1:8081/hebeidifang.php?id=dz2
+#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",定州国学影视
+http://127.0.0.1:8081/hebeidifang.php?id=dz3
+#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",涞水综合
+http://127.0.0.1:8081/hebeidifang.php?id=ls1
+#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",涞源综合
+http://127.0.0.1:8081/hebeidifang.php?id=ly1
+#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",清苑新闻
+http://127.0.0.1:8081/hebeidifang.php?id=qy1
+#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",清苑生活
+http://127.0.0.1:8081/hebeidifang.php?id=qy2
+#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",望都TV1套
+http://127.0.0.1:8081/hebeidifang.php?id=wd1
+#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",徐水TV1套
+http://127.0.0.1:8081/hebeidifang.php?id=xs1
 
 #EXTINF:-1   tvg-id="上海教育"    tvg-logo="http://www.setv.sh.cn/images/logo.png"   tvg-name="上海教育"    group-title="地方",上海教育
 http://127.0.0.1:8081/shanghaijiaoyu.php?id=setv
@@ -3799,36 +3828,7 @@ http://127.0.0.1:8081/henan.php?id=16
 
 
 
-#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",高邑融媒
-http://127.0.0.1:8081/hebeidifang.php?id=gy1
-#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",鹿泉综合
-http://127.0.0.1:8081/hebeidifang.php?id=lq1
-#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",鹿泉电视台
-http://127.0.0.1:8081/hebeidifang.php?id=lq2
-#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",保定新闻综合
-http://127.0.0.1:8081/hebeidifang.php?id=bd1
-#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",保定公共x
-http://127.0.0.1:8081/hebeidifang.php?id=bd2
-#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",保定生活健康
-http://127.0.0.1:8081/hebeidifang.php?id=bd3
-#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",定州新闻综合
-http://127.0.0.1:8081/hebeidifang.php?id=dz1
-#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",定州生活
-http://127.0.0.1:8081/hebeidifang.php?id=dz2
-#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",定州国学影视
-http://127.0.0.1:8081/hebeidifang.php?id=dz3
-#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",涞水综合
-http://127.0.0.1:8081/hebeidifang.php?id=ls1
-#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",涞源综合
-http://127.0.0.1:8081/hebeidifang.php?id=ly1
-#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",清苑新闻
-http://127.0.0.1:8081/hebeidifang.php?id=qy1
-#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",清苑生活
-http://127.0.0.1:8081/hebeidifang.php?id=qy2
-#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",望都TV1套
-http://127.0.0.1:8081/hebeidifang.php?id=wd1
-#EXTINF:-1   tvg-id=""    tvg-logo=""   tvg-name=""    group-title="地方",徐水TV1套
-http://127.0.0.1:8081/hebeidifang.php?id=xs1
+
 
 #EXTINF:-1   tvg-id=""   tvg-name="山东卫视"    tvg-logo=""    group-title="地方",山东卫视
 http://127.0.0.1:8081/shandong.php?id=sdtv
