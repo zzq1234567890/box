@@ -3483,7 +3483,9 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 #EXTINF:-1   tvg-id="重温经典频道"    tvg-logo=""   tvg-name="重温经典频道"    group-title="地方",重温经典频道
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+#EXTINF:-1   tvg-id="重温经典频道"    tvg-logo=""   tvg-name="重温经典频道"    group-title="地方",重温经典频道
 
+http://api.hk.itv888.cn:8080/hls/ba0e4e5dd67/index.m3u8
 
 #EXTINF:-1   tvg-id="河北卫视"   tvg-name="河北卫视"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png"    group-title="地方",河北卫视
 http://127.0.0.1:8081/hebei.php?id=1
