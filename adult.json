@@ -23,6 +23,12 @@
 	      
   ],
   "sites": [
+	  {
+            "key": "py_jianpian",
+            "name": "剪片",
+            "type": 3,
+            "api": "./py/py_jianpian.py"
+        },
 {
       "key": "随客影视",
       "name": "🎥｜随客｜補全",
