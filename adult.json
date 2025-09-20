@@ -23,13 +23,7 @@
 	      
   ],
   "sites": [
-	    {
-            "key": "py_jianpian",
-            "name": "剪片",
-            "type": 3,
-            "api": "./py/py_jianpian.py"
-        },
-      {
+{
       "key": "随客影视",
       "name": "🎥｜随客｜補全",
       "type": 3,
@@ -58,15 +52,14 @@
         }
         },
          {
-       	"key":"独播资源",
+	"key":"独播资源",
 	"name":"独播资源(🔥)",
 	"type":0,
 	"api":"https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/xml",
 	"searchable":1,
 	"quickSearch":1,
-	"categories":{
+	"categories":[
 		"伦理片"
-	}
 		},
 	  {
             "key": "avdb",
