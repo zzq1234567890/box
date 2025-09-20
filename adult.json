@@ -27,7 +27,7 @@
       "key": "随客影视",
       "name": "🎥｜随客｜補全",
       "type": 3,
-      ##"jar": "./pq.jar",
+      
       "jar": "./lib/XBPQ.jar",
       "api": "csp_XBPQ",
       "ext": {
