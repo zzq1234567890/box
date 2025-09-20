@@ -64,9 +64,9 @@
 	"api":"https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/xml",
 	"searchable":1,
 	"quickSearch":1,
-	"categories":[
+	"categories":{
 		"伦理片"
-	]
+	}
 		},
 	  {
             "key": "avdb",
