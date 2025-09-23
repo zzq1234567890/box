@@ -1330,8 +1330,6 @@ http://127.0.0.1:8081/huya.php?id=11602084
 #EXTINF:-1   tvg-id="鳳凰資訊"   tvg-name="鳳凰資訊"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"     group-title="中文新闻",鳳凰資訊
 http://127.0.0.1:8081/fenghuangyoutube.php
 
-#EXTINF:-1   tvg-id="鳳凰資訊"   tvg-name="鳳凰資訊"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"     group-title="中文新闻",鳳凰資訊
-http://127.0.0.1:8081/fenghuangyoutube1.php
 
 #EXTINF:-1   tvg-id="凤凰美洲台"   tvg-name="凤凰美洲台"    tvg-logo=""    group-title="中文新闻",凤凰美洲台
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
