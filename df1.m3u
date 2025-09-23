@@ -3716,7 +3716,7 @@ http://127.0.0.1:8081/fujian.php?id=665248914378952704
 http://127.0.0.1:8081/hoge.php?id=xmtv1
 #EXTINF:-1   tvg-id="厦门2"   tvg-name="厦门1"    tvg-logo=""    group-title="地方",厦门2
 http://127.0.0.1:8081/hoge.php?id=xmtv2
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",厦门移动
+#EXTINF:-1   tvg-id="厦门移动"   tvg-name="厦门移动"    tvg-logo=""    group-title="地方",厦门移动
 http://127.0.0.1:8081/hoge.php?id=xmyd
 #EXTINF:-1   tvg-id="福州1"   tvg-name="福州1"    tvg-logo=""    group-title="地方",福州综合
 https://live.zohi.tv/video/s10001-fztv-1/index.m3u8
