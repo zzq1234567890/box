@@ -3712,18 +3712,18 @@ http://127.0.0.1:8081/fujian.php?id=665248584991870976
 #EXTINF:-1   tvg-id="福建电视台新闻频道"   tvg-name="福建电视台新闻频道"    tvg-logo=""    group-title="地方",福建新闻
 http://127.0.0.1:8081/fujian.php?id=665248914378952704
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",厦门1
+#EXTINF:-1   tvg-id="厦门1"   tvg-name="厦门1"    tvg-logo=""    group-title="地方",厦门1
 http://127.0.0.1:8081/hoge.php?id=xmtv1
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",厦门2
+#EXTINF:-1   tvg-id="厦门2"   tvg-name="厦门1"    tvg-logo=""    group-title="地方",厦门2
 http://127.0.0.1:8081/hoge.php?id=xmtv2
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",厦门移动
 http://127.0.0.1:8081/hoge.php?id=xmyd
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",福州综合
+#EXTINF:-1   tvg-id="福州1"   tvg-name="福州1"    tvg-logo=""    group-title="地方",福州综合
 https://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",福州影视
+#EXTINF:-1   tvg-id="福州2"   tvg-name="福州1"    tvg-logo=""    group-title="地方",福州影视
 https://live.zohi.tv/video/s10001-fztv-2/index.m3u8
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",福州生活
+#EXTINF:-1   tvg-id="福州3"   tvg-name="福州1"    tvg-logo=""    group-title="地方",福州生活
 https://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",福州少儿
@@ -3776,9 +3776,9 @@ http://127.0.0.1:8081/dongguan.php?id=4
 http://127.0.0.1:8081/dongguan.php?id=5
 
 
-#EXTINF:-1   tvg-id="101036"   tvg-name="河南卫视"    tvg-logo=""    group-title="地方",河南卫视
+#EXTINF:-1   tvg-id="河南卫视"   tvg-name="河南卫视"    tvg-logo=""    group-title="地方",河南卫视
 http://127.0.0.1:8081/henan.php?id=1
-#EXTINF:-1   tvg-id="101041"   tvg-name="河南新闻"    tvg-logo=""    group-title="地方",河南新闻
+#EXTINF:-1   tvg-id="河南新闻"   tvg-name="河南新闻"    tvg-logo=""    group-title="地方",河南新闻
 
 
 http://127.0.0.1:8081/henan.php?id=2
@@ -3829,10 +3829,10 @@ http://127.0.0.1:8081/henan.php?id=16
 
 
 
-#EXTINF:-1   tvg-id=""   tvg-name="山东卫视"    tvg-logo=""    group-title="地方",山东卫视
+#EXTINF:-1   tvg-id="山东卫视"   tvg-name="山东卫视"    tvg-logo=""    group-title="地方",山东卫视
 http://127.0.0.1:8081/shandong.php?id=sdtv
 
-#EXTINF:-1   tvg-id=""   tvg-name="山东齐鲁"    tvg-logo=""    group-title="地方",山东齐鲁
+#EXTINF:-1   tvg-id="山东齐鲁"   tvg-name="山东齐鲁"    tvg-logo=""    group-title="地方",山东齐鲁
 http://127.0.0.1:8081/shandong.php?id=qlpd
 
 
