@@ -1,3 +1,10 @@
+中國大陸4k電視,#genre#
+江苏卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227436/index.m3u8
+浙江卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227438/index.m3u8
+四川卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227444/index.m3u8
+山东卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227442/index.m3u8
+湖南卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227425/index.m3u8
+东方卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227427/index.m3u8
 台灣無線數位,#genre#
 中视,http://123.51.136.80:8301/0.ts
 中视新闻,http://123.51.136.80:8302/0.ts
