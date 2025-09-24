@@ -1338,9 +1338,9 @@ https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 #EXTINF:-1   tvg-id="CCTV-4美洲频道"   tvg-name="CCTV-4美洲频道"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"    group-title="中文新闻",CCTV-4美洲频道
-http://127.0.0.1:8081/cctv4.php?id=2
-#EXTINF:-1   tvg-id="cctv4亚洲"   tvg-name="cctv4亚洲"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"    group-title="中文新闻",cctv-4亚洲
 http://127.0.0.1:8081/cctv4.php?id=1
+#EXTINF:-1   tvg-id="cctv4亚洲"   tvg-name="cctv4亚洲"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"    group-title="中文新闻",cctv-4亚洲
+http://127.0.0.1:8081/cctv4.php?id=2
 
 
 
@@ -3477,11 +3477,7 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 #EXTINF:-1   tvg-id="重温经典频道"    tvg-logo=""   tvg-name="重温经典频道"    group-title="地方",重温经典频道
-https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-#EXTINF:-1   tvg-id="重温经典频道"    tvg-logo=""   tvg-name="重温经典频道"    group-title="地方",重温经典频道
-
 http://api.hk.itv888.cn:8080/hls/ba0e4e5dd67/index.m3u8
-
 #EXTINF:-1   tvg-id="河北卫视"   tvg-name="河北卫视"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png"    group-title="地方",河北卫视
 http://127.0.0.1:8081/hebei.php?id=1
 #EXTINF:-1   tvg-id="河北经济"   tvg-name="河北经济"    tvg-logo=""    group-title="地方",河北经济
