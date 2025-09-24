@@ -1,3 +1,41 @@
+英國電視,#genre#
+Sky Atlantic,http://146.19.169.196:9981/stream/channelid/1121977423
+Sky Cinema Action,http://146.19.169.196:9981/stream/channelid/1344356679
+Sky Cinema Classics,http://146.19.169.196:9981/stream/channelid/854590875
+Sky Cinema Family,http://146.19.169.196:9981/stream/channelid/1946321510
+Sky Cinema Highlights,http://146.19.169.196:9981/stream/channelid/692925165
+Sky Cinema Premiere,http://146.19.169.196:9981/stream/channelid/1640807290
+Sky Crime,http://146.19.169.196:9981/stream/channelid/1708369129
+Sky Documentaries,http://146.19.169.196:9981/stream/channelid/662455027
+Sky Krimi,http://146.19.169.196:9981/stream/channelid/1109033989
+Sky Nature,http://146.19.169.196:9981/stream/channelid/1602427388
+Sky One,http://146.19.169.196:9981/stream/channelid/1257515214
+Sky Replay,http://146.19.169.196:9981/stream/channelid/1060125092
+Sky Showcase,http://146.19.169.196:9981/stream/channelid/1041033006
+Sky Sport 4,http://146.19.169.196:9981/stream/channelid/307315267
+Sky Sport 8,http://146.19.169.196:9981/stream/channelid/639762161
+Sky Sport Austria 1,http://146.19.169.196:9981/stream/channelid/660378621
+Sky Sport Austria 2,http://146.19.169.196:9981/stream/channelid/625939151
+Sky Sport Austria 3,http://146.19.169.196:9981/stream/channelid/2025726820
+Sky Sport Austria 4,http://146.19.169.196:9981/stream/channelid/870239900
+Sky Sport Austria 5,http://146.19.169.196:9981/stream/channelid/2088027819
+Sky Sport Bundesliga,http://146.19.169.196:9981/stream/channelid/685658909
+Sky Sport Bundesliga 1,http://146.19.169.196:9981/stream/channelid/720067845
+Sky Sport Bundesliga 2,http://146.19.169.196:9981/stream/channelid/167909526
+Sky Sport Bundesliga 3,http://146.19.169.196:9981/stream/channelid/1289280168
+Sky Sport Bundesliga 4,http://146.19.169.196:9981/stream/channelid/508656928
+Sky Sport Bundesliga 5,http://146.19.169.196:9981/stream/channelid/329806950
+Sky Sport Bundesliga 6,http://146.19.169.196:9981/stream/channelid/399730831
+Sky Sport F1,http://146.19.169.196:9981/stream/channelid/556803633
+Sky Sport Golf,http://146.19.169.196:9981/stream/channelid/2092238595
+Sky Sport Mix,http://146.19.169.196:9981/stream/channelid/1718852413
+Sky Sport News,http://146.19.169.196:9981/stream/channelid/1387489539
+Sky Sport Premier League,http://146.19.169.196:9981/stream/channelid/824598371
+Sky Sport Tennis,http://146.19.169.196:9981/stream/channelid/1740646067
+Sky Sport Top Event,http://146.19.169.196:9981/stream/channelid/548300550
+SPORT1 HD,http://146.19.169.196:9981/stream/channelid/450293885
+STEST1,http://146.19.169.196:9981/stream/channelid/438130287
+STEST2,http://146.19.169.196:9981/stream/channelid/1759540662
 中國大陸4k電視,#genre#
 江苏卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227436/index.m3u8
 浙江卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227438/index.m3u8
