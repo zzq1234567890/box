@@ -2091,7 +2091,7 @@ http://127.0.0.1:8081/cnbcarabic.php
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=23ceee092b8a3be5bfa1e7083d4d7fc6:d4e16961d7fc76f7eccb4cb72030123e
 http://127.0.0.1:8081/nowtvweb.php?id=331
-#EXTINF:-1 tvg-id="now直播" tvg-name="now直播" tvg-logo="https://www.nowtv.now.com/media/logo/331-wbg-c.png" group-title="港澳台",now直播
+#EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="港澳台",now新聞
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d935cd427bf63c86bd35e6db8c3f6a44:b3e9396760cf728cb2fd5883c84964aa
