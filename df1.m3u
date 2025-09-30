@@ -3587,8 +3587,8 @@ http://127.0.0.1:8081/shanghaieye.php
 https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=4ac6a73cefc8acfd6816a551de748465&txTime=69553FD5
 
 
-#EXTINF:-1   tvg-id="东方卫视"   tvg-name="东方卫视"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="地方",东方卫视
-http://127.0.0.1:8081/shanghai1.php?id=dfws
+#EXTINF:-1   tvg-id="东方卫视"   tvg-name="东方卫视"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="地方",东方卫视4K
+http://127.0.0.1:8081/shanghai1.php?id=dfws4k
 #EXTINF:-1   tvg-id="新闻综合"   tvg-name="新闻综合"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png"     group-title="地方",上海新闻综合
 http://127.0.0.1:8081/shanghai1.php?id=xwzh
 #EXTINF:-1   tvg-id="哈哈炫动"   tvg-name="哈哈炫动"    tvg-logo="https://assets.livednow.com/logo/哈哈炫动.png"    group-title="地方",哈哈炫动
