@@ -2143,7 +2143,7 @@ https://edge.media.seaovers.live/856b503e276cc49100c1dde528ee8cde/baselive/v2/DP
 https://edge.media.seaovers.live/856b503e276cc49197dd54aa8a0c740e/baselive/v2/TPLUZIFF.m3u8
 #EXTINF:-1 tvg-id="SportsPlus" tvg-name="SportsPlus" tvg-logo="" group-title="港澳台",SportsPlus
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/WQFFQD2YSMWFAZXKTY07/hls3/now,-1m/m.m3u8
-#EXTINF:-1 tvg-id="Travel & Food TV" tvg-name="Travel & Food TV" tvg-logo="" group-title="港澳台",Travel & Food TV
+#EXTINF:-1 tvg-id="Travel &amp; Food TV" tvg-name="Travel &amp; Food TV" tvg-logo="" group-title="港澳台",Travel & Food TV
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/77I3ZMNRNMI5I93YF0WC/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-id="Spot on news" tvg-name="Spot on news" tvg-logo="" group-title="港澳台",Spot on news
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/TDGHWR1Q2FLL5PEG33BE/hls3/now,-1m/m.m3u8
