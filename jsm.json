@@ -2835,7 +2835,7 @@
             "playerType": 2,
             "url": "https://tv.iill.top/m3u/Sport",
             ## "url": "https://tv.iill.top/m3u/MyTV",
-            "epg": "https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgmytvsuper.xml",
+            "epg": "http://epg.iill.top/epg.xml",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },   
         {
