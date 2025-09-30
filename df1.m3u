@@ -3679,6 +3679,8 @@ http://127.0.0.1:8081/beijingapp.php?id=bjkk
 
 
 #浙江/7个频道
+#EXTINF:-1   tvg-id="浙江卫视"   tvg-name="浙江卫视"    tvg-logo=""    group-title="地方",浙江卫视4K
+https://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1   tvg-id="浙江卫视"   tvg-name="浙江卫视"    tvg-logo=""    group-title="地方",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1   tvg-id="浙江钱江都市"   tvg-name="浙江钱江都市"    tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang1.png"    group-title="地方",浙江钱江都市
