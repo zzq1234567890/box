@@ -2788,12 +2788,14 @@
             "name": "茶大陆台",
             "ua": "okHttp/Mod-1.4.0.0",
             "playerType": 2,
-	     "url": "https://fy.188766.xyz/?ip=192.168.1.2&haiwai=true",
+	     "url": "https://fy.188766.xyz/?ip=&mishitong=true&mima=mianfeidehaimaiqian&haiwai=true",
 	     "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
              "ua":"okHttp/Mursor-1.1.0",
             "playerType": 2,
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+
+		
 	{
             "name": "大陸台",
             "ua": "okhttp/3.0",
