@@ -1,4 +1,25 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="4K",北京卫视4K
+http://127.0.0.1/zgst.php?id=btv4k
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="4K",东方卫视4K
+http://127.0.0.1/zgst.php?id=sh4k
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="4K",江苏卫视4K
+http://127.0.0.1/zgst.php?id=js4k
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="4K",  视浙江卫视4K
+http://127.0.0.1/zgst.php?id=zj4k
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="4K",山东卫视4K
+http://127.0.0.1/zgst.php?id=sd4k
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="4K",湖南卫视4K
+http://127.0.0.1/zgst.php?id=hn4k
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="4K",广东卫视4K
+http://127.0.0.1/zgst.php?id=gd4k
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="4K",四川卫视4K
+http://127.0.0.1/zgst.php?id=sc4k
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="4K",深圳卫视4K
+http://127.0.0.1/zgst.php?id=sz4k
+
+
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="湖北广电",  cctv1hd
 http://127.0.0.1:8081/hbgd.php?id=cctv1hd
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="湖北广电",   cctv2hd
@@ -37,19 +58,19 @@ http://127.0.0.1:8081/hbgd.php?id=cctv16hd
 http://127.0.0.1:8081/hbgd.php?id=cctv14hd
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="湖北广电",湖北卫视
 http://127.0.0.1:8081/hbgd.php?id=hbwshd
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="湖北广电",  湖南卫视
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="湖北广电",湖南卫视
 http://127.0.0.1:8081/hbgd.php?id=hnwshd
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="湖北广电",   东方卫视
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="湖北广电", 东方卫视
 http://127.0.0.1:8081/hbgd.php?id=dfwshd
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="湖北广电",  浙江卫视
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="湖北广电",浙江卫视
 http://127.0.0.1:8081/hbgd.php?id=zjwshd
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="湖北广电", 北京卫视
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="湖北广电",北京卫视
 http://127.0.0.1:8081/hbgd.php?id=bjwshd
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="湖北广电",  江苏卫视
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="湖北广电",江苏卫视
 http://127.0.0.1:8081/hbgd.php?id=jswshd
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="湖北广电", 安徽卫视
 http://127.0.0.1:8081/hbgd.php?id=ahwshd
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="湖北广电",   山东卫视
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="湖北广电",山东卫视
 http://127.0.0.1:8081/hbgd.php?id=sdwdhd
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="湖北广电",  河南卫视
 http://127.0.0.1:8081/hbgd.php?id=henwshd
