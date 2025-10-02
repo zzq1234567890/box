@@ -1,4 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="4K",湖南卫视4K
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1   tvg-id="浙江卫视"   tvg-name="浙江卫视"    tvg-logo=""    group-title="4K",浙江卫视4K
+https://play-qukan.cztv.com/live/1758879019692345.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/FashionTV.png" group-title="4K",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
