@@ -4,7 +4,7 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jb
 #EXTINF:-1   tvg-id="浙江卫视"   tvg-name="浙江卫视"    tvg-logo=""    group-title="4K",浙江卫视4K
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/FashionTV.png" group-title="4K",Fashion 4K「时尚」
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/FashionTV.png" group-title="4K",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-Origin=https://api.chinaaudiovisual.cn/
