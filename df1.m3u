@@ -3474,6 +3474,35 @@ http://127.0.0.1:8081/zhejiang.php?id=zjgj
 #EXTINF:-1   tvg-id="浙江数码时代""   tvg-name="浙江数码时代"    tvg-logo=""    group-title="地方",浙江之江记录
 http://127.0.0.1:8081/zhejiang.php?id=zjzjjl
 
+
+
+
+
+
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",杭州综合
+http://l.cztvcloud.com/channels/lantian/sxchannel01/1080p.m3u8
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方", 宁波综合
+http://l.cztvcloud.com/channels/lantian/sxchannel02/1080p.m3u8
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方", 温州综合
+http://l.cztvcloud.com/channels/lantian/sxchannel03/1080p.m3u8
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方", 绍兴综合
+http://l.cztvcloud.com/channels/lantian/sxchannel04/1080p.m3u8
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方", 湖州综合
+http://l.cztvcloud.com/channels/lantian/sxchannel05/1080p.m3u8
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方", 嘉兴综合
+http://l.cztvcloud.com/channels/lantian/sxchannel06/1080p.m3u8
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方", 金华综合
+http://l.cztvcloud.com/channels/lantian/sxchannel07/1080p.m3u8
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方", 衢州综合
+http://l.cztvcloud.com/channels/lantian/sxchannel08/1080p.m3u8
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方", 丽水综合
+http://l.cztvcloud.com/channels/lantian/sxchannel09/1080p.m3u8
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方", 台州综合
+http://l.cztvcloud.com/channels/lantian/sxchannel10/1080p.m3u8
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方", 舟山综合
+http://l.cztvcloud.com/channels/lantian/sxchannel11/1080p.m3u8
+
 #EXTINF:-1   tvg-id="江苏卫视"   tvg-name="江苏卫视"    tvg-logo=""    group-title="地方",江苏卫视
 http://127.0.0.1:8081/jiangsu1.php?id=jsws
 #EXTINF:-1   tvg-id="江苏城市频道"   tvg-name="江苏城市频道"    tvg-logo=""    group-title="地方",江苏城市
@@ -3492,9 +3521,6 @@ http://127.0.0.1:8081/jiangsu1.php?id=ymkt
 http://127.0.0.1:8081/jiangsu1.php?id=jsgj
 #EXTINF:-1   tvg-id="江苏教育频道"   tvg-name="江苏教育频道"    tvg-logo="江苏国际频道"    group-title="地方",江苏教育
 http://127.0.0.1:8081/jiangsu1.php?id=jsjy
-
-
-
 #EXTINF:-1   tvg-id="福建少儿频道"   tvg-name="福建少儿频道"    tvg-logo=""    group-title="地方",福建少儿
 http://127.0.0.1:8081/fujian.php?id=665248553475870720
 #EXTINF:-1   tvg-id="海峡卫视"   tvg-name="海峡卫视"    tvg-logo=""    group-title="地方",海峡卫视
