@@ -2853,7 +2853,7 @@
             "ua": "okhttp/3.0",
             "playerType": 2,
             "url": "./df1.m3u",
-            "epg": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epg.xml",
+            "epg": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epg.xml.gz",
            ####"epg": " https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgdiyp.json",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
