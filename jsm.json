@@ -2736,7 +2736,7 @@
              "api": "csp_MQiTV",
              "jar": "./fm.jar",
 		     "playerType": 2,
-	         "url":"https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml.gz",
+	         "url":"https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml",
              "ext": [
 
 			   {
@@ -2784,16 +2784,7 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-            "name": "茶大陆台",
-            "ua": "okHttp/Mod-1.4.0.0",
-            "playerType": 2,
-	     "url": "https://fy.188766.xyz/?ip=&mishitong=true&mima=mianfeidehaimaiqian&haiwai=true",
-	     "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-             "ua":"okHttp/Mursor-1.1.0",
-            "playerType": 2,
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+       
 
 		
 	{
