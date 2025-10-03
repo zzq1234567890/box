@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png" group-title="•體育賽事", TNT Sport 1
 #EXTVLCOPT:http-user-agent=okhttp
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://tv.iill.top/beesport/TNT_Sports_1_BU|Referer=https://p.lioncdn.net/
 
 #EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png" group-title="•體育賽事", TNT Sport 1
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
