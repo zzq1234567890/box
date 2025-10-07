@@ -1113,7 +1113,7 @@ http://127.0.0.1:8081/douyin.php?id=717523734410
 
 
 
-#EXTINF:-1   tvg-id="凤凰资讯"   tvg-name="凤凰资讯"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"     group-title="中文新闻",凤凰资讯
+#EXTINF:-1   tvg-id="凤凰卫视资讯台 (免费)"   tvg-name="凤凰卫视资讯台 (免费)"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"     group-title="中文新闻",凤凰资讯
 http://127.0.0.1:8081/fenghuangyoutube.php
 
 
