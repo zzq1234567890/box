@@ -221,7 +221,12 @@ http://127.0.0.1:8081/hbgd.php?id=zgqx
 #EXTINF:-1 tvg-id="山東教育" tvg-name="山東教育" tvg-logo="https://epg.v1.mk/logo/山東教育.png" group-title="湖北廣電", 山東教育
 http://127.0.0.1:8081/hbgd.php?id=sdjyws
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
+#EXTINF: -1 tvg-id="712.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="mytvsuper",UnifiHD
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
