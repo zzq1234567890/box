@@ -743,7 +743,7 @@ http://127.0.0.1:8081/mymysuper.php?id=PCC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
-#EXTINF:-1 tvg-id="凤凰卫视信息台 (免费)" tvg-name="凤凰卫视信息台 (免费)" tvg-logo="https://assets.mytvsuper.com/channel/1687317778284878_PIN.png" group-title="mytvsuper",凤凰卫视信息台 (免费)
+#EXTINF:-1 tvg-id="凤凰卫视资讯台 (免费)" tvg-name="凤凰卫视资讯台 (免费)" tvg-logo="https://assets.mytvsuper.com/channel/1687317778284878_PIN.png" group-title="mytvsuper",凤凰卫视资讯台 (免费)
 http://127.0.0.1:8081/mymysuper.php?id=PIN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1113,7 +1113,7 @@ http://127.0.0.1:8081/douyin.php?id=717523734410
 
 
 
-#EXTINF:-1   tvg-id="凤凰信息"   tvg-name="凤凰信息"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"     group-title="中文新闻",凤凰信息
+#EXTINF:-1   tvg-id="凤凰资讯"   tvg-name="凤凰资讯"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"     group-title="中文新闻",凤凰资讯
 http://127.0.0.1:8081/fenghuangyoutube.php
 
 
@@ -1200,7 +1200,7 @@ http://127.0.0.1:8081/dongsenfinince.php
 http://127.0.0.1:8081/dongsenstock.php
 
 
-#EXTINF:-1   tvg-id="华视新闻信息台"   tvg-name="华视新闻信息台"    tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png"    group-title="中文新闻",华视新闻信息台
+#EXTINF:-1   tvg-id="华视新闻资讯台"   tvg-name="华视新闻资讯台"    tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png"    group-title="中文新闻",华视新闻资讯台
 http://127.0.0.1:8081/huashinews.php
 #EXTINF:-1   tvg-id="litv-ftv13"   tvg-name="民视新闻台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png"    group-title="中文新闻",民视新闻台1
 http://127.0.0.1:8081/minshinews.php
@@ -1662,7 +1662,7 @@ http://127.0.0.1:8081/france.php
 #EXTINF:-1   tvg-id="100197"   tvg-name=""    tvg-logo=""    group-title="youtube world news",FRANCE24Español
 http://127.0.0.1:8081/FRANCE24Español.php
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",法国信息台
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",法国资讯台
 http://127.0.0.1:8081/franceinfo.php
 #EXTINF:-1      tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" tvg-id="6139"   tvg-name="ChannelNewsAsia"    group-title="youtube world news",新加坡亚洲新闻CNA
 http://127.0.0.1:8081/youtube.php?v=XWq5kBlakcQ
@@ -1919,7 +1919,7 @@ http://127.0.0.1:8081/nowtvweb.php?id=630
 https://ch76-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="" group-title="港澳台",HOY TV
 https://ch77-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY信息" tvg-name="HOY信息" tvg-logo="" group-title="港澳台",HOY信息
+#EXTINF:-1 tvg-id="HOY资讯" tvg-name="HOY资讯" tvg-logo="" group-title="港澳台",HOY资讯
 https://ch78-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY生活台" tvg-name="HOY生活台" tvg-logo="" group-title="港澳台",HOY生活台
 https://edge.media.seaovers.live/856b503e276cc4912b6c0b42cb01878d/baselive/v2/6TV1VW9W.m3u8
@@ -1988,7 +1988,7 @@ http://127.0.0.1:8081/lotustv1.php?id=lotustv
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1   tvg-id="澳门葡萄牙"   tvg-name=""    tvg-logo=""    group-title="港澳台",澳门葡萄牙
 https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1   tvg-id="澳门信息"   tvg-name=""    tvg-logo=""    group-title="港澳台",澳门信息
+#EXTINF:-1   tvg-id="澳门资讯"   tvg-name=""    tvg-logo=""    group-title="港澳台",澳门资讯
 https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1   tvg-id="澳门体育"   tvg-name="澳门体育"    tvg-logo=""    group-title="港澳台",澳门体育
 https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
@@ -2106,7 +2106,7 @@ http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv062
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv063
 #EXTINF:-1 tvg-id="Nice TV 靖天欢乐台" tvg-name="Nice TV 靖天欢乐台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png" group-title="4gtv",Nice TV 靖天欢乐台
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv054
-#EXTINF:-1 tvg-id="靖天信息台" tvg-name="靖天信息台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png" group-title="4gtv",靖天信息台
+#EXTINF:-1 tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png" group-title="4gtv",靖天资讯台
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv065
 #EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="4gtv",TVBS欢乐台
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv068
@@ -2172,7 +2172,7 @@ http://127.0.0.1:8081/4gtvapp.php?id=litv-ftv09
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live620
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png" group-title="4gtv",八大精彩台
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv034
-#EXTINF:-1 tvg-id="霹雳木偶戏" tvg-name="霹雳木偶戏" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live145_mobile.png" group-title="4gtv",霹雳木偶戏
+#EXTINF:-1 tvg-id="霹雳布袋戏" tvg-name="霹雳布袋戏" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live145_mobile.png" group-title="4gtv",霹雳布袋戏
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live145
 #EXTINF:-1 tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" group-title="4gtv",靖天戏剧台
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv058
@@ -2355,7 +2355,7 @@ http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv103
 
 #EXTINF:-1   tvg-id="4gtv-4gtv152"   tvg-name="东森新闻台"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv152_pc.png"    group-title="litv",东森新闻台
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv152
-#EXTINF:-1   tvg-id="华视新闻信息台"   tvg-name="华视新闻信息台"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_pc.png"    group-title="litv",华视新闻信息台
+#EXTINF:-1   tvg-id="华视新闻资讯台"   tvg-name="华视新闻资讯台"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_pc.png"    group-title="litv",华视新闻资讯台
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv052
 #EXTINF:-1   tvg-id="litv-ftv13"   tvg-name="民视新闻台"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv13_pc.png"    group-title="litv",民视新闻台
 http://127.0.0.1:8081/litvapp.php?id=litv-ftv13
@@ -2446,7 +2446,7 @@ http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv046
 #EXTINF:-1   tvg-id="Nice TV 靖天欢乐台"   tvg-name="Nice TV靖天欢乐台"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv054_pc.png"    group-title="litv",Nice TV靖天欢乐台
 
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv054
-#EXTINF:-1   tvg-id="4gtv-4gtv065"   tvg-name="靖天信息台"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_4gtv-4gtv065_pc.png"    group-title="litv",靖天信息台
+#EXTINF:-1   tvg-id="4gtv-4gtv065"   tvg-name="靖天资讯台"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_4gtv-4gtv065_pc.png"    group-title="litv",靖天资讯台
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv065
 #EXTINF:-1   tvg-id="litv-ftv07"   tvg-name="民视旅游台"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv07_pc.png"    group-title="litv",民视旅游台
 http://127.0.0.1:8081/litvapp.php?id=litv-ftv07
@@ -2886,7 +2886,7 @@ http://127.0.0.1:8081/ofiii.php?id=ofiii254
 http://127.0.0.1:8081/huanlekan1.php?id=67848d4ff034870c4171b7c6
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5a052644f9d70b2167700f95/f326d10cf5932be2515d0c4f49d43b26" group-title="欢乐看测试",凤凰卫视中文台
 http://127.0.0.1:8081/huanlekan1.php?id=5a052644f9d70b2167700f95
-#EXTINF:-1 tvg-id="凤凰卫视信息台 (免费)" tvg-name="凤凰卫视信息台 (免费)" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/543f439f3d32fc7b0e332294/f9d9a55574ddeae16f0675db11ab0fa2" group-title="欢乐看测试",凤凰卫视信息台
+#EXTINF:-1 tvg-id="凤凰卫视资讯台 (免费)" tvg-name="凤凰卫视资讯台 (免费)" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/543f439f3d32fc7b0e332294/f9d9a55574ddeae16f0675db11ab0fa2" group-title="欢乐看测试",凤凰卫视资讯台
 http://127.0.0.1:8081/huanlekan1.php?id=543f439f3d32fc7b0e332294
 #EXTINF:-1 tvg-id="凤凰卫视香港台 (免费)" tvg-name="凤凰卫视香港台 (免费)" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/67f4fb9caee3fc2d7dc8c649/005e0fc6e42a105baa30c18437410ade" group-title="欢乐看测试",凤凰卫视香港台
 http://127.0.0.1:8081/huanlekan1.php?id=67f4fb9caee3fc2d7dc8c649
@@ -2905,7 +2905,7 @@ http://127.0.0.1:8081/huanlekan1.php?id=543f5a6f3d32fc7b0e3322d3
 
 #EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/636c7aeb11f245302f89c0ed/a680e264c4ad5b7230d8751f7f166bab" group-title="欢乐看测试",中视新闻台
 http://127.0.0.1:8081/huanlekan1.php?id=636c7aeb11f245302f89c0ed
-#EXTINF:-1 tvg-id="华视新闻信息台" tvg-name="华视新闻信息台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/634fc92ee6ec875d2697bccf/1e044d7da18b45fcf32f66d10064d6b1" group-title="欢乐看测试",华视新闻信息
+#EXTINF:-1 tvg-id="华视新闻资讯台" tvg-name="华视新闻资讯台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/634fc92ee6ec875d2697bccf/1e044d7da18b45fcf32f66d10064d6b1" group-title="欢乐看测试",华视新闻资讯
 http://127.0.0.1:8081/huanlekan1.php?id=634fc92ee6ec875d2697bccf
 #EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/683579a19cad3e6810072472/d1160c26a552547606dbd1b05fd73a7e" group-title="欢乐看测试",台视新闻台
 http://127.0.0.1:8081/huanlekan1.php?id=683579a19cad3e6810072472
@@ -2948,7 +2948,7 @@ http://127.0.0.1:8081/huanlekan1.php?id=5b39a6e76e6b3b956ef9500b
 http://127.0.0.1:8081/huanlekan1.php?id=5b39a6fa6e6b3b956ef9500c
 #EXTINF:-1 tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5b39a7526e6b3b956ef95010/a2af6dedef9c41ea2b8153c4d4cff7be" group-title="欢乐看测试",靖天育乐台
 http://127.0.0.1:8081/huanlekan1.php?id=5b39a7526e6b3b956ef95010
-#EXTINF:-1 tvg-id="靖天信息台" tvg-name="靖天信息台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5b39a75b6e6b3b956ef95011/47086ec50b271a7af8f8571587fe9556" group-title="欢乐看测试",靖天信息台
+#EXTINF:-1 tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5b39a75b6e6b3b956ef95011/47086ec50b271a7af8f8571587fe9556" group-title="欢乐看测试",靖天资讯台
 http://127.0.0.1:8081/huanlekan1.php?id=5b39a75b6e6b3b956ef95011
 #EXTINF:-1 tvg-id="ETtoday综合台" tvg-name="ETtoday综合台" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5b5559edafd486d41653b196/2a8f563a3b1a8082e42569a25948f083" group-title="欢乐看测试",ETtoday综合台
 http://127.0.0.1:8081/huanlekan1.php?id=5b5559edafd486d41653b196
@@ -3726,7 +3726,7 @@ http://www.kaniptv.cn/aa/四川1.php?id=kbws
 
 #EXTINF:-1   tvg-id="2064"   tvg-name="CDTV1"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png"    group-title="地方",成都新闻综合
 http://127.0.0.1:8081/chengdu.php?id=1
-#EXTINF:-1   tvg-id="2065"   tvg-name="CDTV2"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png"    group-title="地方",成都经济信息
+#EXTINF:-1   tvg-id="2065"   tvg-name="CDTV2"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png"    group-title="地方",成都经济资讯
 http://127.0.0.1:8081/chengdu.php?id=2
 #EXTINF:-1   tvg-id="2066"   tvg-name="CDTV3"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png"    group-title="地方",成都都市生活
 http://127.0.0.1:8081/chengdu.php?id=3
@@ -3738,7 +3738,7 @@ http://127.0.0.1:8081/chengdu.php?id=5
 http://127.0.0.1:8081/chengdu.php?id=6
 #EXTINF:-1   tvg-id="2064"   tvg-name="CDTV1"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png"    group-title="地方",成都新闻综合
 http://127.0.0.1:8081/chengduhd.php?id=1
-#EXTINF:-1   tvg-id="2065"   tvg-name="CDTV2"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png"    group-title="地方",成都经济信息
+#EXTINF:-1   tvg-id="2065"   tvg-name="CDTV2"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png"    group-title="地方",成都经济资讯
 http://127.0.0.1:8081/chengduhd.php?&id=2
 #EXTINF:-1   tvg-id="2066"   tvg-name="CDTV3"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png"    group-title="地方",成都都市生活
 http://127.0.0.1:8081/chengduhd.php?&id=3
@@ -3957,7 +3957,7 @@ http://127.0.0.1:8081/xinjiang.php?id=hazy
 http://127.0.0.1:8081/xinjiang.php?id=wyjj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",新疆汉语体育健康频道
 http://127.0.0.1:8081/xinjiang.php?id=hyty
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",新疆汉语信息服务频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",新疆汉语资讯服务频道
 http://127.0.0.1:8081/xinjiang.php?id=hyxx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",新疆少儿频道
 http://127.0.0.1:8081/xinjiang.php?id=xjse
