@@ -7,7 +7,7 @@ https://play-qukan.cztv.com/live/1758879019692345.m3u8
 https://www.shqsy.com/zgst.php?id=btv4k
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="4K",东方卫视4K
 https://www.shqsy.com/zgst.php?id=sh4k
-#EXTINF:-1 tvg-id="d="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="4K",江苏卫视4K
+#EXTINF:-1 tvg-id="d="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="4K",江苏卫视4K
 https://www.shqsy.com/zgst.php?id=js4k
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="4K",  视浙江卫视4K
 https://www.shqsy.com/zgst.php?id=zj4k
@@ -40,7 +40,7 @@ http://127.0.0.1/zgst.php?id=sh4k
 #EXTINF:-1 tvg-i#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-Origin=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTINF:-1 tvg-id="d="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="4K",江苏卫视4K
+#EXTINF:-1 tvg-id="d="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="4K",江苏卫视4K
 http://127.0.0.1/zgst.php?id=js4k
 
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn/
