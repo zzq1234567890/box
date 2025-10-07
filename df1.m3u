@@ -2,17 +2,17 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper", TVB Vietnam(越南台)
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",  娱乐新闻台(北美)
+#EXTINF:-1 tvg-id="TVB翡翠娛樂臺(TVBe)" tvg-name="TVB翡翠娛樂臺(TVBe)" tvg-logo="" group-title="mytvsuper",娱乐新闻台(北美)
 https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbe-tvbanywhereus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper", 无线新闻台(北美)
+#EXTINF:-1 tvg-id="TVB無綫新聞臺(TVB News)" tvg-name="TVB無綫新聞臺(TVB News) " tvg-logo="" group-title="mytvsuper",TVB無綫新聞台(TVB News)
 https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",  明珠剧集台(北美)
+#EXTINF:-1 tvg-id="TVB明珠劇集臺(TVB Pearl Drama)" tvg-name="TVB明珠劇集臺(TVB Pearl Drama)" tvg-logo="" group-title="mytvsuper",  明珠剧集台(北美)
 https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbpearldrama-tvbanywhereus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper", 翡翠剧集台(北美)
+#EXTINF:-1 tvg-id="TVB翡翠劇集台(TVB Drama)" tvg-name="TVB翡翠劇集台(TVB Drama)" tvg-logo="" group-title="mytvsuper", 翡翠剧集台(北美)
 https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper", 翡翠台(北美)
+#EXTINF:-1 tvg-id="翡翠一臺(TVB1)" tvg-name="翡翠一臺(TVB1)" tvg-logo="" group-title="mytvsuper", 翡翠台(北美)
 https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvb1-tvbanywhereus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper", 翡翠综合台(北美)
+#EXTINF:-1 tvg-id="TVB翡翠綜合臺(TVBJ1)" tvg-name="TVB翡翠綜合臺(TVBJ1)" tvg-logo="" group-title="mytvsuper", 翡翠综合台(北美)
 https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbj1-tvbanywhereus/playlist.m3u8
 
  
