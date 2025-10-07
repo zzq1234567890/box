@@ -2026,7 +2026,7 @@ http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live207
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv043
 #EXTINF:-1 tvg-id="八大綜藝臺" tvg-name="八大綜藝臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="4gtv",八大綜藝臺
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv039
-#EXTINF:-1 tvg-id="中視菁采臺" tvg-name="中視菁采臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv064_mobile.png" group-title="4gtv",中視菁采臺
+#EXTINF:-1 tvg-id="中視菁採臺" tvg-name="中視菁採臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv064_mobile.png" group-title="4gtv",中視菁采臺
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv064
 #EXTINF:-1 tvg-id="TVBS精采臺" tvg-name="TVBS精采臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="4gtv",TVBS精采臺
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv067
@@ -2038,7 +2038,7 @@ http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv046
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv047
 #EXTINF:-1 tvg-id="新唐人亞太臺" tvg-name="新唐人亞太臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live050_mobile.png" group-title="4gtv",新唐人亞太臺
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live050
-#EXTINF:-1 tvg-id="ARIRANG阿裡郎頻道" tvg-name="ARIRANG阿裡郎頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv079_1_mobile.png" group-title="4gtv",ARIRANG阿裡郎頻道
+#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv079_1_mobile.png" group-title="4gtv",ARIRANG阿裡郎頻道
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv079
 #EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live112_mobile.png" group-title="4gtv",Global Trekker
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live112
@@ -2188,7 +2188,7 @@ http://127.0.0.1:8081/4gtvapp.php?id=litv-ftv15
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live144
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="4gtv",ROCK Action
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live138
-#EXTINF:-1 tvg-id="采昌影劇臺" tvg-name="采昌影劇臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="4gtv",采昌影劇臺
+#EXTINF:-1 tvg-id="採昌影劇臺" tvg-name="採昌影劇臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="4gtv",采昌影劇臺
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv049
 #EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="4gtv",靖天映畫
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv055
@@ -2361,7 +2361,7 @@ http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv052
 http://127.0.0.1:8081/litvapp.php?id=litv-ftv13
 #EXTINF:-1   tvg-id="三立iNEWS"   tvg-name="三立iNEWS"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_pc.png"    group-title="litv",三立iNEWS
 http://127.0.0.1:8081/litvapp.php?id=iNEWS
-#EXTINF:-1   tvg-id="TVBS新聞臺"   tvg-name="TVBS新聞臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv072_pc.png"    group-title="litv",TVBS新聞臺
+#EXTINF:-1   tvg-id="TVBS新聞"   tvg-name="TVBS新聞"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv072_pc.png"    group-title="litv",TVBS新聞臺
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv072
 #EXTINF:-1   tvg-id="4gtv-4gtv073"   tvg-name="TVBS"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv073_pc.png"    group-title="litv",TVBS
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv073
@@ -2402,7 +2402,7 @@ http://127.0.0.1:8081/litvapp.php?id=litv-longturn06
 http://127.0.0.1:8081/litvapp.php?id=litv-longturn07
 #EXTINF:-1   tvg-id="litv-longturn10"   tvg-name="博斯無限臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn10_pc.png"    group-title="litv",博斯無限臺
 http://127.0.0.1:8081/litvapp.php?id=litv-longturn10
-#EXTINF:-1   tvg-id="litv-longturn09"   tvg-name="博斯網球臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn09_pc.png"    group-title="litv",博斯網球臺
+#EXTINF:-1   tvg-id="博斯網球"   tvg-name="博斯網球"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn09_pc.png"    group-title="litv",博斯網球臺
 http://127.0.0.1:8081/litvapp.php?id=litv-longturn09
 #EXTINF:-1   tvg-id="litv-longturn08"   tvg-name="博斯運動二臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn08_pc.png"    group-title="litv",博斯運動二臺
 http://127.0.0.1:8081/litvapp.php?id=litv-longturn08
@@ -2934,7 +2934,7 @@ http://127.0.0.1:8081/huanlekan1.php?id=670347edf034870c416e42d5
 http://127.0.0.1:8081/huanlekan1.php?id=68357a099cad3e6810072473
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/6596205bf41b5f25513983e3/fb550b84dc6031ff9520a35c77276fd4" group-title="歡樂看測試",中視
 http://127.0.0.1:8081/huanlekan1.php?id=6596205bf41b5f25513983e3
-#EXTINF:-1 tvg-id="中視菁采臺" tvg-name="中視菁采臺" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/659620b6f41b5f25513983e4/71484132845f9f63359bd744ec2501f5" group-title="歡樂看測試",中視菁采臺
+#EXTINF:-1 tvg-id="中視菁採臺MOD" tvg-name="中視菁採臺MOD" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/659620b6f41b5f25513983e4/71484132845f9f63359bd744ec2501f5" group-title="歡樂看測試",中視菁采臺
 http://127.0.0.1:8081/huanlekan1.php?id=659620b6f41b5f25513983e4
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/658e4e01f41b5f2551394aff/5bb509915c4e02f02e49fa101635490a" group-title="歡樂看測試",華視
 http://127.0.0.1:8081/huanlekan1.php?id=658e4e01f41b5f2551394aff
@@ -3241,8 +3241,7 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
 #EXTINF:-1   tvg-id=" "   tvg-name=""    tvg-logo=""    group-title="韓國",CJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1   tvg-id=" "   tvg-name=""    tvg-logo=""    group-title="韩国",CTS기독교TV
-https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index_2.m3u8
+
 #EXTINF:-1   tvg-id=" "   tvg-name=""    tvg-logo=""    group-title="韓國",KBC
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1   tvg-id=" "   tvg-name=""    tvg-logo=""    group-title="韓國",MBN
