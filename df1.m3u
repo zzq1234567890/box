@@ -433,12 +433,18 @@ https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Action_
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+
 #KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",mbc max
 #https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC_Max_HD/DASH/MBC_Max_HD.mpd
 https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://int-wv.tvb.com/wvproxy/clicense?contentid=ott_I-AACT_h264
+#EXTVLCOPT:http-user-agent=okhttp/4.9.2
+#EXTINF:-1 tvg-id="TVB功夫臺 " tvg-name="TVB功夫臺" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper",TVB功夫臺
+https://sg02-live-cfd.tvbanywhere.com.sg/__cl/slocalr34/__c/ott_I-AACT_h264/__op/cenci/__f/index.mpd|Cookie="CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovLyovX19jbC9zbG9jYWxyMzQvX19jL290dF9JLUFBQ1RfaDI2NC9fX29wL2NlbmNpL19fZi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzMxNzUwMjk0fX19XX0_;CloudFront-Signature=HhcQEsKBS9q6bKWyGgAEMMbHzUlJcaIc3gEEJ~cLjcSP73pKra8A69-IF4AjyWJ8Ybpo9O3MetmJzJfemxp0nEywtsX4-yGnetJmfi7u5i5mQN3vV~mZkGnAP9Z7KE7yclo~pbZUwgXHq~b96wYMUM9VI4w8PItGTmgiw6bpvgkRaEUR4~d0rOkitaqTDVgIF2nM1CtLqkpO8u6uAVWtcm9jmAKzbLUdwRIGxFcqASxbzjJLdQ~9xeLqdkrZTx3xCDWl2t~aQet0lMHZlD7cPkzG3-ZHFF4DnWCjG24U~sZaaY4aiedUXPv-VgzMw1taLg-uB-V5Czcg9nLCf-4BhQ__;CloudFront-Key-Pair-Id=APKAI57VHQVD6DKGLGMQ"
 
 #EXTINF:-1 tvg-id="翡翠臺(國際版)" tvg-name="翡翠臺(國際版)" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper",翡翠臺(國際版)
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
