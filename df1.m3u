@@ -300,28 +300,32 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5deb190b1dac28e46c0bdada7668b7de:ddd2b372702e42b0d2708a70b91dec8d
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/kav10mdj91/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
 
 #EXTINF:-1 group-title="mytvsuper" tvg-id="tnt200a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+#KODIPROP:inputstream.adaptive.license_key=0d9efa8287a52a2497a281f7a9012211:e4f832d372943014fe5c30928a90e547
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+https://a205aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/irplqtcjlv/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 group-title="mytvsuper" tvg-id="tnt300a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=08efc7fb107981608f7b64db5ea62469:3a6844bc9f0d9d9fd962639d7e4eb76a
+#https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 #EXTINF:-1 group-title="mytvsuper" tvg-id="tnt400aa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5ccdccf0818d3d9ff6c26076fc1153ac:f8d7fda7e3f11a29b346a37e98f749d4
+#https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rMqyf0w/wwe.png" group-title="mytvsuper",WWE Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
