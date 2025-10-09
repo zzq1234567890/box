@@ -2465,7 +2465,7 @@ http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv013
 
 #EXTINF:-1   tvg-id="4gtv-4gtv034"   tvg-name="八大精彩臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv034_pc.png"    group-title="litv",八大精彩臺
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv034
-#EXTINF:-1   tvg-id="4gtv-4gtv049"   tvg-name="采昌影劇臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv049_pc.png"    group-title="litv",采昌影劇臺
+#EXTINF:-1   tvg-id="採昌影劇臺"   tvg-name="採昌影劇臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv049_pc.png"    group-title="litv",采昌影劇臺
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv049
 #EXTINF:-1   tvg-id="4gtv-4gtv058"   tvg-name="靖天戲劇臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv058_pc.png"    group-title="litv",靖天戲劇臺
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv058
@@ -2490,7 +2490,7 @@ http://127.0.0.1:8081/litvapp.php?id=litv-ftv07
 http://127.0.0.1:8081/litvapp.php?id=litv-longturn19
 #EXTINF:-1   tvg-id="4gtv-4gtv070"   tvg-name="愛爾達娛樂臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv070_pc.png"    group-title="litv",愛爾達娛樂臺
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv070
-#EXTINF:-1   tvg-id="4gtv-4gtv064"   tvg-name="中視菁采臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv064_pc.png"    group-title="litv",中視菁采臺
+#EXTINF:-1   tvg-id="中視菁採臺"   tvg-name="中視菁採臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv064_pc.png"    group-title="litv",中視菁采臺
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv064
 #EXTINF:-1   tvg-id="4gtv-4gtv080"   tvg-name="中視經典臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv080_pc.png"    group-title="litv",中視經典臺
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv080
