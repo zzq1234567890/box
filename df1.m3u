@@ -45,7 +45,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTVLCOPT:http-Origin=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:-1 tvg-id="北京衛視" tvg-name="北京衛視" tvg-logo="https://epg.v1.mk/logo/北京衛視.png" group-title="4K",北京衛視4K
-http://127.0.0.1/zgst.php?id=btv4k
+http://127.0.0.1:8081/zgst.php?id=btv4k
 
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-Origin=https://api.chinaaudiovisual.cn/
@@ -57,13 +57,13 @@ http://127.0.0.1/zgst.php?id=sh4k
 #EXTVLCOPT:http-Origin=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:-1 tvg-id="d="江蘇衛視" tvg-name="江蘇衛視" tvg-logo="https://epg.v1.mk/logo/江蘇衛視.png" group-title="4K",江蘇衛視4K
-http://127.0.0.1/zgst.php?id=js4k
+http://127.0.0.1:8081/zgst.php?id=js4k
 
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-Origin=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:-1 tvg-id="浙江衛視" tvg-name="浙江衛視" tvg-logo="https://epg.v1.mk/logo/浙江衛視.png" group-title="4K",  視浙江衛視4K
-http://127.0.0.1/zgst.php?id=zj4k
+http://127.0.0.1:8081/zgst.php?id=zj4k
 
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-Origin=https://api.chinaaudiovisual.cn/
@@ -75,25 +75,25 @@ http://127.0.0.1/zgst.php?id=sd4k
 #EXTVLCOPT:http-Origin=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:-1 tvg-id="湖南衛視" tvg-name="湖南衛視" tvg-logo="https://epg.v1.mk/logo/湖南衛視.png" group-title="4K",湖南衛視4K
-http://127.0.0.1/zgst.php?id=hn4k
+http://127.0.0.1:8081/zgst.php?id=hn4k
 
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-Origin=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:-1 tvg-id="廣東衛視" tvg-name="廣東衛視" tvg-logo="https://epg.v1.mk/logo/廣東衛視.png" group-title="4K",廣東衛視4K
-http://127.0.0.1/zgst.php?id=gd4k
+http://127.0.0.1:8081/zgst.php?id=gd4k
 
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-Origin=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:-1 tvg-id="四川衛視" tvg-name="四川衛視" tvg-logo="https://epg.v1.mk/logo/四川衛視.png" group-title="4K",四川衛視4K
-http://127.0.0.1/zgst.php?id=sc4k
+http://127.0.0.1:8081/zgst.php?id=sc4k
 
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-Origin=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:-1 tvg-id="深圳衛視" tvg-name="深圳衛視" tvg-logo="https://epg.v1.mk/logo/深圳衛視.png" group-title="4K",深圳衛視4K
-http://127.0.0.1/zgst.php?id=sz4k
+http://127.0.0.1:8081/zgst.php?id=sz4k
 
 
 
