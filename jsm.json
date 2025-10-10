@@ -2784,16 +2784,16 @@
       "type": 0,
       "playerType": 2,
       "url": "https://fy.188766.xyz/?ip=&mishitong=true&mima=mianfeidehaimaiqian&json=true",
-      "ua": "bingcha/1.1 (mianfeifenxiang) "
-  "headers": [
-    {
-      "host": "hlsztemgsplive.miguvideo.com",
-      "header": {
-        "User-Agent": "bingcha/1.1 (mianfeifenxiang) "
-               }
-    }
-  ]
-},
+      "ua": "bingcha/1.1 (mianfeifenxiang) ",
+       "headers": [
+         {
+           "host": "hlsztemgsplive.miguvideo.com",
+           "header": {
+                  "User-Agent": "bingcha/1.1 (mianfeifenxiang) "
+                     }
+         }
+                     ]
+        },
        
         {
             "name": "yang1989",
