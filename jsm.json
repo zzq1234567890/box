@@ -2813,14 +2813,8 @@
             "epg": "http://epg.iill.top/epg.xml.gz",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },  
-		{
-            "name": "茶大陆台",
-            "ua": "okhttp",
-            "playerType": 2,
-            "url": "https://fy.188766.xyz/?ip=&haiwai=true",
-            "epg": "https://fy.188766.xyz/e.xml",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+		
+    
 
 		
         {
