@@ -2779,7 +2779,21 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
 	
-       
+       {
+      "name": "冰茶",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://fy.188766.xyz/?ip=&mishitong=true&mima=mianfeidehaimaiqian&json=true",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+  "headers": [
+    {
+      "host": "hlsztemgsplive.miguvideo.com",
+      "header": {
+        "User-Agent": "bingcha/1.1 (mianfeifenxiang) "
+      }
+    }
+  ]
+},
        
         {
             "name": "yang1989",
@@ -3220,7 +3234,12 @@
                 "uhibo.com",
                 ".*boku.*",
                 ".*nivod.*",
-                "*.t4tv.hz.cz",
+                "*.t4tv.hz.cz","hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
+    "push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com",
+    "cdn9.163189.xyz=gcore.jsdelivr.net",
+    "cache.ott.fifalive.itv.cmvideo.cn=cache.ott.fifalive.itv.cmvideo.cn.e.cdn.chinamobile.com",
+    "studentlive.migucloud.com=base-v4v6-miguvideo.e.cdn.chinamobile.com",
+				
                 ".*ulivetv.*"
             ]
         },
