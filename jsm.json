@@ -2817,9 +2817,8 @@
             "name": "茶大陆台",
             "ua": "okhttp",
             "playerType": 2,
-			"epg": "https://fy.188766.xyz/e.xml",
             "url": "https://fy.188766.xyz/?ip=&haiwai=true",
-            "epg": "http://epg.iill.top/epg.xml",
+            "epg": "https://fy.188766.xyz/e.xml",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
 
