@@ -2818,7 +2818,7 @@
             "ua": "okhttp",
             "playerType": 2,
 			"epg": "https://fy.188766.xyz/e.xml",
-			
+			"x-tvg-url":""https://fy.188766.xyz/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"",
             "url": "https://fy.188766.xyz/?ip=&haiwai=true",
             "epg": "http://epg.iill.top/epg.xml",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
