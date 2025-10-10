@@ -2736,7 +2736,8 @@
              "api": "csp_MQiTV",
              "jar": "./fm.jar",
 		     "playerType": 2,
-	         "url":"https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml",
+	
+	         "epg":"https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml",
              "ext": [
 
 			   {
