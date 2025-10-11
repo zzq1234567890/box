@@ -1183,7 +1183,7 @@ http://127.0.0.1:8081/cctvnewsweb.php?id=cctv10&q=lg
 #EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="中文新聞",cctv12
 http://127.0.0.1:8081/cctvnewsweb.php?id=cctv12&q=lg 
 #EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="中文新聞",cctv13
-http://127.0.0.1:8081/cctvnewsweb.php?id=cctv31&q=lg 
+http://127.0.0.1:8081/cctvnewsweb.php?id=cctv13&q=lg 
 #EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="中文新聞",cctv17
 http://127.0.0.1:8081/cctvnewsweb.php?id=cctv17&q=lg 
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="中文新聞",cctv4k
