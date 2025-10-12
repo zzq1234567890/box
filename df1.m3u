@@ -3446,7 +3446,7 @@ http://127.0.0.1:8081/shanghai1.php?id=xwzh
 http://127.0.0.1:8081/shanghai1.php?id=hhxd
 #EXTINF:-1   tvg-id="都市頻道"   tvg-name="都市頻道"    tvg-logo="https://assets.livednow.com/logo/上海都市.png"     group-title="地方",上海都市
 http://127.0.0.1:8081/shanghai1.php?id=ds
-#EXTINF:-1   tvg-id="上海第一財經"   tvg-name="上海第一財經"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="地方",第一財經
+#EXTINF:-1   tvg-id="第一財經"   tvg-name="第一財經"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="地方",第一財經
 http://127.0.0.1:8081/shanghai1.php?id=dycj
 #EXTINF:-1   tvg-id="紀實人文"   tvg-name="紀實人文"    tvg-logo="https://epg.v1.mk/logo/紀實人文.png"    group-title="地方",上海新紀實
 http://127.0.0.1:8081/shanghai1.php?id=xjs
@@ -3467,7 +3467,7 @@ http://127.0.0.1:8081/shanghai.php?id=xwzh
 http://127.0.0.1:8081/shanghai.php?id=hhxd
 #EXTINF:-1   tvg-id="都市頻道"   tvg-name="都市頻道"    tvg-logo="https://assets.livednow.com/logo/上海都市.png"     group-title="地方",上海都市
 http://127.0.0.1:8081/shanghai.php?id=dspd
-#EXTINF:-1   tvg-id="上海第一財經"   tvg-name="上海第一財經"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="地方",第一財經
+#EXTINF:-1   tvg-id="第一財經"   tvg-name="第一財經"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="地方",第一財經
 http://127.0.0.1:8081/shanghai.php?id=dycj
 #EXTINF:-1   tvg-id="紀實人文"   tvg-name="紀實人文"    tvg-logo="https://epg.v1.mk/logo/紀實人文.png"    group-title="地方",上海新紀實
 http://127.0.0.1:8081/shanghai.php?id=jsrw
