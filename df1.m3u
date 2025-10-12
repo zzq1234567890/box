@@ -1214,7 +1214,7 @@ http://127.0.0.1:8081/douyin.php?id=129460641471
 
 
 
-#EXTINF:-1   tvg-id="上海第一財經"   tvg-name="上海第一財經"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="中文新聞",第一財經
+#EXTINF:-1   tvg-id="第一財經"   tvg-name="第一財經"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="中文新聞",第一財經
 http://127.0.0.1:8081/diyicaijing.php
 #EXTINF:-1   tvg-id="上海第一財經"   tvg-name="上海第一財經"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="中文新聞",第一財經
 http://127.0.0.1:8081/diyicaijing1.php
