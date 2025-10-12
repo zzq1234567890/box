@@ -1155,9 +1155,9 @@ http://127.0.0.1:8081/douyin.php?id=129460641471
 
 
 
-#EXTINF:-1   tvg-id="上海第一财经"   tvg-name="上海第一财经"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="中文新闻",第一财经
+#EXTINF:-1   tvg-id="第一财经"   tvg-name="第一财经"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="中文新闻",第一财经
 http://127.0.0.1:8081/diyicaijing.php
-#EXTINF:-1   tvg-id="上海第一财经"   tvg-name="上海第一财经"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="中文新闻",第一财经
+#EXTINF:-1   tvg-id="第一财经"   tvg-name="第一财经"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="中文新闻",第一财经
 http://127.0.0.1:8081/diyicaijing1.php
 
 
@@ -3388,7 +3388,7 @@ http://127.0.0.1:8081/shanghai1.php?id=xwzh
 http://127.0.0.1:8081/shanghai1.php?id=hhxd
 #EXTINF:-1   tvg-id="都市频道"   tvg-name="都市频道"    tvg-logo="https://assets.livednow.com/logo/上海都市.png"     group-title="地方",上海都市
 http://127.0.0.1:8081/shanghai1.php?id=ds
-#EXTINF:-1   tvg-id="上海第一财经"   tvg-name="上海第一财经"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="地方",第一财经
+#EXTINF:-1   tvg-id="第一财经"   tvg-name="第一财经"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="地方",第一财经
 http://127.0.0.1:8081/shanghai1.php?id=dycj
 #EXTINF:-1   tvg-id="纪实人文"   tvg-name="纪实人文"    tvg-logo="https://epg.v1.mk/logo/纪实人文.png"    group-title="地方",上海新纪实
 http://127.0.0.1:8081/shanghai1.php?id=xjs
@@ -3409,7 +3409,7 @@ http://127.0.0.1:8081/shanghai.php?id=xwzh
 http://127.0.0.1:8081/shanghai.php?id=hhxd
 #EXTINF:-1   tvg-id="都市频道"   tvg-name="都市频道"    tvg-logo="https://assets.livednow.com/logo/上海都市.png"     group-title="地方",上海都市
 http://127.0.0.1:8081/shanghai.php?id=dspd
-#EXTINF:-1   tvg-id="上海第一财经"   tvg-name="上海第一财经"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="地方",第一财经
+#EXTINF:-1   tvg-id="第一财经"   tvg-name="第一财经"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="地方",第一财经
 http://127.0.0.1:8081/shanghai.php?id=dycj
 #EXTINF:-1   tvg-id="纪实人文"   tvg-name="纪实人文"    tvg-logo="https://epg.v1.mk/logo/纪实人文.png"    group-title="地方",上海新纪实
 http://127.0.0.1:8081/shanghai.php?id=jsrw
