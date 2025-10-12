@@ -3489,13 +3489,13 @@ http://127.0.0.1:8081/qinghuatv.php
 http://127.0.0.1:8081/btimeapp.php?id=bjwsuhd
 #EXTINF:-1   tvg-id="北京衛視"   tvg-name="北京衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"    group-title="地方",北京衛視
 http://127.0.0.1:8081/btimeapp.php?id=bjws
-#EXTINF:-1   tvg-id="北京紀實"   tvg-name="北京紀實"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"    group-title="地方",北京紀實科教
+#EXTINF:-1   tvg-id="紀實科教"   tvg-name="紀實科教"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"    group-title="地方",北京紀實科教
 http://127.0.0.1:8081/btimeapp.php?id=bjjskj
 #EXTINF:-1   tvg-id="BTV影視"   tvg-name="BTV影視"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影視.png"    group-title="地方",北京影視
 http://127.0.0.1:8081/btimeapp.php?id=bjys
 #EXTINF:-1   tvg-id="BTV財經"   tvg-name="BTV財經"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV財經.png"    group-title="地方",北京財經
 http://127.0.0.1:8081/btimeapp.php?id=bjcj
-#EXTINF:-1      tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文藝.png" tvg-id="BTV文藝"   tvg-name="BTV文藝"    group-title="地方",BTV文藝
+#EXTINF:-1      tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文藝.png" tvg-id="北京文藝藝"   tvg-name="北京文藝"    group-title="地方",BTV文藝
 http://127.0.0.1:8081/btimeapp.php?id=bjwy
 #EXTINF:-1   tvg-id="BTV生活"   tvg-name="BTV生活"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png"    group-title="地方",北京生活
 http://127.0.0.1:8081/btimeapp.php?id=bjsh
@@ -3510,13 +3510,13 @@ http://127.0.0.1:8081/btimeapp.php?id=bjkk
 http://127.0.0.1:8081/beijingapp.php?id=bjwsuhd
 #EXTINF:-1   tvg-id="北京衛視"   tvg-name="北京衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"    group-title="地方",北京衛視
 http://127.0.0.1:8081/beijingapp.php?id=bjws
-#EXTINF:-1   tvg-id="北京紀實"   tvg-name="北京紀實"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"    group-title="地方",北京紀實科教
+#EXTINF:-1   tvg-id="紀實科教"   tvg-name="紀實科教"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"    group-title="地方",北京紀實科教
 http://127.0.0.1:8081/beijingapp.php?id=bjjskj
 #EXTINF:-1   tvg-id="BTV影視"   tvg-name="BTV影視"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影視.png"    group-title="地方",北京影視
 http://127.0.0.1:8081/beijingapp.php?id=bjys
 #EXTINF:-1   tvg-id="BTV財經"   tvg-name="BTV財經"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV財經.png"    group-title="地方",北京財經
 http://127.0.0.1:8081/beijingapp.php?id=bjcj
-#EXTINF:-1      tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文藝.png" tvg-id="BTV文藝"   tvg-name="BTV文藝"    group-title="地方",BTV文藝
+#EXTINF:-1      tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文藝.png" tvg-id="北京文藝"   tvg-name="北京文藝"    group-title="地方",BTV文藝
 http://127.0.0.1:8081/beijingapp.php?id=bjwy
 #EXTINF:-1   tvg-id="BTV生活"   tvg-name="BTV生活"    tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png"    group-title="地方",北京生活
 http://127.0.0.1:8081/beijingapp.php?id=bjsh
