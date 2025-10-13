@@ -211,7 +211,7 @@
 	"type":3,
 	##"api":"csp_NewCzGuard",
 	"api": "./py/厂长资源.py",
-	###"jar": "https://coss.yupoo.com/upchat/2025-09-27/1758984174322.jpg;md5;cba66f046cc8da91e888605c155828a3", 
+	"jar": "https://coss.yupoo.com/upchat/2025-09-27/1758984174322.jpg;md5;cba66f046cc8da91e888605c155828a3", 
 	"timeout":15,
 	"playerType":2,
 	"searchable":1,
