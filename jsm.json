@@ -2749,7 +2749,14 @@
                  ]
         },
 	
-	
+	{
+            "name": "不知道谁的4gtv",
+            "type": 3,
+            ###"api": "./py/live_beesport.py",
+            "url": "http://220.132.15.209:5008/?type=m3u",
+		    "epg":"https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+         }, 
         {
             "name": "mytv-yang1989",
             "type": 3,
