@@ -14,7 +14,7 @@
 			"type_name":"紀錄片"
 		},
 		{
-			"type_id":"LIST:動漫,一号动漫社 Animation Club,蒼穹動漫社Animation Club,斗破动漫社 Animation,腾讯动漫,爱奇艺动漫,优酷动漫,芒果动漫,Ani-Mi動漫迷動畫頻道,3D国漫工厂,阅文动漫,卡通狂欢嘉会",
+			"type_id":"LIST:動漫,腾讯视频 - 动漫,一号动漫社 Animation Club,蒼穹動漫社Animation Club,斗破动漫社 Animation,腾讯动漫,爱奇艺动漫,优酷动漫,芒果动漫,Ani-Mi動漫迷動畫頻道,3D国漫工厂,阅文动漫,卡通狂欢嘉会",
 			"type_name":"動漫"
 		},
 		{
@@ -673,7 +673,7 @@
 				"name":"中文",
 				"value":[
 					{"n":"默認","v":""},
-                                                                                        {"n":"一号动漫社 Animation Club","v":"@animationclub-gq5vr  一号动漫社 Animation Club"},
+                    {"n":"腾讯视频 - 动漫","v":"@TencentVideoAnimation  腾讯视频 - 动漫"},                                                                    {"n":"一号动漫社 Animation Club","v":"@animationclub-gq5vr  一号动漫社 Animation Club"},
 					{"n":"蒼穹動漫社Animation Club","v":"@animationclub3747  蒼穹動漫社Animation Club"},
 					{"n":"斗破动漫社 Animation","v":" @doupo   斗破动漫社 Animation"},
 					{"n":"卡通狂欢嘉会","v":"@CartoonGala-r8  卡通狂欢嘉会"},
