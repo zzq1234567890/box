@@ -3565,9 +3565,9 @@ http://127.0.0.1:8081/jiangsu1.php?id=jscs
 http://127.0.0.1:8081/jiangsu1.php?id=jszy
 #EXTINF:-1   tvg-id="江苏影视频道"   tvg-name="江苏影视频道"    tvg-logo=""    group-title="地方",江苏影视
 http://127.0.0.1:8081/jiangsu1.php?id=jsys
-#EXTINF:-1   tvg-id="江苏新闻频道"   tvg-name="江苏新闻频道"    tvg-logo=""    group-title="地方",江苏新闻
+#EXTINF:-1   tvg-id="江苏公共新闻频道"   tvg-name="江苏公共新闻频道"    tvg-logo=""    group-title="地方",江苏新闻
 http://127.0.0.1:8081/jiangsu1.php?id=jsxw
- #EXTINF:-1   tvg-id="江苏体育休闲频道"   tvg-name="江苏体育休闲频道"    tvg-logo=""    group-title="地方",江苏体育
+ #EXTINF:-1   tvg-id="江苏体育休闲频道"   tvg-name="江苏体育休闲频道"    tvg-logo=""    group-title="地方",江苏体育休闲频道
 http://127.0.0.1:8081/jiangsu1.php?id=jsty
 #EXTINF:-1   tvg-id="江苏优漫卡通频道"   tvg-name="江苏优漫卡通频道"    tvg-logo=""    group-title="地方",优漫卡通
 http://127.0.0.1:8081/jiangsu1.php?id=ymkt
