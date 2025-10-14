@@ -3629,7 +3629,7 @@ http://127.0.0.1:8081/jiangsu1.php?id=jscs
 http://127.0.0.1:8081/jiangsu1.php?id=jszy
 #EXTINF:-1   tvg-id="江蘇影視頻道"   tvg-name="江蘇影視頻道"    tvg-logo=""    group-title="地方",江蘇影視
 http://127.0.0.1:8081/jiangsu1.php?id=jsys
-#EXTINF:-1   tvg-id="江蘇新聞頻道"   tvg-name="江蘇新聞頻道"    tvg-logo=""    group-title="地方",江蘇新聞
+#EXTINF:-1   tvg-id="江蘇公共新聞頻道"   tvg-name="江蘇公共新聞頻道"    tvg-logo=""    group-title="地方",江蘇公共新聞頻道
 http://127.0.0.1:8081/jiangsu1.php?id=jsxw
  #EXTINF:-1   tvg-id="江蘇體育休閒頻道"   tvg-name="江蘇體育休閒頻道"    tvg-logo=""    group-title="地方",江蘇體育
 http://127.0.0.1:8081/jiangsu1.php?id=jsty
