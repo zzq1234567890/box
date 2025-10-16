@@ -1,4 +1,65 @@
 #EXTM3U url-tvg="https://epg.iill.top/epg.xml.gz,https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/twepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-logo="https://b-img.movetv.com/1280x720/348c695fb5517f0497c8f6359ae2ebe3.png" group-title="SLING" group-logo="https://download.logo.wine/logo/Sling_TV/Sling_TV-Logo.wine.png", 123 GO!
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-ziu4j1o2ic.bunny.run/license?id=4890d3ebbb86428f9c879f838c181d86
+https://mc-ziu4j1o2ic.bunny.run/channel/4890d3ebbb86428f9c879f838c181d86/master.mpd
+
+#EXTINF:-1 tvg-logo="https://p-img.movetv.com/1280x720/6ae65dbfab2494c3bf3c85ac597d2820.png" group-title="SLING" group-logo="https://download.logo.wine/logo/Sling_TV/Sling_TV-Logo.wine.png", 21 Jump Street
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-ziu4j1o2ic.bunny.run/license?id=b942979b6756473ebb35b015ebe25449
+https://mc-ziu4j1o2ic.bunny.run/channel/b942979b6756473ebb35b015ebe25449/master.mpd
+
+#EXTINF:-1 tvg-logo="https://p-img.movetv.com/images/0913e3f00cc331067a9387ad60d920f3bfaca064" group-title="SLING" group-logo="https://download.logo.wine/logo/Sling_TV/Sling_TV-Logo.wine.png", 40 y 20
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-ziu4j1o2ic.bunny.run/license?id=634a8db32f7046bc93835e3ecece7f8f
+https://mc-ziu4j1o2ic.bunny.run/channel/634a8db32f7046bc93835e3ecece7f8f/master.mpd
+
+#EXTINF:-1 tvg-logo="https://b-img.movetv.com/1280x720/5b26f55ce0d07cd2b9caa7afe540aaab.png" group-title="SLING" group-logo="https://download.logo.wine/logo/Sling_TV/Sling_TV-Logo.wine.png", 4UV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-ziu4j1o2ic.bunny.run/license?id=edb1a0eb5a8d4612a8b7f0eddb1ef3e5
+https://mc-ziu4j1o2ic.bunny.run/channel/edb1a0eb5a8d4612a8b7f0eddb1ef3e5/master.mpd
+
+#EXTINF:-1 tvg-logo="https://b-img.movetv.com/1280x720/b1f08371f9106d35100ebc207562f9a7.png" group-title="SLING" group-logo="https://download.logo.wine/logo/Sling_TV/Sling_TV-Logo.wine.png", 5-Minute Crafts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-ziu4j1o2ic.bunny.run/license?id=a751d39ca8d348da96115991e5c85d21
+https://mc-ziu4j1o2ic.bunny.run/channel/a751d39ca8d348da96115991e5c85d21/master.mpd
+
+#EXTINF:-1 tvg-logo="https://p-img.movetv.com/1280x720/be7cde703ea373f8da10e70c8052707e.png" group-title="SLING" group-logo="https://download.logo.wine/logo/Sling_TV/Sling_TV-Logo.wine.png", 50 Cent Action
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-ziu4j1o2ic.bunny.run/license?id=56667fa587b04ee3a752d4066f389ab0
+https://mc-ziu4j1o2ic.bunny.run/channel/56667fa587b04ee3a752d4066f389ab0/master.mpd
+
+#EXTINF:-1 tvg-logo="https://b-img.movetv.com/1280x720/e094d5ea7af6e9ab63e51bcca7c1081e.png" group-title="SLING" group-logo="https://download.logo.wine/logo/Sling_TV/Sling_TV-Logo.wine.png", A Touch of Frost
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-ziu4j1o2ic.bunny.run/license?id=b61d03609ad74458901cca9dc0c0352b
+https://mc-ziu4j1o2ic.bunny.run/channel/b61d03609ad74458901cca9dc0c0352b/master.mpd
+
+#EXTINF:-1 tvg-logo="https://p-img.movetv.com/1280x720/c54faf17f6b08fe4d95da9d277a255c2.png" group-title="SLING" group-logo="https://download.logo.wine/logo/Sling_TV/Sling_TV-Logo.wine.png", A Wealth of Entertainment
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-ziu4j1o2ic.bunny.run/license?id=aaff7a9e60274e07a7737e8983e486bf
+https://mc-ziu4j1o2ic.bunny.run/channel/aaff7a9e60274e07a7737e8983e486bf/master.mpd
+
+#EXTINF:-1 tvg-logo="https://p-img.movetv.com/1280x720/642edce25fc92f1bbfcabaedb971335f.jpeg" group-title="SLING" group-logo="https://download.logo.wine/logo/Sling_TV/Sling_TV-Logo.wine.png", A&E
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-ziu4j1o2ic.bunny.run/
 
 #EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT Sport 1" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png" http-referer="https://p.lioncdn.net/" group-title="•體育賽事", TNT Sport 1
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
