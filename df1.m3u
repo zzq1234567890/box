@@ -1,4 +1,67 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/twepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://epg.iill.top/epg.xml.gz,https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/twepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT Sport 1" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png" http-referer="https://p.lioncdn.net/" group-title="•體育賽事", TNT Sport 1
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://smartstream.lioncdn.net/TNT_Sports_1_BU/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT Sport 2" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-2.png" http-referer="https://p.lioncdn.net/" group-title="•體育賽事", TNT Sport 2
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://smartstream.lioncdn.net/TNT_Sports_2_BU/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT-Sports-3" tvg-name="TNT Sport 3" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-3.png" http-referer="https://p.lioncdn.net/" group-title="•體育賽事", TNT Sport 3
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://smartstream.lioncdn.net/TNT_Sports_3_BU/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT Sport 4" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" http-referer="https://p.lioncdn.net/" group-title="•體育賽事", TNT Sport 4
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://smartstream.lioncdn.net/TNT_Sports_4_BU/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky-Sports-Football" tvg-name="Sky Sports Football" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Football.png" http-referer="https://p.lioncdn.net/" group-title="•體育賽事", Sky Sports Football
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://smartstream.lioncdn.net/Sky_Sports_Football_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky-Sports-Main-Event" tvg-name="Sky Sports Main Event" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Main-Event.png" http-referer="https://p.lioncdn.net/" group-title="•體育賽事", Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://smartstream.lioncdn.net/Sky_Sports_Main_Event/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports Premier League" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Premier-League.png" http-referer="https://p.lioncdn.net/" group-title="•體育賽事", Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://smartstream.lioncdn.net/Sky_Sports_Premier_League/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky-Sports-Action" tvg-name="Sky Sports Action" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Action.png" http-referer="https://p.lioncdn.net/" group-title="•體育賽事", Sky Sports Action
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://smartstream.lioncdn.net/Sky_Sports_Action_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky-Sports-Mix" tvg-name="Sky Sports Mix" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Mix.png" http-referer="https://p.lioncdn.net/" group-title="•體育賽事", Sky Sports Mix
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://smartstream.lioncdn.net/Sky_Sports_Mix_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky-Sports-Arena" tvg-name="Sky Sports Arena" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Arena.png" http-referer="https://p.lioncdn.net/" group-title="•體育賽事", Sky Sports Arena
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://smartstream.lioncdn.net/Sky_Sports_Arena_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky-Sports-News" tvg-name="Sky Sports News" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-News.png" http-referer="https://p.lioncdn.net/" group-title="•體育賽事", Sky Sports News
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://smartstream.lioncdn.net/Sky_Sports_News_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky-Sports-Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Cricket.png" http-referer="https://p.lioncdn.net/" group-title="•體育賽事", Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://smartstream.lioncdn.net/Sky_Sports_Cricket_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky-Sports-Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Tennis.png" http-referer="https://p.lioncdn.net/" group-title="•體育賽事", Sky Sports Tennis
+#EXTVLCOPT:http-referrer=https://p.lioncdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper", TVB Vietnam(越南台)
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 #EXTINF:-1 tvg-id="TVB翡翠娛樂臺(TVBe)" tvg-name="TVB翡翠娛樂臺(TVBe)" tvg-logo="" group-title="mytvsuper",TVB翡翠娛樂臺(TVBe )
