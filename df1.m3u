@@ -2,6 +2,1793 @@
 
 
 
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/826895.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", 3STGS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=3STGS
+https://mc-0x5t0x453e.bunny.run/channel/3STGS/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833966.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", 4UV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=4UV
+https://mc-0x5t0x453e.bunny.run/channel/4UV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/790123.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", A&E
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=A&E
+https://mc-0x5t0x453e.bunny.run/channel/A&E/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/791101.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ACCN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ACCN
+https://mc-0x5t0x453e.bunny.run/channel/ACCN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833974.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", AFVFA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=AFVFA
+https://mc-0x5t0x453e.bunny.run/channel/AFVFA/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/262002.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", AHC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=AHC
+https://mc-0x5t0x453e.bunny.run/channel/AHC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/790121.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", AMC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=AMC
+https://mc-0x5t0x453e.bunny.run/channel/AMC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/185721.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", AMERI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=AMERI
+https://mc-0x5t0x453e.bunny.run/channel/AMERI/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/821523.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", AMORR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=AMORR
+https://mc-0x5t0x453e.bunny.run/channel/AMORR/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/831804.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ANTIQ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ANTIQ
+https://mc-0x5t0x453e.bunny.run/channel/ANTIQ/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/787041.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", APL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=APL
+https://mc-0x5t0x453e.bunny.run/channel/APL/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/830725.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ASPIR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ASPIR
+https://mc-0x5t0x453e.bunny.run/channel/ASPIR/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833464.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ASYLU
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ASYLU
+https://mc-0x5t0x453e.bunny.run/channel/ASYLU/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832427.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ATK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ATK
+https://mc-0x5t0x453e.bunny.run/channel/ATK/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833804.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", AUTOA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=AUTOA
+https://mc-0x5t0x453e.bunny.run/channel/AUTOA/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833977.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", AXMEN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=AXMEN
+https://mc-0x5t0x453e.bunny.run/channel/AXMEN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/790122.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", AXS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=AXS
+https://mc-0x5t0x453e.bunny.run/channel/AXS/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327184.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BBCA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BBCA
+https://mc-0x5t0x453e.bunny.run/channel/BBCA/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/834377.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BBCCM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BBCCM
+https://mc-0x5t0x453e.bunny.run/channel/BBCCM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833466.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BBCEA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BBCEA
+https://mc-0x5t0x453e.bunny.run/channel/BBCEA/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833468.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BBCFD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BBCFD
+https://mc-0x5t0x453e.bunny.run/channel/BBCFD/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/834371.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BBCGS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BBCGS
+https://mc-0x5t0x453e.bunny.run/channel/BBCGS/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/820943.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BBCNAHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BBCNAHD
+https://mc-0x5t0x453e.bunny.run/channel/BBCNAHD/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833470.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BBCNG
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BBCNG
+https://mc-0x5t0x453e.bunny.run/channel/BBCNG/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/831806.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BBCSI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BBCSI
+https://mc-0x5t0x453e.bunny.run/channel/BBCSI/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833472.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BBCTR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BBCTR
+https://mc-0x5t0x453e.bunny.run/channel/BBCTR/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/196082.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BEIN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BEIN
+https://mc-0x5t0x453e.bunny.run/channel/BEIN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/802982.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BEIN3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BEIN3
+https://mc-0x5t0x453e.bunny.run/channel/BEIN3/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/796802.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BEIN4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BEIN4
+https://mc-0x5t0x453e.bunny.run/channel/BEIN4/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/796803.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BEIN5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BEIN5
+https://mc-0x5t0x453e.bunny.run/channel/BEIN5/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/796804.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BEIN6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BEIN6
+https://mc-0x5t0x453e.bunny.run/channel/BEIN6/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/796805.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BEIN7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BEIN7
+https://mc-0x5t0x453e.bunny.run/channel/BEIN7/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/796806.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BEIN8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BEIN8
+https://mc-0x5t0x453e.bunny.run/channel/BEIN8/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833474.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BEPAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BEPAR
+https://mc-0x5t0x453e.bunny.run/channel/BEPAR/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327175.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BET
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BET
+https://mc-0x5t0x453e.bunny.run/channel/BET/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/799762.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BIG10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BIG10
+https://mc-0x5t0x453e.bunny.run/channel/BIG10/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832776.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BILLR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BILLR
+https://mc-0x5t0x453e.bunny.run/channel/BILLR/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327179.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BITV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BITV
+https://mc-0x5t0x453e.bunny.run/channel/BITV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/31945.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BOOM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BOOM
+https://mc-0x5t0x453e.bunny.run/channel/BOOM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327166.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BRAVO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BRAVO
+https://mc-0x5t0x453e.bunny.run/channel/BRAVO/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833476.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BRIDE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BRIDE
+https://mc-0x5t0x453e.bunny.run/channel/BRIDE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/778083.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", BUZZR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=BUZZR
+https://mc-0x5t0x453e.bunny.run/channel/BUZZR/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/802282.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", CBSSN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=CBSSN
+https://mc-0x5t0x453e.bunny.run/channel/CBSSN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/811327.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", CCLUB
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=CCLUB
+https://mc-0x5t0x453e.bunny.run/channel/CCLUB/master.mpd
+
+#EXTINF:-1 tvg-logo="https://p-img.movetv.com/cms/images/b2289d68ce354fc151aba306c91950c419e68dfa.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", CCTVNWS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=CCTVNWS
+https://mc-0x5t0x453e.bunny.run/channel/CCTVNWS/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/820342.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", CHARDT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=CHARDT
+https://mc-0x5t0x453e.bunny.run/channel/CHARDT/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/811189.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", CINER
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=CINER
+https://mc-0x5t0x453e.bunny.run/channel/CINER/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/811649.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", CINOR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=CINOR
+https://mc-0x5t0x453e.bunny.run/channel/CINOR/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327164.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", CMDY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=CMDY
+https://mc-0x5t0x453e.bunny.run/channel/CMDY/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/31968.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", CMT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=CMT
+https://mc-0x5t0x453e.bunny.run/channel/CMT/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327168.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", CNBC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=CNBC
+https://mc-0x5t0x453e.bunny.run/channel/CNBC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/31973.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", CNN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=CNN
+https://mc-0x5t0x453e.bunny.run/channel/CNN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/834376.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", COCAF
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=COCAF
+https://mc-0x5t0x453e.bunny.run/channel/COCAF/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832168.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", COMBA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=COMBA
+https://mc-0x5t0x453e.bunny.run/channel/COMBA/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/811191.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", COMOD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=COMOD
+https://mc-0x5t0x453e.bunny.run/channel/COMOD/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833957.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", CONFL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=CONFL
+https://mc-0x5t0x453e.bunny.run/channel/CONFL/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327170.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", COOK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=COOK
+https://mc-0x5t0x453e.bunny.run/channel/COOK/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/778524.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", COWBY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=COWBY
+https://mc-0x5t0x453e.bunny.run/channel/COWBY/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/820302.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", COWGL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=COWGL
+https://mc-0x5t0x453e.bunny.run/channel/COWGL/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/834364.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", CR360
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=CR360
+https://mc-0x5t0x453e.bunny.run/channel/CR360/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/834366.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", CRCKI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=CRCKI
+https://mc-0x5t0x453e.bunny.run/channel/CRCKI/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832432.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", CRIMF
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=CRIMF
+https://mc-0x5t0x453e.bunny.run/channel/CRIMF/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833624.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", CRIMU
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=CRIMU
+https://mc-0x5t0x453e.bunny.run/channel/CRIMU/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832437.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", DANGE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=DANGE
+https://mc-0x5t0x453e.bunny.run/channel/DANGE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://b-img.movetv.com/1280x720/24202f48f2bcb81a60226d84c1e9a5f3.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", DANMOM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=DANMOM
+https://mc-0x5t0x453e.bunny.run/channel/DANMOM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833969.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", DEALZ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=DEALZ
+https://mc-0x5t0x453e.bunny.run/channel/DEALZ/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832426.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", DESIG
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=DESIG
+https://mc-0x5t0x453e.bunny.run/channel/DESIG/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/751441.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", DISC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=DISC
+https://mc-0x5t0x453e.bunny.run/channel/DISC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/284042.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", DISCF
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=DISCF
+https://mc-0x5t0x453e.bunny.run/channel/DISCF/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/31991.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", DISE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=DISE
+https://mc-0x5t0x453e.bunny.run/channel/DISE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/265762.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", DISJR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=DISJR
+https://mc-0x5t0x453e.bunny.run/channel/DISJR/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/31991.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", DISW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=DISW
+https://mc-0x5t0x453e.bunny.run/channel/DISW/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/38255.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", DISXD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=DISXD
+https://mc-0x5t0x453e.bunny.run/channel/DISXD/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/831808.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", DRWHO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=DRWHO
+https://mc-0x5t0x453e.bunny.run/channel/DRWHO/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833944.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", DUCKY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=DUCKY
+https://mc-0x5t0x453e.bunny.run/channel/DUCKY/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327186.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", E!
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=E!
+https://mc-0x5t0x453e.bunny.run/channel/E!/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327173.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", EACTN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=EACTN
+https://mc-0x5t0x453e.bunny.run/channel/EACTN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327174.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", EBLCK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=EBLCK
+https://mc-0x5t0x453e.bunny.run/channel/EBLCK/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327181.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ECLAS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ECLAS
+https://mc-0x5t0x453e.bunny.run/channel/ECLAS/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327185.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", EFAM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=EFAM
+https://mc-0x5t0x453e.bunny.run/channel/EFAM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327232.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ENCOR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ENCOR
+https://mc-0x5t0x453e.bunny.run/channel/ENCOR/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/815102.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ENCRW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ENCRW
+https://mc-0x5t0x453e.bunny.run/channel/ENCRW/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833124.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ES24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ES24
+https://mc-0x5t0x453e.bunny.run/channel/ES24/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32015.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ESNWS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ESNWS
+https://mc-0x5t0x453e.bunny.run/channel/ESNWS/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32018.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ESPN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ESPN
+https://mc-0x5t0x453e.bunny.run/channel/ESPN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32019.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ESPN2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ESPN2
+https://mc-0x5t0x453e.bunny.run/channel/ESPN2/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32021.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ESPNU
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ESPNU
+https://mc-0x5t0x453e.bunny.run/channel/ESPNU/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/838087.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ESTRE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ESTRE
+https://mc-0x5t0x453e.bunny.run/channel/ESTRE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327177.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ESUSP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ESUSP
+https://mc-0x5t0x453e.bunny.run/channel/ESUSP/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327178.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", EWSTN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=EWSTN
+https://mc-0x5t0x453e.bunny.run/channel/EWSTN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832781.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FAILA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FAILA
+https://mc-0x5t0x453e.bunny.run/channel/FAILA/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832424.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FAMHA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FAMHA
+https://mc-0x5t0x453e.bunny.run/channel/FAMHA/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/338046.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FETV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FETV
+https://mc-0x5t0x453e.bunny.run/channel/FETV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833978.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FIDOT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FIDOT
+https://mc-0x5t0x453e.bunny.run/channel/FIDOT/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32029.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FOOD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FOOD
+https://mc-0x5t0x453e.bunny.run/channel/FOOD/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/836224.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FOXB
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FOXB
+https://mc-0x5t0x453e.bunny.run/channel/FOXB/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/240202.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FOXS1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FOXS1
+https://mc-0x5t0x453e.bunny.run/channel/FOXS1/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/240201.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FOXS2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FOXS2
+https://mc-0x5t0x453e.bunny.run/channel/FOXS2/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/825804.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FOXWE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FOXWE
+https://mc-0x5t0x453e.bunny.run/channel/FOXWE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/826907.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FREEC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FREEC
+https://mc-0x5t0x453e.bunny.run/channel/FREEC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/401701.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FRFM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FRFM
+https://mc-0x5t0x453e.bunny.run/channel/FRFM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://p-img.movetv.com/1280x720/8f57243d7b1a32dde244b7934a0f0081.jpeg" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FUSEHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FUSEHD
+https://mc-0x5t0x453e.bunny.run/channel/FUSEHD/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327235.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FX
+https://mc-0x5t0x453e.bunny.run/channel/FX/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327188.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FXM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FXM
+https://mc-0x5t0x453e.bunny.run/channel/FXM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32053.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FXNWS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FXNWS
+https://mc-0x5t0x453e.bunny.run/channel/FXNWS/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327234.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FXX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FXX
+https://mc-0x5t0x453e.bunny.run/channel/FXX/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/274842.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", FYI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FYI
+https://mc-0x5t0x453e.bunny.run/channel/FYI/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/814062.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", GFAM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=GFAM
+https://mc-0x5t0x453e.bunny.run/channel/GFAM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/814065.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", GLIV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=GLIV
+https://mc-0x5t0x453e.bunny.run/channel/GLIV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32061.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", GMSHW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=GMSHW
+https://mc-0x5t0x453e.bunny.run/channel/GMSHW/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32060.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", GOLF
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=GOLF
+https://mc-0x5t0x453e.bunny.run/channel/GOLF/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/751443.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", GRIT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=GRIT
+https://mc-0x5t0x453e.bunny.run/channel/GRIT/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/339321.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HBO
+https://mc-0x5t0x453e.bunny.run/channel/HBO/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327237.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HBO2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HBO2
+https://mc-0x5t0x453e.bunny.run/channel/HBO2/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833930.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HBOC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HBOC
+https://mc-0x5t0x453e.bunny.run/channel/HBOC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327240.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HBOLT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HBOLT
+https://mc-0x5t0x453e.bunny.run/channel/HBOLT/master.mpd
+
+#EXTINF:-1 tvg-logo="https://p-img.movetv.com/1280x720/f8fe26abedc1f35a0f0e899510070768.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HBOSG
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HBOSG
+https://mc-0x5t0x453e.bunny.run/channel/HBOSG/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/803963.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HBOW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HBOW
+https://mc-0x5t0x453e.bunny.run/channel/HBOW/master.mpd
+
+#EXTINF:-1 tvg-logo="https://p-img.movetv.com/1280x720/398dc5aea566e2cc56928b48d44731d0.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HBOZ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HBOZ
+https://mc-0x5t0x453e.bunny.run/channel/HBOZ/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327243.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HDNMV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HDNMV
+https://mc-0x5t0x453e.bunny.run/channel/HDNMV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/795744.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HERIC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HERIC
+https://mc-0x5t0x453e.bunny.run/channel/HERIC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/780462.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HFM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HFM
+https://mc-0x5t0x453e.bunny.run/channel/HFM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32084.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HGTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HGTV
+https://mc-0x5t0x453e.bunny.run/channel/HGTV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327244.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HIST
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HIST
+https://mc-0x5t0x453e.bunny.run/channel/HIST/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832172.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HISTH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HISTH
+https://mc-0x5t0x453e.bunny.run/channel/HISTH/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327245.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HLMRK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HLMRK
+https://mc-0x5t0x453e.bunny.run/channel/HLMRK/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/289201.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HLN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HLN
+https://mc-0x5t0x453e.bunny.run/channel/HLN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/828184.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HMYS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HMYS
+https://mc-0x5t0x453e.bunny.run/channel/HMYS/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/834368.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", HOMAN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=HOMAN
+https://mc-0x5t0x453e.bunny.run/channel/HOMAN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833959.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ICERO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ICERO
+https://mc-0x5t0x453e.bunny.run/channel/ICERO/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32098.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ID
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ID
+https://mc-0x5t0x453e.bunny.run/channel/ID/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32100.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", IFC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=IFC
+https://mc-0x5t0x453e.bunny.run/channel/IFC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327250.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", INSP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=INSP
+https://mc-0x5t0x453e.bunny.run/channel/INSP/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/435861.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", LAFF
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=LAFF
+https://mc-0x5t0x453e.bunny.run/channel/LAFF/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833976.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", LAUGS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=LAUGS
+https://mc-0x5t0x453e.bunny.run/channel/LAUGS/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833972.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", LAUGT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=LAUGT
+https://mc-0x5t0x453e.bunny.run/channel/LAUGT/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32117.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", LIFE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=LIFE
+https://mc-0x5t0x453e.bunny.run/channel/LIFE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/790381.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", LMN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=LMN
+https://mc-0x5t0x453e.bunny.run/channel/LMN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/344290.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", LOGO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=LOGO
+https://mc-0x5t0x453e.bunny.run/channel/LOGO/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/808964.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", MAGN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=MAGN
+https://mc-0x5t0x453e.bunny.run/channel/MAGN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/834484.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", MAMET
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=MAMET
+https://mc-0x5t0x453e.bunny.run/channel/MAMET/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833945.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", MDRNI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=MDRNI
+https://mc-0x5t0x453e.bunny.run/channel/MDRNI/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833946.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", MILHE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=MILHE
+https://mc-0x5t0x453e.bunny.run/channel/MILHE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/150142.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", MLBN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=MLBN
+https://mc-0x5t0x453e.bunny.run/channel/MLBN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833947.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", MODMA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=MODMA
+https://mc-0x5t0x453e.bunny.run/channel/MODMA/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/834369.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", MOVFA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=MOVFA
+https://mc-0x5t0x453e.bunny.run/channel/MOVFA/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327190.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", MPLEX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=MPLEX
+https://mc-0x5t0x453e.bunny.run/channel/MPLEX/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327191.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", MSNBC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=MSNBC
+https://mc-0x5t0x453e.bunny.run/channel/MSNBC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/785726.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", MT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=MT
+https://mc-0x5t0x453e.bunny.run/channel/MT/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327192.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", MTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=MTV
+https://mc-0x5t0x453e.bunny.run/channel/MTV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/788608.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", MTV2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=MTV2
+https://mc-0x5t0x453e.bunny.run/channel/MTV2/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/407203.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", MTVL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=MTVL
+https://mc-0x5t0x453e.bunny.run/channel/MTVL/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/783522.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", NATGW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=NATGW
+https://mc-0x5t0x453e.bunny.run/channel/NATGW/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/38257.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", NBATV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=NBATV
+https://mc-0x5t0x453e.bunny.run/channel/NBATV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/810262.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", NC247
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=NC247
+https://mc-0x5t0x453e.bunny.run/channel/NC247/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/809844.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", NEWSX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=NEWSX
+https://mc-0x5t0x453e.bunny.run/channel/NEWSX/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/374743.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", NFL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=NFL
+https://mc-0x5t0x453e.bunny.run/channel/NFL/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/52101.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", NFLRZ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=NFLRZ
+https://mc-0x5t0x453e.bunny.run/channel/NFLRZ/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/38259.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", NHLN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=NHLN
+https://mc-0x5t0x453e.bunny.run/channel/NHLN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32152.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", NICK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=NICK
+https://mc-0x5t0x453e.bunny.run/channel/NICK/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32154.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", NICKT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=NICKT
+https://mc-0x5t0x453e.bunny.run/channel/NICKT/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32155.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", NICKW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=NICKW
+https://mc-0x5t0x453e.bunny.run/channel/NICKW/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/61821.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", NKJR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=NKJR
+https://mc-0x5t0x453e.bunny.run/channel/NKJR/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/812531.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", NOLGU
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=NOLGU
+https://mc-0x5t0x453e.bunny.run/channel/NOLGU/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/826917.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", NOST
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=NOST
+https://mc-0x5t0x453e.bunny.run/channel/NOST/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327195.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", NTGEO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=NTGEO
+https://mc-0x5t0x453e.bunny.run/channel/NTGEO/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327196.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", OTDCH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=OTDCH
+https://mc-0x5t0x453e.bunny.run/channel/OTDCH/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/332323.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", OUTSD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=OUTSD
+https://mc-0x5t0x453e.bunny.run/channel/OUTSD/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/128101.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", OWN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=OWN
+https://mc-0x5t0x453e.bunny.run/channel/OWN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32164.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", OXYGN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=OXYGN
+https://mc-0x5t0x453e.bunny.run/channel/OXYGN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832174.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", PAFIL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=PAFIL
+https://mc-0x5t0x453e.bunny.run/channel/PAFIL/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/791321.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", PARAM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=PARAM
+https://mc-0x5t0x453e.bunny.run/channel/PARAM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/828925.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", PBSAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=PBSAR
+https://mc-0x5t0x453e.bunny.run/channel/PBSAR/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832769.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", PETCL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=PETCL
+https://mc-0x5t0x453e.bunny.run/channel/PETCL/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832771.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", PICKL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=PICKL
+https://mc-0x5t0x453e.bunny.run/channel/PICKL/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327841.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", POP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=POP
+https://mc-0x5t0x453e.bunny.run/channel/POP/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/834325.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", PRFRM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=PRFRM
+https://mc-0x5t0x453e.bunny.run/channel/PRFRM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/31992.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", PURSUIT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=PURSUIT
+https://mc-0x5t0x453e.bunny.run/channel/PURSUIT/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832438.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", RCRIM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=RCRIM
+https://mc-0x5t0x453e.bunny.run/channel/RCRIM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32184.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", RFDTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=RFDTV
+https://mc-0x5t0x453e.bunny.run/channel/RFDTV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/814604.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ROSAG
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ROSAG
+https://mc-0x5t0x453e.bunny.run/channel/ROSAG/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327208.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SBLCK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SBLCK
+https://mc-0x5t0x453e.bunny.run/channel/SBLCK/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/792782.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SCAP2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SCAP2
+https://mc-0x5t0x453e.bunny.run/channel/SCAP2/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/136823.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SCI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SCI
+https://mc-0x5t0x453e.bunny.run/channel/SCI/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327210.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SCINE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SCINE
+https://mc-0x5t0x453e.bunny.run/channel/SCINE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/276641.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SEC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SEC
+https://mc-0x5t0x453e.bunny.run/channel/SEC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/337283.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SEDGE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SEDGE
+https://mc-0x5t0x453e.bunny.run/channel/SEDGE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/797551.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SHBET
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SHBET
+https://mc-0x5t0x453e.bunny.run/channel/SHBET/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/339323.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SHOCS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SHOCS
+https://mc-0x5t0x453e.bunny.run/channel/SHOCS/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327213.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SHOEX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SHOEX
+https://mc-0x5t0x453e.bunny.run/channel/SHOEX/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/794242.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SHOFZ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SHOFZ
+https://mc-0x5t0x453e.bunny.run/channel/SHOFZ/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327214.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SHOTO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SHOTO
+https://mc-0x5t0x453e.bunny.run/channel/SHOTO/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327212.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SHOW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SHOW
+https://mc-0x5t0x453e.bunny.run/channel/SHOW/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/798663.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SHOWPHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SHOWPHD
+https://mc-0x5t0x453e.bunny.run/channel/SHOWPHD/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/831810.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SILWT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SILWT
+https://mc-0x5t0x453e.bunny.run/channel/SILWT/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/337284.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SK&FM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SK&FM
+https://mc-0x5t0x453e.bunny.run/channel/SK&FM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/379004.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SMITH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SMITH
+https://mc-0x5t0x453e.bunny.run/channel/SMITH/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833489.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SPARK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SPARK
+https://mc-0x5t0x453e.bunny.run/channel/SPARK/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327216.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SPMAN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SPMAN
+https://mc-0x5t0x453e.bunny.run/channel/SPMAN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/803962.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", START
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=START
+https://mc-0x5t0x453e.bunny.run/channel/START/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327217.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", STARZ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=STARZ
+https://mc-0x5t0x453e.bunny.run/channel/STARZ/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327217.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", STRZW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=STRZW
+https://mc-0x5t0x453e.bunny.run/channel/STRZW/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327218.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", STZC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=STZC
+https://mc-0x5t0x453e.bunny.run/channel/STZC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327219.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SUND
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SUND
+https://mc-0x5t0x453e.bunny.run/channel/SUND/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/778321.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", SYFY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SYFY
+https://mc-0x5t0x453e.bunny.run/channel/SYFY/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32237.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TBN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TBN
+https://mc-0x5t0x453e.bunny.run/channel/TBN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32239.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TBS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TBS
+https://mc-0x5t0x453e.bunny.run/channel/TBS/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/328003.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TCM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TCM
+https://mc-0x5t0x453e.bunny.run/channel/TCM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/834372.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", THRHR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=THRHR
+https://mc-0x5t0x453e.bunny.run/channel/THRHR/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/834375.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TINHO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TINHO
+https://mc-0x5t0x453e.bunny.run/channel/TINHO/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32253.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TLC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TLC
+https://mc-0x5t0x453e.bunny.run/channel/TLC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833491.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TMZ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TMZ
+https://mc-0x5t0x453e.bunny.run/channel/TMZ/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/61822.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TNCK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TNCK
+https://mc-0x5t0x453e.bunny.run/channel/TNCK/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/407201.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TNT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TNT
+https://mc-0x5t0x453e.bunny.run/channel/TNT/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833125.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TODOC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TODOC
+https://mc-0x5t0x453e.bunny.run/channel/TODOC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833126.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TONOM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TONOM
+https://mc-0x5t0x453e.bunny.run/channel/TONOM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327222.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TOON
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TOON
+https://mc-0x5t0x453e.bunny.run/channel/TOON/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327222.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TOONW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TOONW
+https://mc-0x5t0x453e.bunny.run/channel/TOONW/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833968.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TOPGR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TOPGR
+https://mc-0x5t0x453e.bunny.run/channel/TOPGR/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833493.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TRIBC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TRIBC
+https://mc-0x5t0x453e.bunny.run/channel/TRIBC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/834330.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TRQUE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TRQUE
+https://mc-0x5t0x453e.bunny.run/channel/TRQUE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/838090.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TRU
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TRU
+https://mc-0x5t0x453e.bunny.run/channel/TRU/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32264.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TRV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TRV
+https://mc-0x5t0x453e.bunny.run/channel/TRV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/790943.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TUX1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TUX1
+https://mc-0x5t0x453e.bunny.run/channel/TUX1/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/790946.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TUX10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TUX10
+https://mc-0x5t0x453e.bunny.run/channel/TUX10/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/790949.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TUX11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TUX11
+https://mc-0x5t0x453e.bunny.run/channel/TUX11/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/790947.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TUX2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TUX2
+https://mc-0x5t0x453e.bunny.run/channel/TUX2/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/790950.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TUX3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TUX3
+https://mc-0x5t0x453e.bunny.run/channel/TUX3/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/790948.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TUX4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TUX4
+https://mc-0x5t0x453e.bunny.run/channel/TUX4/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/790944.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TUX5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TUX5
+https://mc-0x5t0x453e.bunny.run/channel/TUX5/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/790951.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TUX6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TUX6
+https://mc-0x5t0x453e.bunny.run/channel/TUX6/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/790952.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TUX7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TUX7
+https://mc-0x5t0x453e.bunny.run/channel/TUX7/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/790953.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TUX8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TUX8
+https://mc-0x5t0x453e.bunny.run/channel/TUX8/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/790954.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TUX9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TUX9
+https://mc-0x5t0x453e.bunny.run/channel/TUX9/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32271.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", TVLND
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TVLND
+https://mc-0x5t0x453e.bunny.run/channel/TVLND/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/834332.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ULTCO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ULTCO
+https://mc-0x5t0x453e.bunny.run/channel/ULTCO/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832176.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", UNSEA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=UNSEA
+https://mc-0x5t0x453e.bunny.run/channel/UNSEA/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/338054.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", UNVSO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=UNVSO
+https://mc-0x5t0x453e.bunny.run/channel/UNVSO/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/833949.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", UNXPL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=UNXPL
+https://mc-0x5t0x453e.bunny.run/channel/UNXPL/master.mpd
+
+#EXTINF:-1 tvg-logo="https://p-img.movetv.com/1280x720/455db0b8988b905ac8cf7421a01f85d4.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", UPENTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=UPENTV
+https://mc-0x5t0x453e.bunny.run/channel/UPENTV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32278.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", USA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=USA
+https://mc-0x5t0x453e.bunny.run/channel/USA/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832164.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", VALRS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=VALRS
+https://mc-0x5t0x453e.bunny.run/channel/VALRS/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/811511.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", VECIN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=VECIN
+https://mc-0x5t0x453e.bunny.run/channel/VECIN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32285.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", VH1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=VH1
+https://mc-0x5t0x453e.bunny.run/channel/VH1/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/413273.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", VICE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=VICE
+https://mc-0x5t0x453e.bunny.run/channel/VICE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32275.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", WEATH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=WEATH
+https://mc-0x5t0x453e.bunny.run/channel/WEATH/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832165.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", WEATS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=WEATS
+https://mc-0x5t0x453e.bunny.run/channel/WEATS/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/26ae727ac8f9fcc5a0b4779094362081.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", WEST
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=WEST
+https://mc-0x5t0x453e.bunny.run/channel/WEST/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/836244.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", WESTB
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=WESTB
+https://mc-0x5t0x453e.bunny.run/channel/WESTB/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832166.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", WILD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=WILD
+https://mc-0x5t0x453e.bunny.run/channel/WILD/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/374742.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", WN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=WN
+https://mc-0x5t0x453e.bunny.run/channel/WN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/832180.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", WONDE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=WONDE
+https://mc-0x5t0x453e.bunny.run/channel/WONDE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/834327.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", XTROT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=XTROT
+https://mc-0x5t0x453e.bunny.run/channel/XTROT/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/791481.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ZONAF
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ZONAF
+https://mc-0x5t0x453e.bunny.run/channel/ZONAF/master.mpd
+
+#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/812823.png" group-title="DISH" group-logo="https://download.logo.wine/logo/Dish_Network/Dish_Network-Logo.wine.png", ZONAT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=ZONAT
+https://mc-0x5t0x453e.bunny.run/channel/ZONAT/master.mpd
+
+
 #EXTINF:-1 tvg-logo="https://b-img.movetv.com/1280x720/348c695fb5517f0497c8f6359ae2ebe3.png" group-title="SLING" , 123 GO!
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
