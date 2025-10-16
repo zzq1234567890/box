@@ -275,7 +275,32 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.m
 #EXTINF:-1 tvg-id="DMAX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png" group-title="mytvsuper", DMAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",Sky Sports Main Event
+https://topstream.space/crhd/stream.php?id=skysme
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",Sky Sports Cricket
+https://topstream.space/crhd/stream.php?id=skyscric
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",Sky Sports Premier League
+https://topstream.space/crhd/stream.php?id=skysprem
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",Sky Sports Football
+https://topstream.space/crhd/stream.php?id=skysfott
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",Sky Sports NFL
+https://topstream.space/crhd/stream.php?id=skysact
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",Sky Sports Golf
+https://topstream.space/crhd/stream.php?id=skysgol
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",Sky Sports Tennis
+https://topstream.space/crhd/stream.php?id=skystennis
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",Sky Sports Formula 1
+https://topstream.space/crhd/stream.php?id=skysfor1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",Sky Sports Mix
+https://topstream.space/crhd/stream.php?id=skysmixx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",TNT Sports 1
+https://topstream.space/crhd/stream.php?id=bbtsp1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",TNT Sports 2
+https://topstream.space/crhd/stream.php?id=bbtsp2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",TNT Sports 3
+https://topstream.space/crhd/stream.php?id=bbtsp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",TNT Sports 4
+https://topstream.space/crhd/stream.php?id=bbtespn
 
 #EXTINF:-1 group-title="mytvsuper" tvg-id="tnt100a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
