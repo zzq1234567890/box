@@ -1354,7 +1354,7 @@ http://127.0.0.1:8081/gongshi15.php
 #EXTINF:-1   tvg-id="小公視"   tvg-name="小公視"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png"    group-title="中文新聞",小公視
 
 https://livecdn9.ptsplus.tv/pts-youth-A/1.m3u8
-EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="中文新聞",公視愜意生活頻道
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="中文新聞",公視愜意生活頻道
 https://livecdn9.ptsplus.tv/pts-FastTV-B/2.m3u8
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="中文新聞",人生清潔員
 https://livecdn9.ptsplus.tv/pts-FastTV-A/1.m3u8
