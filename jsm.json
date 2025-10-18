@@ -2916,31 +2916,14 @@
                     ]
         },
 
-        {
-            "name": "网剧独播",
-            "url": "http://zhangqun66.com/zh/网剧独播.txt"
-        },
-        {
-            "name": "直播爬虫",
-            "type": 3,
-            "api": "https://tang.hz.cz/js/ethtv.js",
-            "ext": ""
-        },
-        {
-            "name": "谍工看片社",
-            "url": "http://zhangqun66.com/zh/谍工看片社.txt"
-        },
-        {
-            "name": "谍影剧场",
-            "url": "http://zhangqun66.com/zh/谍影剧场.txt"
-        },
-        {
-            "name": "百家讲坛",
-            "url": "http://zhangqun66.com/zh/百家讲坛.txt"
-        },
-        {
-            "name": "政治时事",
-            "url": "http://zhangqun66.com/141.php"
+         {
+            "name": "体育直播",
+            "url": "http://hls.168.us.kg/ppvland.m3u",
+            "playerType": 2,
+            "ua": "AptvPlayer/1.3.3",
+             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+           ### "epg": "https://content.stream-link.org/epg/f846c514-51c0-4df5-854f-4c6629236150/guide.xml",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "4jtv",
