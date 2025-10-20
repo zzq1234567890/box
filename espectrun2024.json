@@ -1,0 +1,2562 @@
+{
+    "5 StarMax HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59961?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5100/bpk-tv/00034/drm/manifest.mpd",
+        "key": [
+            "958a4ed36dd45ae4bea984938aa3e677:73070946746c27a71157453cf0fa3bdd"
+        ]
+    },
+    "A&E HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/78836?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5261/bpk-tv/21691/drm/manifest.mpd",
+        "key": [
+            "017536afbb595c199297e910d4c41321:8e195caa9f576f868377594df8bed52d"
+        ]
+    },
+    "ACC Network HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/111871?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5280/bpk-tv/24525/drm/manifest.mpd",
+        "key": [
+            "0526e71277b8520996940d25395a3448:b290e7363c91f76767c861f3362e2e2f"
+        ]
+    },
+    "AMC HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/59337?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5027/bpk-tv/21335/drm/manifest.mpd",
+        "key": [
+            "f399d3c0d2e358c8bf1e9397dfd4d8ea:ead1a85307c10d41276731169adfea0e"
+        ]
+    },
+    "ASPiRE HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/97409?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5313/bpk-tv/18273/drm/manifest.mpd",
+        "key": [
+            "2494a0a5e126572c8d57816128fef7c4:00a6dc9b5006876f1e1b8a878fdcdb0e"
+        ]
+    },
+    "AXS TV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/28506?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5189/bpk-tv/18180/drm/manifest.mpd",
+        "key": [
+            "3a08d07badad509cb6f451cb2ad61a02:aab09b6d82d8fd2416d67a4c75ede7e6"
+        ]
+    },
+    "AccuWeather": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/91994?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5238/bpk-tv/24612/drm/manifest.mpd",
+        "key": [
+            "fb1ef00492ba5ff7bfce44bcb25befc1:02c3ef22c75fb4b6d3f4ecefffd3f433"
+        ]
+    },
+    "ActionMax HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59948?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5077/bpk-tv/00035/drm/manifest.mpd",
+        "key": [
+            "9aa7726740f5505d951ff0086712bab3:ea01d1a9ab1127994e5f64d86d4023e2"
+        ]
+    },
+    "American Heroes Channel HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/78808?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5141/bpk-tv/04833/drm/manifest.mpd",
+        "key": [
+            "8c6d60a7b5f35c8e931c9d09a8685277:8570179993d40112200284cbb6624370"
+        ]
+    },
+    "Animal Planet HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/68785?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5240/bpk-tv/21766/drm/manifest.mpd",
+        "key": [
+            "9c7b470eae5953eebe6a6f4f962f2881:35a7a2966f578096bb5de278d2724b34"
+        ]
+    },
+    "BAY NEWS 9 TAMPA": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bay_News_9_logo.svg/270px-Bay_News_9_logo.svg.png",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5041/bpk-tv/25995/drm/manifest.mpd",
+        "key": [
+            "c08f8a553ffb5f20b61d6ddda44871e5:c02825f192c7ac69b49087a9d8c0b051"
+        ]
+    },
+    "BBC America HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/64492?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5034/bpk-tv/00486/drm/manifest.mpd",
+        "key": [
+            "ad3b5416f3a05d20a7f7f89cea4a7986:6d06cf9e7e1b460b34f6bb4ba49353e3"
+        ]
+    },
+    "BBC World News HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/89690?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5350/bpk-tv/04842/drm/manifest.mpd",
+        "key": [
+            "04a12706417b50f9a752771254263f3c:ec4e7d6827a3ba9b622d4ca8f00550b3"
+        ]
+    },
+    "BET HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/63236?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5235/bpk-tv/00384/drm/manifest.mpd",
+        "key": [
+            "e1ff161abb1e59098db0dec5b00ef9e4:3c91ac9de80ab907b9b2dabef4b8cd73"
+        ]
+    },
+    "BET Her HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/63220?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5011/bpk-tv/18268/drm/manifest.mpd",
+        "key": [
+            "84f884425aef5581b26f4efaf70641f3:a70fd9c50cf4b7329879570934ba7dc0"
+        ]
+    },
+    "BET Jams": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/30419?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5199/bpk-tv/00395/drm/manifest.mpd",
+        "key": [
+            "85221e4d3b5a585d9d918616ce22f7d3:db0072314bb27450eb4b18e4c3fb1ab6"
+        ]
+    },
+    "BET Soul": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/18718?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5339/bpk-tv/00414/drm/manifest.mpd",
+        "key": [
+            "c30c1ca6c1f35b868c1eec7e9ce31567:b28e2e61fe0e354adc5c76e34c02a797"
+        ]
+    },
+    "BabyFirst TV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/50338?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5312/bpk-tv/26249/drm/manifest.mpd",
+        "key": [
+            "3d07aa963449534d80cfe7ff5b84ee87:bc29f72d8459e0c660b530d3c78a6985"
+        ]
+    },
+    "Big Ten Network HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/58321?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5346/bpk-tv/07434/drm/manifest.mpd",
+        "key": [
+            "e6d87af3b6b456bc956c26f22752e8ca:8100c4e5ef32447f5b90b8a449949491"
+        ]
+    },
+    "Big Ten Network Overflow 2": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/58321?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5117/bpk-tv/18174/drm/manifest.mpd",
+        "key": [
+            "5fc04d76f3c557e9b2d7f334bf73b7ef:396ca050e4766ee7b92fcaeeecb03cc1"
+        ]
+    },
+    "Big Ten Network Overflow HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/58321?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5121/bpk-tv/21793/drm/manifest.mpd",
+        "key": [
+            "1228fc824d925d39ac5038e5285ec8ac:e920417981e626974ccac7d907512a61"
+        ]
+    },
+    "Bloomberg TV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/71799?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5131/bpk-tv/00383/drm/manifest.mpd",
+        "key": [
+            "62bef8193386585da4de6d17f7898bc9:724aa61102f93e6d8ff24fee5e6edd71"
+        ]
+    },
+    "Bravo HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/73994?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5301/bpk-tv/22028/drm/manifest.mpd",
+        "key": [
+            "4134b2b466f25dfd9c59da9210d959a6:b4c9ee23082491337972dd0bb6e327c7"
+        ]
+    },
+    "C-SPAN 2 HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/68334?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "/https://origin.stvacdn.spectrum.com/LIVE/5170/bpk-tv/00022/drm/manifest.mpd",
+        "key": [
+            "2220ce3595fe58b3b96e61ace5cf9d2d:d925537cc9f6b91a30fe30654f6ed52e"
+        ]
+    },
+    "C-SPAN 3 HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/68332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5327/bpk-tv/00024/drm/manifest.mpd",
+        "key": [
+            "08f2286f677f558387e198718a9aff98:813f1e488413bc2058f67e2dcfde93d9"
+        ]
+    },
+    "C-SPAN HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/68344?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5265/bpk-tv/00023/drm/manifest.mpd",
+        "key": [
+            "7a15334e14ca56d7826830084764ce10:dc3a0f4af0c184f195caaf3815faac76"
+        ]
+    },
+    "CBS Sports Network HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/59250?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5317/bpk-tv/00500/drm/manifest.mpd",
+        "key": [
+            "aaa5571b6ea6556fba3f114cb371cd61:7dd0c5a666cdd47116ee1c8d93711bef"
+        ]
+    },
+    "CMT HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/59440?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5245/bpk-tv/00386/drm/manifest.mpd",
+        "key": [
+            "51a780039f1b5588b35732c0b8046114:773df2751085cb2655912b6a6a04c74a"
+        ]
+    },
+    "CNBC HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/58780?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5154/bpk-tv/22031/drm/manifest.mpd",
+        "key": [
+            "0da68be02786531297d804cf2abeaced:c88cdbd9795819812d0ed7d7ad928ef4"
+        ]
+    },
+    "CNN HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/58646?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5017/bpk-tv/24384/drm/manifest.mpd",
+        "key": [
+            "e485a10da4d554148b9632636925f31d:e117ad3c536758e967c3b9eeaa767b55"
+        ]
+    },
+    "Cars.TV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/81270?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5297/bpk-tv/24756/drm/manifest.mpd",
+        "key": [
+            "487f031774385bd58400863a02d4bfe9:73efa3f12094a76e761c79d2892c278c"
+        ]
+    },
+    "Cartoon Network HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/60048?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5018/bpk-tv/24383/drm/manifest.mpd",
+        "key": [
+            "428841703ba85f2993223d47a8e74cb9:297388d4b92e889debfcfc670504b7ba"
+        ]
+    },
+    "Cheddar News HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/109332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5282/bpk-tv/21356/drm/manifest.mpd",
+        "key": [
+            "389311d7102e537bbe5ffa416b2b984d:b7298fe18721105cb5b4387d12327fb3"
+        ]
+    },
+    "ChimeTV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/131889?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5084/bpk-tv/26440/drm/manifest.mpd",
+        "key": [
+            "8bf6dfa6f7ae53479f83dea02e26c59a:a92f884a1be87a23ef490e8033618852"
+        ]
+    },
+    "Cinemax ActionMax HD West": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59948?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5270/bpk-tv/00036/drm/manifest.mpd",
+        "key": [
+            "f92903457f4c598680f06dd588d4fabd:b4c85751beaff7c52c8bfa5f144f0630"
+        ]
+    },
+    "Cinemax HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/34933?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5093/bpk-tv/00038/drm/manifest.mpd",
+        "key": [
+            "e06b20a88f5d5501974f8b01950b742f:0567026b8c9d8303340e7410d9b7a274"
+        ]
+    },
+    "Cinemax HD West": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/34933?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5312/bpk-tv/00039/drm/manifest.mpd",
+        "key": [
+            "913f95bf735a5137b3c826b9119459f3:de4973caf6a4006f977ea1f2e34b3f0a"
+        ]
+    },
+    "Cinemax MoreMax HD West": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59373?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5327/bpk-tv/00041/drm/manifest.mpd",
+        "key": [
+            "2e1fdd2086375a84be14663f5ec7790b:54c541a249d5732584243aed5b903f2c"
+        ]
+    },
+    "Cinemax ThrillerMax HD West": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59954?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5190/bpk-tv/00044/drm/manifest.mpd",
+        "key": [
+            "ea79c60e62b45499a063dc8ceeba4110:25cf70baf132f41d37196a934881cccf"
+        ]
+    },
+    "Cleo TV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/110289?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5340/bpk-tv/21687/drm/manifest.mpd",
+        "key": [
+            "f80c6402253a581cbc619007a987dc48:f41df796ad866f7157e8e9e1db1ab3ea"
+        ]
+    },
+    "Comedy Central HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/62420?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5252/bpk-tv/00388/drm/manifest.mpd",
+        "key": [
+            "84fb71bd650d5180a6890eca5217b144:06a037988cc2b25b1b0d48ee209905ef"
+        ]
+    },
+    "Cooking Channel HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/68065?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5140/bpk-tv/00047/drm/manifest.mpd",
+        "key": [
+            "4a59bc7f30cd502693116562fad6fead:452f056f6b7352c406e8769808bd2b4e"
+        ]
+    },
+    "Crime & Investigation HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/61469?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5120/bpk-tv/21756/drm/manifest.mpd",
+        "key": [
+            "e6a24ef42d65502a8e76023bb00c6774:3299ec2ce60ce634b6f12726d87e14ff"
+        ]
+    },
+    "Destination America HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/60468?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5148/bpk-tv/00168/drm/manifest.mpd",
+        "key": [
+            "d52c6413866b539e9d236337e1c3ceaa:b7e7687b878d726f25273d52def1a351"
+        ]
+    },
+    "Discovery Channel HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/56905?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5253/bpk-tv/00053/drm/manifest.mpd",
+        "key": [
+            "830081e053ef5557a3d05c1d1eb0bcc1:bf94993091918a4bac59c221f770557e"
+        ]
+    },
+    "Discovery Family HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/67749?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5009/bpk-tv/21770/drm/manifest.mpd",
+        "key": [
+            "ec75e67d53685960ba84205db06b3ab7:c3aa8ea9683b32bef01b9c0e64d5cdaa"
+        ]
+    },
+    "Discovery Life HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/16125?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5242/bpk-tv/24781/drm/manifest.mpd",
+        "key": [
+            "3a97bab87bdd52faba025f1942532421:8613d5031f17f8b98a244fd136b54410"
+        ]
+    },
+    "Disney Channel HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59684?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5183/bpk-tv/24513/drm/manifest.mpd",
+        "key": [
+            "55df3ee6e7725bcab6416addbd75d553:a359dd79d9f0c55113001c005aa12ef3"
+        ]
+    },
+    "E! HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/61812?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5221/bpk-tv/22032/drm/manifest.mpd",
+        "key": [
+            "8e2a33a2881f59d0acbcf7d301e66d6c:a878970466cec297df6bd90627f27fe9"
+        ]
+    },
+    "ESPN2 HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/45507?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5186/bpk-tv/24522/drm/manifest.mpd",
+        "key": [
+            "809e7398da9b5ca5a3752d9c995edb8d:80ef4a485799ba1b5e6a976a824be1cf"
+        ]
+    },
+    "ESPN HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/32645?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5096/bpk-tv/24521/drm/manifest.mpd",
+        "key": [
+            "9643fb5b2d3a59bbb26246a278c32831:2c2be2b96dd9c110e6311db91f10344a"
+        ]
+    },
+    "ESPNU HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/60696?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5129/bpk-tv/24524/drm/manifest.mpd",
+        "key": [
+            "c98e79c74ce8539ab282d1f6accb5b9a:8564cfd76fcc01595d13f247bf386670"
+        ]
+    },
+    "ESPNews HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59976?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5255/bpk-tv/24523/drm/manifest.mpd",
+        "key": [
+            "dcf9b1770f4a5db8b659e4be126172b4:b16616ae6184467c46044c86eb9c2cd8"
+        ]
+    },
+    "FX HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/58574?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5193/bpk-tv/00079/drm/manifest.mpd",
+        "key": [
+            "6f03c00c17b15cb4944900ec340556c7:b60665d6c25ccdb3324b3b7cd20bc6e8"
+        ]
+    },
+    "FYI HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/58988?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5205/bpk-tv/21694/drm/manifest.mpd?",
+        "key": [
+            "7fd3a9d5ded85c868d0a67d989b72453:590ef28e5d40088ce4e417fcaba959de"
+        ]
+    },
+    "Flix HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103890?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5173/bpk-tv/20024/drm/manifest.mpd",
+        "key": [
+            "11e01085907753ae8b132b9228842ba1:c1b6b6142c424a4d1e125a203028cc35"
+        ]
+    },
+    "Food Network HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/50747?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5188/bpk-tv/00081/drm/manifest.mpd",
+        "key": [
+            "867c192723c252918224d83315398d31:d1b710fa0af40aae9a00608fd29f6528"
+        ]
+    },
+    "Fox Business Network HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/58718?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5234/bpk-tv/00082/drm/manifest.mpd",
+        "key": [
+            "3b521e493483514dbec425599251bbe8:e9de4a342b9cef5bbaddd167204ae9b7"
+        ]
+    },
+    "Fox News Channel HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/60179?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5001/bpk-tv/00084/drm/manifest.mpd",
+        "key": [
+            "c62ff0565c58546393423d9be96e5c38:cbc5bad0dd62c1889ccca52dc3f0bc5c"
+        ]
+    },
+    "Fox Sports 1 HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/82547?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5239/bpk-tv/00700/drm/manifest.mpd",
+        "key": [
+            "ff18f095bc835e8d902be9420438729e:bbfdc8de223e8b33144d5c718f01f58b"
+        ]
+    },
+    "Fox Sports 2 HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59305?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5099/bpk-tv/00564/drm/manifest.mpd",
+        "key": [
+            "a9197045dfec5a2391fa29fc430783d8:25a184fd32ff2022772bcc72b777489d"
+        ]
+    },
+    "Fuse HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59116?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5308/bpk-tv/00359/drm/manifest.mpd",
+        "key": [
+            "512be602359756e79126dcb7a9fefdc9:db643d752212056fa57331080dffaac3"
+        ]
+    },
+    "GSN HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/68827?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5015/bpk-tv/00089/drm/manifest.mpd",
+        "key": [
+            "41b79cedc5c75eafb4dc12ee43795828:333dea65da818e66e51faccad977e69f"
+        ]
+    },
+    "Galavision HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/68367?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5199/bpk-tv/00088/drm/manifest.mpd",
+        "key": [
+            "046e0893eaa05579b044f1605e685078:98af86902b3a5d7b2c06d8f0d5b60dfa"
+        ]
+    },
+    "Golf Channel HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/61854?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5255/bpk-tv/22034/drm/manifest.mpd",
+        "key": [
+            "03c09b05a4455f1d918171a8a85d8f7c:1e9415456f864c90441187009458407c"
+        ]
+    },
+    "Great American Family HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/82892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5122/bpk-tv/10395/drm/manifest.mpd",
+        "key": [
+            "789198fa7b425344bbb2d12e2e8d34e5:2d260c4f3914f186fd71af7e3a65ab7c"
+        ]
+    },
+    "HBO2 HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59368?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5202/bpk-tv/00094/drm/manifest.mpd",
+        "key": [
+            "27f72c866fa758bfbd47c9d56aa6cd5d:f414c6434865859b1f82313c2120302e"
+        ]
+    },
+    "HBO2 HD West": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59368?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5184/bpk-tv/00095/drm/manifest.mpd",
+        "key": [
+            "a4eca7acf5655cc3bb71d02757fbd64f:82b580cf7ff2a7a8f3bd30b7c0a08246"
+        ]
+    },
+    "HBO Comedy HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59839?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5329/bpk-tv/00096/drm/manifest.mpd",
+        "key": [
+            "e7b1a098fc385ce1ad5184f6845df733:2acfb8a7b643464916e1a783e76f4015"
+        ]
+    },
+    "HBO Comedy HD West": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59839?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5240/bpk-tv/00097/drm/manifest.mpd",
+        "key": [
+            "aa620c105dd156ba8268fcacc91a8088:bb57b447e7f7af7b1e36493556e7cb13"
+        ]
+    },
+    "HBO Family HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59357?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5126/bpk-tv/00099/drm/manifest.mpd",
+        "key": [
+            "f2b9164039b85194a09b2191c0788c89:a62d14bb01c1b317df74351d1eea3dce"
+        ]
+    },
+    "HBO Family HD West": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59357?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5193/bpk-tv/00100/drm/manifest.mpd",
+        "key": [
+            "a0d3dc283e565843bce507e44368eb88:2357474c539f72953d5a14dd4140790d"
+        ]
+    },
+    "HBO HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19548?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5178/bpk-tv/00098/drm/manifest.mpd",
+        "key": [
+            "94c59e957dd15591b031bdf6f46f8c48:28877c9485451b5471b824ad633ce5b6"
+        ]
+    },
+    "HBO HD West": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19548?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5089/bpk-tv/00105/drm/manifest.mpd",
+        "key": [
+            "f2e7b31724dd500baa0acf65e5e782c6:661bb2ae694e9f71bc1deac5d0a7124d"
+        ]
+    },
+    "HBO Latino HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/59849?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5221/bpk-tv/00101/drm/manifest.mpd",
+        "key": [
+            "b0bc8920855c557aa6153c6bfdb185f4:07b74cc447bbc59b283ccb1114ff31f5"
+        ]
+    },
+    "HBO Signature HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59363?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5274/bpk-tv/00103/drm/manifest.mpd",
+        "key": [
+            "add9e028f05052b0bc1290aa6da7fd86:3f399c67eeb595801cbe6530a9a634f8"
+        ]
+    },
+    "HBO Signature HD West": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59363?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5111/bpk-tv/00104/drm/manifest.mpd",
+        "key": [
+            "988ade23014255d08301c0129c76a699:f2b7982dc1ac20ebfef47f37742d0cef"
+        ]
+    },
+    "HBO Zone HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59845?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5055/bpk-tv/00106/drm/manifest.mpd",
+        "key": [
+            "a1f1ffaa5bbd570aaedacf3690f69067:a7018415339c00ba4e245e73f26f4a50"
+        ]
+    },
+    "HBO Zone HD West": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59845?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5105/bpk-tv/00107/drm/manifest.mpd",
+        "key": [
+            "e88cfebe77545f10ab54b72b4ebc506f:4f8de7e5c08bd729fe5caef8a09696cb"
+        ]
+    },
+    "HDNet Movies HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/33668?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5269/bpk-tv/18234/drm/manifest.mpd",
+        "key": [
+            "0fa4d91b114a565e8765b29ff66286f6:2885e3fc39e7f8ccf41daa627664920a"
+        ]
+    },
+    "HGTV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/49788?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5098/bpk-tv/00108/drm/manifest.mpd",
+        "key": [
+            "b84994c6b49659c79bb02e5ecbc86b5a:59ba1fc7a1297f7cf014cf7f9f6cb1e0"
+        ]
+    },
+    "HLN HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/64549?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5256/bpk-tv/24386/drm/manifest.mpd",
+        "key": [
+            "5acf4f3c7566520daf7d53a62172ec70:3546b9d9871645fe2642c7751c840d67"
+        ]
+    },
+    "HSN2 HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/99450?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5121/bpk-tv/18104/drm/manifest.mpd",
+        "key": [
+            "f4d44e4fc6655e238d1d7c1506c9c8e5:2f2c565985cd17d4d4b16993bca26eb0"
+        ]
+    },
+    "HSN HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/62077?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5277/bpk-tv/00117/drm/manifest.mpd",
+        "key": [
+            "4dde72cbce9059229a65f49536ea3465:a01e503a0a53563b984f5a84234f9919"
+        ]
+    },
+    "Hallmark Channel HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/66268?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5187/bpk-tv/00110/drm/manifest.mpd",
+        "key": [
+            "bb2f503e45eb5f309ef071790ddbb715:861088c2e9fe1631bbda88e03c117223"
+        ]
+    },
+    "Hallmark Family HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/105723?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5137/bpk-tv/21923/drm/manifest.mpd",
+        "key": [
+            "ae9d973cf05352df82cf16e3d90c90d2:7fc14c0dbfacf1dce94fa9d473edd934"
+        ]
+    },
+    "Hallmark Mystery HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/46710?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5278/bpk-tv/00112/drm/manifest.mpd",
+        "key": [
+            "03d429387fe05202a93cedd092533e83:14304323dde706d178226ab2c01e772c"
+        ]
+    },
+    "History HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/57708?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5262/bpk-tv/21692/drm/manifest.mpd",
+        "key": [
+            "e6694eea8fbb57b2b95e8078ad708abd:bb181ee0ff7b8328aba3d03dd9aec21d"
+        ]
+    },
+    "IFC HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59444?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5206/bpk-tv/21336/drm/manifest.mpd",
+        "key": [
+            "466f0b57dff05a5882c5c18820ce56ed:346e3d5f6f38e1c5cf61120ccfd629f1"
+        ]
+    },
+    "INSP HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/82773?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5194/bpk-tv/09177/drm/manifest.mpd",
+        "key": [
+            "d919ddec35985cbfb8a8756781586eb2:dc71a21ccfa809d8a2b0bbf35ae0ee8e"
+        ]
+    },
+    "IndiePlex": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Indieplex_logo.svg/320px-Indieplex_logo.svg.png",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5115/bpk-tv/00793/drm/manifest.mpd",
+        "key": [
+            "7b498d6d961652e49adab24d8b7f9508:f3ac5961775be66125587e1d1d3c7512"
+        ]
+    },
+    "Investigation Discovery HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/65342?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5100/bpk-tv/00118/drm/manifest.mpd",
+        "key": [
+            "651599d8551a59c0a59acad5bd7b85c2:a62c965cb9003b033703ae06c95befdf"
+        ]
+    },
+    "Jewelry TV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/65556?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5226/bpk-tv/00608/drm/manifest.mpd",
+        "key": [
+            "cfeb449fb39b5e79b098be5d93ae7dd6:01664c866e1bec4551550fce5cf809a6"
+        ]
+    },
+    "Justice Central HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/78850?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5214/bpk-tv/24754/drm/manifest.mpd",
+        "key": [
+            "5a255cb23bb153689a9e0716377f0f53:27a8c2397c7ebff3ad7b51ccd8111fb5"
+        ]
+    },
+    "LMN HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/55887?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5007/bpk-tv/21696/drm/manifest.mpd",
+        "key": [
+            "1d5dc6c9fdaa527f8ebed8bfdadd8978:568a2a2dc838e03d84957d7fcec4efc3"
+        ]
+    },
+    "Lifetime HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/60150?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5271/bpk-tv/21695/drm/manifest.mpd",
+        "key": [
+            "1b1efe24d9b056c4b8b642b968f3707b:391b3dc30abc9cece4d2a79ae4343703"
+        ]
+    },
+    "Lifetime Real Women": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/29612?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5019/bpk-tv/21762/drm/manifest.mpd",
+        "key": [
+            "ebbfdfe8475252ef87880cc427866e59:a34826887f27d0e2bf55abb84e3c4cf1"
+        ]
+    },
+    "Logo HD East": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/96971?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5042/bpk-tv/18262/drm/manifest.mpd",
+        "key": [
+            "d8569cae1ff053dea28a576f1790f7ed:be4840378e7610c2ebb9050da8d54287"
+        ]
+    },
+    "MGM+ Drive-In HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103828?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5272/bpk-tv/19834/drm/manifest.mpd",
+        "key": [
+            "69c6da89a16951dba98cc5f26fbd6280:d240d670e11468b8230c5ff3c992ce0b"
+        ]
+    },
+    "MGM+ HD East": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/65687?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5297/bpk-tv/10402/drm/manifest.mpd",
+        "key": [
+            "5a11ec83d2635493821ace28163476a2:83e96b90794af37cc2ffd134339cf7da"
+        ]
+    },
+    "MGM+ HD West": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/65687?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5180/bpk-tv/10403/drm/manifest.mpd",
+        "key": [
+            "7fe65ce7df5d55f9834dd9f34b0fa625:cd853f1e00ce95fb48ee2505e2d31091"
+        ]
+    },
+    "MGM+ HITS HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/67929?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5287/bpk-tv/10404/drm/manifest.mpd",
+        "key": [
+            "9da5406e34895b19957b2d706bdb47c3:999bc8dac480f82cbd67e85a5f862668"
+        ]
+    },
+    "MGM+ Marquee HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/74073?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5032/bpk-tv/10405/drm/manifest.mpd",
+        "key": [
+            "6b67abe507985bffa056a5336de52b15:5e57416498edfe3a0634644923496e67"
+        ]
+    },
+    "MSNBC HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/64241?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5018/bpk-tv/22035/drm/manifest.mpd",
+        "key": [
+            "daa8ca0e031759c1b5064cb4d79a3913:4340bf2f703a6899b31dbf3e1994fa35"
+        ]
+    },
+    "MTV2 HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/75077?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5282/bpk-tv/00841/drm/manifest.mpd",
+        "key": [
+            "0b635a290d6756a292adca66be3c6a4a:daf8b61903e5d9c9017b8f1fffe2617b"
+        ]
+    },
+    "MTV Classic": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/22561?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5196/bpk-tv/00412/drm/manifest.mpd",
+        "key": [
+            "94caf0eb0ce85e22be9d314e1e7a8096:8ad706ec7cea0f5f76fcea25131146ef"
+        ]
+    },
+    "MTV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/60964?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5254/bpk-tv/00392/drm/manifest.mpd",
+        "key": [
+            "0d98cc8932ca52bda35b51fa35f15991:ff4e8f3dfe691a585f65bfa428cb3972"
+        ]
+    },
+    "MTV Live": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/49141?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5088/bpk-tv/00405/drm/manifest.mpd",
+        "key": [
+            "92f5c47a7be65227a841873e033d7b5e:4a028d3eb701577fe2ea4f3f8fe76632"
+        ]
+    },
+    "Magnolia HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/67375?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5348/bpk-tv/00049/drm/manifest.mpd",
+        "key": [
+            "f530642a87ad5dd6b99afbbcb8dbcd85:f12fe8040e8b7603877a4fd912770fb8"
+        ]
+    },
+    "Max Latino HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5255/bpk-tv/00037/drm/manifest.mpd",
+        "key": [
+            "da36368bc70b525b8e1501fd606dd6e2:c56284bf595621c52f72c0564c007512"
+        ]
+    },
+    "Military History Channel": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/48999?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5236/bpk-tv/21763/drm/manifest.mpd",
+        "key": [
+            "891eacb1262a5ee89801abebd15b401f:eb3fdeba124e3438c75220f8e32ed943"
+        ]
+    },
+    "MoreMax HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59373?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5040/bpk-tv/00040/drm/manifest.mpd",
+        "key": [
+            "5cab021696165cf58cfa0b5170aaf4d2:1d3ab7b1873fe18a35432da1f160faf0"
+        ]
+    },
+    "MotorTrend HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/31046?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5277/bpk-tv/00237/drm/manifest.mpd",
+        "key": [
+            "b7b0c19da7695acfa9924e1cdaa7d830:adfe32539b7158762990cbb0f2263352"
+        ]
+    },
+    "MovieMAX HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59963?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5078/bpk-tv/00045/drm/manifest.mpd",
+        "key": [
+            "0d8c3d3c53b858d6b219fbf0e3c8e126:f451b3f2408c22994c384adf162f607a"
+        ]
+    },
+    "Movieplex HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/83075?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5222/bpk-tv/10369/drm/manifest.mpd",
+        "key": [
+            "6874e47744455e548bb2a91d078d2272:8bed885dfdc912a29acded6359cc2c5b"
+        ]
+    },
+    "NEWS 13 CENTRAL FL": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5167/bpk-tv/25996/drm/manifest.mpd",
+        "key": [
+            "2af3760121b851da84ebe04a148dbb37:f007a4f6873a53beb419e0ff8e79ab30"
+        ]
+    },
+    "NFL Network HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/45399?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5287/bpk-tv/13827/drm/manifest.mpd",
+        "key": [
+            "00e738c5267a571ca23f21b6d26419a6:84b61cbe00a8ee9d0ccb5da6034af797"
+        ]
+    },
+    "National Geographic HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/49438?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5023/bpk-tv/00158/drm/manifest.mpd",
+        "key": [
+            "ad5e0cdca7685766820727a0d8f54fef:736b90badd686a9730b12b78ee5367e7"
+        ]
+    },
+    "NewsNation HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/91096?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5035/bpk-tv/00757/drm/manifest.mpd",
+        "key": [
+            "668b5fc954b955d885d6cb98c09c58b7:ca828b181da4883968e61f2a9ef9597f"
+        ]
+    },
+    "Newsmax TV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/97163?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5071/bpk-tv/21366/drm/manifest.mpd",
+        "key": [
+            "c7900bdc83c851e38bf55b8181832ccd:d42dacca57deea8b64c56c1e514cca06"
+        ]
+    },
+    "Nick Jr HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/82649?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5060/bpk-tv/10412/drm/manifest.mpd",
+        "key": [
+            "c8a7aba12ca15ecd89ebbf7b30d93bac:7dd615b4bdfeb10e5998758c28a96206"
+        ]
+    },
+    "Nick Music": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/30418?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5308/bpk-tv/00394/drm/manifest.mpd",
+        "key": [
+            "bf21848038805a8f992f9d7896e55d15:6c70d21fc16042a83e3136abc7ad8e7e"
+        ]
+    },
+    "Nickelodeon HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59432?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5238/bpk-tv/00402/drm/manifest.mpd",
+        "key": [
+            "4f3589b058865008bca15c25b4450ede:74c1a4921e5fd3954bb84b5166aea680"
+        ]
+    },
+    "Nicktoons  HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/82654?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5063/bpk-tv/10413/drm/manifest.mpd",
+        "key": [
+            "b6651038ee5250699fbf233cf81a0e20:a82b8bff83e3b0eaaacf6308e61beef3"
+        ]
+    },
+    "OWN HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/70388?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5249/bpk-tv/00164/drm/manifest.mpd",
+        "key": [
+            "7bc0a209a44c550cb7e4ede794006008:62da0571743ea07c5ae41b2014967d51"
+        ]
+    },
+    "OuterMax HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59952?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5069/bpk-tv/00042/drm/manifest.mpd",
+        "key": [
+            "6d7893e6f16857228da43c4bb870a7f7:5960c95e58d93db1aaaf4eb01ec1789c"
+        ]
+    },
+    "Ovation TV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/69061?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5025/bpk-tv/00896/drm/manifest.mpd",
+        "key": [
+            "b193e146750b5bb4bc427e0742498de6:952c8e95f5c38f21c2c3d54a8f01f128"
+        ]
+    },
+    "Oxygen HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/70522?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5026/bpk-tv/22037/drm/manifest.mpd",
+        "key": [
+            "c976b252e301521f8d84fc00fdf32dd7:dceabbfa3b36ce0d610fcdd6469a64ad"
+        ]
+    },
+    "PAC-12 Arizona HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/76376?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5186/bpk-tv/00834/drm/manifest.mpd",
+        "key": [
+            "00fa3bf8ab9f56b18a7a35a7f9a01d44:51cf9a9d88e819bd00aefc5198200749"
+        ]
+    },
+    "PAC-12 Bay Area HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/76377?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5065/bpk-tv/00837/drm/manifest.mpd",
+        "key": [
+            "6f6b7b2188c0555ebbbf0ee8761b0c98:9270db9ffb68ee3d850954263d3850aa"
+        ]
+    },
+    "PAC-12 Los Angeles HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/76381?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5030/bpk-tv/00836/drm/manifest.mpd",
+        "key": [
+            "f6f03be1165259b3a5745303047e5414:ab03535c8d4baf7218370b9de97f28eb"
+        ]
+    },
+    "PAC-12 Mountain HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/76380?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5066/bpk-tv/00840/drm/manifest.mpd",
+        "key": [
+            "5c889aa5e2405748b381f6b896c0f69d:34fd368136e6e82f8f281e63f536dcb9"
+        ]
+    },
+    "PAC-12 National": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5101/bpk-tv/00833/drm/manifest.mpd",
+        "key": [
+            "f758a9bea4c85d128e2f7b42e3717f70:abdbdf16c6257f7567f26eb4cf4fa11a"
+        ]
+    },
+    "PAC-12 Oregon HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/76378?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5136/bpk-tv/00838/drm/manifest.mpd",
+        "key": [
+            "2a82d299519f5f0da7b293ec0ac44b44:29a4ec7d8ced7b5221b042f7b2006854"
+        ]
+    },
+    "PAC-12 Washington HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/76379?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5286/bpk-tv/00839/drm/manifest.mpd",
+        "key": [
+            "b4c79a5cfa675b0bbc86c7c2827e2738:35308edddf3ec9662a0ee0175c3cddfb"
+        ]
+    },
+    "POP HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/68796?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5047/bpk-tv/00216/drm/manifest.mpd",
+        "key": [
+            "f16bd788319f583fa833a26abccbaf8e:967b9800982e1ff4e8a90e96cd2382f9"
+        ]
+    },
+    "Paramount Network HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59186?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5232/bpk-tv/00406/drm/manifest.mpd",
+        "key": [
+            "49a38fffe29a5f1781da986b1da6999c:5687133327c0ce8da67b8bc55b5c1fcb"
+        ]
+    },
+    "Paramount Plus SHOW E HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/22532?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5231/bpk-tv/21772/drm/manifest.mpd",
+        "key": [
+            "bead563c1adb509c8c36b2cdc270f57a:5db2c3e7787893df8a3d962af25acea0"
+        ]
+    },
+    "Pets.TV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/81283?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5071/bpk-tv/24757/drm/manifest.mpd",
+        "key": [
+            "c8172bcbbc6e5958aa439c8eab46f692:2901c40a19193dc9ee7257c354e4795d"
+        ]
+    },
+    "QVC2 HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/82696?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5209/bpk-tv/10422/drm/manifest.mpd",
+        "key": [
+            "484e888131e7530290d67a6efbf9e6df:1eff85ba8ed332a07fbe7ecccb77ccf2"
+        ]
+    },
+    "QVC HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/60222?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5059/bpk-tv/00169/drm/manifest.mpd",
+        "key": [
+            "dee3d17f4cde519792cf4ea5db5f5390:c27c22abd84129dc99d2069b5e2bb24c"
+        ]
+    },
+    "Recipe.TV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/81289?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5051/bpk-tv/24755/drm/manifest.mpd",
+        "key": [
+            "cb82d35b9ee45defb9574d625541c8cd:11dc10ab94dc5ffeac27ac5be3c38184"
+        ]
+    },
+    "RetroPlex HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/65791?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5053/bpk-tv/00794/drm/manifest.mpd",
+        "key": [
+            "1850a851b9365ed3a708beb280939896:ae62639dd84b683b7a449ed2f41ad0de"
+        ]
+    },
+    "Revolt HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/83098?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5166/bpk-tv/10091/drm/manifest.mpd",
+        "key": [
+            "5c6e25e40cc15f2e8cd9f975fadd4478:465747321be12c3451693b15b89d8495"
+        ]
+    },
+    "SEC Network HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/89714?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5154/bpk-tv/24526/drm/manifest.mpd",
+        "key": [
+            "72c0dac086995b41b60072485ebc15cd:516cb8b4825b0755160dd20adf9ba596"
+        ]
+    },
+    "SHO x BET HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/68340?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5311/bpk-tv/00177/drm/manifest.mpd",
+        "key": [
+            "f8b95897da0d5079b405313c6fc98972:304ce55c4c02e6b0b9745406a950aa6b"
+        ]
+    },
+    "SPECTRUM NEW 1 - GREEN BAY/APPLETON": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5176/bpk-tv/23938/drm/manifest.mpd",
+        "key": [
+            "38c0c9ef52045542a1ffa1ed31b9a470:fbfa6a7e3ebb5f5c581acb83b928e37d"
+        ]
+    },
+    "SPECTRUM NEW 1 - MADISON": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5055/bpk-tv/23936/drm/manifest.mpd",
+        "key": [
+            "c2e21785ca1750b39654afa555838e50:81202f8e46fc932aa73e7e3c03b23f0b"
+        ]
+    },
+    "SPECTRUM NEW 1 - MILWAUKEE": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5177/bpk-tv/23939/drm/manifest.mpd",
+        "key": [
+            "4a41eaaf4be85ca9a1886ae1c5c54da9:931d466335317647c362071a7e3ef19b"
+        ]
+    },
+    "SPECTRUM NEWS 1 (CAROLINAS) -  GREENSBORO": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5193/bpk-tv/26012/drm/manifest.mpd",
+        "key": [
+            "291fe183d73c544ba4b3b3c5b1580221:db851c9d2f37b638414ff9937e24d948"
+        ]
+    },
+    "SPECTRUM NEWS 1 (CAROLINAS) - CHARLOTTE": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5107/bpk-tv/26009/drm/manifest.mpd",
+        "key": [
+            "881b473cad9c508587583b2350005a71:14f477230137264d523f8e6f92c1a538"
+        ]
+    },
+    "SPECTRUM NEWS 1 (CAROLINAS) - COASTAL": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5247/bpk-tv/26010/drm/manifest.mpd",
+        "key": [
+            "edfd22df766f5c20a1c444b0fadcce71:241346e73a1342821a28fa72e7e7f4e5"
+        ]
+    },
+    "SPECTRUM NEWS 1 (CAROLINAS) - MOUNTAIN": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5157/bpk-tv/26011/drm/manifest.mpd",
+        "key": [
+            "9618460a94535f818b028630b10889da:791debb639c7e9e2b2b74c1f5e5c4f9b"
+        ]
+    },
+    "SPECTRUM NEWS 1 (CAROLINAS) - RALEIGH": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5029/bpk-tv/26008/drm/manifest.mpd",
+        "key": [
+            "8a792435d5cc5b30924b772cd0e0ee18:4b7aa802cb51a4d1fa982ccebb4195b8"
+        ]
+    },
+    "SPECTRUM NEWS 1 - (KENTUCKY) - COVINGTON": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5200/bpk-tv/26001/drm/manifest.mpd",
+        "key": [
+            "1bdcfc10032458c8860a053e9ab1b693:db5e67cf7e3968247d4afa380a384ff7"
+        ]
+    },
+    "SPECTRUM NEWS 1 - (KENTUCKY) - EVANSVILLE": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5253/bpk-tv/26002/drm/manifest.mpd",
+        "key": [
+            "6d6f183be6df53a3a0df3d4ee9b96b1f:ecb78f118e98ac4b613c4e9ad16485e6"
+        ]
+    },
+    "SPECTRUM NEWS 1 - (KENTUCKY) LEXINGTON": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5135/bpk-tv/26003/drm/manifest.mpd",
+        "key": [
+            "fdcf3ae5fddc55689d995633b5d505f7:396c218c7b5d258838230e3fbbeb20ba"
+        ]
+    },
+    "SPECTRUM NEWS 1 - (KENTUCKY) LOUISVILLE": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5305/bpk-tv/26004/drm/manifest.mpd",
+        "key": [
+            "bd11400fed7c5dedb8a1956bdafa01f6:d49b7f6271c5e851b04a17bea5e1f8cd"
+        ]
+    },
+    "SPECTRUM NEWS 1 - (MA) PITTSFIELD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5156/bpk-tv/26005/drm/manifest.mpd",
+        "key": [
+            "fca1e47c4e405b1480fb285bbc402016:8303e72cd9dbcc41932b29b09f6359a8"
+        ]
+    },
+    "SPECTRUM NEWS 1 - (MA) SPRINGFIELD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5201/bpk-tv/26006/drm/manifest.mpd",
+        "key": [
+            "ea51206146a15f7e96758f6352d976af:3fc235cd7a1b866d118cdff086284004"
+        ]
+    },
+    "SPECTRUM NEWS 1 - (MA) WORCESTER": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5040/bpk-tv/26007/drm/manifest.mpd",
+        "key": [
+            "f96156288a615b838dffd14d310ffd99:f41506dba43473c395de0e0bdabace84"
+        ]
+    },
+    "SPECTRUM NEWS 1 - CINCINNATI": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5281/bpk-tv/23930/drm/manifest.mpd",
+        "key": [
+            "5ec3404ee04f5cd495b0755ab5549c64:821e9f00c2407dad1309af3b8b109d34"
+        ]
+    },
+    "SPECTRUM NEWS 1 - CLEVELAND/AKRON": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5294/bpk-tv/23927/drm/manifest.mpd",
+        "key": [
+            "58f7ef2e8081591aa8e38e1e690a884f:4a8b20612938b7712aedca4f688ef625"
+        ]
+    },
+    "SPECTRUM NEWS 1 - COLUMBUS": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5282/bpk-tv/23932/drm/manifest.mpd",
+        "key": [
+            "9477ccf5ca3e53d185c0c05ff2cce9ab:55e62f2683b977d6ede8d8ce19ce868f"
+        ]
+    },
+    "SPECTRUM NEWS 1 - DALLAS -FT WORTH": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5344/bpk-tv/23933/drm/manifest.mpd",
+        "key": [
+            "27ac221f87355dbb94b698cda2db3c0c:ae893b2c0c160d6e966a9b3e60cfe21f"
+        ]
+    },
+    "SPECTRUM NEWS 1 - DAYTON": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5246/bpk-tv/23931/drm/manifest.mpd",
+        "key": [
+            "aba55dd8aaa1557195a410d5df898da1:5a9691f146e6ee593beb30c63123d91e"
+        ]
+    },
+    "SPECTRUM NEWS 1 - EL PASO TEXAS": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5317/bpk-tv/23937/drm/manifest.mpd",
+        "key": [
+            "d5e822e21b6455aeafc6b050fffe6909:2050162a031cfa145160cff51a97bcb4"
+        ]
+    },
+    "SPECTRUM NEWS 1 - SO CAL": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5320/bpk-tv/25994/drm/manifest.mpd",
+        "key": [
+            "6b3c0f591865559d9ff76819e12c0534:7daaff6e5316e605924ea04966bf59aa"
+        ]
+    },
+    "SPECTRUM NEWS 1 - TOLEDO/LIMA": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5165/bpk-tv/23944/drm/manifest.mpd",
+        "key": [
+            "a6852c30ccb25a91a27f07632250f35d:febc421bae20f580d3e959639b897bbf"
+        ]
+    },
+    "SPECTRUM NEWS - (NEW YORK) ROCHESTER": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5172/bpk-tv/23928/drm/manifest.mpd",
+        "key": [
+            "1fc01fa3a4b05e54a1f5d523433e560d:26c0f0ebfb88680da3f876898b4e3b8b"
+        ]
+    },
+    "SPECTRUM NEWS - ALBANY CAPITAL REGION": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5141/bpk-tv/26016/drm/manifest.mpd",
+        "key": [
+            "63c34f24cf62537ab2c3fc3eba66de4b:47aeac84ca1528d8def3c197225b819f"
+        ]
+    },
+    "SPECTRUM NEWS - AUSTIN": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5176/bpk-tv/23934/drm/manifest.mpd",
+        "key": [
+            "68db6c7a8d1b5e218409cc2c03bb91ab:fd94ddf06474ab9a4e051d3ac02e8f93"
+        ]
+    },
+    "SPECTRUM NEWS - BUFFALO": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5248/bpk-tv/26015/drm/manifest.mpd",
+        "key": [
+            "3673cd7af1ad52bc983b46a70708022f:755dbbc1bd172d4aeb2f05f8cf7038db"
+        ]
+    },
+    "SPECTRUM NEWS - CENTRAL NY": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5270/bpk-tv/26017/drm/manifest.mpd",
+        "key": [
+            "42ef4f65388c553a896887fb53e39920:f6cf85b3a67952d91a13359f5bcf9f90"
+        ]
+    },
+    "SPECTRUM NEWS - HUDSON VALLEY": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5007/bpk-tv/10078/drm/manifest.mpd",
+        "key": [
+            "4c52e74b72f255bd915d99de2f905e93:d54dbd8141b9d600b39d7da592a0df20"
+        ]
+    },
+    "SPECTRUM NEWS - NY1": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5309/bpk-tv/26013/drm/manifest.mpd",
+        "key": [
+            "b69118411fb8534cbc3acc92cb59def1:4d2f467d21d0b5904d3cb29217c2df90"
+        ]
+    },
+    "SPECTRUM NEWS - SAN ANTONIO": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5186/bpk-tv/23935/drm/manifest.mpd",
+        "key": [
+            "15de62504c0b59a1be04abf91636b034:015dbdef2a78e1fa0bece3425b970daa"
+        ]
+    },
+    "SPECTRUM NOTICIAS NY1": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5039/bpk-tv/26014/drm/manifest.mpd",
+        "key": [
+            "466a1e5bf01f5551a7bf73ffc4e4be60:acd3c6e781ec199241c10d1eb5d69736"
+        ]
+    },
+    "SYFY HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/58623?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5184/bpk-tv/22040/drm/manifest.mpd",
+        "key": [
+            "576802ec3156591bae6aaaa0b07cf5bb:c4352f2b6ba303434cd425dea4aaae45"
+        ]
+    },
+    "Science Channel HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/57390?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5106/bpk-tv/00173/drm/manifest.mpd",
+        "key": [
+            "a0f5a8f7659458b89063a795b4023c69:cdbc901385f88a06437bb1d751e2fa0a"
+        ]
+    },
+    "Showtime 2 HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5325/bpk-tv/00175/drm/manifest.mpd",
+        "key": [
+            "07203cc0809b5dd3b20e99a824497a39:2204efdbcabbef1bf66ec36fada92203"
+        ]
+    },
+    "Showtime Extreme HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5174/bpk-tv/19836/drm/manifest.mpd",
+        "key": [
+            "689e96f0a97e553d97bf8c128b9cd5a1:00cf51b00ccbf4bbe371a6d3eab121b6"
+        ]
+    },
+    "Showtime Family Zone HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5338/bpk-tv/20022/drm/manifest.mpd",
+        "key": [
+            "8cc7f64867fe5d7b930d34c0d6f440b7:da1b2a57f421ab2e0c5402bb9e7efed4"
+        ]
+    },
+    "Showtime Next HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5256/bpk-tv/19838/drm/manifest.mpd",
+        "key": [
+            "0d093277c7705c7686e46081a96a615c:e47012d0c377c4f30f44e03296b51bf2"
+        ]
+    },
+    "Showtime Showcase HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/61001?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5330/bpk-tv/00188/drm/manifest.mpd",
+        "key": [
+            "8ea719704d4856c4a9a133de247a1f0a:c24b4f932ea9a713e397101918f16b62"
+        ]
+    },
+    "Showtime Women HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5162/bpk-tv/00190/drm/manifest.mpd",
+        "key": [
+            "54a10ade5546565eaaeb6438dbb96e6d:43ab34018077842b0617dd934671e2b5"
+        ]
+    },
+    "Smithsonian Channel HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/58532?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5256/bpk-tv/00192/drm/manifest.mpd",
+        "key": [
+            "070c87b51afa5e6ba592d3f65daae0b6:b334f3efc65cc5174c25a83b10fb9bfe"
+        ]
+    },
+    "Spectrum News 1 Ohio HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5126/bpk-tv/21639/drm/manifest.mpd",
+        "key": [
+            "5ee6f746dcf950f4a26fdcf917ae5e63:3d386303073ea2c5640e2d7674a41ff5"
+        ]
+    },
+    "Spectrum OC16®": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/103892?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5260/bpk-tv/25998/drm/manifest.mpd",
+        "key": [
+            "6ddf4dd190d5526d98f2f55932dbd5af:4c6bb295065529366aa93f554f254b6b"
+        ]
+    },
+    "Spectrum Sports": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/123804?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5175/bpk-tv/25999/drm/manifest.mpd",
+        "key": [
+            "bc790ba2727c5af280a74b96bbc56c2f:a68abeac993a5c4f79f4933678323450"
+        ]
+    },
+    "Spectrum SportsNet HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/123804?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5203/bpk-tv/04656/drm/manifest.mpd",
+        "key": [
+            "93ae966873f450788c4a91f598fdad22:456170373530ea1a19564d9c8277c71c"
+        ]
+    },
+    "Starz Cinema HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/67236?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5257/bpk-tv/00198/drm/manifest.mpd",
+        "key": [
+            "bc54644857225ad995ed4969ffb24a70:737640475b624b4dd57d858f91427334"
+        ]
+    },
+    "Starz Edge HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/57573?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5144/bpk-tv/00200/drm/manifest.mpd",
+        "key": [
+            "5f2fa0dacfd250ed8c0cd257f93ca4f8:9ab0e6a7257792d2581c949406ff7bbb"
+        ]
+    },
+    "Starz Encore Action HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/72015?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5273/bpk-tv/00796/drm/manifest.mpd",
+        "key": [
+            "27703ef8ee985e8eb20c08600a258a55:a07ed8ffbd887331c4ba1b085b86913a"
+        ]
+    },
+    "Starz Encore Black HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/72014?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5326/bpk-tv/00797/drm/manifest.mpd",
+        "key": [
+            "f648e7511a3f5d06aa21d7a1eaa88f34:a2b4132c992296a3f6566ff46f7d2b24"
+        ]
+    },
+    "Starz Encore Classic HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/83404?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5205/bpk-tv/10367/drm/manifest.mpd",
+        "key": [
+            "7252f310cf415ee2aa934e9cb09eb2b4:d62b06f6981a7f6547f3ec8d2851a4a7"
+        ]
+    },
+    "Starz Encore Family HD East": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/14886?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5138/bpk-tv/19656/drm/manifest.mpd",
+        "key": [
+            "844a13f3c6ff5c85a8f27f741f0c1d8f:9efdf5cdef141b45ded2f1d06c7a3a97"
+        ]
+    },
+    "Starz Encore HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/67237?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5218/bpk-tv/00071/drm/manifest.mpd",
+        "key": [
+            "f1a6fa48dc4059b09cb2a16b4cf745aa:831ab52d10bffc32cf373165b7008365"
+        ]
+    },
+    "Starz Encore Suspense HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/83076?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5081/bpk-tv/10368/drm/manifest.mpd",
+        "key": [
+            "72ed27fdb2ee5fd9b921fb8d050ee85b:d65dfb0c1e8e1357a8b74aa55675b999"
+        ]
+    },
+    "Starz Encore Westerns": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/14765?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5212/bpk-tv/19657/drm/manifest.mpd",
+        "key": [
+            "dcaaf3ff87af57efa265cd9c7e6c30ca:2fb6050d1c42bd28cc7ef21879723c6e"
+        ]
+    },
+    "Starz HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/34941?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5059/bpk-tv/00201/drm/manifest.mpd",
+        "key": [
+            "af163db0bf11532a829887d68907a632:7fd513681158eb343f64eaef0b7a634d"
+        ]
+    },
+    "Starz Kids & Family HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/57581?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5247/bpk-tv/00203/drm/manifest.mpd",
+        "key": [
+            "6d01b28d514850129a432647f3c48c8d:32c4d1a57c8a7d89abec4099f7362693"
+        ]
+    },
+    "Starz in Black HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/67235?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5332/bpk-tv/00204/drm/manifest.mpd",
+        "key": [
+            "2c426d32aa4a59f0b4116a689aaa528e:c158360302c908f0d12b4055b37a5818"
+        ]
+    },
+    "Stellar TV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/130088?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5114/bpk-tv/26431/drm/manifest.mpd",
+        "key": [
+            "53422e1cf429545ead88b44c279c2be3:20f421711bb1f53fb2d0f11099037927"
+        ]
+    },
+    "SundanceTV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/71280?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5019/bpk-tv/21341/drm/manifest.mpd",
+        "key": [
+            "c3d35c15cc7154e3ac96fcb6c96c1d41:811d7e5c0f5de84857b3ba24ffa96fd9"
+        ]
+    },
+    "TBN HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59539?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5289/bpk-tv/00786/drm/manifest.mpd",
+        "key": [
+            "62112855442b5d2881a5fbf4e644364a:a8ed3f8e4be4250e43b3d5cad6dcf55f"
+        ]
+    },
+    "TBS HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/58515?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5230/bpk-tv/24432/drm/manifest.mpd",
+        "key": [
+            "57b757e8e20454969a0f79ebbd5f52ec:cbc7db3a844adc47e04000c1de2618f0"
+        ]
+    },
+    "TCM HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/64312?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5157/bpk-tv/24385/drm/manifest.mpd",
+        "key": [
+            "71f8e62fcc615ed296815e34fab421a4:45035f3dc0e456062bc6d4cb4806dce4"
+        ]
+    },
+    "TLC HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/57391?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5243/bpk-tv/00212/drm/manifest.mpd",
+        "key": [
+            "298c430eac5e5b609e35e38258319e71:23db59bde6b0f22b8fcfdd2c9054ba32"
+        ]
+    },
+    "TMC HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/35329?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5285/bpk-tv/00226/drm/manifest.mpd",
+        "key": [
+            "36343742c9035fec941ec1a516677f9b:f2a6f0c9b750edfb96d8924e395f2519"
+        ]
+    },
+    "TNT HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/42642?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5263/bpk-tv/24429/drm/manifest.mpd",
+        "key": [
+            "19dd2554b95654aca389a2b14a4364f5:46e7b7babc9dffa40a1a5f9455937f15"
+        ]
+    },
+    "TV Land HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/73541?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5195/bpk-tv/00843/drm/manifest.mpd",
+        "key": [
+            "df376fefbdcf5bd49ceb12aabe5483bd:679f1b9720497372f7336a285ab4387e"
+        ]
+    },
+    "TV One HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/61960?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5011/bpk-tv/00219/drm/manifest.mpd",
+        "key": [
+            "64f967effcd051b593122a8e076e14e2:19f444ffb8d08bc48f42fe3f042825ef"
+        ]
+    },
+    "TVG Network HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://asset.brandfetch.io/idhm21szUz/idJBkzW-mh.jpeg?updated=1710930375185",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5086/bpk-tv/19641/drm/manifest.mpd",
+        "key": [
+            "9265b01aceb752459e6706b0578bc409:25111acc64d77cf6e29fa6e83e65d1c5"
+        ]
+    },
+    "TeenNick HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/97047?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5287/bpk-tv/18306/drm/manifest.mpd",
+        "key": [
+            "92f0a8a169c554d59ab88c7f7057c3d8:d4b080eb27fd19a8cb10b1cc7d9777c2"
+        ]
+    },
+    "Tennis Channel HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/60316?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5064/bpk-tv/00224/drm/manifest.mpd",
+        "key": [
+            "c74f7bd306345835bd4ab01b432dd994:15afb76da3f1e7b3818b0006c18eac26"
+        ]
+    },
+    "The Movie Channel Extra HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/60951?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5054/bpk-tv/00228/drm/manifest.mpd",
+        "key": [
+            "f95a9fbeafb857f3b1808e7b89c74439:3ed455c56a33de7bb859e574fedc2f5b"
+        ]
+    },
+    "The Weather Channel HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/58812?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5111/bpk-tv/15721/drm/manifest.mpd",
+        "key": [
+            "de841beb3c8c5513b8e1d17d606a04aa:be8f3a7370ed28b25cb630b296d93d6a"
+        ]
+    },
+    "TheGrio HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/113492?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5278/bpk-tv/23981/drm/manifest.mpd",
+        "key": [
+            "47dd7f0e53c35a92bdf42c1012b8e148:f005e3c44b9ae8bb386bc9c924509940"
+        ]
+    },
+    "ThrillerMax HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59954?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5023/bpk-tv/00043/drm/manifest.mpd",
+        "key": [
+            "1fe8dffd7de75a288820010e58b99fbf:df70a17a403193790185b0342b19b19e"
+        ]
+    },
+    "Travel Channel HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/87182?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5012/bpk-tv/00231/drm/manifest.mpd",
+        "key": [
+            "4754b5c3576c5b35b1627f37a34209df:e522b9de6d30f1778194b287ceec31d6"
+        ]
+    },
+    "ULTRA Cine HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/79680?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://cip4-20424bb140.linear-novi.stvacdn.spectrum.com/LIVE/5342/bpk-tv/18295/drm/manifest.mpd",
+        "key": [
+            "9b0b250a1bb857cc92f5f10001b15466:f9d35b30c041cfc49f4570e355d71d3f"
+        ]
+    },
+    "ULTRA Clasico HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/79695?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://cip4-20424bb140.linear-novi.stvacdn.spectrum.com/LIVE/5146/bpk-tv/18296/drm/manifest.mpd",
+        "key": [
+            "2035f0bb81fa59f0adb4d044e238af82:7c3117a1cf007d9db0c09ba42b29c8db"
+        ]
+    },
+    "ULTRA Mex HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/79692?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://cip4-20424bb140.linear-novi.stvacdn.spectrum.com/LIVE/5212/bpk-tv/18302/drm/manifest.mpd",
+        "key": [
+            "84aa5a1b47ed5e46b6f832ad429ff6fc:529fe1c4430bf2939e2666b30a16ffb4"
+        ]
+    },
+    "USA HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/58452?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5040/bpk-tv/22043/drm/manifest.mpd",
+        "key": [
+            "a488faafed635994abc5adc9572b7f39:89f380a0e27e9d57fa553602782951d4"
+        ]
+    },
+    "Universal Kids HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/70225?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5286/bpk-tv/22041/drm/manifest.mpd",
+        "key": [
+            "7cfb9a15ba255f2da25cc92a2827e211:d619a4cc395a28302a424504c0f63bb2"
+        ]
+    },
+    "Up TV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/66143?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5260/bpk-tv/00091/drm/manifest.mpd",
+        "key": [
+            "ebfb0b472f4e57f9b96913627b47022d:36e6b2935bfd0c72f810f28062ff7f37"
+        ]
+    },
+    "VH1 HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/60046?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5236/bpk-tv/00410/drm/manifest.mpd",
+        "key": [
+            "4f07a37ba2055a19807b02f7f2293542:8de6454d5a866aedbb84a5213ebc70d1"
+        ]
+    },
+    "Vice HD East": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/65732?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5349/bpk-tv/21693/drm/manifest.mpd",
+        "key": [
+            "d6e7c6aa99bc5def88ddaff33bca0052:bd6e82f785424946ae7955f8db938c87"
+        ]
+    },
+    "WE tv HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/59296?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5020/bpk-tv/21342/drm/manifest.mpd",
+        "key": [
+            "db7322b389e953599830c4e0aa7d49ad:00ac9909b5fadc5f30a9288cc1e4b8f2"
+        ]
+    },
+    "beIN SPORTS Espanol HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net//imageserver/guide/76955?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5045/bpk-tv/04736/drm/manifest.mpd",
+        "key": [
+            "714587fc3b705d658b8918a7aa64acec:c3047d8c904ff9a884d3cbfc0477588b"
+        ]
+    },
+    "beIN SPORTS HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/76950?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5291/bpk-tv/04735/drm/manifest.mpd",
+        "key": [
+            "2f58599ceb575f56971db17f0d35f9eb:aeee25237d8e6f30ea5a40c7ffca79c3"
+        ]
+    },
+    "i24 News HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/102309?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5165/bpk-tv/19955/drm/manifest.mpd",
+        "key": [
+            "167dcab6e710588abe7049268fbdb308:73aaed6be87a381d78cd78a732373ede"
+        ]
+    },
+    "truTV HD": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/64490?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5257/bpk-tv/24382/drm/manifest.mpd",
+        "key": [
+            "d04ba6a5f6875adfbbd084988f4b3ebf:73fe1a644f4067de44ea323542244c16"
+        ]
+    },
+    "~MC01": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5305/bpk-tv/00630/drm/manifest.mpd",
+        "key": [
+            "0095030ceb3e55cda1cfab8be6a003c9:0d83b50068c41bf00dc41ae8cc72b6ef"
+        ]
+    },
+    "~MC02": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5139/bpk-tv/10375/drm/manifest.mpd",
+        "key": [
+            "1622d1f69e455e288391ae6dd4df4eec:61a6fb6fba854c3c3b918982d7f8c97a"
+        ]
+    },
+    "~MC03": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5253/bpk-tv/00625/drm/manifest.mpd",
+        "key": [
+            "22afa75c844758b4b3104ec1fe71734a:87db390b5d881de144def7aed773c8f9"
+        ]
+    },
+    "~MC04:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5144/bpk-tv/00634/drm/manifest.mpd",
+        "key": [
+            "ee0ad8ed720a5a21a07652e7714099c3:eb6685697c92da01ce9fb31aa95b679b"
+        ]
+    },
+    "~MC05:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5103/bpk-tv/00628/drm/manifest.mpd",
+        "key": [
+            "9bf59bb31de35903a1a53a0104841783:03079a9977cfd3873402dddb2769a7ab"
+        ]
+    },
+    "~MC06": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5237/bpk-tv/00643/drm/manifest.mpd",
+        "key": [
+            "8e28454fa72e5bf5b0e16e5aa5a0142b:effc3a456f5118f45418cebac8efcd6b"
+        ]
+    },
+    "~MC07:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5273/bpk-tv/00629/drm/manifest.mpd",
+        "key": [
+            "ad5c95cd650a5f959c068ac696d1bbbf:2c43ed82c5952672435e43f7b4805ee2"
+        ]
+    },
+    "~MC08:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5056/bpk-tv/00655/drm/manifest.mpd",
+        "key": [
+            "e8d7ae6d7337552b9a9cb8ff1987c067:85e4d4cf5c89e4a9824051662fc0e3e8"
+        ]
+    },
+    "~MC09:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5147/bpk-tv/00641/drm/manifest.mpd",
+        "key": [
+            "c2967a2594d55c7db43afe9d4443368a:58293fe8669f73fd603e32c5f720bfec"
+        ]
+    },
+    "~MC10:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5118/bpk-tv/00642/drm/manifest.mpd",
+        "key": [
+            "34bed895738d5000b9bdeca3f0ba6e7f:9d1f300a99db5bff281fdadfccae29ac"
+        ]
+    },
+    "~MC11:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5251/bpk-tv/00627/drm/manifest.mpd",
+        "key": [
+            "7b175fb0e38c5724aea31a533116fc5c:4b3a2de0437760af1edf899d26772b6a"
+        ]
+    },
+    "~MC12:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5283/bpk-tv/00644/drm/manifest.mpd",
+        "key": [
+            "297db2a0c4dc5539946a16b73d206700:65f11de954a8dbdabf88121acd67c6ab"
+        ]
+    },
+    "~MC13:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5198/bpk-tv/00646/drm/manifest.mpd",
+        "key": [
+            "d531eb4f49f059eea07ef0b7750740ac:0e180a7d93e3a4141414ecad865ba54d"
+        ]
+    },
+    "~MC14:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5069/bpk-tv/00635/drm/manifest.mpd",
+        "key": [
+            "98acff211a335a1abbeca12644af8b35:be07ba44c86bff21ba0f058915f421ca"
+        ]
+    },
+    "~MC15:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5112/bpk-tv/10376/drm/manifest.mpd",
+        "key": [
+            "62064981eb975201917556328b936ed0:3bf66b7fc62f3cef0c84d517f7fbcd3f"
+        ]
+    },
+    "~MC16:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5241/bpk-tv/10377/drm/manifest.mpd",
+        "key": [
+            "f3fdf759092b58758cc476a2caf9c0e2:f7c075929d7657180e22445a052a0854"
+        ]
+    },
+    "~MC17:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5345/bpk-tv/00645/drm/manifest.mpd",
+        "key": [
+            "8be8bfa385a859a782cf6caeeb524324:c346ba7b7a8b43ccd0ccb8610a676a0c"
+        ]
+    },
+    "~MC18:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5315/bpk-tv/00622/drm/manifest.mpd",
+        "key": [
+            "277e9f2aad75597dadd5745cb207d1a7:3b38966df8de7280b6b9a41df9dc7ebe"
+        ]
+    },
+    "~MC19:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5084/bpk-tv/00650/drm/manifest.mpd",
+        "key": [
+            "e8eed322c0f35057b308b6fae10f2d8b:a702cd597678ea0be8f1fc4c600655ad"
+        ]
+    },
+    "~MC20:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5274/bpk-tv/10378/drm/manifest.mpd",
+        "key": [
+            "066027a9cc04572db39f4c03636701f6:53f3895a8664c783d881695c2f6958a9"
+        ]
+    },
+    "~MC21:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5085/bpk-tv/00639/drm/manifest.mpd",
+        "key": [
+            "3de696ba632954e58756339e1c528037:7a020576053c9533276dfcbc73ea6cf2"
+        ]
+    },
+    "~MC22:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5246/bpk-tv/00638/drm/manifest.mpd",
+        "key": [
+            "8d0ddb23d81150bb8cebee4ea69c82c9:2b81d5a934b550d7fc6a1b2fa471b70b"
+        ]
+    },
+    "~MC23:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5156/bpk-tv/10379/drm/manifest.mpd",
+        "key": [
+            "269619ce5e695f078cafedd1ca9d9ee7:8d287924455f7ca895ba9047c96e154c"
+        ]
+    },
+    "~MC24:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5140/bpk-tv/00632/drm/manifest.mpd",
+        "key": [
+            "3f9e0379d514507dbec822609e9ebfe3:e2dabaf9c5eb73d02e772d80a4da71ec"
+        ]
+    },
+    "~MC25:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5322/bpk-tv/00657/drm/manifest.mpd",
+        "key": [
+            "02d09e5a8beb5f43b2f2f3f363f076b7:8b6c8d587d6fb0c8ca015abe08e9feb8"
+        ]
+    },
+    "~MC26:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5194/bpk-tv/10380/drm/manifest.mpd",
+        "key": [
+            "062de247b0a35b7aa139b377ab1630f7:93993a78efb308f1e956db36e5b668d4"
+        ]
+    },
+    "~MC27:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5326/bpk-tv/10381/drm/manifest.mpd",
+        "key": [
+            "3b3817b3133657a1b1c701e568a3b0a2:6344bbee89e4fdd357d307b8303c3404"
+        ]
+    },
+    "~MC28:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5064/bpk-tv/10382/drm/manifest.mpd",
+        "key": [
+            "8aae4f38fe8f50f796520506090f2379:421381dd08b6e676297928221e641098"
+        ]
+    },
+    "~MC29:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5254/bpk-tv/10383/drm/manifest.mpd",
+        "key": [
+            "a2a946c0b0da522582fbdadc310c2e0e:ab4c5005ef833cce4298bdb797c4085e"
+        ]
+    },
+    "~MC30:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5228/bpk-tv/00651/drm/manifest.mpd",
+        "key": [
+            "cf8b96dc55c85beda18180d4cd49c07c:1e6019f4421245fc20771bac37c11f66"
+        ]
+    },
+    "~MC31:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5255/bpk-tv/10385/drm/manifest.mpd",
+        "key": [
+            "695f810bd813599ca3f3447d7cfe6049:bb043cf418fc28cdd627290b7bf8c271"
+        ]
+    },
+    "~MC32:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5218/bpk-tv/00656/drm/manifest.mpd",
+        "key": [
+            "7425662bd3805d8b903718c442b72219:63235c618980b1f3500e007157cfcc1b"
+        ]
+    },
+    "~MC33:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5086/bpk-tv/00659/drm/manifest.mpd",
+        "key": [
+            "517cc6e8f5715f2db804d7ca55694491:ef5574dd5ddc7d26425409ebedecdeeb"
+        ]
+    },
+    "~MC34:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5292/bpk-tv/00621/drm/manifest.mpd",
+        "key": [
+            "b890e134dc8d55dc9f23763b39584df6:d2f6b71ffa70ed4d20474bc4121bb3c4"
+        ]
+    },
+    "~MC35:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5088/bpk-tv/00624/drm/manifest.mpd",
+        "key": [
+            "3cbac7e6ec3d51afb38f10df0bfb7c64:e47d5b3e4c865432e9716c57704331a7"
+        ]
+    },
+    "~MC36:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5141/bpk-tv/00640/drm/manifest.mpd",
+        "key": [
+            "25d634eefaaa5e2a8be3904dad2d5200:67053c2e4490118d158f4162f9b72e59"
+        ]
+    },
+    "~MC37:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5156/bpk-tv/00637/drm/manifest.mpd",
+        "key": [
+            "ee472e6f64eb5da8acab47e3b3f21890:2a5844d0c6644d13dc6571fb2f330917"
+        ]
+    },
+    "~MC38:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5028/bpk-tv/00636/drm/manifest.mpd",
+        "key": [
+            "8707e15860bb586992d070e0700f0782:50e0b9ef8e2d22658651948330ee414b"
+        ]
+    },
+    "~MC39:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5332/bpk-tv/00658/drm/manifest.mpd",
+        "key": [
+            "bba9699317da58fda9329d7192acc346:4f730b8820f89021e149c2de02b3fcd6"
+        ]
+    },
+    "~MC40:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5121/bpk-tv/00647/drm/manifest.mpd",
+        "key": [
+            "5efc3399302f5e8fa511b50168960ec6:5257882ee24c2bf645a35a0f7d4a5930"
+        ]
+    },
+    "~MC41:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5142/bpk-tv/00652/drm/manifest.mpd",
+        "key": [
+            "441b498cd4da557ba7f4de127ef3236f:3004855359fb24aa0a40aee799c9db79"
+        ]
+    },
+    "~MC42:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5109/bpk-tv/00654/drm/manifest.mpd",
+        "key": [
+            "abf2347eb57958998f9f00618f9684ac:2ef6e757a0f3c14ed596610a59df1ed1"
+        ]
+    },
+    "~MC43:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5220/bpk-tv/00653/drm/manifest.mpd",
+        "key": [
+            "e997216d00b159e899d556ef6b9a6243:c481ac0bbf4957b7eb0813ad7d3a5041"
+        ]
+    },
+    "~MC44: Tropicales": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5046/bpk-tv/00649/drm/manifest.mpd",
+        "key": [
+            "e853a51c89515eafb7530dcdc3a8f495:d18fc2f51a5c1d8795554f190097fbff"
+        ]
+    },
+    "~MC45:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5329/bpk-tv/00631/drm/manifest.mpd",
+        "key": [
+            "c9f8a0c952375a17b032acd0b5c52c01:13a2053e7f58f6ac58071d99e67eec4f"
+        ]
+    },
+    "~MC46:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5289/bpk-tv/00620/drm/manifest.mpd",
+        "key": [
+            "5d6ddb159af75e35a99b10907346039e:c9f4639ea9c0a83c1683b4806850ec2b"
+        ]
+    },
+    "~MC47": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5284/bpk-tv/00648/drm/manifest.mpd",
+        "key": [
+            "ca0dd4a48d6a525d856d4b6149fecd54:0c117687a6c1ccf164ee3e93e1452849"
+        ]
+    },
+    "~MC48:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5177/bpk-tv/00626/drm/manifest.mpd",
+        "key": [
+            "ca48c08395c751ecac62aa6221858fed:d3058a74bffc9232ba2c13f5fcb0320d"
+        ]
+    },
+    "~MC49:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5098/bpk-tv/00623/drm/manifest.mpd",
+        "key": [
+            "fee99fed21b855678f331b818a4e216b:3929ddf73f03446b0818f7403b3b081b"
+        ]
+    },
+    "~MC50:": {
+        "group": "Spectrum | USA",
+        "group-logo": "https://i.postimg.cc/qMD1WYHK/Spectrum.png",
+        "logo": "https://cdnimg.spectrum.net/imageserver/guide/19332?sourceType=colorHybrid&twccategory=deluxe&width=360",
+        "playbackUrl": "https://origin.stvacdn.spectrum.com/LIVE/5198/bpk-tv/00633/drm/manifest.mpd",
+        "key": [
+            "02656a3a35cb532a940fd8a9751a83da:deee8ded9fb01c0a1ddfeb42e2a296ec"
+        ]
+    }
+}
+REAL SCRIPTS DEVELOPERS TEAM:  DRM SPARK
+TELEGRAM ID : @DRMSPARK
+TELEGRAM OFFICIAL CHANNEL : https://t.me/drmsparks
+( AVIALABLE ALL CONFIGS , O11 PANEL , XACCEL CONFIGS )

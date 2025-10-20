@@ -1,0 +1,269 @@
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1 tvg-id="TNT_Sports_1" tvg-name="TNT SPORTS 1" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png" group-title="beesports",TNT SPORTS 1
+http://127.0.0.1:5000?id=TNT_Sports_1
+
+#EXTINF:-1 tvg-id="TNT_Sports_2" tvg-name="TNT SPORTS 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/s1-n-k-n3-b-sj-q-mam9-f-xn-w-g-rfo-q-o-ngb-pqypaz-ub5tj11.png" group-title="beesports",TNT SPORTS 2
+http://127.0.0.1:5000?id=TNT_Sports_2
+
+#EXTINF:-1 tvg-id="TNT_Sports_3" tvg-name="TNT SPORTS 3" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png" group-title="beesports",TNT SPORTS 3
+http://127.0.0.1:5000?id=TNT_Sports_3
+
+#EXTINF:-1 tvg-id="TNT_Sports_4" tvg-name="TNT SPORTS 4" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png" group-title="beesports",TNT SPORTS 4
+http://127.0.0.1:5000?id=TNT_Sports_4
+
+#EXTINF:-1 tvg-id="Sky_Sports_Football_Live_TV" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png" group-title="beesports",SKY SPORTS FOOTBALL
+http://127.0.0.1:5000?id=Sky_Sports_Football_Live_TV
+
+#EXTINF:-1 tvg-id="Sky_Sports_Main_Event" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/8-a1o6-z1-vb-a-dve-w2-xa-c-kb9-odz-hewz-yl0-w-p-c-l-hcr7p.png" group-title="beesports",SKY SPORTS MAIN EVENT
+http://127.0.0.1:5000?id=Sky_Sports_Main_Event
+
+#EXTINF:-1 tvg-id="Sky_Sports_Premier_League" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg" group-title="beesports",SKY SPORTS PREMIER LEAGUE
+http://127.0.0.1:5000?id=Sky_Sports_Premier_League
+
+#EXTINF:-1 tvg-id="Sky_Sports_Action_Live_TV" tvg-name="SKY SPORTS ACTION" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/3-hl2ds-ifq-s-mo-i-d-d-r-z-q-oft-sq-u5n2-fv-qmk-s8y-d9czb.png" group-title="beesports",SKY SPORTS ACTION
+http://127.0.0.1:5000?id=Sky_Sports_Action_Live_TV
+
+#EXTINF:-1 tvg-id="Sky_Sports_Mix_Live_TV" tvg-name="SKY SPORTS MIX" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/la-fw-h-oy-u5-i1-f-x1-i-s-d-v-s-bxs-a-so-n85-sjiw8-ql-igz-w-f.png" group-title="beesports",SKY SPORTS MIX
+http://127.0.0.1:5000?id=Sky_Sports_Mix_Live_TV
+
+#EXTINF:-1 tvg-id="Sky_Sports_Arena_Live_TV" tvg-name="SKY SPORTS ARENA" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/l-gy5-lwm-a-tg-hek2-f-hb8l-ff-km-z-l-i8-ww-z-pf-iuw3ts-jd.png" group-title="beesports",SKY SPORTS ARENA
+http://127.0.0.1:5000?id=Sky_Sports_Arena_Live_TV
+
+#EXTINF:-1 tvg-id="Sky_Sports_News_Live_TV" tvg-name="SKY SPORTS NEWS" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/a-g7y-pm-t-wijfcn-w9u00x1-v-wr-x-pgbgdsi-b1ixvdx-p-m.png" group-title="beesports",SKY SPORTS NEWS
+http://127.0.0.1:5000?id=Sky_Sports_News_Live_TV
+
+#EXTINF:-1 tvg-id="Sky_Sports_Cricket_Live_TV" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/o-k37-cj0-vvsn-xq1-p-hph-x-s-a-nw4-awo-e-qai-m-b-is-u-l-ntx.png" group-title="beesports",SKY SPORTS CRICKET
+http://127.0.0.1:5000?id=Sky_Sports_Cricket_Live_TV
+
+#EXTINF:-1 tvg-id="Sky_Sports_Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/k-ww-c-i-q-eb-f-xu-e-xi-fkjo56ya-oi-g-hm-j8-d-dz-cezx8279.png" group-title="beesports",Sky Sports Tennis
+http://127.0.0.1:5000?id=Sky_Sports_Tennis
+
+#EXTINF:-1 tvg-id="Sky_Sports_F1_Live_TV" tvg-name="SKY SPORTS F1" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/i-u-rj7vj-y-h5-u-b-chr2-s-bdjm-qp-o8-a-k-obc-c94kh-fv-r-kk.png" group-title="beesports",SKY SPORTS F1
+http://127.0.0.1:5000?id=Sky_Sports_F1_Live_TV
+
+#EXTINF:-1 tvg-id="Sky_Sports_Golf_Live_TV" tvg-name="SKY SPORTS GOLF" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/n-o-wzh-xjqvb-qs-txqgd3s-u-n-ft-u-s-a7-x-s-p-hfh4da1tgy.png" group-title="beesports",SKY SPORTS GOLF
+http://127.0.0.1:5000?id=Sky_Sports_Golf_Live_TV
+
+#EXTINF:-1 tvg-id="Sky_Sports_Racing_Live_TV" tvg-name="SKY SPORTS RACING" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/kfl5-li-lg-c2-z-a-wz-as136l9v9u-jl-i-r-xa-s-ofco-y-k-h-b8.png" group-title="beesports",SKY SPORTS RACING
+http://127.0.0.1:5000?id=Sky_Sports_Racing_Live_TV
+
+#EXTINF:-1 tvg-id="Sky_Sports_Darts" tvg-name="Sky Sports Darts" tvg-logo="https://center.urlix.co/storage/images/qKD6k49tpqHg3gkThoSR7J8nmXaOYeD0QYuM5J37.jpg" group-title="beesports",Sky Sports Darts
+http://127.0.0.1:5000?id=Sky_Sports_Darts
+
+#EXTINF:-1 tvg-id="BBC_News" tvg-name="BBC News" tvg-logo="https://center.urlix.co/storage/images/uN6eIk65I2im0d4ojxIloksV9wyxbVshhM8Num6J.jpg" group-title="beesports",BBC News
+http://127.0.0.1:5000?id=BBC_News
+
+#EXTINF:-1 tvg-id="BBC_Three" tvg-name="BBC Three" tvg-logo="https://center.urlix.co/storage/images/zK62gh9S9Z9TpM5RiSseKzM4hs9Wz3oTuaIqa8D4.jpg" group-title="beesports",BBC Three
+http://127.0.0.1:5000?id=BBC_Three
+
+#EXTINF:-1 tvg-id="BBC_FOUR" tvg-name="BBC FOUR" tvg-logo="https://center.urlix.co/storage/images/MUfPvwYCKrhk35p5BQ4qRBktD9iBALX4dMOqFV8q.jpg" group-title="beesports",BBC FOUR
+http://127.0.0.1:5000?id=BBC_FOUR
+
+#EXTINF:-1 tvg-id="BBC_1" tvg-name="BBC One" tvg-logo="https://center.urlix.co/storage/images/dMcVmNAd6ayvAw11IJi3LnMrftYrkM5VGoY3roDR.webp" group-title="beesports",BBC One
+http://127.0.0.1:5000?id=BBC_1
+
+#EXTINF:-1 tvg-id="BBC_2" tvg-name="BBC Two" tvg-logo="https://center.urlix.co/storage/images/o8L1QWPS4sWAdPbaDiGKqqu5BspdchEK3l1834EQ.png" group-title="beesports",BBC Two
+http://127.0.0.1:5000?id=BBC_2
+
+#EXTINF:-1 tvg-id="Bein_Sports_USA_Live_TV" tvg-name="BEIN SPORTS USA" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/nlt-ev-a9qj-h-qa-hh-x1-n-mx-yg-iyriul-rmt-qz-b-a-jcxg9-p.png" group-title="beesports",BEIN SPORTS USA
+http://127.0.0.1:5000?id=Bein_Sports_USA_Live_TV
+
+#EXTINF:-1 tvg-id="Racing_TV" tvg-name="Racing TV" tvg-logo="https://center.urlix.co/storage/images/Hvg8f5rQIhHrfUN9zPsktEzu928QoTjhk2NpAqPK.png" group-title="beesports",Racing TV
+http://127.0.0.1:5000?id=Racing_TV
+
+#EXTINF:-1 tvg-id="Tennis_Channel_Live_TV" tvg-name="TENNIS CHANNEL" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/94bbab25-acbc-4e62-9468-39038ac16f92-tc_og.png" group-title="beesports",TENNIS CHANNEL
+http://127.0.0.1:5000?id=Tennis_Channel_Live_TV
+
+#EXTINF:-1 tvg-id="La_Liga_TV_Live_TV" tvg-name="LALIGA TV HD" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/g-e46rp-x-a-j-o-cxma-gth2-ovp5sf-az-g4p-eq-v-vlyost-q-l.png" group-title="beesports",LALIGA TV HD
+http://127.0.0.1:5000?id=La_Liga_TV_Live_TV
+
+#EXTINF:-1 tvg-id="HBO_Live_TV" tvg-name="HBO 1" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/r-d9d247-s1-q-wg-g-lcg-c-g-ps2r-s-t6024f-l-ak-eld-h-e-m-tn.png" group-title="beesports",HBO 1
+http://127.0.0.1:5000?id=HBO_Live_TV
+
+#EXTINF:-1 tvg-id="HBO_2_Live_TV" tvg-name="HBO 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/5-tj1j-wtmcg-o-zj-egka-yk-s-x-p-puqfj03x0w-ka-b-rwcy-o.png" group-title="beesports",HBO 2
+http://127.0.0.1:5000?id=HBO_2_Live_TV
+
+#EXTINF:-1 tvg-id="Discovery_Channel_Live_TV" tvg-name="Discovery Channel" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/euzl-x-u-j-t8dx9s-puq8-hh5-g-m-rlmzu-sek-cn1ra-g-g-my2.png" group-title="beesports",Discovery Channel
+http://127.0.0.1:5000?id=Discovery_Channel_Live_TV
+
+#EXTINF:-1 tvg-id="Discovery_Life_Live_TV" tvg-name="Discovery Life" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/152-b-g-b-ja-rg9je-jt-nw8-xm7-en-g-uayb-i-u-x-mjc5od5d5.png" group-title="beesports",Discovery Life
+http://127.0.0.1:5000?id=Discovery_Life_Live_TV
+
+#EXTINF:-1 tvg-id="Cinemax_West_Live_TV" tvg-name="Cinemax West" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/waj-k6-w-wwz-x-np7-h573-ir-p-sj-x-ewjdwmvri-bfz-aimc1.png" group-title="beesports",Cinemax West
+http://127.0.0.1:5000?id=Cinemax_West_Live_TV
+
+#EXTINF:-1 tvg-id="UK_Great_Movies_Live_TV" tvg-name="Great Movies" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/f-r-yjt-u-b-a-hk-q-tvi-dbq-n5q-n7-a-a-rd0gxv-f-ks-l-j6-yml-s.png" group-title="beesports",Great Movies
+http://127.0.0.1:5000?id=UK_Great_Movies_Live_TV
+
+#EXTINF:-1 tvg-id="UK_Sky_Cinema_Comedy_Live_TV" tvg-name="Sky Cinema Comedy" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/2560px--sky_-cinema_-comedy_-_-logo_2016.svg.png" group-title="beesports",Sky Cinema Comedy
+http://127.0.0.1:5000?id=UK_Sky_Cinema_Comedy_Live_TV
+
+#EXTINF:-1 tvg-id="UK_Sky_Cinema_Family_Live_TV" tvg-name="Sky Cinema Family" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/2560px--sky_-cinema_-family_-_-logo_2021.svg.png" group-title="beesports",Sky Cinema Family
+http://127.0.0.1:5000?id=UK_Sky_Cinema_Family_Live_TV
+
+#EXTINF:-1 tvg-id="Sky_Cinema_Action" tvg-name="Sky Cinema Action" tvg-logo="https://center.urlix.co/storage/images/xoFwpmX85KdS4KiiKZh2HTg7z9C588zrClleoH0u.webp" group-title="beesports",Sky Cinema Action
+http://127.0.0.1:5000?id=Sky_Cinema_Action
+
+#EXTINF:-1 tvg-id="Sky_Cinema_Animation" tvg-name="Sky Cinema Animation" tvg-logo="https://center.urlix.co/storage/images/So67ypbXnCLB8aIICUay2TfFiwlXh5mDh5GPw7Pc.svg" group-title="beesports",Sky Cinema Animation
+http://127.0.0.1:5000?id=Sky_Cinema_Animation
+
+#EXTINF:-1 tvg-id="UK_Cartoon_Network_Live_TV" tvg-name="Cartoon Network" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/f-i-gsl2-n77-dpt-h-wdy-q-c-f-odhz-gf-x-a-h-sje4z3-q-a0-qn-o.png" group-title="beesports",Cartoon Network
+http://127.0.0.1:5000?id=UK_Cartoon_Network_Live_TV
+
+#EXTINF:-1 tvg-id="UK_Virgin_2" tvg-name="Virgin 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/at-gm1kula-jyy-d-vk2-j9w-abrosv5o-uil-at-kq3r-hen2.svg" group-title="beesports",Virgin 2
+http://127.0.0.1:5000?id=UK_Virgin_2
+
+#EXTINF:-1 tvg-id="UK_Virgin_3" tvg-name="Virgin 3" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/z-n1gy-tr71-xm1uia7-m8-jv-e-t0ygm-ql47v-h4-d5wu-t91.png" group-title="beesports",Virgin 3
+http://127.0.0.1:5000?id=UK_Virgin_3
+
+#EXTINF:-1 tvg-id="UK_Virgin_1" tvg-name="Virgin 1" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/c7-mg-r-w1l-p-k-cm-sc-rd-w-b-dhs-n90-b-uc-qozpi3-v-dwtmz-a.png" group-title="beesports",Virgin 1
+http://127.0.0.1:5000?id=UK_Virgin_1
+
+#EXTINF:-1 tvg-id="Bein_Sports_English_2_Live_TV" tvg-name="Bein Sports English 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/v-hu-vg-g-s-gu-t-yy-i2usg-k8-bh-y-ov-fo-pv9n-g65z-dm-txo3.png" group-title="beesports",Bein Sports English 2
+http://127.0.0.1:5000?id=Bein_Sports_English_2_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport_Premier_League_Live_TV" tvg-name="SuperSport Premier League" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/x5ja5w1659624783.png" group-title="beesports",SuperSport Premier League
+http://127.0.0.1:5000?id=SuperSport_Premier_League_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport_LaLiga_Live_TV" tvg-name="SuperSport LaLiga" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/a8a882fb16572f8d4c1980b75b27201d.jpg" group-title="beesports",SuperSport LaLiga
+http://127.0.0.1:5000?id=SuperSport_LaLiga_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport_Action_Live_TV" tvg-name="SuperSport Action" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/ss-action.png" group-title="beesports",SuperSport Action
+http://127.0.0.1:5000?id=SuperSport_Action_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport_Blitz_Live_TV" tvg-name="SuperSport Blitz" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/supersport.width-800.jpg" group-title="beesports",SuperSport Blitz
+http://127.0.0.1:5000?id=SuperSport_Blitz_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport_Cricket_Live_TV" tvg-name="SuperSport Cricket" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/srtijz1643382350.png" group-title="beesports",SuperSport Cricket
+http://127.0.0.1:5000?id=SuperSport_Cricket_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport_Football_Live_TV" tvg-name="SuperSport Football" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/7lxofw1656964140.png" group-title="beesports",SuperSport Football
+http://127.0.0.1:5000?id=SuperSport_Football_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport_Golf_Live_TV" tvg-name="SuperSport Golf" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/super-sport-golf-logo.png" group-title="beesports",SuperSport Golf
+http://127.0.0.1:5000?id=SuperSport_Golf_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport_Rugby_Live_TV" tvg-name="SuperSport Rugby" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/scvqpc1642604954.png" group-title="beesports",SuperSport Rugby
+http://127.0.0.1:5000?id=SuperSport_Rugby_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport_Tennis_Live_TV" tvg-name="SuperSport Tennis" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/supersport-tennis.png" group-title="beesports",SuperSport Tennis
+http://127.0.0.1:5000?id=SuperSport_Tennis_Live_TV
+
+#EXTINF:-1 tvg-id="Variety_1_Live_TV" tvg-name="Variety 1" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/0lwdq31638048788.png" group-title="beesports",Variety 1
+http://127.0.0.1:5000?id=Variety_1_Live_TV
+
+#EXTINF:-1 tvg-id="Variety_2_Live_TV" tvg-name="Variety 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/9vnt801638048828.png" group-title="beesports",Variety 2
+http://127.0.0.1:5000?id=Variety_2_Live_TV
+
+#EXTINF:-1 tvg-id="Variety_3_Live_TV" tvg-name="Variety 3" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/mh03f41638048848.png" group-title="beesports",Variety 3
+http://127.0.0.1:5000?id=Variety_3_Live_TV
+
+#EXTINF:-1 tvg-id="Variety_4_Live_TV" tvg-name="Variety 4" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/jz5jpt1638048871.png" group-title="beesports",Variety 4
+http://127.0.0.1:5000?id=Variety_4_Live_TV
+
+#EXTINF:-1 tvg-id="Eurosport_2_Live_TV" tvg-name="Eurosport 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/8e-oj-t6-c-f3arb-q-seorft-m-fem-cy4ww-w-azm-ta0sempl.png" group-title="beesports",Eurosport 2
+http://127.0.0.1:5000?id=Eurosport_2_Live_TV
+
+#EXTINF:-1 tvg-id="Premier_Sports_1" tvg-name="Premier Sports 1" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/s-p4-kxd-v-lp-hl9-y-t-fb-e-wz-m0-n8k-kkgg-h-pkccaqcc-bdu.png" group-title="beesports",Premier Sports 1
+http://127.0.0.1:5000?id=Premier_Sports_1
+
+#EXTINF:-1 tvg-id="Premier_Sports_2" tvg-name="Premier Sports 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/1-gbngsz7-d-l-xy3x6-m-sk5xw-fj3-h-v42-r-e-cr-p1h4-dlyn.png" group-title="beesports",Premier Sports 2
+http://127.0.0.1:5000?id=Premier_Sports_2
+
+#EXTINF:-1 tvg-id="Golf_Channel_Live_TV" tvg-name="Golf Channel" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/r-a5-e-z-f-zrrvis-h-c-m5l-b-r-y-f7yu8h5-x04qu-ka-b047-a-v.png" group-title="beesports",Golf Channel
+http://127.0.0.1:5000?id=Golf_Channel_Live_TV
+
+#EXTINF:-1 tvg-id="MLB_Network_Live_TV" tvg-name="MLB Network" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/1200px--m-l-b-network-logo.svg.png" group-title="beesports",MLB Network
+http://127.0.0.1:5000?id=MLB_Network_Live_TV
+
+#EXTINF:-1 tvg-id="NBA_TV_Live_TV" tvg-name="NBA TV" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/1200px--n-b-a_-t-v.svg.png" group-title="beesports",NBA TV
+http://127.0.0.1:5000?id=NBA_TV_Live_TV
+
+#EXTINF:-1 tvg-id="NFL_Network_Live_TV" tvg-name="NFL Network" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/m-g3-iq91-ukrb-cn24-w-zuxpr-j-mm-b9tv-m7-hb-b3-v9-gw95.svg" group-title="beesports",NFL Network
+http://127.0.0.1:5000?id=NFL_Network_Live_TV
+
+#EXTINF:-1 tvg-id="NFL_REDZONE_Live_TV" tvg-name="NFL REDZONE" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/iwzyqv-vw-j0c-du-w3-mr-mb3cg82e-e-mr-m-b-v-y-e-nw-hw-fmh.png" group-title="beesports",NFL REDZONE
+http://127.0.0.1:5000?id=NFL_REDZONE_Live_TV
+
+#EXTINF:-1 tvg-id="NHL_Network_Live_TV" tvg-name="NHL Network" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/8z795-gbo1duqut1-f32-ga-ip-b-a8-urzp90c-g-u-dm-r-c2-o.svg" group-title="beesports",NHL Network
+http://127.0.0.1:5000?id=NHL_Network_Live_TV
+
+#EXTINF:-1 tvg-id="WWE_Live_TV" tvg-name="WWE" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/c-l33-tbx4-bvcvs8s-p-zfvwzd-nk-r-b-vncgag-w-jy-x-k-ol-t.png" group-title="beesports",WWE
+http://127.0.0.1:5000?id=WWE_Live_TV
+
+#EXTINF:-1 tvg-id="Willow_Cricket_Live_TV" tvg-name="Willow Cricket" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/to0if-g-f-pzs3i-my1-d-spsrs3-sv-wn-k-h-m-sya-fz6b-meh4.png" group-title="beesports",Willow Cricket
+http://127.0.0.1:5000?id=Willow_Cricket_Live_TV
+
+#EXTINF:-1 tvg-id="Willow_Extra_Live_TV" tvg-name="Willow Extra" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/k9-cbp-r-zcaom-r-jayck5v-qr-m-o-n-zqop9v1-e-s-u-z-g-kk3b.png" group-title="beesports",Willow Extra
+http://127.0.0.1:5000?id=Willow_Extra_Live_TV
+
+#EXTINF:-1 tvg-id="World_Fishing_Network_Live_TV" tvg-name="World Fishing Network" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/ui-yy7ozk-m-unr-o33oc-izqx-el5-ewy-kg-v2vo-p-no-i-e-b-b.svg" group-title="beesports",World Fishing Network
+http://127.0.0.1:5000?id=World_Fishing_Network_Live_TV
+
+#EXTINF:-1 tvg-id="ESPN_Live_TV" tvg-name="ESPN" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/xs7-c-u-j2d-j-h-r-i6s-zgr7-dyp-n-s-a-mn-z7-kpq-hf6y-wwvx-i.png" group-title="beesports",ESPN
+http://127.0.0.1:5000?id=ESPN_Live_TV
+
+#EXTINF:-1 tvg-id="ESPN_2_Live_TV" tvg-name="ESPN 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/512px--e-s-p-n2_logo.svg.png" group-title="beesports",ESPN 2
+http://127.0.0.1:5000?id=ESPN_2_Live_TV
+
+#EXTINF:-1 tvg-id="ESPN_News_Live_TV" tvg-name="ESPN News" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/2-g-ojo-g33-ls-wv-cf3-j-a-h-z-ojpp3y4-q4-fuj-c-p-r-oi-r-m4o.png" group-title="beesports",ESPN News
+http://127.0.0.1:5000?id=ESPN_News_Live_TV
+
+#EXTINF:-1 tvg-id="ESPN_U_Live_TV" tvg-name="ESPN U" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/t9vr-m9-p-v1p-y-wh-rm-v-d-tj-dxo-d-af-xb3-zz67-f-dn-pane-y.png" group-title="beesports",ESPN U
+http://127.0.0.1:5000?id=ESPN_U_Live_TV
+
+#EXTINF:-1 tvg-id="ESPN_Deportes" tvg-name="ESPN Deportes" tvg-logo="https://center.urlix.co/storage/images/8lPFlMIg4VQSlx0OGlDRH5OM5qMomtsfwzQiyeLo.png" group-title="beesports",ESPN Deportes
+http://127.0.0.1:5000?id=ESPN_Deportes
+
+#EXTINF:-1 tvg-id="ITV_1" tvg-name="ITV 1" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/t-t-zte39n-nu-a-z-cr-to-h-c7k5-shg-n-yaa9-ccl-iljf2onx.png" group-title="beesports",ITV 1
+http://127.0.0.1:5000?id=ITV_1
+
+#EXTINF:-1 tvg-id="ITV_2" tvg-name="ITV 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/f-pt-eo-s-rm-jk-n-b1-qg9v-b-x-n-l-la-m-z-vp6-i-w4-l-j-t7-j-g01-c.png" group-title="beesports",ITV 2
+http://127.0.0.1:5000?id=ITV_2
+
+#EXTINF:-1 tvg-id="ITV_3" tvg-name="ITV 3" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/3j3ra-qdk-rm3-cz-c9l-iyhrk-si82-oyshnipxl8os-sm-n.png" group-title="beesports",ITV 3
+http://127.0.0.1:5000?id=ITV_3
+
+#EXTINF:-1 tvg-id="ITV_4" tvg-name="ITV 4" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/d0-sx-p-n7-cb6-o-n-rdi-m-w-bnrzrrzgu-k-u-srs-h-d-b-q-gy-l5w.png" group-title="beesports",ITV 4
+http://127.0.0.1:5000?id=ITV_4
+
+#EXTINF:-1 tvg-id="MUTV_Live_TV" tvg-name="MUTV" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/nd9b-n-us-b-m0lw-zka-ilkgas-bu-v-b4-y-b-fcug6-va-j-c-y-i-g.png" group-title="beesports",MUTV
+http://127.0.0.1:5000?id=MUTV_Live_TV
+
+#EXTINF:-1 tvg-id="LFC_TV_Live_TV" tvg-name="LFC TV" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/microsoft-teams-image_(13).png" group-title="beesports",LFC TV
+http://127.0.0.1:5000?id=LFC_TV_Live_TV
+
+#EXTINF:-1 tvg-id="FOX_NEWS_Live_TV" tvg-name="FOX NEWS" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/768px--fox_-news_-channel_logo.svg.png" group-title="beesports",FOX NEWS
+http://127.0.0.1:5000?id=FOX_NEWS_Live_TV
+
+#EXTINF:-1 tvg-id="Fox_Soccer_Plus" tvg-name="Fox Soccer Plus" tvg-logo="https://center.urlix.co/storage/images/QThyDK3aE2AEGNXcjaaFUHeFgNy3X5izleCb6QT4.png" group-title="beesports",Fox Soccer Plus
+http://127.0.0.1:5000?id=Fox_Soccer_Plus
+
+#EXTINF:-1 tvg-id="FOX_DEPORTES" tvg-name="FOX DEPORTES" tvg-logo="https://center.urlix.co/storage/images/WwxRNu3hV1UHfo1EYkbbUyqPrTbiwOfAhztbwrff.jpg" group-title="beesports",FOX DEPORTES
+http://127.0.0.1:5000?id=FOX_DEPORTES
+
+#EXTINF:-1 tvg-id="ACC_Network_Live_TV" tvg-name="ACC Network" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/a-c-c_-network_-raycom_-logo.png" group-title="beesports",ACC Network
+http://127.0.0.1:5000?id=ACC_Network_Live_TV
+
+#EXTINF:-1 tvg-id="Fight_Network_Live_TV" tvg-name="Fight Network" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/x-c1-yl3tu1-ga-wl-e-o3b-w-aiye3e127-l5yarb-ot2-ezxe.png" group-title="beesports",Fight Network
+http://127.0.0.1:5000?id=Fight_Network_Live_TV
+
+#EXTINF:-1 tvg-id="CBS_Sports_Network_Live_TV" tvg-name="CBS Sports Network" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/a4df4ef049b119253c9833bea8ed6515.jpg" group-title="beesports",CBS Sports Network
+http://127.0.0.1:5000?id=CBS_Sports_Network_Live_TV
+
+#EXTINF:-1 tvg-id="CNBC_Live_TV" tvg-name="CNBC" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/t-tgl-m-ns6-d-r6bcw3qf-il-l8a-rg-k-l-ll-dmc-p-v5h7-s-wg-d.png" group-title="beesports",CNBC
+http://127.0.0.1:5000?id=CNBC_Live_TV
+
+#EXTINF:-1 tvg-id="Fox_Sports_1_Live_TV" tvg-name="Fox Sports 1" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/y7-y-yvh-ej8piz6c2-ium-vye-z-q77au-v4-p-do-h-s-nen-d-qr.png" group-title="beesports",Fox Sports 1
+http://127.0.0.1:5000?id=Fox_Sports_1_Live_TV
+
+#EXTINF:-1 tvg-id="Fox_Sports_2_Live_TV" tvg-name="Fox Sports 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/6-ff-p-flc-r8kqe-k-o-n6-x-v0-cjr-mfei5gtm-e3-wj-x7e-vk-a.png" group-title="beesports",Fox Sports 2
+http://127.0.0.1:5000?id=Fox_Sports_2_Live_TV
+
+#EXTINF:-1 tvg-id="BBC_Red_Button" tvg-name="BBC Red Button" tvg-logo="https://center.urlix.co/storage/images/7N4k68afYicjhSWwU5Kx0yTlVY9A1Ob5iYPUmXPF.jpg" group-title="beesports",BBC Red Button
+http://127.0.0.1:5000?id=BBC_Red_Button
+
+#EXTINF:-1 tvg-id="NBC_UNIVERSO" tvg-name="NBC UNIVERSO" tvg-logo="https://center.urlix.co/storage/images/PEoLnkz4lbWBN4A79dA6p1nOi15uD1VE8CN2mqT4.svg" group-title="beesports",NBC UNIVERSO
+http://127.0.0.1:5000?id=NBC_UNIVERSO
+
+

@@ -1,0 +1,41 @@
+强烈推荐建议使用ok影视版本最新版2.8.9。影视OK  pro2.6.5版本也同时支持
+ok大佬影視2.7.5版本32位,
+https://raw.githubusercontent.com/lystv/fmapp/cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514/apk/release/leanback-python-armeabi_v7a.apk
+ok大佬2.7.5版本 64位,https://raw.githubusercontent.com/lystv/fmapp/cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514/apk/release/leanback-python-arm64_v8a.apk
+
+ok影視pro3.0.7支持播放
+
+2.3.4版本下载地址为:
+V8 64位,https://raw.githubusercontent.com/FongMi/Release/d4d05b9c2bfdb2ac15faa3012109d1a247854aca/apk/release/leanback-python-arm64_v8a.apk
+V7 32位
+https://raw.githubusercontent.com/FongMi/Release/d4d05b9c2bfdb2ac15faa3012109d1a247854aca/apk/release/leanback-python-armeabi_v7a.apk
+安卓低版本 https://raw.githubusercontent.com/FongMi/Release/d4d05b9c2bfdb2ac15faa3012109d1a247854aca/apk/kitkat/leanback.apk
+
+https://raw.githubusercontent.com/lystv/fmapp/88f15d64cdb4ea8184d43ad9575c5844efd7fba3/apk/release/leanback-python-arm64_v8a.apk
+
+2.5.8版本
+
+V7 32位
+https://raw.githubusercontent.com/lystv/fmapp/88f15d64cdb4ea8184d43ad9575c5844efd7fba3/apk/release/leanback-python-armeabi_v7a.apk
+V8 64位
+
+64为
+Ok影视2.7.5 正式版修复直播中的youtube直播
+V7 32位
+https://raw.githubusercontent.com/FongMi/Release/2947e7627b1b84aad265ec7500b20b45a9d19692/apk/release/leanback-python-armeabi_v7a.apk
+V8  64位
+https://raw.githubusercontent.com/lystv/fmapp/cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514/apk/release/leanback-python-arm64_v8a.apk
+
+
+感谢中国联通，中国移动提供上github服务，所有资料来源于互联网。
+联通移动可以看
+爱看，豆瓣，黑木耳，央视，天空云播，天龙，新浪云播，梦影，百度，贱贱，ikun,飞速，暴风，索尼，量子，巴士
+
+
+电信宽带可以看
+新浪云播，天空云播，百度 天天，追剧，贱片，快看，爱看机器人，飞速资源，暴风，索尼，量子，非凡，巴士
+
+
+
+
+
