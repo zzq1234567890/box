@@ -2370,67 +2370,10 @@ http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live024
 #EXTINF:-1 tvg-id="戲劇免費看 1臺" tvg-name="戲劇免費看 1臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live010_mobile.png" group-title="4gtv",戲劇免費看 1臺
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live010
 
-#EXTINF:-1 tvg-id="100012" tvg-name="臺視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_pc.png" group-title="litv",臺視MOD
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv066
-#EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_pc.png" group-title="litv",中視
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv040
-#EXTINF:-1 tvg-id="4gtv-4gtv041" tvg-name="華視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_pc.png" group-title="litv",華視
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv041
-#EXTINF:-1 tvg-id="litv-ftv17" tvg-name="好消息二臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_pc.png" group-title="litv",好消息二臺
-http://127.0.0.1:8081/ofiii.php?id=litv-ftv17
-#EXTINF:-1 tvg-id="litv-ftv16" tvg-name="好消息" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_pc.png" group-title="litv",好消息
-http://127.0.0.1:8081/ofiii.php?id=litv-ftv16
-#EXTINF:-1 tvg-id="litv-longturn20" tvg-name="ELTV生活英語臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_pc.png" group-title="litv",ELTV生活英語臺
-http://127.0.0.1:8081/ofiii.php?id=litv-longturn20
-#EXTINF:-1 tvg-id="litv-longturn01" tvg-name="龍華卡通臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn01_pc.png" group-title="litv",龍華卡通臺
-http://127.0.0.1:8081/ofiii.php?id=litv-longturn01
-#EXTINF:-1 tvg-id="litv-longturn17" tvg-name="亞洲旅遊臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_pc.png" group-title="litv",亞洲旅遊臺
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv076
 
 
-#EXTINF:-1 tvg-id="litv-longturn19" tvg-name="Smart知識臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_pc.png" group-title="litv",Smart知識臺
-http://127.0.0.1:8081/ofiii.php?id=litv-longturn19
-#EXTINF:-1 tvg-id="龍華戲劇" tvg-name="龍華戲劇"  tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_pc.png" group-title="litv",龍華戲劇
-http://127.0.0.1:8081/ofiii.php?id=litv-longturn18
-#EXTINF:-1 tvg-id="臺灣戲劇臺" tvg-name="臺灣戲劇臺"  tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_pc.png" group-title="litv",臺灣戲劇臺
-http://127.0.0.1:8081/ofiii.php?id=litv-longturn22
 
-#EXTINF:-1 tvg-id="龍華偶像臺OTT" tvg-name="龍華偶像臺OTT"  tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_pc.png"  group-title="litv",龍華偶像臺OTT
-http://127.0.0.1:8081/ofiii.php?id=litv-longturn12
-#EXTINF:-1 tvg-id="litv-longturn11" tvg-name="龍華日韓" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_pc.png" group-title="litv",龍華日韓臺
-http://127.0.0.1:8081/ofiii.php?id=litv-longturn11
 
-#EXTINF:-1 tvg-id="4gtv-4gtv052" tvg-name="華視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_pc.png" group-title="litv",華視新聞
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv052
-#EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_pc.png" group-title="litv",倪珍播新聞
-http://127.0.0.1:8081/ofiii.php?id=nnews-zh
-#EXTINF:-1 tvg-id="倪珍報氣象" tvg-name="倪珍報氣象" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_pc.png" group-title="litv",倪珍報氣象
-http://127.0.0.1:8081/ofiii.php?id=nnews-wf
-
-#EXTINF:-1 tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_pc.png" group-title="litv",三立iNEWS
-http://127.0.0.1:8081/ofiii.php?id=iNEWS
-#EXTINF:-1 tvg-id="litv-longturn23" tvg-name="寰宇財經臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_pc.png" group-title="litv",寰宇財經臺
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv158
-#EXTINF:-1 tvg-id="litv-longturn14" tvg-name="寰宇新聞臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_pc.png" group-title="litv",寰宇新聞臺
-http://127.0.0.1:8081/ofiii.php?id=litv-longturn14
-#EXTINF:-1 tvg-id="臺視新聞臺" tvg-name="臺視新聞臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_pc.png" group-title="litv",臺視新聞臺
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv051
-#EXTINF:-1 tvg-id="中視新聞臺" tvg-name="中視新聞臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_pc.png" group-title="litv",中視新聞臺
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv074
-#EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新聞臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_pc.png" group-title="litv",中天新聞臺
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv009
-#EXTINF:-1 tvg-id="litv-longturn15" tvg-name="寰宇新聞臺灣臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_pc.png" group-title="litv",寰宇新聞臺灣臺
-http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv156
-#EXTINF:-1  tvg-id="第1財經" tvg-name="第1財經" tvg-logo=""  group-title="litv",第1財經
-http:/127.0.0.1:8081/ofiii1.php?id=ofiii64
-#EXTINF:-1  tvg-id="第1商業臺" tvg-name="第1商業臺"  tvg-logo=""  group-title="litv",第1商業臺
-http:/127.0.0.1:8081/ofiii1.php?id=4gtv-4gtv104
-#EXTINF:-1 tvg-id="龍華經典" tvg-name="龍華經典" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_pc.png" group-title="litv",龍華經典
-http://127.0.0.1:8081/ofiii.php?id=litv-longturn21
-#EXTINF:-1   tvg-id="龍華電影"   tvg-name="龍華電影"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_pc.png"    group-title="litv",龍華電影
-http://127.0.0.1:8081/ofiii.php?id=litv-longturn03
-#EXTINF:-1  tvg-id="龍華洋片臺OTT"    tvg-name="龍華洋片臺OTT"    tvg-logo="                    "    group-title="litv",龍華洋片臺OTT
-http://127.0.0.1:8081/ofiii.php?id=litv-longturn02
 #EXTINF:-1   tvg-id="4gtv-4gtv003"   tvg-name="民視第一臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv003_pc.png"    group-title="litv",民視第一臺
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv003
 #EXTINF:-1   tvg-id="4gtv-4gtv001"   tvg-name="民視臺灣臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv001_pc.png"    group-title="litv",民視臺灣臺
@@ -2639,6 +2582,10 @@ http://127.0.0.1:8081/litvapp.php?id=litv-longturn01
 #EXTINF:-1   tvg-id="litv-ftv17"   tvg-name="好消息2臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_pc.png"    group-title="litv",好消息2臺
 http://127.0.0.1:8081/litvapp.php?id=litv-ftv17
 
+
+
+
+
 #EXTINF:-1 tvg-id="臺視" tvg-name="臺視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" group-title="ofiii",臺視
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv066
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" group-title="ofiii",中視
@@ -2700,6 +2647,334 @@ http://127.0.0.1:8081/ofiii.php?id=litv-longturn03
 #EXTINF:-1 tvg-id="龍華洋片臺" tvg-name="龍華洋片臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn02_tv.png" group-title="ofiii",龍華洋片臺
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn02
 
+
+#EXTINF:-1 tvg-id="公視金獎臺" tvg-name="公視金獎臺" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3068_ofiii13_tv_20230920.png" group-title="ofiii",公視金獎臺
+http://127.0.0.1:8081/ofiii.php?id=ofiii13
+
+#EXTINF:-1 tvg-id="哆啦Ａ夢臺" tvg-name="哆啦Ａ夢臺" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_ofiii-vchannel22_tv_20190902.png" group-title="ofiii",哆啦Ａ夢臺
+http://127.0.0.1:8081/ofiii.php?id=ofiii22
+#EXTINF:-1 tvg-id="新哆啦A夢(中文版)" tvg-name="新哆啦A夢(中文版)" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3386_ofiii23_tv_20240709.png" group-title="ofiii",新哆啦A夢(中文版)
+http://127.0.0.1:8081/ofiii.php?id=ofiii23
+#EXTINF:-1 tvg-id="新哆啦A夢(中文版)2臺" tvg-name="新哆啦A夢(中文版)2臺" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3841_ofiii24_tv_20250827.png" group-title="ofiii",新哆啦A夢(中文版)2臺
+http://127.0.0.1:8081/ofiii.php?id=ofiii24
+#EXTINF:-1 tvg-id="TVBS食尚玩家" tvg-name="TVBS食尚玩家" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_2984_ofiii31_tv_20230720.png" group-title="ofiii",TVBS食尚玩家
+http://127.0.0.1:8081/ofiii.php?id=ofiii31
+#EXTINF:-1 tvg-id="東森娛樂臺" tvg-name="東森娛樂臺" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_2985_ofiii32_tv_20230720.png" group-title="ofiii",東森娛樂臺
+http://127.0.0.1:8081/ofiii.php?id=ofiii32
+#EXTINF:-1 tvg-id="中天亞洲精采臺" tvg-name="中天亞洲精采臺" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="ofiii",中天亞洲精采臺
+http://127.0.0.1:8081/ofiii.php?id=ofiii36
+#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="ofiii",經典劇場
+http://127.0.0.1:8081/ofiii.php?id=ofiii38
+#EXTINF:-1 tvg-id="短劇馬拉松" tvg-name="短劇馬拉松" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3689_ofiii39_tv_20250328.png" group-title="ofiii",短劇馬拉松
+http://127.0.0.1:8081/ofiii.php?id=ofiii39
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="ofiii",Yes娛樂
+http://127.0.0.1:8081/ofiii.php?id=ofiii47
+#EXTINF:-1 tvg-id="Focus風采戲劇臺" tvg-name="Focus風采戲劇臺" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_ofiii-playout951_tv_20180522.png" group-title="ofiii",Focus風采戲劇臺
+http://127.0.0.1:8081/ofiii.php?id=ofiii1048
+#EXTINF:-1 tvg-id="東森購物2臺" tvg-name="東森購物2臺" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/logo_ofiii_4gtv-4gtv103_tv.png" group-title="ofiii",東森購物2臺
+http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv103
+#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_ofiii-playout50_tv_20211124.png" group-title="ofiii",掏掏新聞
+http://127.0.0.1:8081/ofiii.php?id=ofiii50
+#EXTINF:-1 tvg-id="國際大小事" tvg-name="國際大小事" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3560_ofiii55_tv_20241202.png" group-title="ofiii",國際大小事
+http://127.0.0.1:8081/ofiii.php?id=ofiii55
+#EXTINF:-1 tvg-id="第1財經" tvg-name="第1財經" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_ofiii64_tv_20221110.png" group-title="ofiii",第1財經
+http://127.0.0.1:8081/ofiii.php?id=ofiii64
+#EXTINF:-1 tvg-id="Golden 強片臺" tvg-name="Golden 強片臺" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3562_ofiii70_tv_20241203.png" group-title="ofiii",Golden 強片臺
+http://127.0.0.1:8081/ofiii.php?id=ofiii70
+
+
+#EXTINF:-1 tvg-id="周星馳臺" tvg-name="周星馳臺" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3202_ofiii73_tv_20240105.png" group-title="ofiii",周星馳臺
+http://127.0.0.1:8081/ofiii.php?id=ofiii73
+#EXTINF:-1 tvg-id="歐飛電影臺" tvg-name="歐飛電影臺" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_2748_ofiii74_tv_20240315.png" group-title="ofiii",歐飛電影臺
+http://127.0.0.1:8081/ofiii.php?id=ofiii74
+#EXTINF:-1 tvg-id="歐飛動作電影臺" tvg-name="歐飛動作電影臺" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3203_ofiii75_tv_20240315.png" group-title="ofiii",歐飛動作電影臺
+http://127.0.0.1:8081/ofiii.php?id=ofiii75
+#EXTINF:-1 tvg-id="Golden影迷臺" tvg-name="Golden影迷臺" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3880_ofiii76_tv_20250924.png" group-title="ofiii",Golden影迷臺
+http://127.0.0.1:8081/ofiii.php?id=ofiii76
+#EXTINF:-1 tvg-id="全民星攻略 知識開箱" tvg-name="全民星攻略 知識開箱" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3719_ofiii81_tv_20250506.png" group-title="ofiii",全民星攻略 知識開箱
+http://127.0.0.1:8081/ofiii.php?id=ofiii81
+#EXTINF:-1 tvg-id="Focus探索新知臺" tvg-name="Focus探索新知臺" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_ofiii82_tv_20221213.png" group-title="ofiii",Focus探索新知臺
+http://127.0.0.1:8081/ofiii.php?id=ofiii82
+#EXTINF:-1 tvg-id="鄉民大學問" tvg-name="鄉民大學問" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3407_ofiii83_tv_20250221.png" group-title="ofiii",鄉民大學問
+http://127.0.0.1:8081/ofiii.php?id=ofiii83
+#EXTINF:-1 tvg-id="社會NOW什麼" tvg-name="社會NOW什麼" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3409_ofiii85_tv_20250221.png" group-title="ofiii",社會NOW什麼
+http://127.0.0.1:8081/ofiii.php?id=ofiii85
+#EXTINF:-1 tvg-id="啦啦隊獨家專訪" tvg-name="啦啦隊獨家專訪" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3690_ofiii88_tv_20250328.png" group-title="ofiii",啦啦隊獨家專訪
+http://127.0.0.1:8081/ofiii.php?id=ofiii88
+#EXTINF:-1 tvg-id="泰可愛旋風" tvg-name="泰可愛旋風" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3526_ofiii89_tv_20241114.png" group-title="ofiii",泰可愛旋風
+http://127.0.0.1:8081/ofiii.php?id=ofiii89
+#EXTINF:-1 tvg-id="演唱會直擊" tvg-name="演唱會直擊" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3525_ofiii91_tv_20241108.png" group-title="ofiii",演唱會直擊
+http://127.0.0.1:8081/ofiii.php?id=ofiii91
+#EXTINF:-1 tvg-id="健康問良醫" tvg-name="健康問良醫" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3411_ofiii92_tv_20250221.png" group-title="ofiii",健康問良醫
+http://127.0.0.1:8081/ofiii.php?id=ofiii92
+#EXTINF:-1 tvg-id="ASMR行車紀錄" tvg-name="ASMR行車紀錄" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3691_ofiii94_tv_20250328.png" group-title="ofiii",ASMR行車紀錄
+http://127.0.0.1:8081/ofiii.php?id=ofiii94
+#EXTINF:-1 tvg-id="Freeman @臺灣" tvg-name="Freeman @臺灣" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3204_ofiii111_tv_20240105.png" group-title="ofiii",Freeman @臺灣
+http://127.0.0.1:8081/ofiii.php?id=ofiii95
+#EXTINF:-1 tvg-id="饕客揪愛吃" tvg-name="饕客揪愛吃" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_2989_ofiii96_tv_20230906.png" group-title="ofiii",饕客揪愛吃
+http://127.0.0.1:8081/ofiii.php?id=ofiii96
+#EXTINF:-1 tvg-id="人氣動漫預告" tvg-name="人氣動漫預告" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_2990_ofiii97_tv_20230814.png" group-title="ofiii",人氣動漫預告
+http://127.0.0.1:8081/ofiii.php?id=ofiii97
+#EXTINF:-1 tvg-id="九九敬老頻道" tvg-name="九九敬老頻道" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_ofiii99_tv_20221110.png" group-title="ofiii",九九敬老頻道
+http://127.0.0.1:8081/ofiii.php?id=ofiii99
+#EXTINF:-1 tvg-id="長安十二時辰" tvg-name="長安十二時辰" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3808_ofiii100_tv_20250729.png" group-title="ofiii",長安十二時辰
+http://127.0.0.1:8081/ofiii.php?id=ofiii100
+#EXTINF:-1 tvg-id="韶華若錦" tvg-name="韶華若錦" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3778_ofiii101_tv_20250626.png" group-title="ofiii",韶華若錦
+http://127.0.0.1:8081/ofiii.php?id=ofiii101
+#EXTINF:-1 tvg-id="白髮" tvg-name="白髮" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3881_ofiii102_tv_20250924.png" group-title="ofiii",白髮
+http://127.0.0.1:8081/ofiii.php?id=ofiii102
+#EXTINF:-1 tvg-id="三國" tvg-name="三國" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3383_ofiii103_tv_20250221.png" group-title="ofiii",三國
+http://127.0.0.1:8081/ofiii.php?id=ofiii103
+#EXTINF:-1 tvg-id="武媚娘傳奇" tvg-name="武媚娘傳奇" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3412_ofiii104_tv_20250221.png" group-title="ofiii",武媚娘傳奇
+http://127.0.0.1:8081/ofiii.php?id=ofiii104
+#EXTINF:-1 tvg-id="長樂曲" tvg-name="長樂曲" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3476_ofiii105_tv_20250221.png" group-title="ofiii",長樂曲
+http://127.0.0.1:8081/ofiii.php?id=ofiii105
+#EXTINF:-1 tvg-id="軍師聯盟" tvg-name="軍師聯盟" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3070_ofiii106_tv_20250221.png" group-title="ofiii",軍師聯盟
+http://127.0.0.1:8081/ofiii.php?id=ofiii106
+#EXTINF:-1 tvg-id="軍師聯盟2 虎嘯龍吟" tvg-name="軍師聯盟2 虎嘯龍吟" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3071_ofiii107_tv_20250221.png" group-title="ofiii",軍師聯盟2 虎嘯龍吟
+http://127.0.0.1:8081/ofiii.php?id=ofiii107
+#EXTINF:-1 tvg-id="國色芳華" tvg-name="國色芳華" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3692_ofiii108_tv_20250331.png" group-title="ofiii",國色芳華
+http://127.0.0.1:8081/ofiii.php?id=ofiii108
+#EXTINF:-1 tvg-id="落花時節又逢君" tvg-name="落花時節又逢君" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3779_ofiii109_tv_20250626.png" group-title="ofiii",落花時節又逢君
+http://127.0.0.1:8081/ofiii.php?id=ofiii109
+#EXTINF:-1 tvg-id="楚喬傳" tvg-name="楚喬傳" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3113_ofiii110_tv_20250221.png" group-title="ofiii",楚喬傳
+http://127.0.0.1:8081/ofiii.php?id=ofiii110
+#EXTINF:-1 tvg-id="倚天屠龍記 2019" tvg-name="倚天屠龍記 2019" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3206_ofiii111_tv_20250221.png" group-title="ofiii",倚天屠龍記 2019
+http://127.0.0.1:8081/ofiii.php?id=ofiii111
+#EXTINF:-1 tvg-id="鳳囚凰" tvg-name="鳳囚凰" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3721_ofiii112_tv_20250506.png" group-title="ofiii",鳳囚凰
+http://127.0.0.1:8081/ofiii.php?id=ofiii112
+#EXTINF:-1 tvg-id="步步驚心" tvg-name="步步驚心" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3443_ofiii113_tv_20250221.png" group-title="ofiii",步步驚心
+http://127.0.0.1:8081/ofiii.php?id=ofiii113
+#EXTINF:-1 tvg-id="九重紫" tvg-name="九重紫" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3630_ofiii114_tv_20250221.png" group-title="ofiii",九重紫
+http://127.0.0.1:8081/ofiii.php?id=ofiii114
+#EXTINF:-1 tvg-id="私藏浪漫" tvg-name="私藏浪漫" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3444_ofiii115_tv_20250221.png" group-title="ofiii",私藏浪漫
+http://127.0.0.1:8081/ofiii.php?id=ofiii115
+#EXTINF:-1 tvg-id="去有風的地方" tvg-name="去有風的地方" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_2591_ofiii116_tv_20250221.png" group-title="ofiii",去有風的地方
+http://127.0.0.1:8081/ofiii.php?id=ofiii116
+#EXTINF:-1 tvg-id="佔有姜西" tvg-name="佔有姜西" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3780_ofiii117_tv_20250626.png" group-title="ofiii",佔有姜西
+http://127.0.0.1:8081/ofiii.php?id=ofiii117
+#EXTINF:-1 tvg-id="向風而行" tvg-name="向風而行" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="ofiii",向風而行
+http://127.0.0.1:8081/ofiii.php?id=ofiii118
+#EXTINF:-1 tvg-id="以家人之名" tvg-name="以家人之名" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3023_ofiii119_tv_20250221.png" group-title="ofiii",以家人之名
+http://127.0.0.1:8081/ofiii.php?id=ofiii119
+#EXTINF:-1 tvg-id="有你的時光裡" tvg-name="有你的時光裡" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3722_ofiii120_tv_20250506.png" group-title="ofiii",有你的時光裡
+http://127.0.0.1:8081/ofiii.php?id=ofiii120
+#EXTINF:-1 tvg-id="我的差評女友" tvg-name="我的差評女友" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3781_ofiii121_tv_20250626.png" group-title="ofiii",我的差評女友
+http://127.0.0.1:8081/ofiii.php?id=ofiii121
+#EXTINF:-1 tvg-id="請叫我總監" tvg-name="請叫我總監" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="ofiii",請叫我總監
+http://127.0.0.1:8081/ofiii.php?id=ofiii122
+#EXTINF:-1 tvg-id="三十而已" tvg-name="三十而已" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3748_ofiii123_tv_20250529.png" group-title="ofiii",三十而已
+http://127.0.0.1:8081/ofiii.php?id=ofiii123
+#EXTINF:-1 tvg-id="月嫂先生" tvg-name="月嫂先生" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3693_ofiii124_tv_20250331.png" group-title="ofiii",月嫂先生
+http://127.0.0.1:8081/ofiii.php?id=ofiii124
+#EXTINF:-1 tvg-id="綜藝大集合" tvg-name="綜藝大集合" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3809_ofiii125_tv_20250729.png" group-title="ofiii",綜藝大集合
+http://127.0.0.1:8081/ofiii.php?id=ofiii125
+#EXTINF:-1 tvg-id="豬哥壹級棒" tvg-name="豬哥壹級棒" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3356_ofiii126_tv_20250221.png" group-title="ofiii",豬哥壹級棒
+http://127.0.0.1:8081/ofiii.php?id=ofiii126
+#EXTINF:-1 tvg-id="鬼話連篇" tvg-name="鬼話連篇" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3782_ofiii127_tv_20250626.png" group-title="ofiii",鬼話連篇
+http://127.0.0.1:8081/ofiii.php?id=ofiii127
+#EXTINF:-1 tvg-id="醫師好辣" tvg-name="醫師好辣" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3633_ofiii128_tv_20250221.png" group-title="ofiii",醫師好辣
+http://127.0.0.1:8081/ofiii.php?id=ofiii128
+#EXTINF:-1 tvg-id="WTO姐妹會" tvg-name="WTO姐妹會" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3301_ofiii129_tv_20250221.png" group-title="ofiii",WTO姐妹會
+http://127.0.0.1:8081/ofiii.php?id=ofiii129
+#EXTINF:-1 tvg-id="全民星攻略" tvg-name="全民星攻略" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_2594_ofiii131_tv_20250221.png" group-title="ofiii",全民星攻略
+http://127.0.0.1:8081/ofiii.php?id=ofiii131
+#EXTINF:-1 tvg-id="健康2.0" tvg-name="健康2.0" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3600_ofiii132_tv_20250221.png" group-title="ofiii",健康2.0
+http://127.0.0.1:8081/ofiii.php?id=ofiii132
+#EXTINF:-1 tvg-id="臺灣啟示錄" tvg-name="臺灣啟示錄" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_2595_ofiii133_tv_20250221.png" group-title="ofiii",臺灣啟示錄
+http://127.0.0.1:8081/ofiii.php?id=ofiii133
+#EXTINF:-1 tvg-id="法眼黑與白" tvg-name="法眼黑與白" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_2935_ofiii134_tv_20250221.png" group-title="ofiii",法眼黑與白
+http://127.0.0.1:8081/ofiii.php?id=ofiii134
+#EXTINF:-1 tvg-id="天才衝衝衝" tvg-name="天才衝衝衝" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_2936_ofiii135_tv_20250221.png" group-title="ofiii",天才衝衝衝
+http://127.0.0.1:8081/ofiii.php?id=ofiii135
+#EXTINF:-1 tvg-id="一步一腳印 發現新臺灣" tvg-name="一步一腳印 發現新臺灣" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3601_ofiii136_tv_20250221.png" group-title="ofiii",一步一腳印 發現新臺灣
+http://127.0.0.1:8081/ofiii.php?id=ofiii136
+#EXTINF:-1 tvg-id="女人我最大" tvg-name="女人我最大" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3571_ofiii137_tv_20250221.png" group-title="ofiii",女人我最大
+http://127.0.0.1:8081/ofiii.php?id=ofiii137
+#EXTINF:-1 tvg-id="威廉沈歡樂送" tvg-name="威廉沈歡樂送" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3603_ofiii139_tv_20250221.png" group-title="ofiii",威廉沈歡樂送
+http://127.0.0.1:8081/ofiii.php?id=ofiii139
+#EXTINF:-1 tvg-id="木曜4超玩 一日系列" tvg-name="木曜4超玩 一日系列" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3694_ofiii140_tv_20250331.png" group-title="ofiii",木曜4超玩 一日系列
+http://127.0.0.1:8081/ofiii.php?id=ofiii140
+#EXTINF:-1 tvg-id="月曜1起玩" tvg-name="月曜1起玩" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3749_ofiii141_tv_20250529.png" group-title="ofiii",月曜1起玩
+http://127.0.0.1:8081/ofiii.php?id=ofiii141
+#EXTINF:-1 tvg-id="一字千金" tvg-name="一字千金" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3168_ofiii142_tv_20250221.png" group-title="ofiii",一字千金
+http://127.0.0.1:8081/ofiii.php?id=ofiii142
+#EXTINF:-1 tvg-id="11點熱吵店" tvg-name="11點熱吵店" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3234_ofiii143_tv_20250221.png" group-title="ofiii",11點熱吵店
+http://127.0.0.1:8081/ofiii.php?id=ofiii143
+#EXTINF:-1 tvg-id="麥卡貝網路電視" tvg-name="麥卡貝網路電視" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3750_ofiii144_tv_20250529.png" group-title="ofiii",麥卡貝網路電視
+http://127.0.0.1:8081/ofiii.php?id=ofiii144
+#EXTINF:-1 tvg-id="回到20歲" tvg-name="回到20歲" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3661_ofiii145_tv_20250305.png" group-title="ofiii",回到20歲
+http://127.0.0.1:8081/ofiii.php?id=ofiii145
+#EXTINF:-1 tvg-id="白雪公主非死不可" tvg-name="白雪公主非死不可" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3515_ofiii146_tv_20250225.png" group-title="ofiii",白雪公主非死不可
+http://127.0.0.1:8081/ofiii.php?id=ofiii146
+#EXTINF:-1 tvg-id="好搭檔" tvg-name="好搭檔" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3516_ofiii147_tv_20250225.png" group-title="ofiii",好搭檔
+http://127.0.0.1:8081/ofiii.php?id=ofiii147
+#EXTINF:-1 tvg-id="月升之江" tvg-name="月升之江" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3882_ofiii148_tv_20250924.png" group-title="ofiii",月升之江
+http://127.0.0.1:8081/ofiii.php?id=ofiii148
+#EXTINF:-1 tvg-id="臺灣靈異事件" tvg-name="臺灣靈異事件" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3385_ofiii150_tv_20250221.png" group-title="ofiii",臺灣靈異事件
+http://127.0.0.1:8081/ofiii.php?id=ofiii150
+#EXTINF:-1 tvg-id="包青天 1993版" tvg-name="包青天 1993版" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3235_ofiii151_tv_20250221.png" group-title="ofiii",包青天 1993版
+http://127.0.0.1:8081/ofiii.php?id=ofiii151
+#EXTINF:-1 tvg-id="我的婆婆怎麼那麼可愛" tvg-name="我的婆婆怎麼那麼可愛" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3027_ofiii152_tv_20250221.png" group-title="ofiii",我的婆婆怎麼那麼可愛
+http://127.0.0.1:8081/ofiii.php?id=ofiii152
+#EXTINF:-1 tvg-id="村裡來了個暴走女外科" tvg-name="村裡來了個暴走女外科" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3028_ofiii153_tv_20250221.png" group-title="ofiii",村裡來了個暴走女外科
+http://127.0.0.1:8081/ofiii.php?id=ofiii153
+#EXTINF:-1 tvg-id="一把青" tvg-name="一把青" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3077_ofiii154_tv_20250221.png" group-title="ofiii",一把青
+http://127.0.0.1:8081/ofiii.php?id=ofiii154
+#EXTINF:-1 tvg-id="茶金" tvg-name="茶金" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3119_ofiii155_tv_20250221.png" group-title="ofiii",茶金
+http://127.0.0.1:8081/ofiii.php?id=ofiii155
+#EXTINF:-1 tvg-id="苦力" tvg-name="苦力" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3478_ofiii156_tv_20250221.png" group-title="ofiii",苦力
+http://127.0.0.1:8081/ofiii.php?id=ofiii156
+#EXTINF:-1 tvg-id="俗女養成記" tvg-name="俗女養成記" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3358_ofiii157_tv_20250221.png" group-title="ofiii",俗女養成記
+http://127.0.0.1:8081/ofiii.php?id=ofiii157
+#EXTINF:-1 tvg-id="麻醉風暴" tvg-name="麻醉風暴" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3415_ofiii158_tv_20250221.png" group-title="ofiii",麻醉風暴
+http://127.0.0.1:8081/ofiii.php?id=ofiii158
+#EXTINF:-1 tvg-id="雖然等級只有1級但固有技能是最強的" tvg-name="雖然等級只有1級但固有技能是最強的" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3359_ofiii159_tv_20250221.png" group-title="ofiii",雖然等級只有1級但固有技能是最強的
+http://127.0.0.1:8081/ofiii.php?id=ofiii159
+#EXTINF:-1 tvg-id="擁有超常技能的異世界流浪美食家" tvg-name="擁有超常技能的異世界流浪美食家" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3331_ofiii160_tv_20250221.png" group-title="ofiii",擁有超常技能的異世界流浪美食家
+http://127.0.0.1:8081/ofiii.php?id=ofiii160
+#EXTINF:-1 tvg-id="離開A級隊伍的我，和從前的弟子往迷宮深處邁進" tvg-name="離開A級隊伍的我，和從前的弟子往迷宮深處邁進" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3883_ofiii161_tv_20250924.png" group-title="ofiii",離開A級隊伍的我，和從前的弟子往迷宮深處邁進
+http://127.0.0.1:8081/ofiii.php?id=ofiii161
+#EXTINF:-1 tvg-id="在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～" tvg-name="在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3303_ofiii162_tv_20250221.png" group-title="ofiii",在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～
+http://127.0.0.1:8081/ofiii.php?id=ofiii162
+#EXTINF:-1 tvg-id="第一神拳" tvg-name="第一神拳" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3266_ofiii163_tv_20250221.png" group-title="ofiii",第一神拳
+http://127.0.0.1:8081/ofiii.php?id=ofiii163
+#EXTINF:-1 tvg-id="刀劍神域(中文版)" tvg-name="刀劍神域(中文版)" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3267_ofiii164_tv_20250221.png" group-title="ofiii",刀劍神域(中文版)
+http://127.0.0.1:8081/ofiii.php?id=ofiii164
+#EXTINF:-1 tvg-id="蠟筆小新(中文版)" tvg-name="蠟筆小新(中文版)" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3079_ofiii165_tv_20250221.png" group-title="ofiii",蠟筆小新(中文版)
+http://127.0.0.1:8081/ofiii.php?id=ofiii165
+#EXTINF:-1 tvg-id="我們這一家" tvg-name="我們這一家" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3121_ofiii166_tv_20250221.png" group-title="ofiii",我們這一家
+http://127.0.0.1:8081/ofiii.php?id=ofiii166
+#EXTINF:-1 tvg-id="獵人(中文版)" tvg-name="獵人(中文版)" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3122_ofiii167_tv_20250221.png" group-title="ofiii",獵人(中文版)
+http://127.0.0.1:8081/ofiii.php?id=ofiii167
+#EXTINF:-1 tvg-id="中華一番(中文版)" tvg-name="中華一番(中文版)" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3124_ofiii168_tv_20250221.png" group-title="ofiii",中華一番(中文版)
+http://127.0.0.1:8081/ofiii.php?id=ofiii168
+#EXTINF:-1 tvg-id="隊長小翼(中文版)" tvg-name="隊長小翼(中文版)" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3125_ofiii169_tv_20250221.png" group-title="ofiii",隊長小翼(中文版)
+http://127.0.0.1:8081/ofiii.php?id=ofiii169
+#EXTINF:-1 tvg-id="SPY X FAMILY 間諜家家酒" tvg-name="SPY X FAMILY 間諜家家酒" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3304_ofiii170_tv_20250221.png" group-title="ofiii",SPY X FAMILY 間諜家家酒
+http://127.0.0.1:8081/ofiii.php?id=ofiii170
+#EXTINF:-1 tvg-id="SPY X FAMILY 間諜家家酒(中文版)" tvg-name="SPY X FAMILY 間諜家家酒(中文版)" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3127_ofiii171_tv_20250221.png" group-title="ofiii",SPY X FAMILY 間諜家家酒(中文版)
+http://127.0.0.1:8081/ofiii.php?id=ofiii171
+#EXTINF:-1 tvg-id="無職轉生，到了異世界就拿出真本事" tvg-name="無職轉生，到了異世界就拿出真本事" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3128_ofiii172_tv_20250221.png" group-title="ofiii",無職轉生，到了異世界就拿出真本事
+http://127.0.0.1:8081/ofiii.php?id=ofiii172
+#EXTINF:-1 tvg-id="關於我轉生變成史萊姆這檔事(國)" tvg-name="關於我轉生變成史萊姆這檔事(國)" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3170_ofiii173_tv_20250221.png" group-title="ofiii",關於我轉生變成史萊姆這檔事(國)
+http://127.0.0.1:8081/ofiii.php?id=ofiii173
+#EXTINF:-1 tvg-id="夏目友人帳" tvg-name="夏目友人帳" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3171_ofiii174_tv_20250221.png" group-title="ofiii",夏目友人帳
+http://127.0.0.1:8081/ofiii.php?id=ofiii174
+#EXTINF:-1 tvg-id="怪醫黑傑克TV(中文版)" tvg-name="怪醫黑傑克TV(中文版)" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3811_ofiii175_tv_20250729.png" group-title="ofiii",怪醫黑傑克TV(中文版)
+http://127.0.0.1:8081/ofiii.php?id=ofiii175
+#EXTINF:-1 tvg-id="鋼之鍊金術師" tvg-name="鋼之鍊金術師" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3237_ofiii177_tv_20250221.png" group-title="ofiii",鋼之鍊金術師
+http://127.0.0.1:8081/ofiii.php?id=ofiii177
+#EXTINF:-1 tvg-id="JOJO 的奇妙冒險" tvg-name="JOJO 的奇妙冒險" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3238_ofiii178_tv_20250221.png" group-title="ofiii",JOJO 的奇妙冒險
+http://127.0.0.1:8081/ofiii.php?id=ofiii178
+#EXTINF:-1 tvg-id="葬送的芙莉蓮" tvg-name="葬送的芙莉蓮" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3268_ofiii179_tv_20250221.png" group-title="ofiii",葬送的芙莉蓮
+http://127.0.0.1:8081/ofiii.php?id=ofiii179
+#EXTINF:-1 tvg-id="史上最強弟子兼一(中文版)" tvg-name="史上最強弟子兼一(中文版)" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3479_ofiii180_tv_20250221.png" group-title="ofiii",史上最強弟子兼一(中文版)
+http://127.0.0.1:8081/ofiii.php?id=ofiii180
+#EXTINF:-1 tvg-id="忍者亂太郎(中文版)" tvg-name="忍者亂太郎(中文版)" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3572_ofiii182_tv_20250221.png" group-title="ofiii",忍者亂太郎(中文版)
+http://127.0.0.1:8081/ofiii.php?id=ofiii182
+#EXTINF:-1 tvg-id="膽大黨" tvg-name="膽大黨" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3604_ofiii183_tv_20250221.png" group-title="ofiii",膽大黨
+http://127.0.0.1:8081/ofiii.php?id=ofiii183
+#EXTINF:-1 tvg-id="新忍者哈特利" tvg-name="新忍者哈特利" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3634_ofiii184_tv_20250221.png" group-title="ofiii",新忍者哈特利
+http://127.0.0.1:8081/ofiii.php?id=ofiii184
+#EXTINF:-1 tvg-id="凡爾賽玫瑰" tvg-name="凡爾賽玫瑰" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="ofiii",凡爾賽玫瑰
+http://127.0.0.1:8081/ofiii.php?id=ofiii185
+#EXTINF:-1 tvg-id="城市獵人" tvg-name="城市獵人" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3751_ofiii186_tv_20250529.png" group-title="ofiii",城市獵人
+http://127.0.0.1:8081/ofiii.php?id=ofiii186
+#EXTINF:-1 tvg-id="超人力霸王臺" tvg-name="超人力霸王臺" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3843_ofiii187_tv_20250827.png" group-title="ofiii",超人力霸王臺
+http://127.0.0.1:8081/ofiii.php?id=ofiii187
+#EXTINF:-1 tvg-id="生命的贏家" tvg-name="生命的贏家" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_ofiii192_tv_20230329.png" group-title="ofiii",生命的贏家
+http://127.0.0.1:8081/ofiii.php?id=ofiii192
+#EXTINF:-1 tvg-id="DayStar" tvg-name="DayStar" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/Daystar_128x72.png" group-title="ofiii",DayStar
+http://127.0.0.1:8081/ofiii.php?id=daystar
+#EXTINF:-1 tvg-id="海派甜心" tvg-name="海派甜心" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3605_ofiii195_tv_20250225.png" group-title="ofiii",海派甜心
+http://127.0.0.1:8081/ofiii.php?id=ofiii195
+#EXTINF:-1 tvg-id="不良笑花" tvg-name="不良笑花" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3631_ofiii196_tv_20250225.png" group-title="ofiii",不良笑花
+http://127.0.0.1:8081/ofiii.php?id=ofiii196
+#EXTINF:-1 tvg-id="王子看見二公主" tvg-name="王子看見二公主" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="ofiii",王子看見二公主
+http://127.0.0.1:8081/ofiii.php?id=ofiii198
+#EXTINF:-1 tvg-id="劣人傳之詭計" tvg-name="劣人傳之詭計" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3783_ofiii200_tv_20250626.png" group-title="ofiii",劣人傳之詭計
+http://127.0.0.1:8081/ofiii.php?id=ofiii200
+#EXTINF:-1 tvg-id="大新聞大爆卦" tvg-name="大新聞大爆卦" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_2939_ofiii201_tv_20250221.png" group-title="ofiii",大新聞大爆卦
+http://127.0.0.1:8081/ofiii.php?id=ofiii201
+#EXTINF:-1 tvg-id="新聞大白話" tvg-name="新聞大白話" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3239_ofiii202_tv_20250221.png" group-title="ofiii",新聞大白話
+http://127.0.0.1:8081/ofiii.php?id=ofiii202
+#EXTINF:-1 tvg-id="文茜的世界周報" tvg-name="文茜的世界周報" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3269_ofiii203_tv_20250221.png" group-title="ofiii",文茜的世界周報
+http://127.0.0.1:8081/ofiii.php?id=ofiii203
+#EXTINF:-1 tvg-id="寰宇全視界" tvg-name="寰宇全視界" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_2942_ofiii204_tv_20250221.png" group-title="ofiii",寰宇全視界
+http://127.0.0.1:8081/ofiii.php?id=ofiii204
+#EXTINF:-1 tvg-id="文茜的世界財經周報" tvg-name="文茜的世界財經周報" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3480_ofiii205_tv_20250221.png" group-title="ofiii",文茜的世界財經周報
+http://127.0.0.1:8081/ofiii.php?id=ofiii205
+#EXTINF:-1 tvg-id="環球大戰線" tvg-name="環球大戰線" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="ofiii",環球大戰線
+http://127.0.0.1:8081/ofiii.php?id=ofiii206
+#EXTINF:-1 tvg-id="少康戰情室" tvg-name="少康戰情室" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3520_ofiii207_tv_20250221.png" group-title="ofiii",少康戰情室
+http://127.0.0.1:8081/ofiii.php?id=ofiii207
+#EXTINF:-1 tvg-id="國民大會" tvg-name="國民大會" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3573_ofiii208_tv_20250221.png" group-title="ofiii",國民大會
+http://127.0.0.1:8081/ofiii.php?id=ofiii208
+#EXTINF:-1 tvg-id="臺灣最前線" tvg-name="臺灣最前線" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3844_ofiii209_tv_20250827.png" group-title="ofiii",臺灣最前線
+http://127.0.0.1:8081/ofiii.php?id=ofiii209
+#EXTINF:-1 tvg-id="臺灣向前行" tvg-name="臺灣向前行" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3845_ofiii210_tv_20250827.png" group-title="ofiii",臺灣向前行
+http://127.0.0.1:8081/ofiii.php?id=ofiii210
+#EXTINF:-1 tvg-id="民視異言堂" tvg-name="民視異言堂" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3884_ofiii211_tv_20250924.png" group-title="ofiii",民視異言堂
+http://127.0.0.1:8081/ofiii.php?id=ofiii211
+#EXTINF:-1 tvg-id="新聞觀測站" tvg-name="新聞觀測站" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3885_ofiii212_tv_20250924.png" group-title="ofiii",新聞觀測站
+http://127.0.0.1:8081/ofiii.php?id=ofiii212
+#EXTINF:-1 tvg-id="電動車時代" tvg-name="電動車時代" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3475_ofiii215_tv_20240930.png" group-title="ofiii",電動車時代
+http://127.0.0.1:8081/ofiii.php?id=ofiii215
+#EXTINF:-1 tvg-id="SiCAR愛車酷" tvg-name="SiCAR愛車酷" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3521_ofiii216_tv_20241104.png" group-title="ofiii",SiCAR愛車酷
+http://127.0.0.1:8081/ofiii.php?id=ofiii216
+#EXTINF:-1 tvg-id="狂人日誌" tvg-name="狂人日誌" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3522_ofiii217_tv_20241104.png" group-title="ofiii",狂人日誌
+http://127.0.0.1:8081/ofiii.php?id=ofiii217
+#EXTINF:-1 tvg-id="脖子解說 Mr. Neck" tvg-name="脖子解說 Mr. Neck" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3523_ofiii218_tv_20250220.png" group-title="ofiii",脖子解說 Mr. Neck
+http://127.0.0.1:8081/ofiii.php?id=ofiii218
+#EXTINF:-1 tvg-id="食尚玩家-Hello腹餓代" tvg-name="食尚玩家-Hello腹餓代" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3574_ofiii225_tv_20250221.png" group-title="ofiii",食尚玩家-Hello腹餓代
+http://127.0.0.1:8081/ofiii.php?id=ofiii225
+#EXTINF:-1 tvg-id="食尚玩家-天菜就醬吃" tvg-name="食尚玩家-天菜就醬吃" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3575_ofiii226_tv_20250221.png" group-title="ofiii",食尚玩家-天菜就醬吃
+http://127.0.0.1:8081/ofiii.php?id=ofiii226
+#EXTINF:-1 tvg-id="食尚玩家-2天1夜go" tvg-name="食尚玩家-2天1夜go" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3554_ofiii227_tv_20250221.png" group-title="ofiii",食尚玩家-2天1夜go
+http://127.0.0.1:8081/ofiii.php?id=ofiii227
+#EXTINF:-1 tvg-id="食尚玩家-熱血48小時" tvg-name="食尚玩家-熱血48小時" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3558_ofiii228_tv_20250221.png" group-title="ofiii",食尚玩家-熱血48小時
+http://127.0.0.1:8081/ofiii.php?id=ofiii228
+#EXTINF:-1 tvg-id="非凡大探索" tvg-name="非凡大探索" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3553_ofiii234_tv_20250221.png" group-title="ofiii",非凡大探索
+http://127.0.0.1:8081/ofiii.php?id=ofiii234
+#EXTINF:-1 tvg-id="臺灣1001個故事" tvg-name="臺灣1001個故事" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3555_ofiii235_tv_20250221.png" group-title="ofiii",臺灣1001個故事
+http://127.0.0.1:8081/ofiii.php?id=ofiii235
+#EXTINF:-1 tvg-id="詹姆士出走料理" tvg-name="詹姆士出走料理" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3566_ofiii236_tv_20250221.png" group-title="ofiii",詹姆士出走料理
+http://127.0.0.1:8081/ofiii.php?id=ofiii236
+#EXTINF:-1 tvg-id="進擊的臺灣" tvg-name="進擊的臺灣" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3568_ofiii237_tv_20250221.png" group-title="ofiii",進擊的臺灣
+http://127.0.0.1:8081/ofiii.php?id=ofiii237
+#EXTINF:-1 tvg-id="世界第一等" tvg-name="世界第一等" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3567_ofiii238_tv_20250221.png" group-title="ofiii",世界第一等
+http://127.0.0.1:8081/ofiii.php?id=ofiii238
+#EXTINF:-1 tvg-id="臺灣第一等" tvg-name="臺灣第一等" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3569_ofiii239_tv_20250221.png" group-title="ofiii",臺灣第一等
+http://127.0.0.1:8081/ofiii.php?id=ofiii239
+#EXTINF:-1 tvg-id="溢遊未盡" tvg-name="溢遊未盡" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3570_ofiii240_tv_20250221.png" group-title="ofiii",溢遊未盡
+http://127.0.0.1:8081/ofiii.php?id=ofiii240
+#EXTINF:-1 tvg-id="臺灣真善美" tvg-name="臺灣真善美" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3635_ofiii241_tv_20250221.png" group-title="ofiii",臺灣真善美
+http://127.0.0.1:8081/ofiii.php?id=ofiii241
+#EXTINF:-1 tvg-id="請問今晚住誰家" tvg-name="請問今晚住誰家" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3636_ofiii242_tv_20250221.png" group-title="ofiii",請問今晚住誰家
+http://127.0.0.1:8081/ofiii.php?id=ofiii242
+#EXTINF:-1 tvg-id="早餐中國" tvg-name="早餐中國" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3664_ofiii243_tv_20250305.png" group-title="ofiii",早餐中國
+http://127.0.0.1:8081/ofiii.php?id=ofiii243
+#EXTINF:-1 tvg-id="溢起趣打卡" tvg-name="溢起趣打卡" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3665_ofiii244_tv_20250305.png" group-title="ofiii",溢起趣打卡
+http://127.0.0.1:8081/ofiii.php?id=ofiii244
+#EXTINF:-1 tvg-id="臺灣壹百種味道" tvg-name="臺灣壹百種味道" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3666_ofiii245_tv_20250305.png" group-title="ofiii",臺灣壹百種味道
+http://127.0.0.1:8081/ofiii.php?id=ofiii245
+#EXTINF:-1 tvg-id="中國美食大探索" tvg-name="中國美食大探索" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3784_ofiii246_tv_20250626.png" group-title="ofiii",中國美食大探索
+http://127.0.0.1:8081/ofiii.php?id=ofiii246
+#EXTINF:-1 tvg-id="中國旅遊大探索" tvg-name="中國旅遊大探索" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3813_ofiii247_tv_20250729.png" group-title="ofiii",中國旅遊大探索
+http://127.0.0.1:8081/ofiii.php?id=ofiii247
+#EXTINF:-1 tvg-id="秘境不思溢" tvg-name="秘境不思溢" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3812_ofiii248_tv_20250729.png" group-title="ofiii",秘境不思溢
+http://127.0.0.1:8081/ofiii.php?id=ofiii248
+#EXTINF:-1 tvg-id="紓壓雷雨聲" tvg-name="紓壓雷雨聲" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3437_ofiii250_tv_20250305.png" group-title="ofiii",紓壓雷雨聲
+http://127.0.0.1:8081/ofiii.php?id=ofiii250
+#EXTINF:-1 tvg-id="療癒下雨聲" tvg-name="療癒下雨聲" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3438_ofiii251_tv_20250305.png" group-title="ofiii",療癒下雨聲
+http://127.0.0.1:8081/ofiii.php?id=ofiii251
+#EXTINF:-1 tvg-id="放鬆的爵士午後" tvg-name="放鬆的爵士午後" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3439_ofiii252_tv_20250305.png" group-title="ofiii",放鬆的爵士午後
+http://127.0.0.1:8081/ofiii.php?id=ofiii252
+#EXTINF:-1 tvg-id="夏日陽光海浪聲" tvg-name="夏日陽光海浪聲" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3441_ofiii254_tv_20250305.png" group-title="ofiii",夏日陽光海浪聲
+http://127.0.0.1:8081/ofiii.php?id=ofiii254
+#EXTINF:-1 tvg-id="大自然流水聲" tvg-name="大自然流水聲" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3785_ofiii255_tv_20250703.png" group-title="ofiii",大自然流水聲
+http://127.0.0.1:8081/ofiii.php?id=ofiii255
 
 
 
