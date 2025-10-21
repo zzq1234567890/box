@@ -61,6 +61,8 @@ https://www.shqsy.com/zgst.php?id=sz4k
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/FashionTV.png" group-title="4K",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-Origin=https://api.chinaaudiovisual.cn/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -124,7 +126,7 @@ http://127.0.0.1:8081/hbgd.php?id=cctv1hd
 http://127.0.0.1:8081/hbgd.php?id=cctv2hd
 #EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="湖北廣電",   cctv3hd
 http://127.0.0.1:8081/hbgd.php?id=cctv3hd
-#EXTINF:-1 tvg-id="cctv4亞洲" tvg-name="cctv4亞洲" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="湖北廣電",   cctv4
+#EXTINF:-1 tvg-id="cctv4亞洲" tvg-name="cctv4亞洲" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="湖北廣電",cctv4
 http://127.0.0.1:8081/hbgd.php?id=cctv4
 #EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="湖北廣電",   cctv5hd
 http://127.0.0.1:8081/hbgd.php?id=cctv5hd
