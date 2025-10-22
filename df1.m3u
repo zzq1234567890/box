@@ -1088,26 +1088,7 @@ http://127.0.0.1:8081/fenghuangyoutube.php
 #EXTINF:-1   tvg-id="鳳凰美洲臺"   tvg-name="鳳凰美洲臺"    tvg-logo=""    group-title="中文新聞",鳳凰美洲臺
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="中文新聞",cctv1
-http://127.0.0.1:8081/cctvnewsweb.php?id=cctv1&q=lg 
-#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="中文新聞", cctv2
-http://127.0.0.1:8081/cctvnewsweb.php?id=cctv2&q=lg 
-#EXTINF:-1 tvg-id="cctv4亞洲" tvg-name="cctv4亞洲" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="中文新聞",cctv4
-http://127.0.0.1:8081/cctvnewsweb.php?id=cctv4&q=lg 
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="中文新聞",cctv7
-http://127.0.0.1:8081/cctvnewsweb.php?id=cctv7&q=lg 
-#EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="中文新聞",cctv9
-http://127.0.0.1:8081/cctvnewsweb.php?id=cctv9&q=lg 
-#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="中文新聞", cctv10
-http://127.0.0.1:8081/cctvnewsweb.php?id=cctv10&q=lg 
-#EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="中文新聞",cctv12
-http://127.0.0.1:8081/cctvnewsweb.php?id=cctv12&q=lg 
-#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="中文新聞",cctv13
-http://127.0.0.1:8081/cctvnewsweb.php?id=cctv13&q=lg 
-#EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="中文新聞",cctv17
-http://127.0.0.1:8081/cctvnewsweb.php?id=cctv17&q=lg 
-#EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="中文新聞",cctv4k
-http://127.0.0.1:8081/cctvnewsweb.php?id=cctv4k&q=lg 
+
 
 #EXTINF:-1   tvg-id="CCTV-4美洲頻道"   tvg-name="CCTV-4美洲頻道"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"    group-title="中文新聞",CCTV-4美洲頻道
 
