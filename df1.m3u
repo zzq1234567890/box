@@ -1886,8 +1886,8 @@ http://127.0.0.1:8081/nowtvweb.php?id=333
 #KODIPROP:inputstream.adaptive.license_key=9d0586b202d6318fa826a8d1bc09cc3b:0166e13f653ba1d66c43b277db0c1100 
 http://127.0.0.1:8081/nowtvweb.php?id=630
 #EXTINF:-1 tvg-id="HOY體育臺" tvg-name="HOY體育臺" tvg-logo="" group-title="港澳臺",HOY體育臺
-https://edge.media.seaovers.live/baselive/v2/J0LMZVOV.m3u8?bpkio_sessionid=10d3c39c22-de37f79b-2052-4f3f-97f1-0d740b68eb51&bpkio_serviceid=856b503e276cc4917dc388396c23668b&category=all
-   
+
+https://edge.media.seaovers.live/856b503e276cc4917dc388396c23668b/baselive/v2/J0LMZVOV.m3u8   
 #EXTINF:-1 tvg-id="HOY國際財經" tvg-name="HOY國際財經" tvg-logo="" group-title="港澳臺",HOY國際財經
 https://ch76-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="" group-title="港澳臺",HOY TV
