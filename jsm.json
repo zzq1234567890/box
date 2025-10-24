@@ -2931,7 +2931,16 @@
            ### "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-       
+      {
+            "name": "風雲TV",
+            "ua": "okhttp/3.12",
+            "playerType": 2,
+            ### "url": "https://bit.ly/iptv-aptv",
+            "url": " http://iptv.4666888.xyz/FYTV.m3u",
+		  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+           ### "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
         {
             "name": "九店",
             "api": "csp_MQiTV",
