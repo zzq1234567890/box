@@ -1888,11 +1888,11 @@ http://127.0.0.1:8081/nowtvweb.php?id=630
 #EXTINF:-1 tvg-id="HOY體育臺" tvg-name="HOY體育臺" tvg-logo="" group-title="港澳臺",HOY體育臺
 
 https://edge.media.seaovers.live/856b503e276cc4917dc388396c23668b/baselive/v2/J0LMZVOV.m3u8   
-#EXTINF:-1 tvg-id="HOY 國際財經" tvg-name="HOY 國際財經" tvg-logo="" group-title="港澳臺",HOY國際財經
+#EXTINF:-1 tvg-id="HOY 國際財經臺" tvg-name="HOY 國際財經臺" tvg-logo="" group-title="港澳臺",HOY國際財經
 https://ch76-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="" group-title="港澳臺",HOY TV
 https://ch77-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY 資訊" tvg-name="HOY 資訊" tvg-logo="" group-title="港澳臺",HOY資訊
+#EXTINF:-1 tvg-id="HOY 資訊臺" tvg-name="HOY 資訊臺" tvg-logo="" group-title="港澳臺",HOY資訊
 https://ch78-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY生活臺" tvg-name="HOY生活臺" tvg-logo="" group-title="港澳臺",HOY生活臺
 https://edge.media.seaovers.live/856b503e276cc4912b6c0b42cb01878d/baselive/v2/6TV1VW9W.m3u8
