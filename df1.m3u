@@ -2301,7 +2301,9 @@ http://127.0.0.1:8081/litvapp.php?id=litv-longturn21
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv011
 #EXTINF:-1   tvg-id="litv-longturn17"   tvg-name="亞洲旅遊臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_pc.png"    group-title="litv",亞洲旅遊臺
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv076
+#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live157_mobile.png" group-title="litv",My Cinema Europe HD 我的歐洲電影
 
+http://127.0.0.1:8081/litvapp.php?id=litv-ftv10
 #EXTINF:-1   tvg-id="龍華電影"   tvg-name="龍華電影"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_pc.png"    group-title="litv",龍華電影
 http://127.0.0.1:8081/litvapp.php?id=litv-longturn03
 #EXTINF:-1   tvg-id="4gtv-4gtv061"   tvg-name="靖天電影臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv061_pc.png"    group-title="litv",靖天電影臺
