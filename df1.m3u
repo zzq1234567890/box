@@ -1,4 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/twepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="湖南衛視" tvg-name="湖南衛視" tvg-logo="https://epg.v1.mk/logo/湖南衛視.png" group-title="4K",湖南衛視4K
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1   tvg-id="浙江衛視"   tvg-name="浙江衛視"    tvg-logo=""    group-title="4K",浙江衛視4K
+https://play-qukan.cztv.com/live/1758879019692345.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper", TVB Vietnam(越南臺)
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 #EXTINF:-1 tvg-id="TVB翡翠娛樂臺(TVBe)" tvg-name="TVB翡翠娛樂臺(TVBe)" tvg-logo="" group-title="mytvsuper",TVB翡翠娛樂臺(TVBe )
@@ -33,10 +39,7 @@ https://www.shqsy.com/st.php?id=sc4k&token=shenxian
 #EXTINF:-1 tvg-id="深圳衛視" tvg-name="深圳衛視" tvg-logo="https://epg.v1.mk/logo/深圳衛視.png" group-title="4K",深圳衛視4K
 https://www.shqsy.com/st.php?id=sz4k&token=shenxian
 
-#EXTINF:-1 tvg-id="湖南衛視" tvg-name="湖南衛視" tvg-logo="https://epg.v1.mk/logo/湖南衛視.png" group-title="4K",湖南衛視4K
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1   tvg-id="浙江衛視"   tvg-name="浙江衛視"    tvg-logo=""    group-title="4K",浙江衛視4K
-https://play-qukan.cztv.com/live/1758879019692345.m3u8
+
 #EXTINF:-1 tvg-id="北京衛視" tvg-name="北京衛視" tvg-logo="https://epg.v1.mk/logo/北京衛視.png" group-title="4K",北京衛視4K
 https://www.shqsy.com/zgst.php?id=btv4k
 #EXTINF:-1 tvg-id="東方衛視" tvg-name="東方衛視" tvg-logo="https://epg.v1.mk/logo/東方衛視.png" group-title="4K",東方衛視4K
