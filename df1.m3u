@@ -1096,9 +1096,9 @@ https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 #EXTINF:-1   tvg-id="CCTV-4美洲頻道"   tvg-name="CCTV-4美洲頻道"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"    group-title="中文新聞",CCTV-4美洲頻道
-http://127.0.0.1:8081/cctv4.php?id=1
-#EXTINF:-1   tvg-id="cctv4亞洲"   tvg-name="cctv4亞洲"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"    group-title="中文新聞",cctv-4亞洲
 http://127.0.0.1:8081/cctv4.php?id=2
+#EXTINF:-1   tvg-id="cctv4亞洲"   tvg-name="cctv4亞洲"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"    group-title="中文新聞",cctv-4亞洲
+http://127.0.0.1:8081/cctv4.php?id=1
 
 
 
