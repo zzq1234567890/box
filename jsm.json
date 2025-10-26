@@ -22,6 +22,17 @@
       "filterable": 0,
       "changeable": 0
     },
+
+		{
+	  "key": "test",
+      "name": "test",
+      "type": 4,
+      "api": "https://9280.kstore.space/cat/index.js.md5",
+	  "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
     {
       "key": "py_OleVod",
       "name": "🍉欧乐影院(T4)",
