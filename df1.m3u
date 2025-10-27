@@ -18,6 +18,15 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jb
 #EXTINF:-1   tvg-id="浙江衛視"   tvg-name="浙江衛視"    tvg-logo=""    group-title="4K",浙江衛視4K
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
 
+
+
+#EXTINF:-1   tvg-id="東方衛視"   tvg-name="東方衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="4K",東方衛視4K
+http://127.0.0.1:8081/shanghai1.php?id=dfws4k
+#EXTINF:-1   tvg-id="北京衛視"   tvg-name="北京衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"    group-title="4K",北京衛視4k
+http://127.0.0.1:8081/btimeapp.php?id=bjwsuhd
+#EXTINF:-1   tvg-id="深圳衛視"   tvg-name="深圳衛視"    tvg-logo=""    group-title="4K",深圳衛視4k
+http://127.0.0.1:8081/shenzhen.php?id=szws4k
+
 #EXTINF:-1 tvg-id="北京衛視" tvg-name="北京衛視" tvg-logo="https://epg.v1.mk/logo/北京衛視.png" group-title="4K",北京衛視4K
 https://www.shqsy.com/st.php?id=btv4k&token=shenxian
 #EXTINF:-1 tvg-id="東方衛視" tvg-name="東方衛視" tvg-logo="https://epg.v1.mk/logo/東方衛視.png" group-title="4K",東方衛視4K
