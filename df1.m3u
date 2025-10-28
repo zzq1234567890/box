@@ -13,13 +13,14 @@ https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/a
 https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvb1-tvbanywhereus/playlist.m3u8
 #EXTINF:-1 tvg-id="TVB翡翠綜合臺(TVBJ1)" tvg-name="TVB翡翠綜合臺(TVBJ1)" tvg-logo="" group-title="mytvsuper", 翡翠综合臺(北美)
 https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbj1-tvbanywhereus/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="湖南衛視" tvg-name="湖南衛視" tvg-logo="https://epg.v1.mk/logo/湖南衛視.png" group-title="4K",湖南衛視4K
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1   tvg-id="浙江衛視"   tvg-name="浙江衛視"    tvg-logo=""    group-title="4K",浙江衛視4K
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
-
-
-
+#EXTINF:-1   tvg-id="江蘇衛視"   tvg-name="江蘇衛視"    tvg-logo=""    group-title="4K",江蘇衛視4K
+http://127.0.0.1:8081/jiangsuapp.php?id=jsws4kpro
 #EXTINF:-1   tvg-id="東方衛視"   tvg-name="東方衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="4K",東方衛視4K
 http://127.0.0.1:8081/shanghai1.php?id=dfws4k
 #EXTINF:-1   tvg-id="北京衛視"   tvg-name="北京衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"    group-title="4K",北京衛視4k
@@ -3474,24 +3475,29 @@ http://l.cztvcloud.com/channels/lantian/sxchannel10/1080p.m3u8
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方", 舟山綜合
 http://l.cztvcloud.com/channels/lantian/sxchannel11/1080p.m3u8
 
+#EXTINF:-1   tvg-id="江蘇衛視"   tvg-name="江蘇衛視"    tvg-logo=""    group-title="地方",江蘇衛視4K
+http://127.0.0.1:8081/jiangsuapp.php?id=jsws4kpro
 #EXTINF:-1   tvg-id="江蘇衛視"   tvg-name="江蘇衛視"    tvg-logo=""    group-title="地方",江蘇衛視
-http://127.0.0.1:8081/jiangsu1.php?id=jsws
+http://127.0.0.1:8081/jiangsuapp.php?id=jswspro
 #EXTINF:-1   tvg-id="江蘇城市頻道"   tvg-name="江蘇城市頻道"    tvg-logo=""    group-title="地方",江蘇城市
-http://127.0.0.1:8081/jiangsu1.php?id=jscs
+http://127.0.0.1:8081/jiangsuapp.php?id=jscspro
 #EXTINF:-1   tvg-id="江蘇綜藝頻道"   tvg-name="江蘇綜藝頻道"    tvg-logo=""    group-title="地方",江蘇綜藝
-http://127.0.0.1:8081/jiangsu1.php?id=jszy
+http://127.0.0.1:8081/jiangsuapp.php?id=jszypro
 #EXTINF:-1   tvg-id="江蘇影視頻道"   tvg-name="江蘇影視頻道"    tvg-logo=""    group-title="地方",江蘇影視
-http://127.0.0.1:8081/jiangsu1.php?id=jsys
+http://127.0.0.1:8081/jiangsuapp.php?id=jsyspro
 #EXTINF:-1   tvg-id="江蘇公共新聞頻道"   tvg-name="江蘇公共新聞頻道"    tvg-logo=""    group-title="地方",江蘇公共新聞頻道
-http://127.0.0.1:8081/jiangsu1.php?id=jsxw
+http://127.0.0.1:8081/jiangsuapp.php?id=jsxwpro
  #EXTINF:-1   tvg-id="江蘇體育休閒頻道"   tvg-name="江蘇體育休閒頻道"    tvg-logo=""    group-title="地方",江蘇體育
-http://127.0.0.1:8081/jiangsu1.php?id=jsty
+http://127.0.0.1:8081/jiangsuapp.php?id=jsxxpro
 #EXTINF:-1   tvg-id="江蘇優漫卡通頻道"   tvg-name="江蘇優漫卡通頻道"    tvg-logo=""    group-title="地方",優漫卡通
 http://127.0.0.1:8081/jiangsu1.php?id=ymkt
 #EXTINF:-1   tvg-id="江蘇國際頻道"   tvg-name="江蘇國際頻道"    tvg-logo=""    group-title="地方",江蘇國際
-http://127.0.0.1:8081/jiangsu1.php?id=jsgj
+http://127.0.0.1:8081/jiangsuapp.php?id=ymktpro
 #EXTINF:-1   tvg-id="江蘇教育頻道"   tvg-name="江蘇教育頻道"    tvg-logo="江蘇國際頻道"    group-title="地方",江蘇教育
-http://127.0.0.1:8081/jiangsu1.php?id=jsjy
+http://127.0.0.1:8081/jiangsuapp.php?id=jsjypro
+
+
+
 #EXTINF:-1   tvg-id="福建少兒頻道"   tvg-name="福建少兒頻道"    tvg-logo=""    group-title="地方",福建少兒
 http://127.0.0.1:8081/fujian.php?id=665248553475870720
 #EXTINF:-1   tvg-id="海峽衛視"   tvg-name="海峽衛視"    tvg-logo=""    group-title="地方",海峽衛視
@@ -3615,19 +3621,6 @@ http://127.0.0.1:8081/henan.php?id=14
 http://127.0.0.1:8081/henan.php?id=15
 #EXTINF:-1   tvg-id="河南中華特產"   tvg-name="河南中華特產"    tvg-logo=""    group-title="地方",河南中華特產
 http://127.0.0.1:8081/henan.php?id=16
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1   tvg-id="山東衛視"   tvg-name="山東衛視"    tvg-logo=""    group-title="地方",山東衛視
