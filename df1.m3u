@@ -27,6 +27,9 @@ http://127.0.0.1:8081/shanghai1.php?id=dfws4k
 http://127.0.0.1:8081/btimeapp.php?id=bjwsuhd
 #EXTINF:-1   tvg-id="深圳衛視"   tvg-name="深圳衛視"    tvg-logo=""    group-title="4K",深圳衛視4k
 http://127.0.0.1:8081/shenzhen.php?id=szws4k
+#EXTINF:-1   tvg-id="山東衛視"   tvg-name="山東衛視"    tvg-logo=""    group-title="4K",山東衛視4K
+http://127.0.0.1:8081/shandong1.php?id=1
+
 
 #EXTINF:-1 tvg-id="北京衛視" tvg-name="北京衛視" tvg-logo="https://epg.v1.mk/logo/北京衛視.png" group-title="4K",北京衛視4K
 https://www.shqsy.com/st.php?id=btv4k&token=shenxian
@@ -3621,7 +3624,27 @@ http://127.0.0.1:8081/henan.php?id=14
 http://127.0.0.1:8081/henan.php?id=15
 #EXTINF:-1   tvg-id="河南中華特產"   tvg-name="河南中華特產"    tvg-logo=""    group-title="地方",河南中華特產
 http://127.0.0.1:8081/henan.php?id=16
+#EXTINF:-1   tvg-id="山東衛視"   tvg-name="山東衛視"    tvg-logo=""    group-title="地方",山東衛視4K
+http://127.0.0.1:8081/shandong1.php?id=1
 
+#EXTINF:-1   tvg-id="山東齊魯"   tvg-name="山東齊魯"    tvg-logo=""    group-title="地方",山東齊魯
+http://127.0.0.1:8081/shandong1.php?id=2
+#EXTINF:-1   tvg-id="山東體育"   tvg-name="山東體育"    tvg-logo=""    group-title="地方",山東體育
+http://127.0.0.1:8081/shandong1.php?id=3
+#EXTINF:-1   tvg-id="山東新聞"   tvg-name="山東新聞"    tvg-logo=""    group-title="地方",山東新聞
+http://127.0.0.1:8081/shandong1.php?id=4
+#EXTINF:-1   tvg-id="山東生活"   tvg-name="山東生活"    tvg-logo=""    group-title="地方",山東生活
+http://127.0.0.1:8081/shandong1.php?id=5
+#EXTINF:-1   tvg-id="山東綜藝"   tvg-name="山東綜藝"    tvg-logo=""    group-title="地方",山東綜藝
+http://127.0.0.1:8081/shandong1.php?id=6
+#EXTINF:-1   tvg-id="山東農科"   tvg-name="山東農科"    tvg-logo=""    group-title="地方",山東農科
+http://127.0.0.1:8081/shandong1.php?id=7
+#EXTINF:-1   tvg-id="山東文旅"   tvg-name="山東文旅"    tvg-logo=""    group-title="地方",山東文旅
+http://127.0.0.1:8081/shandong1.php?id=8
+#EXTINF:-1   tvg-id="山東少兒"   tvg-name="山東少兒"    tvg-logo=""    group-title="地方",山東少兒
+http://127.0.0.1:8081/shandong1.php?id=9
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",山東居家購物
+http://127.0.0.1:8081/shandong1.php?id=10
 
 #EXTINF:-1   tvg-id="山東衛視"   tvg-name="山東衛視"    tvg-logo=""    group-title="地方",山東衛視
 http://127.0.0.1:8081/shandong.php?id=sdtv
@@ -3646,26 +3669,6 @@ http://127.0.0.1:8081/shandong.php?id=yspd
 http://127.0.0.1:8081/shandong.php?id=sepd
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",山東居家購物
 http://127.0.0.1:8081/shandong.php?id=gwpd
-#EXTINF:-1   tvg-id="山東衛視"   tvg-name="山東衛視"    tvg-logo=""    group-title="地方",山東衛視
-http://127.0.0.1:8081/shandong1.php?id=sdtv
-#EXTINF:-1   tvg-id="山東齊魯"   tvg-name="山東齊魯"    tvg-logo=""    group-title="地方",山東齊魯
-http://127.0.0.1:8081/shandong1.php?id=qlpd
-#EXTINF:-1   tvg-id="山東體育"   tvg-name="山東體育"    tvg-logo=""    group-title="地方",山東體育
-http://127.0.0.1:8081/shandong1.php?id=typd
-#EXTINF:-1   tvg-id="山東新聞"   tvg-name="山東新聞"    tvg-logo=""    group-title="地方",山東新聞
-http://127.0.0.1:8081/shandong1.php?id=ggpd
-#EXTINF:-1   tvg-id="山東生活"   tvg-name="山東生活"    tvg-logo=""    group-title="地方",山東生活
-http://127.0.0.1:8081/shandong1.php?id=shpd
-#EXTINF:-1   tvg-id="山東綜藝"   tvg-name="山東綜藝"    tvg-logo=""    group-title="地方",山東綜藝
-http://127.0.0.1:8081/shandong1.php?id=zypd
-#EXTINF:-1   tvg-id="山東農科"   tvg-name="山東農科"    tvg-logo=""    group-title="地方",山東農科
-http://127.0.0.1:8081/shandong1.php?id=nkpd
-#EXTINF:-1   tvg-id="山東文旅"   tvg-name="山東文旅"    tvg-logo=""    group-title="地方",山東文旅
-http://127.0.0.1:8081/shandong1.php?id=yspd
-#EXTINF:-1   tvg-id="山東少兒"   tvg-name="山東少兒"    tvg-logo=""    group-title="地方",山東少兒
-http://127.0.0.1:8081/shandong1.php?id=sepd
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",山東居家購物
-http://127.0.0.1:8081/shandong1.php?id=gwpd
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="地方",四川衛視
 http://www.kaniptv.cn/aa/四川1.php?id=scws
