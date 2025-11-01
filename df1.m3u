@@ -1959,21 +1959,26 @@ http://127.0.0.1:8081/nowtvweb.php?id=333
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d0586b202d6318fa826a8d1bc09cc3b:0166e13f653ba1d66c43b277db0c1100 
 http://127.0.0.1:8081/nowtvweb.php?id=630
+#EXTINF:-1 tvg-id="HOY怪談臺" tvg-name="HOY怪談臺" tvg-logo="" group-title="港澳臺",HOY怪談臺
+https://edge.media.seaovers.live/856b503e276cc49197dd54aa8a0c740e/baselive/v2/TPLUZIFF.m3u8
+#EXTINF:-1 tvg-id="HOY劇集臺" tvg-name="HOY劇集臺" tvg-logo="" group-title="港澳臺",HOY劇集臺
+https://edge.media.seaovers.live/856b503e276cc49100c1dde528ee8cde/baselive/v2/DPL3J6FY.m3u8
+#EXTINF:-1 tvg-id="HOY生活臺" tvg-name="HOY生活臺" tvg-logo="" group-title="港澳臺",HOY生活臺
+https://edge.media.seaovers.live/856b503e276cc4912b6c0b42cb01878d/baselive/v2/6TV1VW9W.m3u8
 #EXTINF:-1 tvg-id="HOY體育臺" tvg-name="HOY體育臺" tvg-logo="" group-title="港澳臺",HOY體育臺
-
-https://edge.media.seaovers.live/856b503e276cc4917dc388396c23668b/baselive/v2/J0LMZVOV.m3u8   
+https://edge.media.seaovers.live/856b503e276cc4917dc388396c23668b/baselive/v2/J0LMZVOV.m3u8 
 #EXTINF:-1 tvg-id="HOY 國際財經臺" tvg-name="HOY 國際財經臺" tvg-logo="" group-title="港澳臺",HOY國際財經
 https://ch76-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="" group-title="港澳臺",HOY TV
 https://ch77-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY 資訊臺" tvg-name="HOY 資訊臺" tvg-logo="" group-title="港澳臺",HOY資訊
 https://ch78-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY生活臺" tvg-name="HOY生活臺" tvg-logo="" group-title="港澳臺",HOY生活臺
-https://edge.media.seaovers.live/856b503e276cc4912b6c0b42cb01878d/baselive/v2/6TV1VW9W.m3u8
-#EXTINF:-1 tvg-id="HOY劇集臺" tvg-name="HOY劇集臺" tvg-logo="" group-title="港澳臺",HOY劇集臺
-https://edge.media.seaovers.live/856b503e276cc49100c1dde528ee8cde/baselive/v2/DPL3J6FY.m3u8
- #EXTINF:-1 tvg-id="HOY怪談臺" tvg-name="HOY怪談臺" tvg-logo="" group-title="港澳臺",HOY怪談臺
-https://edge.media.seaovers.live/856b503e276cc49197dd54aa8a0c740e/baselive/v2/TPLUZIFF.m3u8
+#EXTINF:-1 tvg-id="MotorVision" tvg-name="MotorVision" tvg-logo="" group-title="港澳臺",MotorVision
+https://edge.media.seaovers.live/856b503e276cc491293fe55b87420bae/mediasuite-live/cp0004/408UNZ5E/mvg/mv/mv.m3u8?bcpf=6
+#EXTINF:-1 tvg-id="SportsPlus" tvg-name="SportsPlus" tvg-logo="" group-title="港澳臺",SportsPlus
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/WQFFQD2YSMWFAZXKTY07/hls3/now,-1m/m.m3u8?ads.channel_name=SportsTVPlus&ads.content_cat=IAB17&ads.content_genre=Sports&ads.content_id=STA117&ads.content_language=en&ads.content_title=Race+Central%3A+Episode++848&ads.coppa=0&ads.livestream=1&ads.provider=TrueAmerican&ads.rating=TV14
+
+
 #EXTINF:-1 tvg-id="SportsPlus" tvg-name="SportsPlus" tvg-logo="" group-title="港澳臺",SportsPlus
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/WQFFQD2YSMWFAZXKTY07/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-id="Travel &amp; Food TV" tvg-name="Travel &amp; Food TV" tvg-logo="" group-title="港澳臺",Travel & Food TV
