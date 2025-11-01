@@ -921,19 +921,19 @@ http://127.0.0.1:8081/mymysuper.php?id=OL00
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb22b5f5549a57856c572026a20322aa:9bf02034c3259a621011fe5875fc3ad9
+#KODIPROP:inputstream.adaptive.license_key=0c79f7330982b6e508de3df47b88fbdc:db063550682430e8ca5857a85ccbc297
 #EXTINF:-1 tvg-id="全運801臺" tvg-name="全運801臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運801台
 http://127.0.0.1:8081/mymysuper.php?id=OL01
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6994340e14cece77cd455ff3217e5235:4b77d368d27e2a73976ecf19dd76fdcf
+#KODIPROP:inputstream.adaptive.license_key=dddcd998a3107f7b350a7536c7fd30b1:15b343513bda8a5816b45295690c3792
 #EXTINF:-1 tvg-id="全運802臺" tvg-name="全運802臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運800台
 http://127.0.0.1:8081/mymysuper.php?id=OL02
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2077491d8b08047ad251bacd883b3597:b4910d8271e33b6212b2a02618fdfc53
+#KODIPROP:inputstream.adaptive.license_key=b8d3124914a5cf9c913eccff19d53510:529601f9fca6d76bb429ef2d2bca3622
 #EXTINF:-1 tvg-id="全運803臺" tvg-name="全運803臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運803台
 http://127.0.0.1:8081/mymysuper.php?id=OL03
 
