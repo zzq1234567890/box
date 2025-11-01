@@ -897,16 +897,18 @@ http://127.0.0.1:8081/mymysuper.php?id=EVT8
 
 
 
-#EXTINF:-1 tvg-id="C3" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png"   group-title="mytvsuper" ,2024年WBSC五人制棒球世界盃直播1臺
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f07372db27b162d69adf9aa612ae3364:da1631a2b2a836c5b7a3d044a18a4f16
+#EXTINF:-1 tvg-id="C3" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png"   group-title="mytvsuper" ,2024年WBSC五人制棒球世界盃直播1臺
 http://127.0.0.1:8081/mymysuper.php?id=C3
 
-#EXTINF:-1 tvg-id="C2" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png"   group-title="mytvsuper" ,2024年WBSC五人制棒球世界盃直播2臺
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
+#EXTINF:-1 tvg-id="C2" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png"   group-title="mytvsuper" ,2024年WBSC五人制棒球世界盃直播2臺
 http://127.0.0.1:8081/mymysuper.php?id=C2
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -914,31 +916,37 @@ http://127.0.0.1:8081/mymysuper.php?id=C2
 #KODIPROP:inputstream.adaptive.license_key=9859450f13c1c195644431d1bbfa3733:257ea25ab41722e270332a3dde105024
 #EXTINF:-1 tvg-id="全運800台" tvg-name="全運800台" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運800台
 http://127.0.0.1:8081/mymysuper.php?id=OL00
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb22b5f5549a57856c572026a20322aa:9bf02034c3259a621011fe5875fc3ad9
 #EXTINF:-1 tvg-id="全運801台" tvg-name="全運801台" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運801台
 http://127.0.0.1:8081/mymysuper.php?id=OL01
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6994340e14cece77cd455ff3217e5235:4b77d368d27e2a73976ecf19dd76fdcf
 #EXTINF:-1 tvg-id="全運802台" tvg-name="全運802台" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運800台
 http://127.0.0.1:8081/mymysuper.php?id=OL02
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2077491d8b08047ad251bacd883b3597:b4910d8271e33b6212b2a02618fdfc53
 #EXTINF:-1 tvg-id="全運803台" tvg-name="全運803台" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運803台
 http://127.0.0.1:8081/mymysuper.php?id=OL03
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89db5bfd8f088f9e100ab81b2c2c0cda:e3465fb5fa8daa0f575f2258a7a30220
 #EXTINF:-1 tvg-id="全運804台" tvg-name="全運804台" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運804台
 http://127.0.0.1:8081/mymysuper.php?id=OL04
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=97a0b07f2c0739e2843b7a62e77dc452:165f65fd3be0c5f0f62b9647c13af521
 #EXTINF:-1 tvg-id="全運805台" tvg-name="全運805台" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運805台
 http://127.0.0.1:8081/mymysuper.php?id=OL05
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e72be084c3c0b3ee2a6856220c060d94:42851811d34c03c744c265c270bd89e6
