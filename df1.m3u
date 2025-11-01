@@ -916,43 +916,43 @@ http://127.0.0.1:8081/mymysuper.php?id=C2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8ca7903e25450d85cb32b3057948522:d5db5c03608f5f6c8a382c6abcb829e4
-#EXTINF:-1 tvg-id="全運800臺" tvg-name="全運800臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運800台
+#EXTINF:-1 tvg-id="全運800臺" tvg-name="全運800臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運800臺
 http://127.0.0.1:8081/mymysuper.php?id=OL00
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c79f7330982b6e508de3df47b88fbdc:db063550682430e8ca5857a85ccbc297
-#EXTINF:-1 tvg-id="全運801臺" tvg-name="全運801臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運801台
+#EXTINF:-1 tvg-id="全運801臺" tvg-name="全運801臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運801臺
 http://127.0.0.1:8081/mymysuper.php?id=OL01
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dddcd998a3107f7b350a7536c7fd30b1:15b343513bda8a5816b45295690c3792
-#EXTINF:-1 tvg-id="全運802臺" tvg-name="全運802臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運800台
+#EXTINF:-1 tvg-id="全運802臺" tvg-name="全運802臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運800臺
 http://127.0.0.1:8081/mymysuper.php?id=OL02
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8d3124914a5cf9c913eccff19d53510:529601f9fca6d76bb429ef2d2bca3622
-#EXTINF:-1 tvg-id="全運803臺" tvg-name="全運803臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運803台
+#EXTINF:-1 tvg-id="全運803臺" tvg-name="全運803臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運803臺
 http://127.0.0.1:8081/mymysuper.php?id=OL03
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89db5bfd8f088f9e100ab81b2c2c0cda:e3465fb5fa8daa0f575f2258a7a30220
-#EXTINF:-1 tvg-id="全運804臺" tvg-name="全運804臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運804台
+#EXTINF:-1 tvg-id="全運804臺" tvg-name="全運804臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運804臺
 http://127.0.0.1:8081/mymysuper.php?id=OL04
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=97a0b07f2c0739e2843b7a62e77dc452:165f65fd3be0c5f0f62b9647c13af521
-#EXTINF:-1 tvg-id="全運805臺" tvg-name="全運805臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運805台
+#EXTINF:-1 tvg-id="全運805臺" tvg-name="全運805臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運805臺
 http://127.0.0.1:8081/mymysuper.php?id=OL05
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e72be084c3c0b3ee2a6856220c060d94:42851811d34c03c744c265c270bd89e6
-#EXTINF:-1 tvg-id="全運806臺" tvg-name="全運806臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運806台
+#EXTINF:-1 tvg-id="全運806臺" tvg-name="全運806臺" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運806臺
 http://127.0.0.1:8081/mymysuper.php?id=OL06
 
 
