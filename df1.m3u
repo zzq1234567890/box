@@ -915,7 +915,7 @@ http://127.0.0.1:8081/mymysuper.php?id=C2
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9859450f13c1c195644431d1bbfa3733:257ea25ab41722e270332a3dde105024
+#KODIPROP:inputstream.adaptive.license_key=e8ca7903e25450d85cb32b3057948522:d5db5c03608f5f6c8a382c6abcb829e4
 #EXTINF:-1 tvg-id="全運800台" tvg-name="全運800台" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運800台
 http://127.0.0.1:8081/mymysuper.php?id=OL00
 
