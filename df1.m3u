@@ -129,8 +129,12 @@ http://127.0.0.1:8081/zgst.php?id=sc4k
 #EXTINF:-1 tvg-id="深圳衛視" tvg-name="深圳衛視" tvg-logo="https://epg.v1.mk/logo/深圳衛視.png" group-title="4K",深圳衛視4K
 http://127.0.0.1:8081/zgst.php?id=sz4k
 
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTINF: -1 tvg-id="" tvg-logo="" group-title="mytvsuper",beni3
+https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
