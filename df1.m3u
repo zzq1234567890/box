@@ -1256,7 +1256,7 @@ http://127.0.0.1:8081/minshinews.php
 
 #EXTINF:-1   tvg-id="三立新聞臺"   tvg-name="三立新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png"    group-title="中文新聞",三立新聞臺
 http://127.0.0.1:8081/sanlinewsweb.php
-#EXTINF:-1   tvg-id="三立財經新聞臺"   tvg-name="三立財經新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png"    group-title="中文新聞",三立財經新聞臺
+#EXTINF:-1   tvg-id="三立iNEWS HD"   tvg-name="三立iNEWS HD"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png"    group-title="中文新聞",三立財經新聞臺
 http://127.0.0.1:8081/sanliinewsweb.php
 
 #EXTINF:-1   tvg-id="鏡電視新聞臺"   tvg-name="鏡電視新聞臺"     tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv075_mobile.png"    group-title="中文新聞",鏡電視新聞臺
