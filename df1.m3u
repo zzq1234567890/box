@@ -1302,9 +1302,9 @@ http://127.0.0.1:8081/yuntongfinance.php
 #EXTINF:-1   tvg-id="全球財經網頻道"    tvg-name="全球財經網頻道"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SBN.png"       group-title="中文新聞",全球財經網頻道
 http://127.0.0.1:8081/quanqiucaijing.php
 
-#EXTINF:-1   tvg-id="4gtv-4gtv084"   tvg-name=""    tvg-logo=""    group-title="中文新聞",國會1
+#EXTINF:-1   tvg-id="國會頻道1HD"   tvg-name="國會頻道1HD"    tvg-logo=""    group-title="中文新聞",國會1
 http://127.0.0.1:8081/youtube.php?v=4HysYHJ6GkY
-#EXTINF:-1   tvg-id="4gtv-4gtv085"   tvg-name=""    tvg-logo=""    group-title="中文新聞",國會2
+#EXTINF:-1   tvg-id="國會頻道2HD"   tvg-name="國會頻道2HD"    tvg-logo=""    group-title="中文新聞",國會2
 http://127.0.0.1:8081/youtube.php?v=Lj8OWF6nzcg
 #EXTINF:-1   tvg-id="4gtv-4gtv008"   tvg-name="人間衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png"    group-title="中文新聞",人間衛視
 http://61.216.67.119:1935/bltvhd/bltv1/manifest.mpd
@@ -1312,7 +1312,7 @@ http://61.216.67.119:1935/bltvhd/bltv1/manifest.mpd
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.mpd
 #EXTINF:-1   tvg-id="正德電視臺"   tvg-name="正德電視臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChengTeTV.png"    group-title="中文新聞",正德電視臺
 http://127.0.0.1:8081/zhengde.php
-#EXTINF:-1   tvg-id="華藏衛視"   tvg-name="華藏衛視"    tvg-logo=""    group-title="中文新聞",華藏衛視
+#EXTINF:-1   tvg-id="華藏衛視HD"   tvg-name="華藏衛視HD"    tvg-logo=""    group-title="中文新聞",華藏衛視
 http://127.0.0.1:8081/huazang.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="中文新聞",桐瑛臺南電視臺
 http://127.0.0.1:8081/tongyingtainan.php
