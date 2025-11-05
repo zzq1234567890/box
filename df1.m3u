@@ -1237,7 +1237,7 @@ http://127.0.0.1:8081/huanyunews.php?id=2
 http://127.0.0.1:8081/huanyunews.php?id=1
 #EXTINF:-1   tvg-id="寰宇新聞臺"   tvg-name="寰宇新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png"    group-title="中文新聞",寰宇新聞臺
 http://127.0.0.1:8081/huanyunews.php?id=3
-#EXTINF:-1   tvg-id="litv-longturn23"   tvg-name="寰宇財經臺"    tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn23_mobile.png"    group-title="中文新聞",寰宇財經臺
+#EXTINF:-1   tvg-id=""寰宇財經臺"   tvg-name="寰宇財經臺"    tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn23_mobile.png"    group-title="中文新聞",寰宇財經臺
 http://127.0.0.1:8081/huanyufince.php
 #EXTINF:-1   tvg-id="東森新聞臺"   tvg-name="東森新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png"    group-title="中文新聞",東森新聞臺
 http://127.0.0.1:8081/dongsennews2.php?id=1
@@ -1251,7 +1251,7 @@ http://127.0.0.1:8081/dongsenstock.php
 
 #EXTINF:-1   tvg-id="華視新聞資訊臺"   tvg-name="華視新聞資訊臺"    tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png"    group-title="中文新聞",華視新聞資訊臺
 http://127.0.0.1:8081/huashinews.php
-#EXTINF:-1   tvg-id="litv-ftv13"   tvg-name="民視新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png"    group-title="中文新聞",民視新聞臺1
+#EXTINF:-1   tvg-id="民視新聞臺"   tvg-name="民視新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png"    group-title="中文新聞",民視新聞臺1
 http://127.0.0.1:8081/minshinews.php
 
 #EXTINF:-1   tvg-id="三立新聞臺"   tvg-name="三立新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png"    group-title="中文新聞",三立新聞臺
@@ -1306,7 +1306,7 @@ http://127.0.0.1:8081/quanqiucaijing.php
 http://127.0.0.1:8081/youtube.php?v=4HysYHJ6GkY
 #EXTINF:-1   tvg-id="國會頻道2HD"   tvg-name="國會頻道2HD"    tvg-logo=""    group-title="中文新聞",國會2
 http://127.0.0.1:8081/youtube.php?v=Lj8OWF6nzcg
-#EXTINF:-1   tvg-id="4gtv-4gtv008"   tvg-name="人間衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png"    group-title="中文新聞",人間衛視
+#EXTINF:-1   tvg-id="人間衛視"   tvg-name="人間衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png"    group-title="中文新聞",人間衛視
 http://61.216.67.119:1935/bltvhd/bltv1/manifest.mpd
 #EXTINF:-1   tvg-id="生命電視臺"   tvg-name="生命電視臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/shengming.png"    group-title="中文新聞",生命電視臺
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.mpd
