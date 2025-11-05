@@ -1990,6 +1990,25 @@ https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Spot on news" tvg-name="Spot on news" tvg-logo="" group-title="港澳臺",Spot on news
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/TDGHWR1Q2FLL5PEG33BE/hls3/now,-1m/m.m3u8
 
+
+#EXTINF:-1 tvg-id="HOY生活臺" tvg-name="HOY生活臺" tvg-logo="" group-title="港澳臺",HOY生活臺
+http://127.0.0.1:8081/hoytv.php?id=8
+#EXTINF:-1 tvg-id="HOY劇集臺" tvg-name="HOY劇集臺" tvg-logo="" group-title="港澳臺",HOY劇集臺
+http://127.0.0.1:8081/hoytv.php?id=9
+#EXTINF:-1 tvg-id="HOY怪談臺" tvg-name="HOY怪談臺" tvg-logo="" group-title="港澳臺",HOY怪談臺
+http://127.0.0.1:8081/hoytv.php?id=10
+#EXTINF:-1 tvg-id="HOY體育臺" tvg-name="HOY體育臺" tvg-logo="" group-title="港澳臺",HOY體育臺
+http://127.0.0.1:8081/hoytv.php?id=11
+#EXTINF:-1 tvg-id="SportsPlus" tvg-name="SportsPlus" tvg-logo="" group-title="港澳臺",SportsPlus
+http://127.0.0.1:8081/hoytv.php?id=12
+#EXTINF:-1 tvg-id="MotorVision" tvg-name="MotorVision" tvg-logo="" group-title="港澳臺",MotorVision
+http://127.0.0.1:8081/hoytv.php?id=13
+#EXTINF:-1 tvg-id="Travel &amp; Food TV" tvg-name="Travel &amp; Food TV" tvg-logo="" group-title="港澳臺",Travel & Food TV
+http://127.0.0.1:8081/hoytv.php?id=14
+#EXTINF:-1 tvg-id="Spot on news" tvg-name="Spot on news" tvg-logo="" group-title="港澳臺",Spot on news
+http://127.0.0.1:8081/hoytv.php?id=15
+
+
 #EXTINF:-1 tvg-id="香港電臺31" tvg-name="香港電臺31" tvg-logo="" group-title="港澳臺",香港電臺311
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="香港電臺32" tvg-name="香港電臺32" tvg-logo="" group-title="港澳臺",香港電臺32
