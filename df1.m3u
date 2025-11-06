@@ -1,4 +1,38 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/twepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="tvbs1" tvg-name="TVBS1" tvg-logo="https://example.com/logo/tvbs1.png" group-title="测试组",测试1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e68a0ddebc5d47a160ceedd48b81ea:74e48f72d124e58df30174467c8fa63d
+https://livetv.catchplay.com/bcde860c-1426-11f0-aef7-9a2246e728b9/ea762ea7-4899-4eea-8c94-1c19efd43536/984fcf82-9438-4a45-8a2a-b0cf3c749d1d/dash.mpd
+
+
+#EXTINF:-1 tvg-id="tvbs1" tvg-name="TVBS1" tvg-logo="https://example.com/logo/tvbs1.png" group-title="测试组",测试2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bda794ea77645266adc884e232887d8a:d35e0bbe8132fa322cea8b01443aa60a
+https://livetv.catchplay.com/bcde860c-1426-11f0-aef7-9a2246e728b9/10098aa0-0cf6-42ee-8957-b4fd23e53a04/d0935fa6-d228-4d0f-a8d0-ff6d8de13b02/dash.mpd
+#EXTINF:-1 tvg-id="tvbs1" tvg-name="TVBS1" tvg-logo="https://example.com/logo/tvbs1.png" group-title="测试组",测试3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d97c428135ee5d6b8e10859dc0ccf360:816f5842dde1a983d588f5853b155dd4
+https://livetv.catchplay.com/bcde860c-1426-11f0-aef7-9a2246e728b9/9ce96ef2-6ac7-4c39-921d-bb04dc76b3f0/7f82a933-1c42-4a12-b9b0-3827c6c785d1/dash.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS" tvg-logo="https://example.com/logo/tvbs.png" group-title="测试组",TVBS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
