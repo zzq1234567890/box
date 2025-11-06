@@ -1,15 +1,16 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/twepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-id="tvbs" tvg-name="tvbs" tvg-logo="" group-title="test",TVBS
+#EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS" tvg-logo="https://example.com/logo/tvbs.png" group-title="测试组",TVBS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://vcmsapi.catchplay.com/video/v3/drm/license/widevine
 http://127.0.0.1:8081/catchplay.php
 
-#EXTINF:-1 tvg-id="tvbs" tvg-name="tvbs" tvg-logo="" group-title="test",TVBS1
+#EXTINF:-1 tvg-id="tvbs1" tvg-name="TVBS1" tvg-logo="https://example.com/logo/tvbs1.png" group-title="测试组",TVBS1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95e68a0ddebc5d47a160ceedd48b81ea:74e48f72d124e58df30174467c8fa63d
 http://127.0.0.1:8081/catchplay.php
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper", TVB Vietnam(越南臺)
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
