@@ -5,7 +5,11 @@
 #KODIPROP:inputstream.adaptive.license_key=https://vcmsapi.catchplay.com/video/v3/drm/license/widevine
 http://127.0.0.1:8081/catchplay.php
 
-
+#EXTINF:-1 tvg-id="tvbs" tvg-name="tvbs" tvg-logo="" group-title="test",TVBS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c38a6b8dcb7b5d58bed2e4368d91aadb:228c2bf9dcb24c20453513f07b05e534
+http://127.0.0.1:8081/catchplay.php
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper", TVB Vietnam(越南臺)
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
