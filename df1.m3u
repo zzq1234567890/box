@@ -19,7 +19,7 @@ https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/a
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1   tvg-id="浙江衛視"   tvg-name="浙江衛視"    tvg-logo=""    group-title="4K",浙江衛視4K
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
-#EXTINF:-1   tvg-id="江蘇衛視"   tvg-name="江蘇衛視"    tvg-logo=""    group-title="4K",江蘇衛視4K
+#EXTINF:-1   tvg-id="江蘇衛視"   tvg-name="江蘇衛視"    tvg-logo="https://epg.v1.mk/logo/浙江衛視.png"    group-title="4K",江蘇衛視4K
 http://127.0.0.1:8081/jiangsuapp.php?id=jsws4kpro
 #EXTINF:-1   tvg-id="東方衛視"   tvg-name="東方衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="4K",東方衛視4K
 http://127.0.0.1:8081/shanghai1.php?id=dfws4k
@@ -37,7 +37,7 @@ https://www.shqsy.com/st.php?id=btv4k&token=shenxian
 https://www.shqsy.com/st.php?id=sh4k&token=shenxian
 #EXTINF:-1 tvg-id="江蘇衛視" tvg-name="江蘇衛視" tvg-logo="https://epg.v1.mk/logo/江蘇衛視.png" group-title="4K",江蘇衛視4K
 https://www.shqsy.com/st.php?id=js4k&token=shenxian
-#EXTINF:-1   tvg-id="浙江衛視"   tvg-name="浙江衛視"    tvg-logo=""    group-title="4K",浙江衛視4K
+#EXTINF:-1   tvg-id="浙江衛視"   tvg-name="浙江衛視"    tvg-logo=" https://epg.v1.mk/logo/浙江衛視.png"    group-title="4K",浙江衛視4K
 https://www.shqsy.com/st.php?id=zj4k&token=shenxian
 #EXTINF:-1 tvg-id="山東衛視" tvg-name="山東衛視" tvg-logo="https://epg.v1.mk/logo/山東衛視.png" group-title="4K",山東衛視4K
 https://www.shqsy.com/st.php?id=sd4k&token=shenxian
