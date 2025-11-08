@@ -1218,7 +1218,7 @@ http://127.0.0.1:8081/linetv.php?id=2
 http://127.0.0.1:8081/zhongshinews.php
 #EXTINF:-1   tvg-id="中天新聞臺"   tvg-name="中天新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png"    group-title="中文新聞",中天新聞臺
 http://127.0.0.1:8081/zhongtiannews.php
-#EXTINF:-1   tvg-id="4gtv-4gtv009"   tvg-name="中天新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png"    group-title="中文新聞",中天新聞2
+#EXTINF:-1   tvg-id="中天新聞臺"   tvg-name="中天新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png"    group-title="中文新聞",中天新聞2
 http://127.0.0.1:8081/zhongtiannews2.php
 
 #EXTINF:-1   tvg-id="4gtv-4gtv073"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png"    tvg-name="TVBS"    group-title="中文新聞",TVBS+
