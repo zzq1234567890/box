@@ -2707,6 +2707,16 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
              },
+		    
+		{
+            "name": "湖南有線",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "./hunanyouxian.txt",
+            "epg": "https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz",
+           ####"epg": " https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgdiyp.json",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
 		{
             "name": "df1",
             "ua": "okhttp/3.0",
