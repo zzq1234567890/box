@@ -2722,7 +2722,7 @@
             "playerType": 2,
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
           ### "epg":"https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml",
-           "epg":"https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz",
+           "epg":"https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz",
 				###"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
              },
