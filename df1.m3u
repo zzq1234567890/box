@@ -202,7 +202,7 @@ http://127.0.0.1:8081/mymysuper.php?id=EV11
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
-#EXTINF:-1 tvg-id="翡翠臺(超高清)" tvg-name="翡翠臺(超高清)" tvg-logo="https://assets.mytvsuper.com/channel/1690795271513283_J4K.png" group-title="mytvsuper",翡翠臺(超高清)
+#EXTINF:-1 tvg-id="翡翠臺 (免費)" tvg-name="翡翠臺 (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1690795271513283_J4K.png" group-title="mytvsuper",翡翠臺(超高清)
 http://127.0.0.1:8081/mymysuper.php?id=JUHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
