@@ -651,9 +651,9 @@ http://127.0.0.1:8081/mymysuper.php?id=OL06
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e72be084c3c0b3ee2a6856220c060d94:42851811d34c03c744c265c270bd89e6
+#KODIPROP:inputstream.adaptive.license_key=316eb6af6ffa7ec2f40b710da9004a52:22733382c3ccff75647e45a3dbf181a8
 #EXTINF:-1 tvg-id="全運818臺 (4合1 801-804)" tvg-name="全運818臺 (4合1 801-804)" tvg-logo="https://assets.mytvsuper.com/channel/1684393675758879_EVT7.png" group-title="mytvsuper",全運818臺 (4合1 801-804)
-http://127.0.0.1:8081/mymysuper.php?id=OL18
+http://127.0.0.1:8081/mymysuper.php?id=OL07
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",長崎樂隊
 http://127.0.0.1:8081/douyin.php?id=832126481994
