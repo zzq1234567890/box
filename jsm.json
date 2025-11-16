@@ -2863,7 +2863,15 @@
         },  
 		
     
+       
 
+
+         {
+            "name": "pptv",
+            "ua": "okhttp",
+            "playerType": 2,
+            "url": "http://ppv.vhr.dpdns.org:8880/ppv-test.php"
+        },
 		
         {
 
