@@ -167,12 +167,12 @@ http://127.0.0.1:8081/mymysuper.php?id=SSIT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
-#EXTINF:-1 tvg-id="SUPER劇場 (免費)" tvg-name="SUPER劇場 (免費)" tvg-logo="" group-title="mytvsuper",SUPER劇場 (免費)
+#EXTINF:-1 tvg-id="SUPER單元劇 (免費)" tvg-name="SUPER單元劇 (免費)" tvg-logo="" group-title="mytvsuper",SUPER單元劇 (免費)
 http://127.0.0.1:8081/mymysuper.php?id=STVM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
-#EXTINF:-1 tvg-id="SUPER話當年 (免費)" tvg-name="SUPER話當年 (免費)" tvg-logo="" group-title="mytvsuper",SUPER話當年 (免費)
+#EXTINF:-1 tvg-id="真情SUPER燙 (免費)" tvg-name="真情SUPER燙 (免費)" tvg-logo="" group-title="mytvsuper",真情SUPER燙 (免費)
 http://127.0.0.1:8081/mymysuper.php?id=SDOC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
