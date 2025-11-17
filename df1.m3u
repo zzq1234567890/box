@@ -42,7 +42,7 @@ https://absp-live.akamaized.net/dash/live/2099522/glife3/manifest.mpd
 
 
 
- #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce018754bc29498d9d0e1b3669603469:54dc3bff6f03e81a834b75928289f7d4
