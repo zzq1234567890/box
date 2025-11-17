@@ -31,6 +31,36 @@ http://127.0.0.1:8081/shenzhen.php?id=szws4k
 http://127.0.0.1:8081/shandong1.php?id=1
 
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 618cee85d58e4790aee7f1f0311930d0:f6cc23c597e9522b8a0886bb66b3b0d4
+#EXTINF: -1 tvg-id="" tvg-logo="" group-title="mytvsuper",MagellanT1
+https://absp-live.akamaized.net/dash/live/2099522/glife3/manifest.mpd
+
+
+
+
+ #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce018754bc29498d9d0e1b3669 603469:54dc3bff6f03e81a834b75928289f7d4
+#EXTINF: -1 tvg-id="" tvg-logo="" group-title="mytvsuper",MagellanT2
+https://absp-live.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ac7a3f2f64f4917995f3faad29a3354:c5d35fdcecceea61c4912eb6 ee13c711
+#EXTINF: -1 tvg-id="" tvg-logo="" group-title="mytvsuper",MagellanT3
+https://absp-live.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
