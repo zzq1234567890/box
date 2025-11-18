@@ -2707,7 +2707,14 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
              },
-		    
+		    {
+            "name": "北京移動",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "http://yewengood.zone.id/sm.php",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+             },
 		{
             "name": "湖南有線",
             "ua": "okhttp/3.0",
