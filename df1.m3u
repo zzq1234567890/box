@@ -2856,7 +2856,7 @@ http://127.0.0.1:8081/huanlekan1.php?id=67848d1ff034870c4171b7c5
 http://127.0.0.1:8081/huanlekan1.php?id=5901b5c5f53870240936be69
 #EXTINF:-1 tvg-id="中天亞洲臺" tvg-name="中天亞洲臺" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/543f4a313d32fc7b0e3322c5/da0fc529333b7d71412dacbd13cffe3b" group-title="歡樂看測試",中天亞洲臺
 http://127.0.0.1:8081/huanlekan1.php?id=543f4a313d32fc7b0e3322c5
-#EXTINF:-1 tvg-id="亞洲旅遊臺MOD" tvg-name="亞洲旅遊臺MOD" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/543f5a6f3d32fc7b0e3322d3/9f97dc66af512bbea9ebd1890db148a6" group-title="歡樂看測試",亞洲旅遊臺(HD)
+#EXTINF:-1 tvg-id="亞洲旅遊臺" tvg-name="亞洲旅遊臺" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/543f5a6f3d32fc7b0e3322d3/9f97dc66af512bbea9ebd1890db148a6" group-title="歡樂看測試",亞洲旅遊臺(HD)
 http://127.0.0.1:8081/huanlekan1.php?id=543f5a6f3d32fc7b0e3322d3
 
 
@@ -2892,7 +2892,7 @@ http://127.0.0.1:8081/huanlekan1.php?id=670347edf034870c416e42d5
 http://127.0.0.1:8081/huanlekan1.php?id=68357a099cad3e6810072473
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/6596205bf41b5f25513983e3/fb550b84dc6031ff9520a35c77276fd4" group-title="歡樂看測試",中視
 http://127.0.0.1:8081/huanlekan1.php?id=6596205bf41b5f25513983e3
-#EXTINF:-1 tvg-id="中視菁採臺MOD" tvg-name="中視菁採臺MOD" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/659620b6f41b5f25513983e4/71484132845f9f63359bd744ec2501f5" group-title="歡樂看測試",中視菁采臺
+#EXTINF:-1 tvg-id="中視菁採臺HD" tvg-name="中視菁採臺HD" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/659620b6f41b5f25513983e4/71484132845f9f63359bd744ec2501f5" group-title="歡樂看測試",中視菁采臺
 http://127.0.0.1:8081/huanlekan1.php?id=659620b6f41b5f25513983e4
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/658e4e01f41b5f2551394aff/5bb509915c4e02f02e49fa101635490a" group-title="歡樂看測試",華視
 http://127.0.0.1:8081/huanlekan1.php?id=658e4e01f41b5f2551394aff
@@ -2924,7 +2924,7 @@ http://127.0.0.1:8081/huanlekan1.php?id=5b3c6717416275ac3734ce68
 http://127.0.0.1:8081/huanlekan1.php?id=549e6eff76d76482a526439d
 #EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5b39a71f6e6b3b956ef9500e/1891c5542c9ad65e106438331b2c0418" group-title="歡樂看測試",靖天映畫
 http://127.0.0.1:8081/huanlekan1.php?id=5b39a71f6e6b3b956ef9500e
-#EXTINF:-1 tvg-id="東森購物4臺" tvg-name="東森購物4臺" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/6703b8b0f034870c416e62ce/602094ad46dea566d99d84a62df923c8" group-title="歡樂看測試",東森購物4臺
+#EXTINF:-1 tvg-id="東森購物4臺HD" tvg-name="東森購物4臺HD" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/6703b8b0f034870c416e62ce/602094ad46dea566d99d84a62df923c8" group-title="歡樂看測試",東森購物4臺
 http://127.0.0.1:8081/huanlekan1.php?id=6703b8b0f034870c416e62ce
 #EXTINF:-1 tvg-id="龍華日韓臺" tvg-name="龍華日韓臺" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/543f47933d32fc7b0e3322b7/df0bbd47f0c758d6a0eaabc7c6451d00" group-title="歡樂看測試",龍華日韓臺
 http://127.0.0.1:8081/huanlekan1.php?id=543f47933d32fc7b0e3322b7
@@ -2955,7 +2955,7 @@ http://127.0.0.1:8081/huanlekan1.php?id=671f11bcf034870c416f26af
 http://127.0.0.1:8081/huanlekan1.php?id=6703b90ff034870c416e62cf
 #EXTINF:-1 tvg-id="Medici-arts" tvg-name="Medici-arts" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5440b1653d32fc7b0e332586/04e3de3ea21c1722d070c0bd643ef5ce" group-title="歡樂看測試",梅迪奇藝術頻道HD
 http://127.0.0.1:8081/huanlekan1.php?id=5440b1653d32fc7b0e332586
-#EXTINF:-1 tvg-id="大愛電視MOD" tvg-name="大愛電視MOD" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5a0571e0f9d70b216770235e/db018d95d57c01ca0a0637f7a6c34c9f" group-title="歡樂看測試",大愛一臺
+#EXTINF:-1 tvg-id="大愛電視臺" tvg-name="大愛電視臺" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5a0571e0f9d70b216770235e/db018d95d57c01ca0a0637f7a6c34c9f" group-title="歡樂看測試",大愛一臺
 http://127.0.0.1:8081/huanlekan1.php?id=5a0571e0f9d70b216770235e
 #EXTINF:-1 tvg-id="大愛二臺" tvg-name="大愛二臺" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5a057245f9d70b216770235f/718acc6f17f5ed009f999e758647f24f" group-title="歡樂看測試",大愛二臺
 http://127.0.0.1:8081/huanlekan1.php?id=5a057245f9d70b216770235f
