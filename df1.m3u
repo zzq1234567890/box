@@ -1,4 +1,10 @@
 #EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f990e0aa106157658c05801661bb8df2:a2ca26ff319fb0d1c7a5c6c98a47996d
+#EXTVLCOPT:http-user-agent=okhttp/4.9.2
+#EXTINF:-1 group-title="TVB Anywhere",201-翡翠台 (香港時區)
+https://sg01-live-cfd.tvbanywhere.com.sg/cl/slocalr34/c/ott_I-JADE_h264/op/cenci/f/index.mpd|Cookie="CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovLyovX19jbC9zbG9jYWxyMzQvX19jL290dF9JLUpBREVfaDI2NC9fX29wL2NlbmNpL19fZi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzYzNjQ1Mzg0fX19XX0_;CloudFront-Signature=dtgTXgjWbHhYWGEkviXs-1zRZpGCdUj3vXKtWVuyCWWEfEk~VqRfSRVB5w~QsqKOoZGKf7VW44UwTlC7nkbSDOUwg5oUQpxjjvt8T-t0eaEspzZXgzQ7KHsrPWPRtFvnCfkMebFc-yd4xeQoJ4EqloTZ6u-Tr3oSFI85HOBI2lcmcPsN2aiSZ~335HblGoZbTJdcqHWYXVnTlcBpBda~U7FYeYFIh-ymiEwjq2ZPsCy8Q1oKpUAiVZFIXbDgiGTOTMtNayGvoN4Q6E~tOC~O94lT-Uqqqv3u8MTR1veoRZ6~1sVlWQsQdgzfWTZuomzpUqBCs9ZNL6GEGiNo-1debQ__;CloudFront-Key-Pair-Id=APKAI57VHQVD6DKGLGMQ"
 #CDNPROXY_inputstream.adaptive
  #CDNPROXY_inputstream.adaptive.license_type=clearkey
  #CDNPROXY_inputstream.adaptive.license_key=99e0a10e1558c058e10b6dfa2c0e2f31f9b01c7a5c6c84a795cd
