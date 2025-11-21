@@ -3,7 +3,7 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=95e68a0ddebc5d47a160ceedd48b81ea:d29b4f3c5bca5ac6aecf594b74b8a391
+#KODIPROP:inputstream.adaptive.license_key=95e68a0ddebc5d47a160ceedd48b81ea:639aa24abdc240e1fc79cedc7dd1a7d
 #EXTINF: -1 tvg-id="" tvg-logo="" group-title="mytvsuper",tvbs新闻
 https://livetv.catchplay.com/bcde860c-1426-11f0-aef7-9a2246e728b9/ea762ea7-4899-4eea-8c94-1c19efd43536/984fcf82-9438-4a45-8a2a-b0cf3c749d1d/dash.mpd
 
