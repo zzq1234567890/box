@@ -2782,7 +2782,7 @@ http://127.0.0.1:8081/huanlekan1.php?id=5a0571e0f9d70b216770235e
 http://127.0.0.1:8081/huanlekan1.php?id=5a057245f9d70b216770235f
 #EXTINF:-1 tvg-id="好消息衛星電視臺" tvg-name="好消息衛星電視臺" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5a461eb9bfdf3f8906674f3a/487c5425c4593307e49a9d3dd2153b9d" group-title="歡樂看測試",好消息綜合臺
 http://127.0.0.1:8081/huanlekan1.php?id=5a461eb9bfdf3f8906674f3a
-#EXTINF:-1 tvg-id="好消息二臺" tvg-name="好消息二臺" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5a461f69bfdf3f8906674f3b/629231c0b9d176aec37350f9d906bec1" group-title="歡樂看測試",好消息真理臺
+#EXTINF:-1 tvg-id="好消息2臺" tvg-name="好消息2臺" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/5a461f69bfdf3f8906674f3b/629231c0b9d176aec37350f9d906bec1" group-title="歡樂看測試",好消息真理臺
 http://127.0.0.1:8081/huanlekan1.php?id=5a461f69bfdf3f8906674f3b
 #EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="http://ftvn.hawsing.com.tw:3000/image/livechannels/66974c11f41b5f25513f6f83/ad9514addbb8c828bd9af6f99555fc9b" group-title="歡樂看測試",人間衛視
 http://127.0.0.1:8081/huanlekan1.php?id=66974c11f41b5f25513f6f83
