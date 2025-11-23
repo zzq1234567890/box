@@ -30,6 +30,48 @@ http://127.0.0.1:8081/btimeapp.php?id=bjwsuhd
 http://127.0.0.1:8081/shenzhen.php?id=szws4k
 #EXTINF:-1   tvg-id="山東衛視"   tvg-name="山東衛視"    tvg-logo=""    group-title="4K",山東衛視4K
 http://127.0.0.1:8081/shandong1.php?id=1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
+#EXTINF: -1 tvg-id="" tvg-logo="" group-title="mytvsuper",  RTE 1
+https://live.rte.ie/live/a/channel1/channel1.isml/channel1.mpd  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
+ #EXTINF: -1 tvg-id="" tvg-logo="" group-title="mytvsuper", RTE 2
+https://live.rte.ie/live/a/channel2/channel2.isml/channel2.mpd  
+  #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=765cd70494b06fd06494702620bbc172:a453f47fa795900309609b68737b8c60
+#EXTINF: -1 tvg-id="" tvg-logo="" group-title="mytvsuper",  RTE 3
+https://live.rte.ie/live/a/channel3/channel3.isml/channel3.mpd  
+   #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a3c1d1cb88ea5a8a38528d0b9702390:a4c4e53270616bc2c88c5edce8fd4474
+ #EXTINF: -1 tvg-id="" tvg-logo="" group-title="mytvsuper", RTE 4
+https://live.rte.ie/live/a/channel4/channel4.isml/channel4.mpd  
+  #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
+#EXTINF: -1 tvg-id="" tvg-logo="" group-title="mytvsuper", RTE 1
+https://live.rte.ie/live/a/vc11/vc11.isml/vc11.mpd  
+ #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
+#EXTINF: -1 tvg-id="" tvg-logo="" group-title="mytvsuper",RTE 2
+https://live.rte.ie/live/a/vc12/vc12.isml/vc12.mpd  
+
+
+
+
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
