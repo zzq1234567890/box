@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz" 
 
-KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
  #KODIPROP:inputstream.adaptive.license_key=11111111111111118
  #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #EXTINF:-1 tvg-logo="https://gn-images-stb-opus.cdn.avp.telus.net/assets/s17608_Id_h15_ac.png" group-title="telus测试",CPAC English
