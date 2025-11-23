@@ -4,27 +4,27 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118
 #EXTINF:-1 tvg-logo="https://gn-images-stb-opus.cdn.avp.telus.net/assets/s17608_Id_h15_ac.png" group-title="telus测试",CPAC English
-https://lott5-web-opus.cdn.avp.telus.net/232006003248/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+#https://lott5-web-opus.cdn.avp.telus.net/232006003248/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118
 #EXTINF:-1 tvg-logo="https://gn-images-stb-opus.cdn.avp.telus.net/assets/s105038_Id_h15_ab.png" group-title="telus测试",CPAC Français
-https://lott-web-opus.cdn.avp.telus.net/232006003249/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+#https://lott-web-opus.cdn.avp.telus.net/232006003249/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118
 #EXTINF:-1 tvg-logo="https://gn-images-stb-opus.cdn.avp.telus.net/assets/s62890_Id_h15_aa.png" group-title="telus测试",CTV Calgary 
-https://lott4-web-opus.cdn.avp.telus.net/232006003150/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+#https://lott4-web-opus.cdn.avp.telus.net/232006003150/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118
 #EXTINF:-1 tvg-logo="https://gn-images-stb-opus.cdn.avp.telus.net/assets/s76921_Id_h9_ad.png" group-title="telus测试",CTV News Channel
-https://lott2-web-opus.cdn.avp.telus.net/232006004138/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+#https://lott2-web-opus.cdn.avp.telus.net/232006004138/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118
 #EXTINF:-1 tvg-logo="https://tli-images-stb-opus.cdn.avp.telus.net/v1/static-prod/live/369244a3-2578-43c4-9963-775df6df1f48.png" group-title="telus测试",CTV2 Alberta 
-https://lott5-web-opus.cdn.avp.telus.net/232006003235/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+#https://lott5-web-opus.cdn.avp.telus.net/232006003235/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 
 
 
