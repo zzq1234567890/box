@@ -1756,7 +1756,7 @@ http://127.0.0.1:8081/cnbcarabic.php
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=23ceee092b8a3be5bfa1e7083d4d7fc6:d4e16961d7fc76f7eccb4cb72030123e
-http://zzqwe.giize.com:12229 proxy_mpd.php?url=http://zzqwe.giize.com:12229/nowtvweb.php?id=331
+http://zzqwe.giize.com:12229/proxy_mpd.php?url=http://zzqwe.giize.com:12229/nowtvweb.php?id=331
 
 #EXTINF:-1 tvg-id="now直播" tvg-name="now直播" tvg-logo="https://www.nowtv.now.com/media/logo/331-wbg-c.png" group-title="港澳臺",now直播
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
