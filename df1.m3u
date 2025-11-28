@@ -1052,7 +1052,9 @@ http://127.0.0.1:8081/zhongshinews.php
 http://127.0.0.1:8081/zhongtiannews.php
 #EXTINF:-1   tvg-id="中天新聞臺"   tvg-name="中天新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png"    group-title="中文新聞",中天新聞2
 http://127.0.0.1:8081/zhongtiannews2.php
+#EXTINF:-1   tvg-id="中天新聞臺"   tvg-name="中天新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png"    group-title="中文新聞",中天新聞2
 
+http://127.0.0.1:8081/youtube.php?v=-Bk_tdwVDPQ
 #EXTINF:-1   tvg-id="4gtv-4gtv073"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png"    tvg-name="TVBS"    group-title="中文新聞",TVBS+
 http://127.0.0.1:8081/tvbs561.php
 #EXTINF:-1   tvg-id="臺視新聞臺"   tvg-name="臺視新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/臺視新聞.png"    group-title="中文新聞",臺視新聞臺
@@ -1247,10 +1249,8 @@ http://127.0.0.1:8081/euronewsGreek.php
 http://127.0.0.1:8081/euronewsmagyarul.php
 #EXTINF:-1      tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="100159"   tvg-name="Euronews"    group-title="youtube world news",歐洲新聞臺義大利語euronewsItaliano
 http://127.0.0.1:8081/euronewsItaliano.php
-#EXTINF:-1   tvg-id="100162"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png"   tvg-name="NHKWorld"     group-title="youtube world news",nhkpremium
-http://127.0.0.1:8081/nhkpremium.php
 #EXTINF:-1   tvg-id=""    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png"   tvg-name="NHKWorld"     group-title="youtube world news",日本nhk world news
-http://127.0.0.1:8081/nhkworld.php
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1   tvg-id=""    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png"   tvg-name="NHKWorld"     group-title="youtube world news",日本nhk world news
 http://127.0.0.1:8081/nhk.php
 #EXTINF:-1   tvg-id="kyNews"   tvg-name="SkyNews"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png"    group-title="youtube world news",Sky News youtube
@@ -1259,8 +1259,6 @@ http://127.0.0.1:8081/skynewsweb.php
 http://127.0.0.1:8081/skynews.php
 #EXTINF:-1   tvg-id=""   tvg-name="SkyNews"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png"    group-title="youtube world news",Sky News
 http://127.0.0.1:8081/skynewsweblive.php
-#EXTINF:-1   tvg-id=""   tvg-name="SkyNews"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png"    group-title="youtube world news",Sky News
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1   tvg-id=""   tvg-name="SkyNews"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png"    group-title="youtube world news",Sky News Extra 1 Australi
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_160_115"    group-title="youtube world news",World Fashion Channel (1080
@@ -1406,12 +1404,7 @@ http://127.0.0.1:8081/cbsnewsweb.php?id=losangeles
 http://127.0.0.1:8081/cbnnewsyb.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國CBN Newsy weblive
 http://127.0.0.1:8081/cbsnewsweblive.php
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",cbn family
-http://127.0.0.1:8081/cbn.php?id=5721815535001    
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",cbn news
-http://127.0.0.1:8081/cbn.php?id=5721888200001   
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",cbn spain
-http://127.0.0.1:8081/cbn.php?id=5721890224001   
+ 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國abc news now youtube
 http://127.0.0.1:8081/abcnewsnow.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國abc news
@@ -1453,15 +1446,6 @@ http://127.0.0.1:8081/youtube.php?v=vOTiJkg1voo
 http://127.0.0.1:8081/cnbcyoutube.php
 
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國NBC2
-http://127.0.0.1:8081/nbc2.php
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國NBC12
-http://127.0.0.1:8081/nbc12.php
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國NBC15
-http://127.0.0.1:8081/nbc15.php
-
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國NBC18
-http://127.0.0.1:8081/nbc18.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國NBC
 http://127.0.0.1:8081/nbcnews1.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國NBCyoutube
@@ -1497,9 +1481,6 @@ http://127.0.0.1:8081/news12.php
 http://127.0.0.1:8081/gbnews.php
 
 
-
-#EXTINF:-1   tvg-id="litv-ftv10"   tvg-name="aljazeera"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png"    group-title="youtube world news",半島電視英文臺Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1   tvg-id="litv-ftv10"   tvg-name="aljazeera"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png"    group-title="youtube world news",半島電視英文臺Al Jazeera English
 http://127.0.0.1:8081/aljazeeraenglish.php
 
@@ -1515,13 +1496,9 @@ http://127.0.0.1:8081/aljazeeraarabic.php
 
 
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png"    group-title="youtube world news",半島電視俄文臺Al Jazeera russia
-https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 
 #EXTINF:-1   tvg-id="4gtv-4gtv071"   tvg-name="DW"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png"    group-title="youtube world news",德國DW新聞英語臺DW News
 http://127.0.0.1:8081/dwenglish.php
-#EXTINF:-1   tvg-id="100195"   tvg-name="DW"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png"    group-title="youtube world news",德國DW德語臺DW Deutsch Livestream
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
 #EXTINF:-1   tvg-id="4gtv-4gtv071"   tvg-name="DW"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png"    group-title="youtube world news",德國DW西班牙臺
 http://127.0.0.1:8081/dwspain.php
 
@@ -1537,8 +1514,6 @@ http://127.0.0.1:8081/france24eng.php
 #EXTINF:-1   tvg-id="100197"   tvg-name=""    tvg-logo=""    group-title="youtube world news",法國24小時法語
 http://127.0.0.1:8081/france24.php
 
-#EXTINF:-1   tvg-id="100197"   tvg-name=""    tvg-logo=""    group-title="youtube world news",法國24小時法語
-http://127.0.0.1:8081/france.php
 
 
 #EXTINF:-1   tvg-id="100197"   tvg-name=""    tvg-logo=""    group-title="youtube world news",FRANCE24Español
@@ -1639,8 +1614,6 @@ http://127.0.0.1:8081/youtube.php?v=Ka4BElF4_3w
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",United Nations - LIVE
 http://127.0.0.1:8081/un.php
 
-#EXTINF:-1   tvg-id="100194"   tvg-name="ArirangTV"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png"    group-title="youtube world news",Arirang TV UN
-https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1   tvg-id="100194"   tvg-name="ArirangTV"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png"    group-title="youtube world news",Arirang KOREA
 https://amdlive-ch04-ctnd-com.akamaized.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
 
@@ -1759,19 +1732,16 @@ http://127.0.0.1:8081/cnbcarabic.php
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=23ceee092b8a3be5bfa1e7083d4d7fc6:d4e16961d7fc76f7eccb4cb72030123e
 http://127.0.0.1:8081/nowtvweb.php?id=331
-
 #EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="港澳臺",now新聞
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d935cd427bf63c86bd35e6db8c3f6a44:b3e9396760cf728cb2fd5883c84964aa
 http://127.0.0.1:8081/nowtvweb.php?id=332
-
 #EXTINF:-1 tvg-id="now財經" tvg-name="now財經" tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="港澳臺",now財經
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=166c6b602e9b3c65a96253e0c8cb8177:da00dda3d7b9ae3630243875f5b3885d
 http://127.0.0.1:8081/nowtvweb.php?id=333
-
 #EXTINF:-1 tvg-id="Now Sports Premier" tvg-name="Now Sports Premier" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-c.png" group-title="港澳臺",Now Sports Premier
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1780,28 +1750,24 @@ http://127.0.0.1:8081/nowtvweb.php?id=630
 
 #EXTINF:-1 tvg-id="now直播" tvg-name="now直播" tvg-logo="https://www.nowtv.now.com/media/logo/331-wbg-c.png" group-title="港澳臺",now直播
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=23ceee092b8a3be5bfa1e7083d4d7fc6:d4e16961d7fc76f7eccb4cb72030123e
+#KODIPROP:.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=23ceee092b8a3be5bfa1e7083d4d7fc6:d4e16961d7fc76f7eccb4cb72030123e     
 http://127.0.0.1:8081/nowtvweb.php?id=331
-
 #EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="港澳臺",now新聞
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dfd5e04695f33e78f19b3a80326bcda:f44e2bfdbe450b7a8c4f226b35f16bc1         
 http://127.0.0.1:8081/nowtvweb.php?id=332
-
 #EXTINF:-1 tvg-id="now財經" tvg-name="now財經" tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="港澳臺",now財經
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=166c6b602e9b3c65a96253e0c8cb8177:da00dda3d7b9ae3630243875f5b3885d
 http://127.0.0.1:8081/nowtvweb.php?id=333
-
 #EXTINF:-1 tvg-id="Now Sports Premier" tvg-name="Now Sports Premier" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-c.png" group-title="港澳臺",Now Sports Premier
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d0586b202d6318fa826a8d1bc09cc3b:0166e13f653ba1d66c43b277db0c1100 
 http://127.0.0.1:8081/nowtvweb.php?id=630
-
 #EXTINF:-1 tvg-id="HOY怪談臺" tvg-name="HOY怪談臺" tvg-logo="" group-title="港澳臺",HOY怪談臺
 https://edge.media.seaovers.live/856b503e276cc49197dd54aa8a0c740e/baselive/v2/TPLUZIFF.m3u8
 #EXTINF:-1 tvg-id="HOY劇集臺" tvg-name="HOY劇集臺" tvg-logo="" group-title="港澳臺",HOY劇集臺
@@ -4437,4 +4403,3 @@ https://securestream6.champds.com/hlssstc/YumaCoAZLIVE/master.m3u8
 https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8
 #EXTINF:-1      group-title="美國"    tvg-logo="https://i.imgur.com/ciTJrnl.png",Zoo Moo (1080p)
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-
