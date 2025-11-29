@@ -1852,7 +1852,7 @@ https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/mas
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bba574b22adb328fad3e0496157d4568:749d60e3e0c7bc24aeaa21c29c2ec854
+#KODIPROP:inputstream.adaptive.license_key=bba574b22adb328fad3e0496157d4568:85c32f42f52c3fb9cc5a8ef54088b4e9
 https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
 
 #EXTINF:-1 tvg-id="香港電臺32" tvg-name="香港電臺32" tvg-logo="" group-title="港澳臺",香港電臺32
