@@ -1824,7 +1824,7 @@ http://127.0.0.1:8081/hoytv.php?id=15
 
 #EXTINF:-1 tvg-id="香港電臺31" tvg-name="香港電臺31" tvg-logo="" group-title="港澳臺",香港電臺31test
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bba574b22adb328fad3e0496157d4568:85c32f42f52c3fb9cc5a8ef54088b4e9
 https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
