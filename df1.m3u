@@ -1822,6 +1822,12 @@ http://127.0.0.1:8081/hoytv.php?id=14
 #EXTINF:-1 tvg-id="Spot on news" tvg-name="Spot on news" tvg-logo="" group-title="港澳臺",Spot on news
 http://127.0.0.1:8081/hoytv.php?id=15
 
+#EXTINF:-1 tvg-id="香港電臺31" tvg-name="香港電臺31" tvg-logo="" group-title="港澳臺",香港電臺31
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bba574b22adb328fad3e0496157d4568:85c32f42f52c3fb9cc5a8ef54088b4e9
+https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
 
 #EXTINF:-1 tvg-id="香港電臺31" tvg-name="香港電臺31" tvg-logo="" group-title="港澳臺",香港電臺311
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
