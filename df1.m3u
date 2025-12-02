@@ -1207,8 +1207,7 @@ http://127.0.0.1:8081/shanghaieye1.php
 http://127.0.0.1:8081/taiwanplus.php
 #EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞"  tvg-logo=""    group-title="youtube world news",倪珍24小時英文新聞
 http://127.0.0.1:8081/nizhen24.php?id=2
-#EXTINF:-1 tvg-id="倪珍越南語新聞" tvg-name="倪珍越南語新聞" tvg-logo="" group-title="youtube world news",倪珍越南語新聞
-http://127.0.0.1:8081/nizhen24.php?id=4
+
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",talk7x24
 http://127.0.0.1:8081/talk7x24.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",AriseNewsChannel
@@ -1219,8 +1218,7 @@ http://127.0.0.1:8081/NatGeo.php
 http://127.0.0.1:8081/NatGeoWild.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",yahoofinace
 http://127.0.0.1:8081/yahoofinace.php
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",USATODAY
-http://127.0.0.1:8081/USATODAY.php
+
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",scrippsnews
 http://127.0.0.1:8081/scrippsnews.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",schwab
