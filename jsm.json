@@ -1,28 +1,7 @@
 {
     "spider": "./pg.jar",
     "sites": [    
-    {
-	"key":"独播资源",
-	"name":"独播资源(🔥)",
-	"type":0,
-	"api":"https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/xml",
-	"searchable":1,
-	"quickSearch":1,
-	"categories":[
-		"国产动漫","纪录片","国产剧","大陆综艺","电影","动作片","爱情片","喜剧片","科幻片","恐怖片","惊悚片","剧情片","战争片","香港剧","欧美剧","韩剧","泰国剧","日本剧","台湾剧","海外剧","连续剧","动漫电影","日本动漫","欧美动漫","海外动漫","动漫","短剧大全","重生民国","穿越现代","反转爽剧","言情总裁","现代都市","古装仙侠","悬疑烧脑","日韩综艺","港台综艺","欧美综艺","综艺片","篮球","足球","网球","斯诺克","体育赛事"
-	]
-	},
-	{
-	  "key": "py_DianYingTanTang",
-      "name": "🫐电影天堂(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=DianYingTanTang",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-
+ 
 		
 	  
     {
@@ -641,7 +620,29 @@
                 "ratio": 1.33
             },
             "changeable": 1
-        },        
+        },    
+		   {
+	"key":"独播资源",
+	"name":"独播资源(🔥)",
+	"type":0,
+	"api":"https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/xml",
+	"searchable":1,
+	"quickSearch":1,
+	"categories":[
+		"国产动漫","纪录片","国产剧","大陆综艺","电影","动作片","爱情片","喜剧片","科幻片","恐怖片","惊悚片","剧情片","战争片","香港剧","欧美剧","韩剧","泰国剧","日本剧","台湾剧","海外剧","连续剧","动漫电影","日本动漫","欧美动漫","海外动漫","动漫","短剧大全","重生民国","穿越现代","反转爽剧","言情总裁","现代都市","古装仙侠","悬疑烧脑","日韩综艺","港台综艺","欧美综艺","综艺片","篮球","足球","网球","斯诺克","体育赛事"
+	]
+	},
+	{
+	  "key": "py_DianYingTanTang",
+      "name": "🫐电影天堂(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=DianYingTanTang",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+
         {"key":"alllive","name":"📽️一直播┃直播","type":3,"api":"csp_AllliveGuard","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1750940281747/f0626.jpg","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSsGuard","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1750940281747/f0626.jpg","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"UC","name":"🌈优汐┃搜搜","type":3,"api":"csp_UuSsGuard","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1750940281747/f0626.jpg","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
