@@ -2702,14 +2702,7 @@
     "lives": [
 		
 	
-{
-            "name": "stream-link",
-            "ua": "okhttp/3.0",
-            "playerType": 2,
-            "url": "https://www.stream-link.org/playlist.m3u?token=5578ae80-6855-4ed6-93a0-cb1d7025808d&hmac=c11cf8756aa5106eda14aaf68305ea0d",
-            "epg": "https://content.stream-link.org/epg/5578ae80-6855-4ed6-93a0-cb1d7025808d/guide.xml",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-             },
+           
 
             {
             "name": "YouTubeLive每6小时自动抓取",
@@ -2863,7 +2856,14 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-       
+       {
+            "name": "stream-link限於香港",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "https://www.stream-link.org/playlist.m3u?token=5578ae80-6855-4ed6-93a0-cb1d7025808d&hmac=c11cf8756aa5106eda14aaf68305ea0d",
+            "epg": "https://content.stream-link.org/epg/5578ae80-6855-4ed6-93a0-cb1d7025808d/guide.xml",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+       },
       {
             "name": "斗魚直播直播",
             "type": 3,
