@@ -76,7 +76,7 @@ http://127.0.0.1:8081/btimeapp.php?id=bjwsuhd
 http://127.0.0.1:8081/shenzhen.php?id=szws4k
 #EXTINF:-1   tvg-id="山東衛視"   tvg-name="山東衛視"    tvg-logo=""    group-title="4K",山東衛視4K
 http://127.0.0.1:8081/shandong1.php?id=1
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="4K",love nature 4K
+#EXTINF:-1   tvg-id="LOVE NATURE有線"   tvg-name="LOVE NATURE有線"    tvg-logo=""    group-title="4K",love nature 4K
 
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
