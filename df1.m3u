@@ -1118,7 +1118,7 @@ http://127.0.0.1:8081/xintangrenasia.php
 
 #EXTINF:-1   tvg-id="公共電視臺"   tvg-name="公共電視臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png"    group-title="中文新聞",公共電視臺
 http://127.0.0.1:8081/gongshi13.php
-#EXTINF:-1   tvg-id="公視臺語臺"   tvg-name="公視臺語臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png"    group-title="中文新聞",公視臺語臺
+#EXTINF:-1   tvg-id="公視臺語臺HD"   tvg-name="公視臺語臺HD"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png"    group-title="中文新聞",公視臺語臺
 http://127.0.0.1:8081/gongshi14.php
 #EXTINF:-1   tvg-id="公視兒少臺HD"   tvg-name="公視兒少臺HD"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png"    group-title="中文新聞",小公視
 http://127.0.0.1:8081/gongshi15.php
