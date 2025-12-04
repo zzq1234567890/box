@@ -2402,7 +2402,7 @@ http://127.0.0.1:8081/ofiii.php?id=nnews-zh
 http://127.0.0.1:8081/ofiii.php?id=iNEWS
 #EXTINF:-1 tvg-id="寰宇財經臺" tvg-name="寰宇財經臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png" group-title="ofiii",寰宇財經臺
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv158
-#EXTINF:-1 tvg-id="臺視新聞" tvg-name="臺視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" group-title="ofiii",臺視新聞
+#EXTINF:-1 tvg-id="臺視新聞臺" tvg-name="臺視新聞臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" group-title="ofiii",臺視新聞
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv051
 #EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" group-title="ofiii",中視新聞
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv074
