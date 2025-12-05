@@ -341,7 +341,7 @@ http://127.0.0.1:8081/mymysuper.php?id=C18
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b778a3241e5fa3bb97d1cb9b57f9e09:3b1f318259fcf0dccd04742cd679fd25
 #EXTINF:-1 tvg-id="28AI智慧賽馬 (免費)" tvg-name="28AI智慧賽馬 (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1725457904756709_EVT1.png" group-title="mytvsuper",28AI智慧賽馬 (免費)
-http://127.0.0.1:8081/mymysuper.php?id=C28
+#http://127.0.0.1:8081/mymysuper.php?id=C28
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
@@ -351,7 +351,7 @@ http://127.0.0.1:8081/mymysuper.php?id=TVG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=980d5c8748c494a3c57902a3074e4ed4:76dcab6f98a0d8145b9d25c32fa341c4
 #EXTINF:-1 tvg-id="2025香港小姐競選---我最喜愛佳麗投票頻道" tvg-name="2025香港小姐競選 - 我最喜愛佳麗投票頻道" tvg-logo="https://assets.mytvsuper.com/channel/1651032648621471_TVG.png" group-title="mytvsuper",2025香港小姐競選 - 我最喜愛佳麗投票頻道
-http://127.0.0.1:8081/mymysuper.php?id=EV11
+#http://127.0.0.1:8081/mymysuper.php?id=EV11
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
@@ -501,7 +501,7 @@ http://127.0.0.1:8081/mymysuper.php?id=GLBT
 #EXTINF:-1 tvg-id="DocsVille (免費)" tvg-name="DocsVille (免費)" tvg-logo="" group-title="mytvsuper",DocsVille (免費)
 http://127.0.0.1:8081/mymysuper.php?id=DOCV
 
-#EXTINF:-1 tvg-id="Pulse Documentaries (免費)" tvg-name="Pulse Documentaries (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932190537668_DOCV.png" group-title="mytvsuper",Pulse Documentaries (免費)
+#EXTINF:-1 tvg-id="Wild Stuff (免費)" tvg-name="Wild Stuff (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932190537668_DOCV.png" group-title="mytvsuper",Wild Stuff (免費)
 http://127.0.0.1:8081/mymysuper.php?id=PULS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
