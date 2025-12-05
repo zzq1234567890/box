@@ -1,0 +1,43 @@
+#EXTM3U
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ca0aad404d5386acfbf6c71a9b967fc:8b79e1abb92cdc3615352bb25ef591dc
+#EXTINF:-1 tvg-logo="" group-title="porn-channels",DORCEL TV
+https://live-up.akamaized.net/public/dorceltv/dorceltv.isml/fullhd25shft.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbcf4ed999e09091bbaddfbb04648359:42ea0026365d8083787b81ebf86b4df6
+#EXTINF:-1 tvg-logo="" group-title="porn-channels",DORCEL XXXX
+https://live-up.akamaized.net/public/dorcelxxx/dorcelxxx.isml/fullhd25shft.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="" group-title="porn-channels",EROX2
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_premium.smil/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="" group-title="porn-channels",EROXXX
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_premium.smil/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="" group-title="porn-channels",HUSTLER
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:155_premium.smil//manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8ad1a944046fc5f5e20a2c60efa63d2:adb98638aae241aa585fd9815188744c
+#EXTINF:-1 tvg-logo="" group-title="porn-channels",PLAYBOY
+https://live-up.akamaized.net/public/playboytveurope/playboytveurope.isml/fullhd25shft.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="" group-title="porn-channels",REDLIGHT
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:157_HD.smil/manifest.mpd
+
