@@ -290,7 +290,7 @@ http://127.0.0.1:8081/mymysuper.php?id=SVAR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d
-#EXTINF:-1 tvg-id="SUPER EYT (免費)" tvg-name="SUPER EYT (免費)" tvg-logo="" group-title="mytvsuper",SUPER EYT (免費)
+#EXTINF:-1 tvg-id="SUPER EYT (免費)(12月22日6時起改為'觀眾票選-追劇馬拉松 (免費)'" tvg-name="SUPER EYT (免費)(12月22日6時起改為'觀眾票選-追劇馬拉松 (免費)'" tvg-logo="" group-title="mytvsuper",觀眾票選-追劇馬拉松 (免費)'
 http://127.0.0.1:8081/mymysuper.php?id=SEYT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
