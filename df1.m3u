@@ -12,19 +12,22 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 https://ottlive.dishhome.com.np/protected/iwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=tial Movies HD
+3144abd890c9482b924a8f64f71f5da9:01c27f7e51ff7f4a396ee9d951011077
 #EXTINF:-1 tvg-logo=" " group-title="telus测试",天映經典
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CELESTIALC)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=tial Movies HD
+3144abd890c9482b924a8f64f71f5da9:01c27f7e51ff7f4a396ee9d951011077
 #EXTINF:-1 tvg-logo=" " group-title="telus测试",天映
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CELESTIAL)/master.mpd
 
  #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=tial Movies HD
+3144abd890c9482b924a8f64f71f5da9:01c27f7e51ff7f4a396ee9d951011077
 #EXTINF:-1 tvg-logo=" " group-title="telus测试",三立國際
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(SETI)/master.mpd
 
