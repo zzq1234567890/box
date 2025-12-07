@@ -1913,6 +1913,8 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳臺",耀才財經臺2
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="港澳臺",亞洲衛視
+https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 #EXTINF:-1   tvg-id="蓮花衛視"   tvg-name="蓮花衛視"    tvg-logo="https://zh.wikipedia.org/wiki/%E6%BE%B3%E9%96%80%E8%93%AE%E8%8A%B1%E8%A1%9B%E8%A6%96#/media/File:Lotus_Macau.png"    group-title="港澳臺",蓮花衛視
 http://127.0.0.1:8081/lotustv1.php?id=lotustv
 #EXTINF:-1   tvg-id="澳視澳門"   tvg-name=""    tvg-logo=""    group-title="港澳臺",澳視澳門
