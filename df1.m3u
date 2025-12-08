@@ -1201,7 +1201,8 @@ http://127.0.0.1:8081/haitun.php
 http://127.0.0.1:8081/chengxin.php
 #EXTINF:-1   tvg-id="信大電視臺"    tvg-name="信大電視臺"     tvg-logo=""    group-title="中文新聞",信大電視臺
 http://127.0.0.1:8081/xinda.php
-
+#EXTINF:-1      tvg-logo="" tvg-id="""   tvg-name="""    group-title="youtube world news",cgtn俄語CGTN Discovering China
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 #EXTINF:-1      tvg-logo="" tvg-id=""cgtn俄語"   tvg-name=""cgtn俄語"    group-title="youtube world news",cgtn俄語
 http://127.0.0.1:8081/cgtnrussia.php
 
