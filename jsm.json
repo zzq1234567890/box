@@ -2701,9 +2701,26 @@
     ],
     "lives": [
 		
-	
-           
+      	{
+           "name": "starhub",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/AbidUrsa/StarHubPlaylist/refs/heads/main/StarHub.m3u",
+             "epg": "https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz",
+           ####"epg": " https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgdiyp.json",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+{
+           "name": "starhubsport",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/AbidUrsa/StarHubPlaylist/refs/heads/main/hubsports.m3u",
+             "epg": "https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz",
+           ####"epg": " https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgdiyp.json",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
 
+		
             {
             "name": "YouTubeLive每6小时自动抓取",
             "ua": "okhttp/3.0",
