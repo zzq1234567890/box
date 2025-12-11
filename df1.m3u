@@ -2294,7 +2294,7 @@ http://127.0.0.1:8081/litvapp.php?id=litv-longturn06
 http://127.0.0.1:8081/litvapp.php?id=litv-longturn07
 #EXTINF:-1   tvg-id="litv-longturn10"   tvg-name="博斯無限臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn10_pc.png"    group-title="litv",博斯無限臺
 http://127.0.0.1:8081/litvapp.php?id=litv-longturn10
-#EXTINF:-1   tvg-id="博斯網球"   tvg-name="博斯網球"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn09_pc.png"    group-title="litv",博斯網球臺
+#EXTINF:-1   tvg-id="博斯網球檯有線"   tvg-name="博斯網球檯有線"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn09_pc.png"    group-title="litv",博斯網球臺
 http://127.0.0.1:8081/litvapp.php?id=litv-longturn09
 #EXTINF:-1   tvg-id="litv-longturn08"   tvg-name="博斯運動二臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn08_pc.png"    group-title="litv",博斯運動二臺
 http://127.0.0.1:8081/litvapp.php?id=litv-longturn08
@@ -2352,7 +2352,7 @@ http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv064
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv080
 #EXTINF:-1   tvg-id="4gtv-4gtv039"   tvg-name="八大綜藝臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv039_mobile.png"    group-title="litv",八大綜藝臺
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv039
-#EXTINF:-1   tvg-id="litv-vchannel161"   tvg-name="年代MUCH綜藝臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel35_pc_20201019.png"    group-title="litv",年代MUCH綜藝臺
+#EXTINF:-1   tvg-id="年代MUCH TV"   tvg-name="年代MUCH TV"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel35_pc_20201019.png"    group-title="litv",年代MUCH綜藝臺
 http://127.0.0.1:8081/litvapp.php?id=litv-vchannel161
 #EXTINF:-1   tvg-id="4gtv-4gtv043"   tvg-name="客家電視臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv043_pc.png"    group-title="litv",客家電視臺
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv043
@@ -2376,7 +2376,7 @@ http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv101
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv014
 #EXTINF:-1   tvg-id="4gtv-4gtv053"   tvg-name="GINX Esports TV"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv053_pc.png"    group-title="litv",GINX Esports TV
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv053
-#EXTINF:-1   tvg-id="韓國娛樂臺KMTV"   tvg-name="韓國娛樂臺KMTV"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv016_pc.png"    group-title="litv",韓國娛樂臺KMTV
+#EXTINF:-1   tvg-id="韓國娛樂臺 KMTV"   tvg-name="韓國娛樂臺 KMTV"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv016_pc.png"    group-title="litv",韓國娛樂臺KMTV
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv016
 #EXTINF:-1   tvg-id="4gtv-4gtv082"   tvg-name="TRACE Urban"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv082_pc.png"    group-title="litv",TRACE Urban
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv082
@@ -2390,7 +2390,7 @@ http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv079
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv018
 #EXTINF:-1   tvg-id="litv-longturn20"   tvg-name="ELTV生活英語臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_pc.png"    group-title="litv",ELTV生活英語臺
 http://127.0.0.1:8081/litvapp.php?id=litv-longturn20
-#EXTINF:-1   tvg-id="靖洋卡通臺Nice Bingo"   tvg-name="靖洋卡通臺Nice Bingo"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv057_pc.png"    group-title="litv",靖洋卡通臺Nice Bingo
+#EXTINF:-1   tvg-id="靖洋卡通臺"   tvg-name="靖洋卡通臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv057_pc.png"    group-title="litv",靖洋卡通臺Nice Bingo
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv057
 #EXTINF:-1   tvg-id="4gtv-4gtv044"   tvg-name="靖天卡通臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv044_pc.png"    group-title="litv",靖天卡通臺
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv044
