@@ -1771,12 +1771,17 @@ http://127.0.0.1:8081/cnbcarabic.php
 #EXTINF:-1 tvg-id="now直播" tvg-name="now直播" tvg-logo="https://www.nowtv.now.com/media/logo/331-wbg-c.png" group-title="港澳臺",now直播
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=23ceee092b8a3be5bfa1e7083d4d7fc6:d4e16961d7fc76f7eccb4cb72030123e
+#KODIPROP:inputstream.adaptive.license_key=7c0e2ed7571a3565a5a6f5288004b127:6aa70f09e0388433079a6b3975d5bd09
 http://127.0.0.1:8081/nowtvweb.php?id=331
 #EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="港澳臺",now新聞
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d935cd427bf63c86bd35e6db8c3f6a44:b3e9396760cf728cb2fd5883c84964aa
+http://127.0.0.1:8081/nowtvweb.php?id=332
+#EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="港澳臺",now新聞
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5b908663a4c32b9b99df44cfa72468b:f297fab105ddfbe2b15275b44ef7c6c8
 http://127.0.0.1:8081/nowtvweb.php?id=332
 #EXTINF:-1 tvg-id="now財經" tvg-name="now財經" tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="港澳臺",now財經
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1792,7 +1797,7 @@ http://127.0.0.1:8081/nowtvweb.php?id=630
 #EXTINF:-1 tvg-id="now直播" tvg-name="now直播" tvg-logo="https://www.nowtv.now.com/media/logo/331-wbg-c.png" group-title="港澳臺",now直播
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=23ceee092b8a3be5bfa1e7083d4d7fc6:d4e16961d7fc76f7eccb4cb72030123e     
+#KODIPROP:inputstream.adaptive.license_key=7c0e2ed7571a3565a5a6f5288004b127:6aa70f09e0388433079a6b3975d5bd09     
 http://127.0.0.1:8081/nowtvweb.php?id=331
 #EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="港澳臺",now新聞
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
