@@ -1773,21 +1773,25 @@ http://127.0.0.1:8081/cnbcarabic.php
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c0e2ed7571a3565a5a6f5288004b127:6aa70f09e0388433079a6b3975d5bd09
 http://127.0.0.1:8081/nowtvweb.php?id=331
+
 #EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="港澳臺",now新聞
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d935cd427bf63c86bd35e6db8c3f6a44:b3e9396760cf728cb2fd5883c84964aa
 http://127.0.0.1:8081/nowtvweb.php?id=332
+
 #EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="港澳臺",now新聞
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5b908663a4c32b9b99df44cfa72468b:f297fab105ddfbe2b15275b44ef7c6c8
 http://127.0.0.1:8081/nowtvweb.php?id=332
+
 #EXTINF:-1 tvg-id="now財經" tvg-name="now財經" tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="港澳臺",now財經
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=166c6b602e9b3c65a96253e0c8cb8177:da00dda3d7b9ae3630243875f5b3885d
 http://127.0.0.1:8081/nowtvweb.php?id=333
+
 #EXTINF:-1 tvg-id="Now Sports Premier" tvg-name="Now Sports Premier" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-c.png" group-title="港澳臺",Now Sports Premier
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1799,21 +1803,25 @@ http://127.0.0.1:8081/nowtvweb.php?id=630
 #KODIPROP:.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c0e2ed7571a3565a5a6f5288004b127:6aa70f09e0388433079a6b3975d5bd09     
 http://127.0.0.1:8081/nowtvweb.php?id=331
+
 #EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="港澳臺",now新聞
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dfd5e04695f33e78f19b3a80326bcda:f44e2bfdbe450b7a8c4f226b35f16bc1         
 http://127.0.0.1:8081/nowtvweb.php?id=332
+
 #EXTINF:-1 tvg-id="now財經" tvg-name="now財經" tvg-logo="https://www.nowtv.now.com/media/logo/333-wbg-c.png" group-title="港澳臺",now財經
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=166c6b602e9b3c65a96253e0c8cb8177:da00dda3d7b9ae3630243875f5b3885d
 http://127.0.0.1:8081/nowtvweb.php?id=333
+
 #EXTINF:-1 tvg-id="Now Sports Premier" tvg-name="Now Sports Premier" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-c.png" group-title="港澳臺",Now Sports Premier
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d0586b202d6318fa826a8d1bc09cc3b:0166e13f653ba1d66c43b277db0c1100 
 http://127.0.0.1:8081/nowtvweb.php?id=630
+
 #EXTINF:-1 tvg-id="HOY怪談臺" tvg-name="HOY怪談臺" tvg-logo="" group-title="港澳臺",HOY怪談臺
 https://edge.media.seaovers.live/856b503e276cc49197dd54aa8a0c740e/baselive/v2/TPLUZIFF.m3u8
 #EXTINF:-1 tvg-id="HOY劇集臺" tvg-name="HOY劇集臺" tvg-logo="" group-title="港澳臺",HOY劇集臺
