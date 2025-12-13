@@ -24,22 +24,6 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CELESTIALC)
 #EXTINF:-1 tvg-logo=" " group-title="telus测试",天映
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CELESTIAL)/master.mpd
 
- #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3144abd890c9482b924a8f64f71f5da9:01c27f7e51ff7f4a396ee9d951011077
-#EXTINF:-1 tvg-logo=" " group-title="telus测试",tial Movies HD
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(SETI)/master.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7C8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
-#EXTINF:-1 tvg-logo=" " group-title="telus测试",tial Movies HD1
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd   
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7C8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
-#EXTINF:-1 tvg-logo=" " group-title="telus测试",tial Movies HD2
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd   
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
